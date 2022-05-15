@@ -1,0 +1,1627 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    As opposed to a cafeteria: null
+    I bet you're McDonald's fan.: null
+    I don't know if you tried: null
+    I'm sure you've seen some interesting developments in acoustics.: null
+    Not for the price?: null
+    Pancho's, that's,: null
+    Tha, th, they're the Spaghetti Warehouse type.: null
+    have you been to Applebee's.: null
+    it's filled with what, whip cream: null
+    off of Arapaho down there?: null
+    six thirtyfive?: null
+    you do eat out a lot.: null
+    you grew up in Orlando.: null
+    you like it?: null
+    you would have a little more trouble when you were looking for a dining area than what most: null
+  Dispreferred answers: !!set
+    I didn't, I didn't quite hear all of it.: null
+    We're a little sick of that .: null
+    presentation's not always all of it either.: null
+    we're past that now.: null
+  Statement-non-opinion: !!set
+    A lot of the restaurants you can get two pou, two one pound lobsters for like ten ninetynine.: null
+    All right, this is easy for me since I,: null
+    All, some of the restaurants here they will, l,: null
+    Also a great place that they have Cajun food is Copelands.: null
+    And stuff like that.: null
+    And, ate in a restaurant,: null
+    And, excellent food.: null
+    Another nice place for, for prime rib is Baby Doe's: null
+    Another real good one is, Rafael's down on McKinney Avenue.: null
+    Atlantic Cafe is down on, I believe it's on McKinney.: null
+    Baby Doe's is nice.: null
+    Because the ones that aren't so good don't, just don't make it.: null
+    Been on a real barbecue kick lately.: null
+    Before we moved to,: null
+    Bob pointed to it: null
+    Captain Pell's is a place with the big huge wooden tables inside,: null
+    Chili's, Chili's is always fine.: null
+    Chinese isn't my favorite: null
+    Colorado Springs.: null
+    Course it was just probably one of the worst days to go anyway.: null
+    D MAGAZINE said that.: null
+    Ethiopian, we've had Ethiopian. not in Plano of course .: null
+    Even though we don't have kids we've been married long enough to, be around not be around that.: null
+    Even though you have to stand in line and all of that, that's the only thing I don't like about it too: null
+    For us when we go out with the kids obviously we want to go somewhere that we can,: null
+    Good, good prices, good, good food there.: null
+    Hate to come away feeling uncomfortable .: null
+    He doesn't understand why somebody would go to a seafood place and eat either chicken or steak,: null
+    He feels more ethically about it.: null
+    He likes their milk shakes and their chili cheese: null
+    He loves to cook it: null
+    He'd probably just like to stay home.: null
+    He's gone during the week and likes to eat at home on the weekends,: null
+    Health food, restaurants that,: null
+    Here it's right under my nose if I can find it .: null
+    I always thought it would be hard to figure what to eat if you were a vegetarian.: null
+    I bought a house.: null
+    I bought a lot of, good cookbooks,: null
+    I can feel just the top of my scalp getting hot,: null
+    I can handle just about any kind of food without,: null
+    I can remember when our children were small.: null
+    I can't even imagine, trying to,: null
+    I can't look a McDonalds in the face now.: null
+    I can't really think of any other, places.: null
+    I can't remember his name.: null
+    I can't remember the name of it: null
+    I can't talk I had chocolate bavarian tort, for desert,: null
+    I can't think of it.: null
+    I changed for ethical reasons.: null
+    I couldn't consider going back to eating,: null
+    I definitely want to go to a place that's nice and clean,: null
+    I did, too.: null
+    I didn't care for it.: null
+    I didn't know they had that.: null
+    I didn't think my coughing would come back.: null
+    I didn't think we ate out very often .: null
+    I do a seafood bar, a raw, raw bar oysters and things like that,: null
+    I do about forty percent of my time is on the road.: null
+    I do, I do like Chinese buffets.: null
+    I don't care for the clowning around.: null
+    I don't care to go to a place just for the price of it .: null
+    I don't guess I've ever been to anything like that: null
+    I don't have to worry, really worry too much about price considerations because I,: null
+    I don't know how you feel about that: null
+    I don't know people who hunt: null
+    I don't know that place.: null
+    I don't know what it is.: null
+    I don't know what it was.: null
+    I don't know what other kind of restaurants: null
+    I don't know what they call it now,: null
+    I don't know where else it is.: null
+    I don't know why that is.: null
+    I don't like fast food hamburgers and all of that.: null
+    I don't like it at all usually: null
+    I don't like it real hot: null
+    I don't like something fake or put on either.: null
+    I don't like strange people coming to my door,: null
+    I don't like that place.: null
+    I don't like to, go to anything that's real expensive.: null
+    I don't particularly care for that sort of thing, just th, the type of food, just because I do like, getting a meal.: null
+    I don't remember the name of it,: null
+    I don't think I would chance it with my younger ones because they're just too much of a distraction: null
+    I don't think so.: null
+    I don't, I'm, know: null
+    I don't, we don't go there that much.: null
+    I eat a lot of meals out,: null
+    I eat differently than what I could eat at home or around here.: null
+    I eat it because it's so good.: null
+    I feel like it's a treat.: null
+    I find that lately that so many people are working, working waitressing jobs waiter,: null
+    I generally go to the quickie places just because they're cheap.: null
+    I go all the time.: null
+    I go to Canada and get quite a few restaurants up there.: null
+    I go with good intentions,: null
+    I got out of it again because: null
+    I gue, I guess we do go out without kids.: null
+    I guess I enjoy eating out, here and there,: null
+    I guess I like a variety of, a variety of restaurants.: null
+    I guess I'm getting old, older,: null
+    I guess because we don't go out that much,: null
+    I guess if we go to Dallas, into Dallas, we like, the Routh, is it Routh Street Cafe.: null
+    I guess it must be seasonal: null
+    I guess it's all one big game because you, you just never run out of places to go,: null
+    I guess it's in the winter season: null
+    I guess just in Plano, I, Plano I like to go to Souper Salads.: null
+    I guess one of the things we've, started avoiding is the, run of the mill chop suey and things like that.: null
+    I guess our time's about up,: null
+    I guess that's what they need for their machines to get everything down pat,: null
+    I guess there's so much competition that they, really have to be good.: null
+    I guess we'll have to do it.: null
+    I guess, it's, whether you call it Southwestern: null
+    I guess, some of the foods that we really enjoy though are the, Chinese,: null
+    I guess, this is a, a topic near and dear to my heart,: null
+    I ha, I had not tried that.: null
+    I had a condo in Oakland,: null
+    I had a friend who was taken to Lawry's downtown: null
+    I had a meeting down there today: null
+    I had a pretty good meal of grilled pork chops and a baked apple and potatoes.: null
+    I had never had saki.: null
+    I had one that was a favorite for a long time,: null
+    I hate franchised restaurants.: null
+    I hate these places.: null
+    I have a twelve year old that would eat a happy meal every night,: null
+    I have a twentyone year old daughter in college there: null
+    I have eaten there.: null
+    I have gotten to quite a few.: null
+    I have in the past.: null
+    I have my house,: null
+    I have my twelve year old in school: null
+    I have not been over there: null
+    I have one child: null
+    I have to share it with her.: null
+    I haven't been back there in years.: null
+    I haven't been in there.: null
+    I haven't been there befo,: null
+    I haven't been.: null
+    I haven't done recently,: null
+    I haven't eaten there.: null
+    I haven't either,: null
+    I haven't gotten over that from the north.: null
+    I haven't, my husband had been in there several times: null
+    I hear at night though they have, the outdoor, bar,: null
+    I just had a baby,: null
+    I just like a nice, quiet, nice atmosphere: null
+    I just like to go in there and have a nice Chinese: null
+    I just, I just, I've been in some places where they say they take children,: null
+    I keep hearing about it.: null
+    I keep hearing the advertisements of it: null
+    I kind of stay a,: null
+    I know California pretty well.: null
+    I know I always overeat no matter.: null
+    I know it's just down the street.: null
+    I know right away what we, what we want.: null
+    I know the places,: null
+    I know they say that,: null
+    I know what you mean.: null
+    I know where that,: null
+    I know which one it is,: null
+    I know, I, I know that I, I just work: null
+    I like Chinese food.: null
+    I like Japanese food.: null
+    I like Tia's better than I do El Chico's or El Fenix.: null
+    I like a good Italian restaurant: null
+    I like barbecue okay, Texas barbecue.: null
+    I like because they, they're, even if they're crowded, they're fast service,: null
+    I like breakfast out.: null
+    I like dining out.: null
+    I like good food.: null
+    I like it better than just about anything: null
+    I like it hot,: null
+    I like it real well.: null
+    I like reasonable prices of course, too.: null
+    I like some ambiance,: null
+    I like that.: null
+    I like the IHOP there in Plano.: null
+    I like the food,: null
+    I like the light meals.: null
+    I like the,: null
+    ? I like those too, because, some, seems like sometimes it's, you order a meal,
+      you order their dinner meal, and it's like they're trying to find out how much
+      you can eat.
+    : null
+    I like to get that,: null
+    I like to sit down and have my, order taken.: null
+    I like to, good food and good service.: null
+    I like your, up there in Plano, that, Country Steak House.: null
+    I like, I make a, a wicked chili: null
+    I live here in, Rome, New York,: null
+    I look for just about anything,: null
+    I look for service even at the quickie places: null
+    I love Italian food,: null
+    I love Mexican food myself.: null
+    I love fresh berries.: null
+    I love it .: null
+    I love seafood,: null
+    I love that,: null
+    I love the food I love the food,: null
+    I love the food.: null
+    I love, I love seafood: null
+    I loved them both.: null
+    I make it a habit of always going out to Pasta Oggi's which is right down there in Ad,: null
+    I must admit, sometimes I do like a buffet.: null
+    I need an excuse .: null
+    I never been really fond of that stuff.: null
+    I never really thought about that,: null
+    I notice they have the, The Louisiana Purchase,: null
+    I really do,: null
+    I really do.: null
+    I really don't like the drivethrus that much.: null
+    I really don't miss: null
+    I really got into that habit for a while,: null
+    I really like Copelands.: null
+    I really miss them.: null
+    I remember when we went ,: null
+    I said I'm.: null
+    I said if they would just add a little bit of cranberry sauce, something like that .: null
+    I said what's that .: null
+    I said, gee I remember that they offer you, authentic Japanese feeding,: null
+    I said, no,: null
+    I shouldn't say this on this conversation,: null
+    I think everything except breakfast was seafood for almost a week.: null
+    I think he's going to move because I'm the person with more to lose here.: null
+    I think if you like food like we do,: null
+    I think it all began eating out when we had, the boys in, in different, baseball: null
+    I think it was paper where you could write on them, or something with crayons: null
+    I think it will be worth it: null
+    I think it's as much the, the trip to the mountains as it is the breakfast brunch. {D: null
+    I think it's by someone named Chang.: null
+    I think it's just your,: null
+    I think it's probably due to pricing, often.: null
+    I think it's, probably listed in the restaurants,: null
+    I think that as far as quality of food goes the m, some of the most expensive places I've been: null
+    I think that they just tend to make you, you say, I've have got all I can eat: null
+    I think that's a waste of my money.: null
+    I think the cheapest there probably starts at eighteen,: null
+    I think the main thing that I look for is, cleanliness, the, in the appearance of the people that work there.: null
+    I think they have one of the best services that, that we really like it.: null
+    I think they're wonderful.: null
+    I think we're supposed to say what will bring us back to a restaurant or, or what attracts us to a restaurant.: null
+    I thought I would really miss that.: null
+    I thought sometimes they say,: null
+    I thought, this really is good.: null
+    I try to get my money's worth.: null
+    I try to get one that's nice and clean: null
+    I used to be a complete vegan vegetarian,: null
+    I used to go there when I was in college.: null
+    I wa, was really a seafood addict myself.: null
+    I was going to say because with six people how do you,: null
+    I was going to this place up the street from me is the best I've ever had,: null
+    I was going to,: null
+    I was home a few years ago: null
+    I was like a man starving at every meal.: null
+    I was like, I'm not eating in there .: null
+    I was raised in,: null
+    I was really amazed,: null
+    I was shocked,: null
+    I was thinking,: null
+    I was thinking, it's supposed to be a family place over near Plano Super Bowl.: null
+    I went out a lot with her.: null
+    I went there recently,: null
+    I went to one I think in Ohio or, or, or somewhere up there,: null
+    I went to the Naval Academy.: null
+    I went with a friend,: null
+    I wish I could make them here at home.: null
+    I wish I could talk to you about that,: null
+    I work in machine shop and do a lot of physical labor.: null
+    I would much rather go out to eat than T V dinners .: null
+    I would probably like that.: null
+    I would say service, atmosphere, and whether the food is good,: null
+    I'd have to go back through some expense reports.: null
+    I'd like to get ahold of some engineers and knock their heads together if it would do any good.: null
+    I'd, I had heard that, too.: null
+    I'll just go with you first.: null
+    I'll just make one comment that, I just retired from Penn State,: null
+    I'll order steak or steak and lobster combined: null
+    I'm a divorced woman.: null
+    I'm also married: null
+    I'm always hungry after a French meal,: null
+    I'm an officer in the Air Force and travel quite a bit on business: null
+    I'm from the Dayton area.: null
+    I'm glad I'm talking about food normally these conversations are ,: null
+    I'm in Texas.: null
+    I'm in upstate New York,: null
+    I'm just kidding.: null
+    I'm just not impressed with the quality of it.: null
+    I'm just tired when I get home: null
+    I'm kidding you.: null
+    I'm not a I'm Mexican food gourmet by any means: null
+    I'm not fond of some of those things: null
+    I'm not into sushi or any of that kind of stuff.: null
+    I'm not into the, the, don't do the, the raw, raw fish like that,: null
+    I'm not one that's going to fix, the meal at two o'clock in the afternoon so they can eat it all day whenever: null
+    I'm not sure what you're talking about.: null
+    I'm originally from Maine,: null
+    I'm pretty adventurous in cooking, too, which also occasionally backfires.: null
+    I'm serious.: null
+    I'm sure there isn't.: null
+    I'm surprised.: null
+    I'm what you might call a culinary adventurer.: null
+    I'm, I'm real curious to try this one that has such commercials. The that Del Lincoln: null
+    I'm, I'm writing it down .: null
+    I've been a vegetarian for, two years now.: null
+    I've been eating at home all week long with the kids and would like to go out somewhere,: null
+    I've been following through on that.: null
+    I've been there.: null
+    I've been to some that's been terrible.: null
+    I've got to go to Maine then .: null
+    I've had excellent food there.: null
+    I've heard about it,: null
+    I've heard about it.: null
+    I've heard about that, too: null
+    I've heard it's real good.: null
+    I've heard of it.: null
+    I've heard of that: null
+    I've heard that's real good,: null
+    I've heard that's really good, too,: null
+    I've just seen where the wait attendance the wait staff is rude,: null
+    I've lived out in California for a long, long time.: null
+    I've nev, I've, I've been there for like, lunch: null
+    I've never been there for dinner.: null
+    I've never been to Italy,: null
+    I've never been to that one here.: null
+    I've never had anything there that wasn't delicious.: null
+    I've never had catfish either in a restaurant because I'm from the north: null
+    I've only been there for lunch,: null
+    I've se, I think I've seen it around.: null
+    I've seen it.: null
+    I've, I've never been there: null
+    I've, I've not been there.: null
+    I, I do a lot of Chinese cooking myself.: null
+    I, I do a lot of cooking: null
+    I, I don't know if that happened before or after we moved here: null
+    I, I don't know what they say about Chinese,: null
+    I, I don't know what's, what's down there,: null
+    I, I enjoyed the food: null
+    I, I grew up in Panama City.: null
+    I, I have children and, and work,: null
+    I, I just don't feel like cooking.: null
+    I, I know the locations,: null
+    I, I like Continental stuff, myself.: null
+    I, I like a lot of different ethnic foods.: null
+    I, I like different kinds of food.: null
+    I, I like to go and eat there.: null
+    I, I like to go out to eat,: null
+    I, I like to go sometimes without them: null
+    I, I love crab meat in particular.: null
+    I, I prefer to be waited on too.: null
+    I, I really choose restaurants more for the quality of food than anything else.: null
+    I, I really don't like that stuff: null
+    I, I really like eating there: null
+    I, I really like that too,: null
+    I, I think Italian and Mexican food are probably my favorites.: null
+    I, I try to be as well,: null
+    I, I won't really be interested in going to, in going there.: null
+    I, I'm so sick of McDonalds,: null
+    I, I've been to Cafe Pacific.: null
+    I, I, I always prefer to go to something that seems more family run.: null
+    I, enjoy the Szechuan type of, Chinese food.: null
+    I, especially, in Wisconsin and Michigan they say, no, buying of our fish.: null
+    I, find myself down in Melbourne, Florida about once, once a month, once every two months or so: null
+    I, it was around ten dollars for lunch. Okay,: null
+    I, lot of times I don't remember the names.: null
+    I, we don't go out too often as a family, unless it's a fastfood kind of thing.: null
+    I, we just went to an Italian restaurant this,: null
+    I, we like, for the cajun, the spicy, we like Atchafalaya's out on Belt Line, in Addison: null
+    I, we love to eat out,: null
+    I, we've been there twice both times I, just, the food just didn't quite settle with me: null
+    I, when I went, I thought,: null
+    If you like Mexican stuff. It's, it's a good place.: null
+    If you like it kind of hot, that: null
+    Isabelle Chang.: null
+    It had a fireplace.: null
+    It just, we've, we've taken people there several times: null
+    It made all raw fish tastes great .: null
+    It said there was always a line.: null
+    It should be.: null
+    It was a marinated, broiled chicken breast: null
+    It was beautiful .: null
+    It was fun.: null
+    It was over in Addison.: null
+    It was really good.: null
+    It was really, really relatively simple: null
+    It was wonderful: null
+    It was wonderful.: null
+    It was, it was raspberries: null
+    It's F, S it's S F U Z I.: null
+    It's Highland Park Village.: null
+    It's a great place.: null
+    It's a local Mexican restaurant.: null
+    It's a lot of cajun food and: null
+    It's a, it's a Mexican restaurant off of Central.: null
+    It's about ten miles: null
+    It's all vegetarian,: null
+    It's basically the same thing, seafood: null
+    It's called Cafe Max: null
+    It's called Lawry's, like Lawry's seasoning salt: null
+    It's called Uncle Julio's.: null
+    ? It's close enough if I wanted to go there, to San Francisco for dinner or something,
+      why, an hour and fifteen minutes we could be there and
+    : null
+    It's just primarily the price that's, satisfying at this point.: null
+    It's like shrimp on the Gulf.: null
+    It's not the, the rinky Chinese decorations: null
+    It's real entertaining for her.: null
+    It's the best I have ever had.: null
+    It's thirty miles.: null
+    It's usually when we're out of town: null
+    It's wonderful.: null
+    It's, it's a Hari Krishna run restaurant.: null
+    It's, it's, it's very good.: null
+    It's, on, on Walnut and Greenville.: null
+    It's, over, there's one over there in Addison.: null
+    It, it's not my favorite: null
+    Italian is fine.: null
+    Just can't make those flour tortillas.: null
+    Kalachandji's.: null
+    Kind of, buffet style,: null
+    L I T E, things that aren't as heavy a meal.: null
+    Linda had told me they had the best mushroom soup: null
+    Lots of little restaurants, too, with home cooked food, that's up there.: null
+    Lots of shrimp.: null
+    ? M, m, m, my sister, who also lives here in Dallas, tends to, chat with waiters
+      and waitresses and become their best friends during the course of dinner, which
+      drives me absolutely batty.
+    : null
+    Maryland is, a big place for crabs with the, with the bay pretty much taking over most of Maryland.: null
+    Maxwell's nice,: null
+    McDonald's is definitely at the top of her list,: null
+    McDonald's, we've sort of been off of that for a while: null
+    Mexican restaurants where it's not owned by an Anglo or a corporation.: null
+    Mostly it's been at lunch time: null
+    Mother Mesquite's is one of our favorites: null
+    My dad worked for Arby's for several years.: null
+    My dad worked there for years, and years.: null
+    My husband has been one for, just over a year now.: null
+    My husband likes, Dairy Queens.: null
+    My husband particularly likes that.: null
+    My husband was saying that up north they have such nice restaurants where you can go after a theater or after the movie.: null
+    My soninlaw is a Texan,: null
+    My wife doesn't necessary like that stuff,: null
+    My, generally my, my scalp will start,: null
+    Never heard of that place.: null
+    No fresh, or almost no fresh seafood: null
+    Northern Telecom kind of moved over in their own building.: null
+    Not all restaurants have light meals on their menu,: null
+    Not there, but at my brothers I tried it.: null
+    Now the only problem, *note the setup for a negative comment: null
+    Now there's one restaurant that does that: null
+    Of course, it means that I don't have to cook.: null
+    On the way across Louisiana, we pulled off, we saw a billboard and just pulled off taking a chance on a place.: null
+    One I guess I'd say is with my wife where we enjoy,: null
+    One of our favorite places here in, in the Dallas area is Atlantic Cafe.: null
+    One of our other real problems with going out to eat, Sunday morning brunches.: null
+    One of th, th, this book I have is called CHINESE COOKING MADE EASY.: null
+    One or two times in my life I've ever had venison, I've loved it.: null
+    ? One thing about D C is that there are a lot of traditional restaurants where,
+      it's, the guy used to be the cook for the Capitol
+    : null
+    Razzoo's has opened up down, off of, close to six thirtyfive.: null
+    See I don't like Arby's.: null
+    She always lived here in the south,: null
+    Some of the, some of the best food I have ever had was out of a, outside inside of a place that we drove up: null
+    Sometimes I think we pay the babysitter as much as paying for their dinner: null
+    Sometimes it's really nice to be able to go out and eat with just my husband: null
+    Sunday brunch, all, all you can eat brunches.: null
+    Sunday we went there,: null
+    Taco Bell .: null
+    Texas to me makes: null
+    Th, now that's down in, Highland Park.: null
+    Tha, that's one of the things, a good pasta means a lot to me.: null
+    That he looks at the things that he eats: null
+    That should get you close enough to, to be able to find it.: null
+    That was nice .: null
+    That was the best shrimp I have ever had in my life.: null
+    That's a good Mexican place.: null
+    That's a good place: null
+    That's a good seafood place.: null
+    That's always, that's always a concern, but just a nice quiet easy place: null
+    That's as cheap as steaks some places: null
+    That's at Skillman and L B J: null
+    That's in Addison, off of Belt Line.: null
+    That's one of my husband's pet peeves.: null
+    That's one thing that I wish we had more of,: null
+    That's our favorite.: null
+    That's real good,: null
+    That's too bad,: null
+    That's wh, that's, that's where I grew up was down in Orlando.: null
+    That's what I've heard, yeah.: null
+    That's where we go to get steaks: null
+    That's, a steak is something that I cook at home.: null
+    That's, that's interesting, I was in submarines.: null
+    That's, that's supposed to be a wonderful place.: null
+    That, that was one of my favorite foods, was, was a, a, was a good steak or a hamburger.: null
+    The end of last month.: null
+    The last time we went to Cafe Pacific, it was Father's Day,: null
+    ? The one thing I notice is it's just, about dining out that you probably can
+      relate to with four children and two of us getting ready to adopt, we find prohibited,
+    : null
+    The only thing is you have to wait.: null
+    The restaurants down here seem like they have,: null
+    The service is great.: null
+    There's a place on Greenville called .: null
+    There's a, a restaurant in, right outside of Reading, Pennsylvania,: null
+    There's a, there's a second one downtown,: null
+    There's an Italian restaurant over, over by the mall, over by, Plano Parkway there,: null
+    They are good.: null
+    They do list, list the fat,: null
+    They do what they call a salad sampler which easily could feed two or three.: null
+    They don't take reservations,: null
+    They had a great desert bar.: null
+    They had entertainment sometimes: null
+    They had shrimp fixed probably six different ways.: null
+    They have every kind of fish that you could imagine you'd want: null
+    They have the most wonderful salads.: null
+    They laughed: null
+    They like to go pretty much where we like to go: null
+    They might have another one,: null
+    They often do ratings of restaurants,: null
+    They were floating around: null
+    They're both very good.: null
+    They're not very,: null
+    They're really a nice place you could take someone to eat.: null
+    They've got one in Addison too, now,: null
+    They, they, they're just spoiled rotten,: null
+    This is going to give me: null
+    This is, that's real funny you said that because we were coming back Sunday on Central from church: null
+    Tia's is probably our favorite, restaurant there,: null
+    Underwater acoustics.: null
+    Usually they, they take your change and throw you a couple of mints in your hand and say thanks,: null
+    Very, low key in terms of the people are from California,: null
+    Vienna is a suburb of D C also in Virginia: null
+    Vietnamese restaurant we went to, last week. It's great,: null
+    W, here in Plano, we tend to go to Momo's a, l, fairly often.: null
+    We do eat, eggs and, and milk products.: null
+    We do the same thing.: null
+    We do the same.: null
+    We do, we're ovolacto.: null
+    We don't usually take the kids when we go there,: null
+    We eat at Shoney's.: null
+    We fought with them for fortyfive minutes.: null
+    We go into Dallas,: null
+    We go to Grandy's quite a bit I would say.: null
+    We go wh, more for the, Chinese: null
+    We go, very, very often we go out for fajitas.: null
+    We got this Premier Dining Card thing,: null
+    We got, we got three kids, too,: null
+    We have found, a number of restaurants either through D and the,: null
+    We have one called Chi Chi's in th, in our area.: null
+    We have two, two very special places in Northern Virginia that people go to.: null
+    We like Chinese.: null
+    We like it because it's fairly reasonable: null
+    We like, seafood, also,: null
+    We like, we do like international food,: null
+    We lived in the Chicago area at the time,: null
+    We sort of take turns.: null
+    We think it's good.: null
+    We tried a Bennigan's one time,: null
+    We try to get out maybe once every month and a half or: null
+    We used to do that, once in a while,: null
+    We used to live in Oakland,: null
+    We usually don't go for beef really anymore.: null
+    We went there on my birthday in March it's great.: null
+    We went to Gal,: null
+    We were in Galveston last year aft, right aft, the first of this year, actually.: null
+    We're almost in Dallas.: null
+    We're just north of Dallas.: null
+    We're usually picking things up quickly,: null
+    We're, we're retired now.: null
+    We've been to, Chefalia's.: null
+    We've got a good Chinese restaurant in town.: null
+    We've tried different ones when they've had them as one of the: null
+    We've, I guess we eat out even less than I realize .: null
+    We've, just recently discovered a super restaurant down here: null
+    We, I guess we, we use the coupons, too.: null
+    We, we enjoy Mexican food.: null
+    We, we tend to eat at home.: null
+    We, we waited almost fortyfive minutes before everything was brought out,: null
+    What I miss up here is, I'm originally a Texan, and I miss home cooked Mexican.: null
+    What the quality,: null
+    When a new restaurant opens up, they usually send out coupons.: null
+    When we do go out, in a way it's like a little mini vacation I guess,: null
+    When we travel we look for Wendy's because we have kids,: null
+    When we working out we ate out more than that .: null
+    Where, where it's made,: null
+    Wyatt's Cafeteria.: null
+    You can get as dressed up or, a, just going to the local barbecue and just doing take out.: null
+    You can usually get a variety of what you're looking for,: null
+    You do feel like you've gone out, and done something,: null
+    You have to be careful if you go to a, a restaurant that,: null
+    You have, you have to expect to wait at least an hour.: null
+    ? You know they have, women there going to S M U, going to, Southern Methodist
+      University and, and graduating in opera or something like that
+    : null
+    You know what, we read, we read the, D MAGAZINE: null
+    You know, } it's not that far.: null
+    You may have sold a trip for some time.: null
+    You pay totally on the honor system.: null
+    You should fee, have a treat.: null
+    You talk about spicy,: null
+    You're full,: null
+    a good turn over would be sort of nice.: null
+    a lot of places that even don't look, don't look like much.: null
+    a lot of times we do eat where we know.: null
+    a lot of, one place that we went just recently: null
+    a shrimp it's a shrimp dish,: null
+    a, as long as you know that , it's okay.: null
+    actually it's very easy for me, because I, I have a prac, make it a practice when I am out,: null
+    actually the, the Steak And Ale out here,: null
+    actually there's the Atlantic Cafe and Cafe Pacific, and,: null
+    actually, I think we, we, we get a ha, we have a healthier diet than the average person.: null
+    all my work has been in research for the Navy .: null
+    also I like to be served.: null
+    and just for color if nothing else.: null
+    and just things, any, any eating area that you just don't have to wait an extreme amount of time.: null
+    and things like, Souper Salads,: null
+    around here the big spicy thing is buffalo wings: null
+    around, I think it's a little past it's right before Midway, it's: null
+    as far as missing living there, no.: null
+    ? as out here you might have enjoyed the meal and go away feeling satisfied, it's
+      not so much a, an event, out in the suburbs when you go to a local restaurant.
+    : null
+    at least it's fruit and stuff there .: null
+    at least once a week.: null
+    back on the Italian, we went to some place across from Collin Creek Mall that absolutely putrid for Italian food.: null
+    basically Mexican food.: null
+    because they have got a good rate on, good prices and everything.: null
+    being from Dallas, I think we have an average of six or seven restaurants that open and close every we, month: null
+    believe you me it wasn't easy to give up ,: null
+    besides, because y, chicken and: null
+    cause with two we have a problem,: null
+    don't have to wait forever for a table.: null
+    down in the Gulf I've eaten a bunch of those little seafood shacks, we've called them.: null
+    down near the Highway Twelve area, is Gershwin's,: null
+    ? during the week they often have, a, a limited menu choice but, very reasonable
+      complete dinners for six ninetynine that included
+    : null
+    either one of those two, you go through a hundred bucks without half trying,: null
+    especially like good prime rib: null
+    ? everybody, every child that I even know that eats vegetables, looked five years
+      old still after a certain age realized that there is something called a McDonald's.
+    : null
+    except that this makes me fat.: null
+    fish, for one of the best fish restaurants in town is either Vincent's: null
+    five of them, they're good,: null
+    for dessert we thought we had just stuffed ourselves .: null
+    for instance, we, we had a Scout dinner last night we went to.: null
+    for some reason the cooler weather makes me tend to want to go eat lasagna and garlic bread .: null
+    fruit and vegetables: null
+    he likes it kind of: null
+    he realizes what they are: null
+    he said, "I keep hearing good things about that place,: null
+    he says free ice cream .: null
+    he stays in the same restaurant for twenty years,: null
+    he went down and bought some at a: null
+    he'll just eat chips until we've got three or four baskets coming back.: null
+    he's a fan of, of Dairy Queen,: null
+    he's got a big clientele: null
+    he's grown up.: null
+    he, he in the beginning, began for health reasons.: null
+    her coach is in California.: null
+    here a couple years ago my wife and I went to Seattle on vacation.: null
+    here they have to entertain us to make us come back.: null
+    here, basically, you go to an Italian restaurant or you go to a Mexican restaurant,: null
+    i, I'm originally from Connecticut: null
+    if I could have a good small restaurant or a good large restaurant I'd go to the good small restaurant.: null
+    if I have a coupon we can go there: null
+    if not we can't, because it's cheaper: null
+    if we really want to, something different we go to Modesto: null
+    if you go out to dinner, there's virtually, there's not a whole lot of things you can get.: null
+    if you're looking for a very,: null
+    in Texas we got it from the Gulf.: null
+    ? in fact if I could pick my, restaurants on how their coffee is and how their
+      french bread is and the butter and the desert I would be,
+    : null
+    in fact, we do a lot more entertaining I think at home than we do going out.: null
+    in fact, you're about the third or fourth person in the last month that said that.: null
+    in spite of the fact I've spoken so badly about chains, chain restaurants, we, do like Shoney's pretty well,: null
+    in the Addison, about everything that you could want in Dallas is in the Addison area, anyway.: null
+    it always kills me cause I don't like the, the decorations so much: null
+    it changed hands and doubled the prices: null
+    it doesn't really matter to him.: null
+    it finally went out of business.: null
+    it goes up into Colorado and down here.: null
+    it had strawberries, kiwis, and raspberries: null
+    it had white tablecloth,: null
+    it includes, salad and rolls and, some other stuff,: null
+    it is delicious.: null
+    it is fab, fantastic.: null
+    it is wonderful.: null
+    it is, it's a whole experience.: null
+    it just, it just varies,: null
+    it really is a treat,: null
+    it starts with a K.: null
+    it used to be a Northern Telecom Building in the ba, in the ground floor.: null
+    it was a small restaurant, just kind of out of the way,: null
+    it was exce,: null
+    it was excellent.: null
+    it was good,: null
+    it was good.: null
+    it was just terrible.: null
+    it was mainly baseball teams: null
+    it was outstanding.: null
+    it was plenty because it was very rich: null
+    it was really nice.: null
+    it was terrible.: null
+    it was the m, it was the most wonderful food.: null
+    it was wonderful.: null
+    it was, it's really difficult in the area if you don't have, the products that you can get.: null
+    it was, we were ready: null
+    it wouldn't even really matter which restaurant it was, just to, have a moment of peace and quiet without: null
+    it's , it's all the garlic bread and all the,: null
+    it's Cajun type stuff.: null
+    it's a Chinese,: null
+    it's a good restaurant.: null
+    it's a great place.: null
+    it's a little bit with th, the meat market atmosphere,: null
+    it's a paperback: null
+    it's a very elegant nice place to eat.: null
+    it's actually very inexpensive,: null
+    it's all chocolate, made like a paper bag: null
+    it's almost a hobby with us.: null
+    it's already in front of them when you sit down,: null
+    it's already prepared: null
+    it's at Plano Road and Campbell.: null
+    it's been a long time since we've been in there: null
+    it's called Rodolfo's: null
+    it's either T V dinners at home or we go out to eat.: null
+    it's foggy and cold here.: null
+    it's gone .: null
+    it's good stuff,: null
+    it's great,: null
+    it's hysterical.: null
+    it's in the lower floor,: null
+    it's in the strip, yeah,: null
+    it's just an individually owned seafood restaurant.: null
+    it's just my husband and I,: null
+    it's just on my mind,: null
+    it's just so much different than to eat something that's been frozen.: null
+    it's just so much food .: null
+    it's just this big beautiful Italian restaurant.: null
+    it's just, it closed recently.: null
+    it's kind of funny is sometimes we're we all want different things,: null
+    it's like being in It,: null
+    it's like continental French restaurant or something really: null
+    it's like, I can't go anywhere where I: null
+    it's not a cheap place,: null
+    it's on Campbell. It, it's north of Campbell, but, off Central,: null
+    it's on the honor system.: null
+    it's on, Parker and Central Expressway: null
+    it's on, it's in Addison,: null
+    it's one of these situations where nobody's going to restrain what you eat,: null
+    it's pressed.: null
+    it's probably the best tasting,: null
+    it's real good Mexican food.: null
+    it's really a nice restaurant: null
+    it's really good.: null
+    it's really not in town.: null
+    it's rolled up into, into something,: null
+    it's so hot.: null
+    it's some famous steak place over in Addison.: null
+    it's supposed to be good for you.: null
+    it's supposed to be very similar to,: null
+    it's the fastest thing to do,: null
+    it's too much,: null
+    it's very expensive.: null
+    it's very nice.: null
+    it's very pretty inside,: null
+    it's where Skillman, curves into Forest Lane: null
+    it's wonderful, particularly if you have more than two people and you've got say four or something like that.: null
+    it's worth the wait.: null
+    it's, it was a wonderful, wonderful experience.: null
+    it's, it's a chain down he,: null
+    it's, it's a good change and, a good change from cooking and eating at home: null
+    it's, it's buffet,: null
+    it's, it's just fabulous food.: null
+    it's, it's really great.: null
+    it's, it's sort of like Hollywood in a way because there's, there's favorite haunts for Southerners and things like that.: null
+    it's, it's, it's a lot of fun.: null
+    it's, not part of a chain: null
+    it's, so it's very, very mixed: null
+    it, it was just fabulous.: null
+    ? it, it's a big, tall, it's the tallest building on the west side, northwest
+      side of Campbell and, just before you get to Campbell
+    : null
+    just at home.: null
+    just wonderful: null
+    just, it's just not,: null
+    last weekend we went out for Italian also,: null
+    let me see, for New Year's we went to eat at Uncle Julio's.: null
+    like I said, some of our very favorites are the Chinese restaurants, just to,: null
+    like we could probably take our oldest son and,: null
+    lot of the big name brand, I guess, chains: null
+    lunch today was eighteen dollars.: null
+    maybe we avoided Wendy's the last few years because our daughter worked there: null
+    me I'm like I said seafood I'm,: null
+    me too, because I eat out a lot.: null
+    mine enjoy that too.: null
+    mine is, monetarily, I guess strongly monetarily based.: null
+    most French food always leaves me hungry for some reason.: null
+    most of the restaurants are, they tend to be, American style food.: null
+    most of the seafood's frozen.: null
+    most of them are gone now: null
+    most of those things were a little more northern Italy.: null
+    mostly when we go out, it's my husband and I,: null
+    much better.: null
+    my birthday's coming up,: null
+    my four year old he, he still,: null
+    my husband and I like getting the salads or the lighter meals: null
+    my husband and I like veal,: null
+    my husband does.: null
+    my husband has changed.: null
+    my husband has just gotten stuck.: null
+    my husband likes that.: null
+    my husband really likes their ribs.: null
+    my husband was aghast because I ate turnip greens and liked it.: null
+    my husband would coach,: null
+    my husband's going upstairs,: null
+    my husband's kind of the eth, he, he's the ethnic fan.: null
+    my inlaws also enjoy prime rib, when they've: null
+    my kids didn't like it because they just wanted to get plain old spaghetti: null
+    my little girl likes, Spaghetti Warehouse: null
+    my littlest girl she's still wants McDonald's, McDonald's, McDonald's .: null
+    my other older two they can.: null
+    my sister and brotherinlaw were going to take us out for dinner: null
+    my two littlest,: null
+    my wife has a, a friend that w, runs one of the restaurants down there: null
+    my wife is an A one cook,: null
+    my, softball unit here is acting like he's dying of poison .: null
+    no particular reason,: null
+    not just that, I try to, that's a big part of it. } I try to get my money's worth.: null
+    not that I know of.: null
+    now he, he feels like I do.: null
+    now there's a good place in Addison too called Blue Mesa Grill: null
+    now there's a new Italian place Sfuzi: null
+    now there's one in Addison.: null
+    now we both think a lot of what is it we're eating in relation to what it's going to give to our bodies.: null
+    now we, we, we branch out at this Wendy's or some other fast food joint.: null
+    now, of course, they've added the Taiwanese,: null
+    ? o, originally the two, the, the guy who owns the Cafe Pacific and th, the guy
+      who owns the Atlantic Cafe, were partners in the Atlantic Cafe.
+    : null
+    of course we've got D C to call on,: null
+    of course, we like to occasionally go out and get down and dirty with barbecue or hamburgers: null
+    on going out, I like steaks.: null
+    on one hand I see that: null
+    on the other hand sometimes the children or the adults are themselves .: null
+    on the other hand, my older sister: null
+    on the weekends there's always things to do,: null
+    once in a while things backfire.: null
+    once they, give, they no longer give coupons. We'll, we'll, we'll stay there.: null
+    one down there is the, I think it's an old schoolhouse.: null
+    one of my favorites were: null
+    one of our favorites is Pappasito's.: null
+    one of our, one of our favorites is a chain. Shoney's.: null
+    one place I'd never been that I would really like to go to, is Lawry's.: null
+    one's called Captain Pell's: null
+    other than that, they, leave you go about five minutes,: null
+    ? other then that I don't know we, we do our share of pizza eating too, but more
+      like go get it and carry it in cause we're too,
+    : null
+    our favorite thing on Fridays, we generally order pizza in: null
+    our favorite when you have a little more to spend, is to go to Taiwan or May Dragon.: null
+    over on Preston Road and Royal Lane I believe.: null
+    particularly, down in your area, I'm looking for some, some more restaurants.: null
+    people come all over the country amazed at, the abuse they were seized.: null
+    people go there to be abused.: null
+    people here buy a half a cow: null
+    people just go in there and just pig out and everything.: null
+    pr, pretty sure it was original, Original Book Binders: null
+    primarily lunch, and breakfast sometimes: null
+    really Pappasito's we love,: null
+    really it's, they're a lot better than what I get in the restaurant .: null
+    really, I'm kind of open on food.: null
+    recently we have been hitting Pancho's up.: null
+    right in Chinatown, so we went to lots of restaurants: null
+    seven courses isn't what I usually look for .: null
+    she enjoys eating out,: null
+    she has a lot,: null
+    she never wanted us to show up there: null
+    she went there for six years.: null
+    she's happy.: null
+    she's six months: null
+    she, is a world champion twirler: null
+    shrimp straight out of the bay.: null
+    some of those and get fajitas,: null
+    somebody said to me in terms of,: null
+    somehow along the way, when I come back to my seat, I have too much.: null
+    something nice.: null
+    something's happened here,: null
+    sometimes I've been when I thought, it wasn't as good,: null
+    sometimes Mark and I, that's my husband Mark,: null
+    sometimes it's fun to go out and just have a hamburger and french fries and, and sort of a hamburger and french fry meal,: null
+    sometimes it's nice to go out and have a salad.: null
+    sometimes it's, I enjoy it's, I enjoy going out having a formal meal.: null
+    sometimes we drive for a couple hundred miles until we find a Wendy's,: null
+    sometimes we'll go,: null
+    that always just bothered me: null
+    that has a great, it has a great reputation as one of the best restaurants in Dallas,: null
+    that is really super kind of stuff, too. Take, if you like Continental at all: null
+    that is, if you like continental stuff, that is really nice.: null
+    that makes a difference.: null
+    that might be why I look for inexpensive places: null
+    that place is known for the, the rudest waitresses in the country, are, are at the Vienna Inn.: null
+    that reminded me of a place for lunch that's a little off the beaten track: null
+    that was a no no.: null
+    that was, not just really super.: null
+    that way they can get their burgers and fries: null
+    that's Houston's.: null
+    that's Mexican, right across from on the Dillard's side there,: null
+    that's an old established, restaurant.: null
+    that's down in the, the Stoneleigh Hotel now.: null
+    that's happened before.: null
+    that's it's really, kind of lively.: null
+    that's just it,: null
+    that's not what I heard,: null
+    that's on the nights we can't decide.: null
+    that's one of the few,: null
+    that's one thing,: null
+    that's our nice place to go.: null
+    that's something we don't get here,: null
+    that's supposed to be wonderful.: null
+    that's the first thing we look for,: null
+    that's the way it is here in Colorado, also.: null
+    that's the way with my husband.: null
+    that's what I mean by,: null
+    that's what I worked on.: null
+    that's where we always go,: null
+    that's, one of the things th, that I do enjoy when you get a good restaurant.: null
+    that's, that's a very good place to eat, The Blue Mesa Grill.: null
+    that's, that's the way I,: null
+    that, that is really one of our,: null
+    that, that stuff is, goes one notch beyond,: null
+    that, that's about it.: null
+    that, you get more, fruit and maybe cottage cheese or a chicken breast or things that aren't as,: null
+    the atmosphere there is really, really nice.: null
+    the dish was dirty,: null
+    the fast food ones are probably the ones they like the best.: null
+    the first one we've been to that, I don't think there was anything on the menu, that, that any of us had: null
+    the food is good,: null
+    the food's already served: null
+    the girls wear kimonos and,: null
+    the guy started Cafe Pacific.: null
+    the kids just love everything that's there,: null
+    the kids, they've got those expensive tastes: null
+    the original was on Northwest Highway, just the other, west of Loop Twelve.: null
+    the other is with my whole family whom we, go somewhere that the kids will enjoy .: null
+    the other place is called the Vienna Inn which is,: null
+    the people drove me crazy: null
+    the service has always been so strange, every time I've been in there.: null
+    the shredded beef the type of,: null
+    the time we went the prime rib was really good.: null
+    the, Alvarez,: null
+    the, the atmosphere is just wonderful.: null
+    the, the atmosphere is wonderful too.: null
+    the, the restaurants up there were kind of quaint.: null
+    the, their steak is supposed to be wonderful.: null
+    their pastas were great.: null
+    their seafood was wonderful.: null
+    their veal dishes have been good.: null
+    their, their fruits are always exceptional.: null
+    then I just thought the food was over priced for what it was.: null
+    then I quit work and everything: null
+    then fajitas are one of my,: null
+    ? then there's a place up the pass, up in the mountains that we pretty reliably
+      like to go to on some Sunday mornings, drive, drive up to, I think it's about
+      eight thousand foot elevation.
+    : null
+    then they wouldn't think.: null
+    then you can go right through.: null
+    there are a couple jazz houses, that have jazz bands playing while you're eating and stuff like that,: null
+    there are little places,: null
+    there are, all along that, that freeway there are restaurant: null
+    there are, there are some hang outs where you can go if you want to see people.: null
+    there is all kinds of restaurants: null
+    there is two kinds.: null
+    there isn't, isn't too much in the way of restaurants that I don't like.: null
+    there really isn't any kind of particular food that I, I don't, don't like really,: null
+    there's a H Avenue down here,: null
+    there's a Swan Club which is out Central and Campbell.: null
+    there's a little place down on, Coit Road, or something.: null
+    there's a lot of nice barbecue places here,: null
+    there's a restaurant, in, Panama City.: null
+    there's all kinds,: null
+    there's all sorts of things down there.: null
+    there's just, it's just lots of good Mexican restaurants here.: null
+    there's real Mexican food: null
+    there's real TexMex Mexican, by third or fourth generation Americans: null
+    there's so many places here,: null
+    ? there's two restaurants that I particularly like that I, every time I get into
+      Texas or I get into Atlanta, Georgia, I make sure I go,
+    : null
+    there's, if you like Cont,: null
+    there's, they're starting to get a little bit different,: null
+    they are all singing arias to you and,: null
+    they can sit down: null
+    they claimed to have the best shrimp on the Gulf coast.: null
+    they cook, for a bunch of people: null
+    they did, the raspberry puree, just kind of like in a, in a decoration on the,: null
+    they discontinued.: null
+    they don't always.: null
+    they don't count that really,: null
+    they figure out the bill for you: null
+    they got a place where you can dance, and all that kind of stuff.: null
+    they have a Wesley Hotel there that they serve food,: null
+    they have a good, they have a good choice of things that are very different sounding.: null
+    they have a teriyaki steak there,: null
+    they have about six miles from here is called, a little city called Wesley,: null
+    they have one in Richardson that I've been to.: null
+    they have prime rib on, weekends: null
+    they have real good signature salads there and nice steaks,: null
+    they have real nice lunches.: null
+    ? they have so much food that you, not matter how hard you try to restrain yourself,
+      you end up eating much more than you need.
+    : null
+    they have their own adaptation of what Italian is.: null
+    they have wine casks all over the place so you're lined up waiting in line to this place: null
+    they have, I think, one, just about the best prime rib: null
+    they have, we go for the salad bar.: null
+    they keep saying, it's wonderful, it's wonderful.: null
+    they know how to act,: null
+    they lacked the at, the, just the, I don't know.: null
+    they lacked, the service: null
+    they like Tia's: null
+    they like just the traditional.: null
+    they list them.: null
+    they make the food right there so it's display cooking: null
+    they must have a special source for getting them because even at the Farmer's Market,: null
+    ? they ought, there are restaurants that cater to the people that are very health
+      conscious. as far as their cholesterol levels and their, their fat content and,
+      the amount of calcium and so forth that are in each product
+    : null
+    they r, have very good food over there.: null
+    they say you need n, mints,: null
+    they shot holes in them to sink them.: null
+    they take these things that will rust: null
+    they throw them in the ocean which is going to speedup the process even more.: null
+    they were real, real pretty: null
+    they were really good,: null
+    they were set up with two buffets, one for their regular Sunday chicken and roast beef and vegetables and everything.: null
+    they're not breaded: null
+    they're not fried: null
+    they're not,: null
+    they're putting radioactive waste in it which reduces it dramatically.: null
+    ? they're, they're realizing that more of the, the people with the money are coming
+      out and living in the suburbs, getting away from the city
+    : null
+    they've got a nice patio area that you can wait and get something to drink, unless you get there at five o'clock,: null
+    ? they've got everything here from the, French Room which is ultra, ultra to,
+      Dean , restaurant which is the Mansion on Turtle Creek.
+    : null
+    they've never had it: null
+    they, closed up .: null
+    they, they separated: null
+    they, they'll serve you at your seat: null
+    they, you have to bring a formula,: null
+    this is before I was born.: null
+    this is food so I can say this,: null
+    this is great.: null
+    this is in Plano.: null
+    this is the country: null
+    this is, there are streets just called restaurant rows: null
+    those are excellent.: null
+    times that we do have babysitters we, we try and catch, some things that we normally wouldn't do,: null
+    u, usually the salad bar is included,: null
+    various, any, any part of the country you want to hit, they have got it.: null
+    very often we'll,: null
+    w, we found those one time: null
+    wa, I hate to,: null
+    we all get to go to our own little thing and drive through and get our own thing,: null
+    we also like Owens,: null
+    we are Little Caesar fans here: null
+    we ave, we have a really high turn over rate.: null
+    we both think more about, I thought more of about it as far as what it was I was eating,: null
+    we both work: null
+    we both, we both feel much healthier,: null
+    we came up one time when my father was visiting: null
+    we can have a salad bar: null
+    we do a lot of take out because everybody's so busy running around,: null
+    we do a mix.: null
+    we do enjoy dining out.: null
+    we do it as often as we can,: null
+    we do it more when we have company come.: null
+    we do love to eat out,: null
+    we do s, some dining out.: null
+    we do, do that a lot.: null
+    we don't although we enjoy it.: null
+    we don't anymore.: null
+    we don't even look at the menu .: null
+    we don't go out that much,: null
+    we don't go out to dinner that much either.: null
+    we don't hang around with them, because usually it's, ninety dollars a plate or something silly like that.: null
+    we don't have any children: null
+    we don't have any fast foods here in this small city .: null
+    we don't have too many, w,: null
+    we don't like to go there because that's the most expensive,: null
+    we don't make a trip, sixtyfive, eighty, sixtyfive to eighty miles. Depending how far in Dallas it is.: null
+    we don't really eat out too much.: null
+    we eat junk food at home: null
+    we enjoy trying, different kinds of chicken or, sh, even, shrimp, dishes that are fixed in a Chinese restaurant.: null
+    we find something we like, like cashew shrimp or something that's got a good, at a particular restaurant: null
+    we get there: null
+    we go to On the Border.: null
+    we go to park over there so we can all have our own.: null
+    we go to, an older part of town: null
+    we go to, lil, there is a little Thai place that's over on Park that, we go to.: null
+    we go, we've gone to August Moon: null
+    we had Italian,: null
+    we had a lot of McDonalds: null
+    we had a restaurant called La Bamba: null
+    we had the,: null
+    we had venison: null
+    we had, they had, a berry assortment.: null
+    we had, we have a lot of favorites here, in Northern Virginia: null
+    we have a conflict of interests on the weekend.: null
+    we have a daughter in Texas and one in New Mexico,: null
+    we have a daughter,: null
+    we have all kinds of fast foods everywhere around: null
+    we have only one, restaurant that's kind of nice.: null
+    we have quite a bit between us and there.: null
+    we have small children, two and four: null
+    we haven't been in years down near ,: null
+    we haven't explored, too many places.: null
+    we haven't.: null
+    we just ate out, had a big lunch because we both have been working late: null
+    we just had soup and salad so we could make room for the dessert ,: null
+    we just notice how many,: null
+    we like Applebee's.: null
+    we like Grandy's, too.: null
+    we like Indian food,: null
+    ? we like Indian food, and Thai cuisine and, sort of gourmet Mexican and, things
+      like that, as well as TexMex and Italian and, Chinese and things, and, and things
+      of that sort.
+    : null
+    we like good s, w, we're, we like Mexican food.: null
+    we like seafood, too.: null
+    we like the real Mexican food: null
+    we like to go out to lunch on Saturdays especially.: null
+    we like to go to a pizza place where you can buy a pizza for one price an, and feed the whole family,: null
+    we live, we lived in Ohio prior to this.: null
+    we love to go there.: null
+    we managed to, figure out how to get at just about everything else, but,: null
+    we met her husband, down on Greenville,: null
+    we normally manage to eat out once a week anyway.: null
+    we probably go out one to two times a week.: null
+    we really enjoy prime rib, too,: null
+    we really, we really do enjoy going out: null
+    we sit there for an hour waiting to get in: null
+    we still find it fun.: null
+    we tend to,: null
+    we think that was real good: null
+    we tried, what was across the street, El Paso's: null
+    we try and go around to different Mexican restaurants trying them out,: null
+    we try new places: null
+    we try to hit those places when we can.: null
+    we used to eat there, we used to eat there all the time.: null
+    we used to have a lot more restaurants to go to there: null
+    we used to,: null
+    we usually have Chinese once a month.: null
+    we usually head on down, what's the freeway down here?: null
+    we usually stick by it.: null
+    we went in there, actually we went in there for lunch one day.: null
+    we went to El Sorrento.: null
+    we went to a place called Grishman's in Greenville,: null
+    we went to one Italian,: null
+    we were never home at the same time.: null
+    we were taking, four, five and six people out .: null
+    we were there a few months ago,: null
+    we would go over there to,: null
+    we wouldn't have that problem, because we're not vegetarians.: null
+    we'll go down to, Blue Mesa Grill, Mexican food,: null
+    we'll go even in town here at times, just as a, a change although: null
+    we'll go get pizza and, at Little Caesar's, although the kids prefer Domino's.: null
+    we'll go in.: null
+    we'll go to them all.: null
+    we'll stick with it: null
+    we'll try, we'll try anything.: null
+    we're always searching around for Chinese.: null
+    we're both, my husband and I are vegetarians.: null
+    we're excited,: null
+    we're getting ready to: null
+    we're getting ready to go overseas to adopt.: null
+    we're in cattle country.: null
+    we're in the mountains in Virginia.: null
+    we're pretty fortunate.: null
+    we're pretty much regulars at an Italian, local Italian restaurant.: null
+    ? we're sort of in the middle of, the extension of the Cajun country too, we have,
+      a lot of ambiance provided by, the, the bands and everyth, like you said jazz
+      bands and things like that.
+    : null
+    we're taking thirty years ago,: null
+    we're trying to give them a little patronage.: null
+    we're very attracted to exotic food.: null
+    we're, we're supposed to be talking about dinning out,: null
+    we've been back,: null
+    we've been down there and had French cuisine,: null
+    we've eat, we eat out so much it's gotten so I don't like to really eat any place: null
+    we've found probably half of our sort of regular restaurants through coupons,: null
+    we've gone for Romanian food and Lebanese food, and things like that: null
+    we've got beautiful places to go.: null
+    we've gotten so used to doing chicken and things at home that that's, that's usually the way we'll go: null
+    we've had experience with that, too.: null
+    we've never been there.: null
+    we've really gotten to like,: null
+    we've tried places, down, by the Collin Creek Mall,: null
+    we've, we've been going to all sorts of weird type places with it.: null
+    we've, we've usually, we often save those and ventured out on, from there, just for something that had a high rating.: null
+    we, I live in a farming community.: null
+    we, our dining is very limited .: null
+    we, we also go to Chili's and, Colter's Bar B Q,: null
+    we, we can eat a lot of fast food .: null
+    we, we check that and, the Friday section in the newspaper: null
+    we, we do enjoy that.: null
+    we, we do too.: null
+    we, we like spicy food down here, especially, the hot sauce, Picante sauce, or salsa: null
+    we, we really like the Mexican food, here in Texas: null
+    we, we sure go through a lot of that .: null
+    we, we usually eat out generally two or three times a week.: null
+    we, we, we rarely go eat in those kind of eating, situations, any more.: null
+    west out of Colorado Springs.: null
+    what we'd really like, if, if we just have a, a casual evening is Houston's.: null
+    when I was a vegan, it's,: null
+    when he goes to Maine, he eats lobster, I guess, at least twice a day, all the time he's up there .: null
+    when my husband and I go out we have four children.: null
+    when my husband and I go out we like to go somewhere with a little atmosphere: null
+    when they say, buy one get one free.: null
+    when we do go out we really, want to be wowed by, the presentation, so to speak.: null
+    when we go out, I'm always looking for something other than the standard menu, even if,: null
+    when we have something to celebrate, we head to Houston's.: null
+    when, when I go out, it's, it's normally to get, some specialty type of food: null
+    when, when we dine out we go to medium priced restaurants.: null
+    where we're from, it's, it's pretty limited,: null
+    which I'm not Italian,: null
+    with my husband traveling he can get all he needs: null
+    yet I hate to cook food at home: null
+    yet, we haven't, as human beings, haven't figured out a way to harvest it economically: null
+    you always stand in line when you go: null
+    you can always blame it on having children,: null
+    you can ask them and they'll tell you whether or not they use lard or,: null
+    you can eat a whole big plate of their food, and you really don't feel like you've eaten too much.: null
+    ? you can get everything here from, a very spicy Indian meal to, the favorite
+      barbecue and, and, just anything your little hearts desires around here,
+    : null
+    you can get that too.: null
+    you don't feel stuffed and miserable.: null
+    you don't get stuffed on their food it seems.: null
+    you don't have to spend that much,: null
+    you don't have to wait,: null
+    you eat your crawfish and: null
+    you get the crabs: null
+    you get, one free: null
+    you go out to get the chicken wings: null
+    you have the pick of the, the crop here.: null
+    you have to get up for that.: null
+    you have to go all the way to Dallas.: null
+    you have to go knowing you're going to be sitting there there for an hour waiting to get in.: null
+    you have to watch it if you go out to eat: null
+    you just take a drink of wine: null
+    you know, how they do the plates real fancy with the decorations and then: null
+    you na, okay you name it.: null
+    you really don't.: null
+    you tell them what you've eaten and what you drank or whatever: null
+    you wind up waiting about an hour: null
+    you're in New York,: null
+    you're lucky if you get change.: null
+    you're satisfied,: null
+    you've got one down in, down near, Addison,: null
+    you, you, you pay for one now, and: null
+  Statement-opinion: !!set
+    A lot of people don't know that.: null
+    Although I guess on this topic are to talk about the, service in a restaurant is always nice though, too: null
+    Because of all the pollution in the lakes and the,: null
+    Becky, you know, even if you lived off your own land, that you would have to put caution signs,: null
+    Chi Chi's is a national restaurant, I think.: null
+    ? Course if you find a place you like and it works out that no one else likes
+      it, it would be sort of sad to see it go under.
+    : null
+    Especially with butter and honey on them .: null
+    Even though traditional it can backfire.: null
+    Everything we eat.: null
+    Everything,: null
+    I don't know if we are particularly adventurous,: null
+    I don't like to go to the drivethrus because sometimes they get your order wrong: null
+    I don't think so .: null
+    I don't think there's an ounce of nutritional value in anything they have.: null
+    ? I guess if you were having, if you were trying to impress somebody w, like taking
+      somebody that you hadn't seen for a long time and wanted to show them a good
+      restaurant.
+    : null
+    I guess we should continue on,: null
+    I know a lot of their, a lot of their specials sometimes are fried things,: null
+    I suppose if you really believe in something it's,: null
+    I suppose you'd say I,: null
+    I think it's sort of a waste of money to go real, to a real high priced restaurant.: null
+    I think maybe if you were somewhere like California, where they have a lot more vegetarian restaurants: null
+    I think that it's just, that's ex,: null
+    I think that peo, that we just tend to eat, overeat.: null
+    I think that some of it's over priced.: null
+    I think that's a shame.: null
+    I think that's what: null
+    I think you will enjoy that.: null
+    I think you, you, you balance the foods,: null
+    I think, that's pleasurable for all of us, if we choose the right restaurant .: null
+    I was more in the mood for french toast any way: null
+    I'm going to be, I'm going to starve to death: null
+    I'm going to get over it and just go ahead and eat as healthily as I possibly can,: null
+    I, I can almost live on, on seafood and almost live on the crab meat if I had to.: null
+    I, I don't know whether it's age or what it is.: null
+    If you want a really special night out and fish food: null
+    It really is a great place.: null
+    It sounds like that it would probably,: null
+    It was one of these you have bad experience and,: null
+    It wasn't that bad,: null
+    It would be good I think,: null
+    It would mean a lot to the looks of the plate.: null
+    It's nice to find a place like that.: null
+    It's really sad isn't it cause it's hard to get them away from junk then.: null
+    It's very expensive to go out to eat.: null
+    It's, it's important.: null
+    It, it, it's the way to spend a nice Sunday morning.: null
+    Just to die for exactly.: null
+    Maryland's great,: null
+    Maybe it's not too bad.: null
+    Of course you want the food to be good: null
+    Of course, down, next to downtown up around McKinney and everything: null
+    Of course, not too many people want to rush back to Panama City, Panama, the country, Panama.: null
+    Our lives are, are built around foods that we like and, an, nutritionally good for us.: null
+    Probably needed some cold beer with it: null
+    Someone has been lying to you.: null
+    Taco Bueno's good .: null
+    That is probably very fortunate for you.: null
+    That sound good.: null
+    That sounds terrible to tell you to go somewhere where it's not that great: null
+    That's what you find,: null
+    The food is probably,: null
+    The place of the seventies .: null
+    Then this will probably,: null
+    There's very few places that you, I'll bet that you could,: null
+    They are, they just, they're excellent, excellent food.: null
+    They can, they can do things to shrimp that, that no one else can.: null
+    They do those real corny commercials.: null
+    They use the, they use the insides of the animals, heart and liver: null
+    They won't put up with that.: null
+    They're easy .: null
+    Things that are kind of oddball, like, Thai cuisine,: null
+    Unless somebody is trying to blackball them.: null
+    We don't synthesize the, the calcium the: null
+    We, we slough some of it,: null
+    We, we throw more of it off: null
+    What they use is roast beef.: null
+    When you find the right cookbook, why it works out.: null
+    You can eat: null
+    You can't get away from it: null
+    You go somewhere else.: null
+    You got one coming.: null
+    You'd like it especially it you're adventuresome.: null
+    You're brave .: null
+    Your body just doesn't accept vitamins: null
+    a lot of them are the same no matter where you stop.: null
+    a lot of times the foods,: null
+    a waitress or waiter that waits the table, it's nice that they're attentive: null
+    actually you can get everything you need through vegetables.: null
+    and, and cheap too.: null
+    as with anything, it's preparation.: null
+    because they use everything they can and make this into pressed whatever.: null
+    carry a bread bar that is just out of this world .: null
+    catfish is wonderful.: null
+    evidently people go in there and they're not satisfied that they'd been given enough and they complain: null
+    food is a very intriguing thing.: null
+    from New York it probably doesn't matter,: null
+    if it's, nice to get out and find a good restaurant like that,: null
+    in order to survive in this area , I think they have to be good.: null
+    in, in, in the countries, unless it's a large city, I guess Dairy Queen and WalMart are their main .: null
+    inside yourself you just, it's not right.: null
+    it costs a lot of money to do it too.: null
+    it is absolutely wonderful.: null
+    it is, it's fabulous.: null
+    it may, it may help their tip, may not,: null
+    it seems like it would be portions would be the big thing.: null
+    it sounds wonderful.: null
+    it sure is good,: null
+    it was pretty reasonable.: null
+    it was really nice.: null
+    it wasn't too bad it really wasn't: null
+    it worked out fine.: null
+    it would probably take my whole paycheck just to go in and: null
+    it's a good place to go.: null
+    it's a pain to have to stand there and see what it is before you leave: null
+    it's in the sweet and sour porks and things like are just really delicious meals.: null
+    it's just a lot cheaper than, than Domino's,: null
+    it's kind of nice to,: null
+    it's not healthy,: null
+    it's not nice when they're too attentive.: null
+    ? it's really strange that, that, that seafood is so expensive, because when you,
+      in reality, I, say that, the oceans have the greatest re, resource of food
+    : null
+    it's really, it's tempting when you come home from work: null
+    it's very good it's all of these run adult males,: null
+    it's, it's really good. All their blackened grill stuff.: null
+    it, it makes you more aware of what you're eating.: null
+    it, it's fun.: null
+    it, it's kind of pricey,: null
+    it, people, they,: null
+    just a, just a change of pace: null
+    most kids do.: null
+    most of these places are pretty much just, theme restaurants: null
+    must have had some interesting, assignments for you there.: null
+    now that's surprising: null
+    now the Red Lobster I found is very nice at lunchtime.: null
+    of course, it's just so much easier and simpler: null
+    ? of course, when you talk about Mexican cuisine you, that's kind of like talking
+      about American food or Chinese food, because its regional, too.
+    : null
+    our bodies don't, don't,: null
+    save you some money too .: null
+    seafood seems to be a lit, a little bit more expensive than, than other types of food.: null
+    some restaurants are really trying to go for that atmosphere kind of thing.: null
+    that kind of milk, it doesn't,: null
+    that makes a difference.: null
+    that would make them drool any way.: null
+    that'll, that'll literally blow your head off,: null
+    that's all right as long as,: null
+    that's funny,: null
+    that's good.: null
+    that's probably, that's a good, that's a good sign.: null
+    the atmosphere and service I think, are important,: null
+    the food is great.: null
+    the thing is that milk products,: null
+    ? the, the best brand of chicken to buy is the, Pilgrim Pride because they don't
+      use all these hormones to , unnatural growth in their products.
+    : null
+    there are a lot of good restaurants around here.: null
+    there are tra, there are, there are,: null
+    there's a place, if you ever make it to Dallas: null
+    there's a zillion of them.: null
+    there's big differences, of course,: null
+    ? there's, there's some things I think we can av, we, we can't avoid for health
+      purposes and some things that we just need to like,
+    : null
+    they have these really corny radio commercials: null
+    they make it look like roast beef,: null
+    they make very good fajitas there: null
+    they, they form it,: null
+    this is not in my control.: null
+    this isn't really excellent Italian food,: null
+    those are really hot: null
+    we have to be on the lookout if we want to stay healthy.: null
+    we like, lots of people down here like Mexican food: null
+    we're not utilizing, we're,: null
+    we, we send, we send some of it out because it, our body doesn't accept some of it.: null
+    we, we tend to,: null
+    wha, which is kind of high for lunch I guess.: null
+    when it, when it gets rid of some of that, that we can't use, it get rids, it gets rid of some of the calcium.: null
+    when the kids are small, if you going to wait, you don't go out.: null
+    where you don't feel rushed,: null
+    where you felt like,: null
+    who's, the tuna is radioactive: null
+    you actually you can get more calcium through leafy green vegetables than you can get through milk products.: null
+    you can just relax, and: null
+    you can't, you can't beat that price, if you went to a cafeteria.: null
+    you have to consider calcium and iron and: null
+    you have to watch that too.: null
+    you just are tempted to give in to that,: null
+    you kind of have a combination.: null
+    you see cockroaches crawling around and: null
+    you sound like you're doing pretty well with four children.: null
+    you're just more aware of food for energy,: null
+    you're more aware of what nutrient, value each thing has,: null
+    you're not going to believe this: null
+    you're stuck: null
+    you're tired: null
+    you, you do have to figure it out.: null
+    you, you have to be.: null
+    you, you k,: null
+    your egg products.: null
+    your, your body accepts: null
+  Wh-Question: !!set
+    Belt Line and what?: null
+    How do you like Chinese food?: null
+    How do you usually find a, a new restaurant?: null
+    How long have you been doing this?: null
+    Kate, what kind of, where do you like to eat out?: null
+    Out of, which direction from there?: null
+    Wh, when did you retire?: null
+    What are you interested in in restaurants?: null
+    What are your favorite places?: null
+    What area of the country do you live in?: null
+    What do you look for in a restaurant?: null
+    What kind of dining out do you like?: null
+    What's a good reference cookbook for Chinese food?: null
+    What's the name of that again?: null
+    What's your favorite restaurant?: null
+    What, what are they, what kind of?: null
+    What, what is that?: null
+    Where did you go to college?: null
+    Where did you learn how to do Chinese cooking?: null
+    Where do you enjoy dining out?: null
+    Where do you go for steaks?: null
+    Where do you go if you like to have a nice meal out, or a big meal?: null
+    Where do you go to brunches?: null
+    Where's that at?: null
+    Where's that place?: null
+    Where's that?: null
+    Where, where do you like to go when you got a babysitter?: null
+    if you were going to a restaurant, where would you go?: null
+    let's see, what else can we talk about? .: null
+    out of, which direction?: null
+    what are some of your, your favorite inexpensive places?: null
+    what are your thoughts on dining out?: null
+    what do you look for when you,: null
+    what is that restaurant off of Central?: null
+    what is your phone at home?: null
+    what is your, what's your child's favorite place to eat?: null
+    what type of restaurant do you like, Richard?: null
+    what's it called?: null
+    what's, things that you look for when you go out to dinner?: null
+    where are your, what are the places, memorable places you've eaten?: null
+    where do you like to eat?: null
+    where is that?: null
+    where is the Atlantic Cafe?: null
+    where was that at, near your,: null
+    which one do you like?: null
+    why would you go to a seafood restaurant to eat chicken?: null
+    why, which one were you going to recommend?: null
+  Yes-No-Question: !!set
+    A health food?: null
+    All the kids seem to love McDonald's don't they,: null
+    Are they big into am, ambiance down there: null
+    Are you ready?: null
+    Are you still there?: null
+    Are you strict vegetarians?: null
+    Did you have any dealings with the, underwater sound reference laboratory in Orlando, Florida?: null
+    Did you like it?: null
+    Do you feel that it has improved the way you feel?: null
+    Do you go home cooking, like BlackEyed Pea and that kind of thing or: null
+    Do you have a preference if you were going to,: null
+    Do you have it there?: null
+    Do you have kids?: null
+    Do you know how to spell it?: null
+    Do you like Mexican food.: null
+    Do you like Mexican?: null
+    Do you like spicy foods: null
+    Do you like, like Southwestern?: null
+    Do you miss living there?: null
+    Do you normally, when you're traveling, do you look for places that's established, that, that you've been to before: null
+    Do you usually go out, with the children or without them?: null
+    For one person?: null
+    Gosh, where do you go, Whataburger?: null
+    Have you always lived there?: null
+    Have you been there?: null
+    Have you been to the little, not for prime rib but the Cafe De France, right here: null
+    Have you eaten there?: null
+    Have you ever been to Biffin's?: null
+    Have you ever been to Ewaldes: null
+    Have you ever been to Mercado Juarez?: null
+    Have you ever been to, what is it, Original Book Binders in Philadelphia?: null
+    Have you tried Mother Mesquites?: null
+    Have you tried it?: null
+    Have you, have you been there for lunch?: null
+    I don't know if you, have you ever been there?: null
+    I don't know would you classify that as TexMex?: null
+    I guess are you is it a little bit of constricted, because a lot of restaurants don't take,: null
+    I was going to ask you, could you go to, nice places,: null
+    Is it Tia's, not Tia's,: null
+    Is it in the phone book?: null
+    Is that right?: null
+    Isn't it Mexican?: null
+    It's a lot cheaper there, isn't it?: null
+    It's all pretty good, isn't it?: null
+    Light menu, you mean like cooked light or,: null
+    She didn't announce that to you?: null
+    Sometimes it's hard isn't it to keep a,: null
+    That's what we need isn't it?: null
+    Was it true?: null
+    You ever been to Houston's on Belt Line?: null
+    You ever been, tried a place called Louisiana Purchase?: null
+    You, you ever been to Vincent's?: null
+    are there just the two of you?: null
+    are you really?: null
+    at hotels, or restaurants there?: null
+    do you do a lot of dining out?: null
+    do you ever go for steak? Just a steak and potato and salad bar, that kind of thing.: null
+    do you have any favorite?: null
+    do you have children?: null
+    do you really like Italian food?: null
+    have you been there?: null
+    have you eaten crawfish yet?: null
+    have you ever been to California?: null
+    have you ever been to th, I think it's called Spring Creek Barbecue?: null
+    have you ever been to the Olive Garden?: null
+    have you ever tried, the Macaroni Grill up on,: null
+    have you ever,: null
+    is it in Dallas?: null
+    is that good?: null
+    is there anything else you'd like to discuss about it?: null
+    is there some nice places to go to eat in Plano?: null
+    it's like mama in the back kitchen, huh?: null
+    it's probably not advertised as such, is it?: null
+    once a week, twice a week?: null
+    that makes a difference, doesn't it.: null
+    they haven't beeped us, have they?: null
+    they waited fortyfive minutes?: null

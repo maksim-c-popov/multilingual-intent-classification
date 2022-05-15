@@ -1,0 +1,3786 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    AIR AMERICA.: null
+    And then defend it.: null
+    BLAZING SADDLES.: null
+    Both of them.: null
+    Do they influence you a lot.: null
+    Do you like the classics like, GONE WITH THE WIND and, the older movies.: null
+    Have you seen it.: null
+    I don't know if you like this kind,: null
+    I don't know if you saw GHOSTS or not.: null
+    I don't know if you've ever read Jonathan Livingston Seagull,: null
+    I don't, I don't know if you got to see WEEKEND, AT BERNIE'S: null
+    I guess it's a rental.: null
+    I guess that's where the title comes from then.: null
+    INVISIBLE MAN by Ralph Ellison.: null
+    INVISIBLE MAN?: null
+    In New Hampshire.: null
+    Is that any good,: null
+    Is that the one set in the fifties, or sixties.: null
+    It must have, what's his name in it.: null
+    Made all the decisions: null
+    Mel Brooks you probably know.: null
+    Not hard when you first came.: null
+    Not in a crowd like that.: null
+    Obviously you have kids.: null
+    They're really good?: null
+    To understand what's going on in the second?: null
+    Wasn't that good.: null
+    You don't work?: null
+    You enjoyed that one, then.: null
+    did you ever see, this is going way back, JAGGED EDGE.: null
+    have you seen any of the behind the scenes, of, of that movie.: null
+    he kind of was a cowboy type, too.: null
+    is that five minutes,: null
+    it wasn't that good.: null
+    it's just that the rating system seems, instead of having X now, they have what, N C seventeen?: null
+    it's just the old guys still.: null
+    maybe you, you have seen DANCES WITH WOLVES.: null
+    really, that must be pretty good then,: null
+    that's the, that's the one where they burn down the house or something: null
+    the guy when he first headed out from the army post.: null
+    you haven't,: null
+    your cousin's a kid,: null
+  Dispreferred answers: !!set
+    I haven't been to a movie theater in probably eight or nine months,: null
+    I heard the opposite that, you should take children to see it.: null
+    ROGER was a composite one.: null
+  Statement-non-opinion: !!set
+    A little piece of trivia.: null
+    A lot of, a lot of people did.: null
+    A really nice place.: null
+    A, special effects man who somehow gets involved in this,: null
+    AWAKENING is supposed to be wonderful: null
+    AWAKENING was, it was kind of sad to me.: null
+    AWAKENING, is supposed to be wonderful.: null
+    Actually I saw it twice because I liked it so much.: null
+    Al Capone had three brothers,: null
+    ? All I know, all's I can really remember is him flying this great big dog, this
+      great big huge sheep dog sort of looking thing,
+    : null
+    All those underwater scenes.: null
+    ? Although she, herself, had never really accepted Jesus or gone through any of
+      the other, Christian, portions of, of the faith, repentance, baptisms, et cetera,
+      et cetera. She had always felt a very strong, leaning in this direction.
+    : null
+    Although, I must admit I did look at my watch after about an hour.: null
+    And SILENCE OF THE LAMBS.: null
+    And then THELMA AND LOUISE,: null
+    Anne Archer she's the one, she was the wife in FATAL ATTRACTION,: null
+    Another movie that I want to see if it ever comes out on video so I can see it without my daughter around is,: null
+    Another one I saw is called the OBJECT OF BEAUTY.: null
+    Another one that I think I really liked was, THE FISHER KING.: null
+    Anyway, it's on from seven to nine, or something.: null
+    Anyway, she, she seemed to be that sort of person that seems half crazy,: null
+    Arsenio Hall is the one that jumped up and said that I can't believe they killed them: null
+    At any rate, I also saw not long ago ONCE AROUND.: null
+    At least I don't think so .: null
+    At the same time, it had a story line about people trying to find themselves.: null
+    Ate a lot of popcorn.: null
+    BACK TO THE FUTURE then .: null
+    Barry Levinson did, DINER and TINMAN, and AVALON which are all set in Baltimore.: null
+    Because when you rent a video,: null
+    Before we found the shopping malls that's what we did.: null
+    Being a child,: null
+    Bob follows him on vacation.: null
+    Bob is his patient: null
+    Both of them are dead,: null
+    Brando does a parody of the character he played in THE GODFATHER.: null
+    By the time we had a babysitter for that long.: null
+    CAPE FEAR was, was more suspenseful.: null
+    ? CHINA CRY was basically the, the true story written by this, this lady who had,
+      was a native, a native Chinese, who was raised by Christian parents.
+    : null
+    CINDERELLA came out: null
+    CITY SLICKERS, and STAR TREK FIVE.: null
+    Cause I just watch them over and over again.: null
+    Christopher Reeve, or, Mike Douglas went after his throat, you dummy .: null
+    Consequently, I don't like these sa, psycho things.: null
+    Considering that Spock was on an, couple weeks ago: null
+    Costner got best director.: null
+    Course I'm a Kevin Costner fan.: null
+    Course, my, my favorite now is, is DANCES WITH WOLVES.: null
+    DEFENDING YOUR LIFE.: null
+    DIRTY DANCING and CROSSING DELANCY are two of my favorite.: null
+    Danny Glover, Scott Glen, Kevin Kline, Brian , Jeff Goldblum's in.: null
+    Did you ever see KINDERGARTEN COP?: null
+    Didn't want to talk about him because he didn't think he was such a, a good action guy.: null
+    Don't know either.: null
+    Don't watch really very many horror films at all.: null
+    Enjoyed that quite a bit.: null
+    Especially JAWS.: null
+    Especially in the theater it was contagious,: null
+    Everybody was back to a commonality of one.: null
+    Everything about it was good.: null
+    Except, except fate through them together *through threw: null
+    FATAL ATTRACTION, that, I don't know why I like that movie so much,: null
+    FIELD OF DREAMS.: null
+    FIELD, FIELD OF DREAMS came out after, that novel.: null
+    FLATLINERS, it's a drama,: null
+    FLATLINERS.: null
+    FREDDY EATS A NUCLEAR WARHEAD,: null
+    FREDDY'S REVENGE PART TWENTYFIVE or whatever.: null
+    GARP, THE WORLD ACCORDING TO GARP.: null
+    Gene Wilder doesn't do that much for me,: null
+    God forbid you should want something to drink with it,: null
+    God, I can't even remember the name.: null
+    God, I guess I haven't seen too many movies lately.: null
+    Gosh, I can't remember.: null
+    Guess a couple weeks ago or something like that.: null
+    Guess it didn't last too long at the box office,: null
+    HUNDRED AND ONE DALMATIANS: null
+    Half an hour, we do that just going to downtown Dallas.: null
+    Harrison Ford.: null
+    Haven't seen that.: null
+    He can watch: null
+    He climbs into a box and ends up floating down this river: null
+    He did BATMAN also, which, .: null
+    He didn't look like a cop when he did it.: null
+    He doesn't like to be scared .: null
+    He doesn't really pay attention.: null
+    He doesn't.: null
+    He even had turtle cake yesterday .: null
+    He got locked in the school: null
+    He had to buy his underwear at Kmart.: null
+    He has a new one out.: null
+    He is, an attorney and his daughter is an attorney: null
+    He just couldn't stand it that Charlotte was going to die at the end.: null
+    He just was beside himself,: null
+    He kind of looks like DOOGIE HOWSER.: null
+    He likes the bang them up and shoot them up things.: null
+    He looks like Rick Moranis: null
+    He loves it.: null
+    He maims them .: null
+    He never did, does come in out of a box, I don't think.: null
+    He produced this one .: null
+    He said GHOST and TURTLES.: null
+    He said he wouldn't really talk about it.: null
+    He said, the plot line and the characters, aren't real big: null
+    He says, I'm not going to say you're going to feel like playing ball: null
+    He says, in two weeks you can go back to doing your crazy normal things.: null
+    He was a blond haired, heavyset alien in COCOON.: null
+    He was always: null
+    He was in the UNTOUCHABLES.: null
+    He was the accountant .: null
+    He was, he's of course, I guess he's trained in this, martial arts of some sort,: null
+    He will do that, to research it and to be able to mimic a person, with the kinds of problems that he had.: null
+    He'd been working in a restaurant when they met.: null
+    He's a movie critic on channel eight in Dallas.: null
+    He's a, the movie critic.: null
+    He's about two and a half: null
+    He's doing the Kennedy movie that's coming out,: null
+    He's got curly blonde hair,: null
+    He's one of my favorites.: null
+    He's, he doesn't sit still for the whole movie, yet,: null
+    He, he happens to be, a friend of one of her, her business associates.: null
+    He, he likes MARY POPPINS and things .: null
+    He, he plays on MURPHY BROWN.: null
+    He, he really, would never want to leave,: null
+    He, he wrote that one book and a few essays and that is about it.: null
+    He, he, I think he shoots off their knee caps for the most part.: null
+    Her husband was a, dark haired guy with a beard and moustache,: null
+    Here's some rocks sitting out in the middle of a field.: null
+    I I think Kevin Costner's a nice fellow,: null
+    I actually came away thinking it was really pretty good.: null
+    I actually enjoyed that as well.: null
+    I actually hadn't heard anything about it,: null
+    I actually went to the STAR TREK twenty fifth anniversary marathon that happened about a month ago,: null
+    I also like just some strange movies.: null
+    I also saw that Madonna movie.: null
+    I always feel so good when I get through with that movie.: null
+    I always get those: null
+    I always like the musicals, and: null
+    I always wait for the movie.: null
+    I am a student: null
+    I am just dying to see it.: null
+    I am not real current on films.: null
+    I assume you were talking about the new NINJA TURTLES.: null
+    I believe that all the language is as Shakespeare wrote it, except it's been shortened a little bit: null
+    I ca, not sure about the name, has Meryl Streep: null
+    I can associate with some of the people in that movie because of the young students I see over at the medical school.: null
+    I can make a copy: null
+    I can rent them: null
+    I can't believe I'm just drawing a blank, because, I've s,: null
+    I can't believe how good they're getting with their animation now.: null
+    I can't believe they killed them.: null
+    I can't either.: null
+    I can't pin, pinpoint it.: null
+    I can't put it exactly on the lines of the JAGGED EDGE,: null
+    I can't quite remember the name of the book,: null
+    I can't remem,: null
+    I can't remember any of the other parts right off now.: null
+    I can't remember his first name.: null
+    I can't remember his name.: null
+    I can't remember it.: null
+    I can't remember the title of it, either .: null
+    I can't remember what they said his name was.: null
+    I can't remember,: null
+    I can't remember.: null
+    I can't stand Stallone.: null
+    I can't think now what the name of it was: null
+    I can't think of the name of it now, that,: null
+    I can't think of what that was called.: null
+    I can't think what the name of: null
+    I can't wait.: null
+    ? I can, I can se, tell you, so much about that movie, just because it, it really
+      rang, rang a lot of my, my personal background.
+    : null
+    I converted him to being a Texan.: null
+    I could bring them in with my dogs and set a siren off: null
+    I could not handle that.: null
+    I couldn't figure what was going on half the time,: null
+    I cried the first time when the, the wagon man got killed, when they attacked him.: null
+    I cried when the horse got killed and when the wolf got killed .: null
+    I did not realize that.: null
+    I did not, I did not go see FIELD OF DREAMS when it was in the theatre because I did not know it was any good.: null
+    I did see it on T V,: null
+    I did see that: null
+    I did see that.: null
+    I did, did not.: null
+    I did, too.: null
+    I didn't care: null
+    I didn't care for the movie myself.: null
+    I didn't care for the type of movie,: null
+    I didn't care too much for the last one either.: null
+    I didn't even want to talk.: null
+    I didn't get to see that.: null
+    I didn't get to.: null
+    I didn't give away the whole thing,: null
+    I didn't know that, that many buffaloes alive, much less in one place.: null
+    I didn't like him.: null
+    I didn't like the way it ended.: null
+    I didn't much care for the first one.: null
+    I didn't really care for the movie either.: null
+    I didn't really care, that's, that's one side of the action I guess that I didn't really care for: null
+    I didn't really,: null
+    I didn't see that one.: null
+    I didn't see that,: null
+    I didn't see that.: null
+    I didn't see the first one.: null
+    I didn't think so,: null
+    I do enjoy watching: null
+    I do not go out to films very often.: null
+    I do not know that I have seen any of the, sequels to that.: null
+    I don't do that,: null
+    I don't do,: null
+    I don't either.: null
+    I don't even rent them.: null
+    I don't follow actors.: null
+    I don't go for that at all.: null
+    I don't go to movies that often,: null
+    I don't go to the movies a whole lot,: null
+    I don't have permanent work.: null
+    I don't have time to read the book.: null
+    I don't keep up with it,: null
+    I don't know about any body else: null
+    I don't know him.: null
+    I don't know how long this conversation is supposed to go: null
+    I don't know if I have even heard of that one.: null
+    I don't know if I've even heard of that one.: null
+    I don't know if they have the, original actors on that first one to that one.: null
+    I don't know some, I don't know, some macho title.: null
+    I don't know up there.: null
+    I don't know what it was.: null
+    I don't know what it's about.: null
+    I don't know what my kids see any more.: null
+    I don't know what the name of it is.: null
+    I don't know where in the world it is.: null
+    I don't know who that guy is.: null
+    I don't know who was here or whether Jay called a friend: null
+    I don't know why.: null
+    I don't know.: null
+    I don't like Steven Seagal things,: null
+    I don't like going to see them in the theaters: null
+    I don't like that.: null
+    I don't need the suspense movies or the,: null
+    I don't particularly care for that sort of stuff.: null
+    I don't re, recommend that,: null
+    I don't really like Sylvester Stallone.: null
+    I don't remember the language.: null
+    I don't remember the name of it: null
+    I don't remember when the horse got killed.: null
+    I don't seem to get, as much variety these days lately: null
+    I don't think I can see it enough times.: null
+    I don't think I could.: null
+    I don't think I want to see that either.: null
+    I don't think that I've ever heard of that movie.: null
+    I don't think you all have the same channels,: null
+    I don't try to: null
+    I don't understand why they charge you out the kazoo for both.: null
+    I don't usually like them,: null
+    I don't want to: null
+    I don't want to see him in other things.: null
+    I don't watch a lot of Arnold Schwarzenegger or anything like that either.: null
+    I don't, I don't know about the last movie I've seen on T V that was real good.: null
+    I don't, I don't know if it's still playing any where else.: null
+    I don't, I don't know what his name is.: null
+    I don't, I don't like Stephen King.: null
+    I don't, I don't watch that .: null
+    I don't, I'm real glad that we didn't go see those funny ones when I was, when I'm still sort of on the sore side.: null
+    I don't, don't remember them,: null
+    I don, we don't get to the video store very often: null
+    I ended up at the theater: null
+    I enjoy a lot of movies.: null
+    I enjoy some of the Michael J. Fox movies.: null
+    I enjoy those,: null
+    I enjoyed it very much.: null
+    I enjoyed it.: null
+    I enjoyed that movie, after the first few minutes of gore.: null
+    I enjoyed that show.: null
+    I enjoyed that.: null
+    I especially like him.: null
+    I even like some, some of the original stuff,: null
+    I expected more, I think.: null
+    I expected those.: null
+    I feel the same way about that too.: null
+    I fell asleep: null
+    I figure, I should go see it, because if this is, the best of the genre and I should know about it, or something like that: null
+    I figured she'd like THELMA AND LOUISE better: null
+    I finally just went to see it.: null
+    I find I don't do it anymore or else I have to watch them on my own.: null
+    I forgot it already.: null
+    I forgot what her name is now.: null
+    I found that out .: null
+    I found when, when I get, when I get with my, old college buddy, we, we usually rent, good gladiator movie or two .: null
+    I generally don't get into movies that much,: null
+    I get bored pretty easily: null
+    I get cable,: null
+    I get so tired of, these, sequels.: null
+    I get tired of sitting there, and: null
+    I go every weekend .: null
+    I go maybe once every couple of months.: null
+    I go quite frequently.: null
+    I go see movies all the time.: null
+    I got a lot of really weird ideas,: null
+    I got in to it,: null
+    I got, I got hooked on TWIN PEAKS.: null
+    I grew up in New Hampshire.: null
+    I gue, I think we rented PRETTY WOMAN: null
+    I guess I was expecting it to be kind of funny: null
+    I guess I'm a little too scary for that.: null
+    I guess he was taking Kevin Costner to the site where he was going to be or whatever.: null
+    I guess he's in there.: null
+    I guess it was a, a very successful movie financially,: null
+    I guess it was so much suspense.: null
+    I guess like I say,: null
+    I guess my first instinct was to wait for the video, too.: null
+    I guess our topic is about movies: null
+    I guess that they built me up too much.: null
+    I guess that's about it.: null
+    I guess that's one I won't go see .: null
+    I guess that's what I really like.: null
+    I guess they graze, though,: null
+    I guess what I, what I saw most recently and luckily I saw it only a week ago so I'd remember: null
+    I guess what made it so good was the cinema, cinematography,: null
+    I guess you don't have to, if you look at: null
+    I guess, I can wait another month: null
+    I guess, I'm a real, I'm a realist, when I watch movies like that, it's like this can not happen.: null
+    I guess, I'm not fond of the action packed movie,: null
+    I guess, I, I guess it was because I'd read the book before I saw the movie.: null
+    I guess, as far as comedies go, probably my favorite is YOUNG FRANKENSTEIN.: null
+    I guess, more than anything, that is why we don't go.: null
+    I guess, out of all the movies, I've, I've never been as excited to go back.: null
+    I had a friend who had fixed some, chili, buffalo chili and, about a week before went to see the movie.: null
+    I had a, I sure did have a mind lock about the movies I've seen.: null
+    I had been told, you wouldn't notice that it was three hours long, and all this,: null
+    I had heard people talk about it,: null
+    I had his birthday party yesterday.: null
+    I had missed it.: null
+    I had not heard about it when it was on the movies, but was out on video.: null
+    I had not heard anybody talk about it.: null
+    I had read, THE LAST PICTURE SHOW: null
+    I had seen the advertisement for FLATLINERS on T V,: null
+    I hadn't even imagined it,: null
+    I hadn't even thought of that.: null
+    I hadn't read it: null
+    I hadn't seen anything since DANCES WITH WOLVES: null
+    I hadn't seen that,: null
+    I happened to be in Nassau: null
+    I hardly ever go see a sequel.: null
+    I hate sequels too.: null
+    I hate these, number one, two, three, four.: null
+    I have a V C R: null
+    I have a copy that's just about worn out.: null
+    I have a friend down the street's from New Jersey: null
+    I have a ten year old: null
+    I have absolutely no problems with them winning seven Oscars.: null
+    I have been working at, as an accountant at the medical school here in Dallas: null
+    I have kids: null
+    I have no objections to it.: null
+    I have not done that one,: null
+    I have one I bet you haven't seen if you don't have kids. OTIS AND MILO.: null
+    I have seen it advertised.: null
+    I have seen that: null
+    I have two children.: null
+    I have two little babies: null
+    I have watched, GROSS ANATOMY.: null
+    I have, I was trying to think of the one I went to a couple of weeks ago,: null
+    I have, I've seen quite a few movies,: null
+    I have, been actually watching more movies on video,: null
+    I have, seen DANCES WITH WOLVES, which is probably the, the best movie that I have seen lately.: null
+    I have, teenagers in my house.: null
+    I haven't .: null
+    I haven't been doing it lately: null
+    I haven't been to a g, to an opening for, ages,: null
+    I haven't been watching my watch.: null
+    I haven't even heard of that one.: null
+    I haven't ever initiated a call.: null
+    I haven't gotten to see an, any real recent ones.: null
+    I haven't heard, I hadn't heard much about that movie.: null
+    I haven't really seen any movies in the movie theater: null
+    ? I haven't really seen one since probably August because, every weekend in, in
+      the Fall we go to our high school football game on Friday
+    : null
+    I haven't seen a whole lot either,: null
+    I haven't seen any of those.: null
+    I haven't seen it either,: null
+    I haven't seen it either.: null
+    I haven't seen it,: null
+    I haven't seen it.: null
+    I haven't seen that one either.: null
+    I haven't seen that one in a long time.: null
+    I haven't seen that one yet,: null
+    I haven't seen that one yet.: null
+    I haven't seen that one.: null
+    I haven't seen that yet,: null
+    I haven't seen that yet.: null
+    I haven't seen that.: null
+    I haven't seen too many lately.: null
+    I haven't seen,: null
+    I haven't started yet because I wanted to get one first: null
+    I haven't told my husband.: null
+    I haven't yet.: null
+    I haven't, not an opportunity to see that,: null
+    I hear that is really good, but I have not seen it yet.: null
+    I hear that's the one that you really need to see at the theater instead of home video .: null
+    I hear that,: null
+    I hear this movie F X part two coming out is, pretty good.: null
+    ? I heard a story about there's a, there's a certain scene in the movie where
+      there's, where they're, they're on a buffalo hunt.
+    : null
+    I heard it was a true story.: null
+    I heard it was, sort of not, too violent,: null
+    I heard it's really good,: null
+    I heard mixed reviews, of that,: null
+    I heard that was excellent.: null
+    I heard that's, a movie that, you really can't take children.: null
+    I heard the video's even going to be longer.: null
+    I highly recommend it.: null
+    I hope I don't run across them.: null
+    I hope you have a very Merry Christmas.: null
+    I just adored it.: null
+    I just can't come up with any names here,: null
+    I just don't enjoy it, because it's just like, come on, give me a break.: null
+    I just gave away just enough to get you interested .: null
+    I just go to be entertained: null
+    I just got done saying I just saw one, fairly recently.: null
+    I just have never been a Stallone fan.: null
+    I just have, I don't know, I just have never seen any interest in him,: null
+    I just keep telling her, how can you do that?: null
+    I just laughed and cried: null
+    I just really enjoyed it,: null
+    I just remember when it first came out that it had kind of mixed reviews.: null
+    I just saw a movie, called THE LOST CAPONE.: null
+    I just saw one on the video.: null
+    I just saw the latest one.: null
+    I just saw, a really interesting movie called, FLATLINERS.: null
+    I just sort of blanking tonight.: null
+    I just thought it was fantastic.: null
+    I just thought, we could probably get a better house,: null
+    I just went because we couldn't, we could never get to go see it together because it's so long.: null
+    I just, I probably had a test that day, or something,: null
+    I just, I usually fall asleep: null
+    I just, don't get a chance to get out and see them.: null
+    I keep not doing it until after I'm there: null
+    I keep track of them a little,: null
+    ? I keep, there's like three movies that I, I keep telling myself that I should
+      see one of these, some day that I haven't seen, that, that are classics,
+    : null
+    I kept thinking about it,: null
+    I kind of like it when they do that, because the video, like I said,: null
+    ? I kind of, I think I enjoyed it more when I, when I watched it on video cassette
+      than I did, in the movie theater because my attention would get diverted every
+      time they'd say that.
+    : null
+    I knew it was easier back here.: null
+    I knew the story line going in,: null
+    I knew you were going to say that.: null
+    I know I saw, something about it.: null
+    I know it hasn't been that long since I've seen the previews for it,: null
+    I know it's going to be on, on the, on C B S Tuesday night: null
+    I know my daughter saw that: null
+    I know my husband wouldn't have stood for that.: null
+    I know some friends who went to see it.: null
+    I know that they die,: null
+    I know that they're still playing it: null
+    I know they're fake.: null
+    I know they, there must have used, been computers or something for animation this day,: null
+    I know what you're talking about.: null
+    I know who you mean.: null
+    I know, because we can go spend fifteen dollars: null
+    I like Costner a lot: null
+    I like Demi Moore.: null
+    I like Michael J. Fox a lot.: null
+    I like Sean Connery,: null
+    I like THE TERMINATOR.: null
+    I like a good suspenseful: null
+    I like all the, the RAMBO movies.: null
+    I like comedies better than I do dramas.: null
+    I like everything he's done so far.: null
+    I like funny movies: null
+    I like him.: null
+    I like his movies.: null
+    I like it when they will do something and not get too silly.: null
+    I like just about anything.: null
+    I like movies for entertainment.: null
+    I like scary movies.: null
+    I like scary ones that are realistic.: null
+    I like suspense.: null
+    I like that one after that where,: null
+    I like that where they run tense.: null
+    I like the director a lot, a guy named Tim Burton.: null
+    I like the more, movies that make you think.: null
+    I like the, I think it's called the, RAZOR'S EDGE,: null
+    I like the, SIXTEEN CANDLES, or sixteenth birthday or,: null
+    I like those movies that you watch time and time again.: null
+    I like to be entertained once in a while: null
+    I like to rent movies, too.: null
+    I like to watch the movies,: null
+    I like, I like Costner,: null
+    I like, I like that one too, but I thought YOUNG FRANKENSTEIN was better.: null
+    I like, as you know, these, these, these sil, silly movies,: null
+    I like, the true stories.: null
+    I liked BIRD ON A WIRE.: null
+    I liked RAINMAN,: null
+    I liked RAINMAN, too.: null
+    I liked it a lot because it had a lot of music in it.: null
+    I liked that movie.: null
+    I liked that,: null
+    I liked that.: null
+    I liked the woman that played in that,: null
+    I liked those two movies of his a lot.: null
+    I live in D C: null
+    I live on one of tho, that little ten mile spot.: null
+    I live wi, on the border.: null
+    I lived over in England for four years,: null
+    I lo, I like the turtles.: null
+    I looked at my watch only a few times,: null
+    I love Disney movies.: null
+    I love PRETTY WOMAN,: null
+    I love tearjerker movies.: null
+    I love that movie,: null
+    I love them like that.: null
+    I love those movies: null
+    I love those movies.: null
+    I loved it.: null
+    I loved that movie.: null
+    I loved the buffalo scene.: null
+    I loved the movie.: null
+    I may have to do that. Go see it,: null
+    I may have to see the video.: null
+    I mean, I, I, I was raised on Walt Disney films.: null
+    I missed several days, because I was getting quite a few calls.: null
+    I missed that one.: null
+    I need to see it.: null
+    I never did,: null
+    I never did.: null
+    I never laughed.: null
+    I normally get a call every other day.: null
+    I noticed that DANCES WITH WOLVES was playing at the, Granada Theater.: null
+    I only rented it, maybe a month ago: null
+    I ought to open the paper here because I know I've seen a few that have, have played.: null
+    I probably saw parts of those.: null
+    I read about how they did, an article on how they did all the special effects with the submarine.: null
+    I read about one or two thick novels like that a year.: null
+    ? I read an article one time talking about even the quote unquote realistic movies,
+      don't have very realistic upsets of the violence.
+    : null
+    I read the book: null
+    I read the book before: null
+    I realize that he would like his career to develop,: null
+    I really I cannot remember too much about it.: null
+    I really and truly am.: null
+    I really and truly did.: null
+    I really did: null
+    I really did.: null
+    I really didn't care for the ending of it.: null
+    I really do, because my youngest one, he watches something, you might as well just plan on staying up all night, because ,: null
+    I really do.: null
+    I really don't know what they're all about.: null
+    I really enjoy Harrison Ford which is one of the reasons I wanted to see,: null
+    I really enjoy,: null
+    I really enjoyed it, though.: null
+    I really enjoyed it.: null
+    I really enjoyed that a lot.: null
+    I really enjoyed that.: null
+    I really haven't seen any movies lately,: null
+    I really like them.: null
+    I really liked PRETTY WOMAN.: null
+    I really liked both of them.: null
+    I really liked it a lot.: null
+    I really liked it.: null
+    I really liked the SILENCE OF THE LAMBS,: null
+    I really need to go see the original one,: null
+    I really try to watch what they watch,: null
+    I really was, I was hoarse getting out of there.: null
+    I really, I enjoyed that movie,: null
+    I really, like him a lot. Which is why, DANCES WITH WOLVES was the last movie we had seen: null
+    I remember I was in school, I saw half of it: null
+    I remember I went to see DON QUIXOTE over there when it came out.: null
+    ? I remember feeling annoyed, I remember feeling annoyed that they had this whole
+      thing about the Master and the passing of wisdom, the, from older to younger
+      generation,
+    : null
+    I remember now.: null
+    I remember thinking it's a wonderful movie,: null
+    I remember when I was real little, I, we all went to some kind of scary movie,: null
+    ? I remember when we used to go to see, I remember when GRAND PRIX came out when
+      I was a kid, and some other movies like that.
+    : null
+    I remember, I was with a friend of mine, had, three kids,: null
+    I remember.: null
+    I rent probably four or five movies a week.: null
+    I rent, videos,: null
+    I rented a good movie, called CINEMA: null
+    I rented a lot of videos .: null
+    I rented that one night by myself.: null
+    I said "hey, it's worth it,: null
+    I said "whoa, I'm glad I have not had dinner".: null
+    I said Robert De Niro.: null
+    I said okay fine, I, I will, I will .: null
+    I said that wrong,: null
+    I said, no,: null
+    I said, now you better get out of the habit of watching those.: null
+    I said, ooh, I want to see it so bad.: null
+    I said, yeah,: null
+    I saw CITY SLICKERS.: null
+    I saw DANCES WITH WOLVES and, HOME ALONE: null
+    I saw DANCES WITH WOLVES.: null
+    I saw HOME ALONE with some friends just a couple days ago.: null
+    I saw James Doohan, the guy that plays, Scotty.: null
+    I saw SLEEPING WITH THE ENEMY: null
+    I saw THELMA AND LOUISE.: null
+    I saw half of it,: null
+    I saw it this weekend: null
+    I saw it three times.: null
+    I saw it when I was a kid: null
+    I saw it, I saw part of it again.: null
+    I saw one I thought was crummy.: null
+    I saw one the other day that was A KISS BEFORE DYING.: null
+    I saw one, it was a drama also,: null
+    I saw that movie too.: null
+    I saw that one,: null
+    I saw that one, two part series,: null
+    I saw that one.: null
+    I saw that other movie about, MOTHER, DAUGHT, MOTHER, WIFE, MURDERER.: null
+    I saw that with my cousin, just to see what, what the kids are into: null
+    I saw that,: null
+    I saw that.: null
+    I saw the one clip of him: null
+    I saw the original BACK TO THE FUTURE: null
+    I saw, ROBIN HOOD, which I didn't care for.: null
+    I saw, SLEEPING WITH THE ENEMY: null
+    I saw, lately I've seen SOAP DISH.: null
+    I see most all of mine there.: null
+    I see some that way.: null
+    I see what you mean.: null
+    I see what you're saying,: null
+    I seen that,: null
+    I seen the, previews for it on T V down here,: null
+    I should probably go back and read the book now that I just saw the movie again not too long ago.: null
+    I so mad I think I've had this for two months: null
+    I sort of think I may go do that.: null
+    I speak several,: null
+    I st, I want to see the FISHER KING and, and, catch ROBIN HOOD.: null
+    I stay at home.: null
+    I still enjoy watching those.: null
+    I still like watching him in THE TERMINATOR.: null
+    I teach in school,: null
+    I tell you, Sean Connery in the HUNT FOR RED OCTOBER,: null
+    I tell you, we really want to go: null
+    I tend to, tend to be hypercritical: null
+    I think GENERAL HOSPITAL: null
+    I think I haven't been to the movie theater here in about, six months,: null
+    I think I heard that was just one, was just out.: null
+    I think I know who you are talking about though.: null
+    I think I read about that too.: null
+    I think I saw that one.: null
+    I think I'm leaving out a portion.: null
+    I think I've made four calls .: null
+    I think I've missed one.: null
+    I think I've seen most of Humphrey Bogart's movies, but, in, in, a long time ago,: null
+    I think ROBIN HOOD, that's it,: null
+    I think Roseanne was in it too, another one that if you blink you'd miss her.: null
+    I think about these things and people trying to define their own world view,: null
+    I think from there on, all the way through the movie.: null
+    I think he did an excellent job in not being too much of a cop.: null
+    I think he'd like that one.: null
+    I think he's up in a attic, or some part of school.: null
+    I think he's very interesting: null
+    I think it just says hang up.: null
+    I think it was a three hour movie or two and a half hours,: null
+    I think it's a hundred years.: null
+    I think it's been nominated for twelve awards: null
+    I think it's like six bucks now in the theaters,: null
+    I think it's put out by Landmark Productions, the same people who put out CHARIOTS OF FIRE.: null
+    I think it's, I think, I can think of movies I have less fun during: null
+    I think she kept saying that,: null
+    I think that was probably the last movie I've seen, too.: null
+    I think that's the one I wanted to pick up the other day,: null
+    I think that, I can highly recommend that movie this, to see.: null
+    I think that, it's, it's kind of good entertainment.: null
+    I think the last movie I saw was MISERY.: null
+    I think the last movie that we went out to see was DANCES WITH WOLVES.: null
+    I think the last one I rented was, MORTAL THOUGHTS: null
+    I think the last one that we actually went to go see,: null
+    I think there's a bunch of good movies coming out.: null
+    I think they are a lot better than they us, than they were,: null
+    I think they may be playing up: null
+    I think with the rebate you could get it for nine dollars: null
+    I think you said Peter.: null
+    I think you, it's, it's something I think you would enjoy,: null
+    I think, I think the only I've ever seen a sequel was TWO THOUSAND AND ONE.: null
+    I think, around here, it's all ready quit playing.: null
+    I thoroughly enjoyed it.: null
+    I thought I better save that one for another day .: null
+    I thought I had to kind of get beyond that.: null
+    I thought I'd better see that one before I go and see six.: null
+    I thought I'd like it,: null
+    I thought an excellent one, too, was MISERY with Kathy Bates and James Caan.: null
+    I thought gosh: null
+    I thought he did such an excellent job of not: null
+    I thought it was good.: null
+    I thought it was great.: null
+    I thought it was kind of maybe for kids more, than ad,: null
+    I thought it was okay.: null
+    I thought it was pretty good.: null
+    I thought she was good in that.: null
+    I thought that was a good show.: null
+    I thought that was a pretty good movie,: null
+    I thought that was just great.: null
+    I thought that was really funny.: null
+    I thought that was so cute,: null
+    I thought that would be one of those that I would love to watch over and over.: null
+    I thought the book was better than the movie,: null
+    I thought the movie was really good as well.: null
+    I thought the, the cima, the cinematography was excellent.: null
+    ? I thought they made him up, and then I found out, after I saw the movie that,
+      they, they started talking about that scandal
+    : null
+    I thought, I thought it was interesting that he was doing som,: null
+    I thought, it, it,: null
+    I thought, man .: null
+    I thought, my.: null
+    I thought, no, it's really funny.: null
+    ? I thought, that, that would not have been the sort of thing I would have wanted
+      my children to see at that age, when they were young.
+    : null
+    I thought, what a strange combination,: null
+    I told her when she had her, her little girl.: null
+    I took a date to it, about a month ago.: null
+    I took my kids to see A HUNDRED AND ONE DALMATIANS: null
+    I try to get away from that.: null
+    I try to say, it's just a movie,: null
+    I try to think of myself as young,: null
+    I understand that's a sequel to an earlier movie that showed about two weeks ago on television.: null
+    I used to do that too,: null
+    I used to watch a lot of, sort of, the less, the less popular films.: null
+    I usually come away thinking, no I really don't like this show .: null
+    I usually rent them .: null
+    I usually, when I hear about a movie that's supposed to be very good: null
+    I want to go see that.: null
+    I want to say Garfield: null
+    I want to see AWAKENING.: null
+    I want to see WAR OF THE ROSES too,: null
+    I want to see it though.: null
+    I want to see it.: null
+    I want to see that and CITY SLICKERS both.: null
+    I want to see that one.: null
+    I want to see that.: null
+    I want to see, that new one, that won all those Academy Awards this year, DANCES WITH WOLVES.: null
+    I wanted him to win best actor on top of it,: null
+    I wanted to get to the SILENCE OF THE LAMBS,: null
+    I wanted to see it, because there was, much recommended,: null
+    I wanted to see it.: null
+    I wanted to see that .: null
+    I wanted to see that.: null
+    I wanted, I want: null
+    I was WARLOCK too, which is supposed to be the story of a, witch hunt that is, magically shot into the present time.: null
+    I was a little disappointed in the third on,: null
+    I was a little worried about my son.: null
+    I was a lot, I was a lot more impressed with her than I thought I would be.: null
+    I was absolutely rolling in the aisles.: null
+    I was deciding between that and, MY GIRL: null
+    I was going to go see, the Billy Crystal movie, also, which was,: null
+    I was going to read while it was on,: null
+    I was going to s,: null
+    I was going to say, you, you can find certain restaurants that are nice,: null
+    I was going, .: null
+    I was hesitant,: null
+    I was home alone.: null
+    I was hoping he was going to get Best Actor.: null
+    I was impressed with the fact that, it wasn't that childish.: null
+    I was in New York in the sixties.: null
+    I was interested in reading TEXASVILLE before I saw the movie.: null
+    I was just sit,: null
+    I was just sitting there going, my goodness,: null
+    I was just sitting there watching it,: null
+    I was just thinking another good one I saw not too long ago was, SLEEPING WITH THE ENEMY.: null
+    I was kind of surprised at that.: null
+    I was listening Sunday night a little bit when,: null
+    I was not real impressed with it.: null
+    I was pretty disappointed in it.: null
+    I was pretty disappointed in that one.: null
+    I was ready to go back and see it again,: null
+    I was really disappointed in it,: null
+    I was really disappointed in that because I like him: null
+    I was really glad when it won all those awards because it really deserved it.: null
+    I was really happy that he got,: null
+    I was really impressed with that one.: null
+    I was really surprised.: null
+    I was scared to death of our house had a basement for years.: null
+    I was telling him about a couple of weeks ago,: null
+    I was thinking, Wow,: null
+    I was trying to think of the other one that we had rented lately, was PRESUMED INNOCENT, with, Harrison Ford,: null
+    I was up there half a day and came home and collapsed.: null
+    I was very surprised that did do a slapstick movie, because that's, not really the way comedies are right now: null
+    I was with my wife: null
+    I was worried: null
+    I was, I was believing it,: null
+    I was, I was pretty disappointed in it: null
+    I was, I was so impressed with that movie: null
+    I was, I was, I went thinking it'll be okay, not great,: null
+    I wasn't sure,: null
+    I wasn't, I've seen his other movies,: null
+    I watched it at a friend's house on video: null
+    I watched it without them.: null
+    I watched last weekend.: null
+    I watched that movie with, Barbara,: null
+    I went about two or three weeks ago and saw F X TWO: null
+    I went and bought the video.: null
+    I went to college here and everything.: null
+    I went to dinner with some friends last weekend: null
+    I went to my doctors last Thursday,: null
+    I went to, to Shakespeare's and, StratfordOnAvon: null
+    ? I went two or three weeks ago for the first time in a long time and saw DANCES
+      WITH WOLVES, which turned out to be an extremely good movie.
+    : null
+    I went up to do WordPerfect cause that seems like that's what everybody wants,: null
+    I went with someone,: null
+    I went with, our daughter: null
+    I won't give the, the whole plot away: null
+    I won't tell you that, just in case you see the movie.: null
+    I wonder how they kept up with them, though,: null
+    I wonder how truthful all of that was or whether there was fiction.: null
+    I wondered if maybe he was patterned after him.: null
+    I wondered who it was too.: null
+    I work in Massachusetts actually.: null
+    I worked about three days a week ever since, two to three days a week.: null
+    I would have gotten in trouble the next day,: null
+    I would have liked to have a kid with me, I think, preferably someone seven or eight: null
+    I would have, would have liked to have seen it,: null
+    I would recommend that if you have a chance.: null
+    I'd go which one could that be: null
+    I'd have to say, I, I don't know.: null
+    I'd heard it was really good, too: null
+    I'd like to see GREEN CARD,: null
+    I'd like to see SILENCE OF THE LAMBS.: null
+    I'd like to see that and, THE NEVER ENDING STORY, came out on Disney this month, I think.: null
+    I'd like to see that.: null
+    I'd never get my husband to that.: null
+    I'd really like to get out to the movies more often.: null
+    I'd recommend it.: null
+    I'd, I'd a never put those two together.: null
+    I'd, I'd rather rent.: null
+    I'd, I'd start trying to focus in on people instead of, of picking up the overall,: null
+    I'll have to put that, I'll have to keep that on my list then.: null
+    I'll have to write that down.: null
+    I'll have to write that,: null
+    I'll just have to talk about the ones that I went to see,: null
+    I'll probably try to go se, to see it in a little while here.: null
+    I'll remember the name.: null
+    I'll try that.: null
+    I'll watch them,: null
+    I'm a big, Mel Brooks fan: null
+    I'm a little bit behind.: null
+    I'm a real big Patrick Swayze fan: null
+    I'm also, besides working at T I, I'm a graduate student at North Texas and working on master's in communication.: null
+    I'm an Air Force brat,: null
+    I'm convinced now he can act.: null
+    I'm dying to see that.: null
+    I'm from Kentucky originally,: null
+    I'm from Long Island: null
+    I'm from New York.: null
+    I'm from the .: null
+    I'm getting around real good: null
+    I'm getting it fixed right now: null
+    I'm getting to the point where, I watch, I watch NICK AT NIGHT.: null
+    I'm glad I didn't.: null
+    I'm glad to know that there's somebody else out there that doesn't get to go to the movie theater .: null
+    I'm glad you did that before your surgery .: null
+    I'm going to have to stop and explain,: null
+    I'm going to try to get in DANCES WITH WOLVES.: null
+    ? I'm holding out for CITY SLICKERS for the two of us because, we had friends
+      that went to see that and said, it's just perfect for our age group
+    : null
+    I'm in California .: null
+    I'm in for it.: null
+    I'm just out of school: null
+    I'm just still real sore.: null
+    I'm like, come on.: null
+    I'm looking forward to it.: null
+    I'm looking forward to seeing that: null
+    I'm looking forward to seeing that one.: null
+    I'm looking forward to this summer, NAKED GUN TWO AND A HALF is coming out.: null
+    I'm much the same way.: null
+    I'm not a James Caan fan,: null
+    I'm not a big Julie Roberts fan.: null
+    I'm not a real big Jody Foster fan,: null
+    I'm not either.: null
+    I'm not into that,: null
+    I'm not pregnant, mind you,: null
+    I'm not real sure what it's about.: null
+    I'm not sure I want to go see it yet .: null
+    I'm not sure exactly where DANCES WITH WOLVES was filmed.: null
+    I'm not sure when it will be hitting video stores,: null
+    I'm not too familiar with THELMA AND LOUISE.: null
+    I'm not with you so far,: null
+    I'm pretty impressed with stuff he's done.: null
+    I'm really not for sure, though, if: null
+    I'm so sick and tired of that.: null
+    ? I'm sure I'm going to be seeing it because in a week to Amarillo where my sister
+      lives, and she's got two boys that I took to see the first one.
+    : null
+    I'm sure I'm going to see the next one here real soon.: null
+    I'm sure it was a good movie,: null
+    I'm surprised.: null
+    I'm trying to just think of the ones that have come on.: null
+    I'm trying to think of the other one I saw recently, the one on, DEFENDING YOUR LIFE.: null
+    I'm trying to think what else I've seen recently.: null
+    I'm trying to think.: null
+    I'm trying to,: null
+    I'm used to it now.: null
+    I'm, I saw her in THE KEYS,: null
+    I'm, I'm afraid to go see that one.: null
+    I'm, I'm an electrical engineer.: null
+    I'm, I'm glad to hear that because they,: null
+    I'm, I'm intrigued by it,: null
+    I's about to say, you're not going to take her to that one, I'm sure.: null
+    I've been disappointed in some movies that, they don't know how to end it, it seems like,: null
+    I've been hearing a lot about it.: null
+    I've been on this list for two months.: null
+    I've been out trying to find a job because this is just not cutting it.: null
+    I've been wanting to see TURTLE TWO.: null
+    I've enjoyed a lot of his movies,: null
+    I've forgotten the guy's name who was in it, who had the lead role.: null
+    I've gone blank.: null
+    I've gone to, one for real live Trek Convention: null
+    I've got two.: null
+    I've had a hard time enjoying Harrison Ford in anything since the Indiana Jones movies.: null
+    I've had somebody tell me that REGARDING HENRY, the Harrison: null
+    I've heard a lot about that one.: null
+    I've heard a lot of good things about it.: null
+    I've heard about that: null
+    I've heard it's wonderful too,: null
+    I've heard it, it, it's not one for the videos.: null
+    I've heard that is wonderful.: null
+    I've heard that it's real good.: null
+    I've heard that it's real long. That it's a good movie, but it's long, like three hours.: null
+    I've heard that's: null
+    I've heard that's,: null
+    I've heard, I've heard that's really great, though.: null
+    I've just been called, by the switchboard,: null
+    I've never seen CITIZEN KANE,: null
+    I've never seen any of those.: null
+    I've never seen either of the first, of the, of the GODFATHER movies: null
+    I've never seen that.: null
+    I've never, just haven't gone out to see it.: null
+    I've only seen him in funny stuff: null
+    I've probably seen it about fifteen or twenty times.: null
+    I've said, I've made four calls,: null
+    I've seen HOOSIERS.: null
+    I've seen PRETTY WOMAN and DANCES WITH WOLVES,: null
+    I've seen all of James Dean's movies.: null
+    I've seen it,: null
+    I've seen it.: null
+    I've seen that,: null
+    I've seen that.: null
+    I've seen, previews for them on T V,: null
+    I've seen, some different clips of it,: null
+    I've worked for them for several years, twelve now, I guess.: null
+    I've, I've alwa, I've been wanting to see all of it: null
+    I've, we've seen that two or three times.: null
+    I, I absorbed all of that movie in one sitting.: null
+    I, I can see that.: null
+    I, I didn't like it.: null
+    I, I didn't see that.: null
+    I, I didn't, I didn't even like the previews on that.: null
+    I, I don't even remember seeing that advertised: null
+    I, I don't go to that many: null
+    I, I don't know all the actors or anything,: null
+    I, I don't know why but he's always a lot of fun in every movie he's in.: null
+    I, I don't like that a lot.: null
+    I, I don't like to go to movies to be scared,: null
+    I, I don't mind watching subtitle movies.: null
+    I, I don't much care for Michael J Fox anyway.: null
+    I, I don't think so.: null
+    I, I enjoy them.: null
+    I, I feel foolish sometimes because I, I don't speak another language fluently: null
+    I, I figure if I find a movie I like, I'll buy it.: null
+    I, I guess I have similarly broad tastes.: null
+    I, I guess one of my favorite, two of my favorite movies is probably LETHAL WEAPON and LETHAL WEAPON TWO.: null
+    I, I had a lot of things that I, I,: null
+    I, I hadn't been to the movies for a really long time: null
+    I, I have a theory.: null
+    I, I have a, a brother myself that's, that's older: null
+    I, I have come to respect a little bit more the, what went on here,: null
+    I, I have some,: null
+    ? I, I have to say that probably the one movie that really threw me back the most,
+      that I was really the most in shock with was probably, STAR WARS.
+    : null
+    I, I haven't seen either one of those.: null
+    I, I heard it was really good,: null
+    I, I just finally ended up going to see it,: null
+    I, I just look at the newspaper before I decide to go: null
+    I, I just moved down, in fact, from South Dakota in, in June,: null
+    I, I keep a little library of books that I just like to read over and over again: null
+    I, I keep forgetting to make these calls.: null
+    I, I know for sure that that one about,: null
+    I, I know we get discount tickets: null
+    I, I like all ranges of movies,: null
+    I, I like, I like slapstick comedy.: null
+    I, I live alone.: null
+    I, I live with, a roommate and my girlfriend the three of us.: null
+    I, I loved that film.: null
+    ? I, I might have seen part of that because the name sounds familiar although
+      I wo, I would remember, I think in, with him in it.
+    : null
+    I, I never did care for him as, in the James Bond movies.: null
+    I, I noticed yesterday in the paper, something said that it,: null
+    I, I read a lot of Larry McMurtry books: null
+    ? I, I really enjoy watching a movie that, where they don't really try and attract
+      the, the great audience, but rather put out a, a real good movie.
+    : null
+    I, I really enjoyed that.: null
+    I, I really like a variety.: null
+    I, I really thought about, all the, the westerns that we have seen for years and years,: null
+    I, I saw it and, because my wife wanted to see it.: null
+    I, I saw the previews.: null
+    I, I saw, SLEEPING WITH THE ENEMY.: null
+    I, I spent four years traveling around and didn't see, hardly anything.: null
+    I, I think lately PRETTY WOMAN'S been my favorite.: null
+    I, I think, I liked the other movies he's done.: null
+    I, I thought it was a good film.: null
+    I, I want to see, DANCES WITH WOLVES.: null
+    I, I wanted to see,: null
+    I, I was afraid that RAMBO was going to do the same thing that ROCKY was going to do,: null
+    I, I was curious if you had seen it: null
+    I, I was real disappointed: null
+    I, I was really able to, to relate to the, the relationship aspect of the movie between the brothers.: null
+    I, I was thinking about that too,: null
+    I, I was told by several people that it's pretty scary and intense: null
+    I, I wish, I'd seen it when, when, it was originally in the theaters: null
+    I, I wouldn't go so far as being a Trekkie,: null
+    I, I'd actually have to get a newspaper out.: null
+    I, I'm guessing probably an hour and fortyfive minutes, maybe.: null
+    I, I'm not familiar.: null
+    I, I'm ready to go.: null
+    I, I'm truly enough, I'm truly an intellectual snob,: null
+    I, I'm young,: null
+    I, I've been down to the south of England where supposedly King Arthur's castle was.: null
+    I, I've heard that, and then what you just told me: null
+    I, I've really enjoyed him in everything I've seen him in, a guy named Charles Martin Smith.: null
+    I, I've seen it twice now .: null
+    I, I've seen, , just recently, WHAT ABOUT BOB?: null
+    I, I, I had seen it before Christmas,: null
+    I, I, I remember that movie,: null
+    I, I, I still catch things in AIRPLANE that I didn't catch.: null
+    I, I, I tend to, I think, overreact occasionally when somebody tells me it's that great.: null
+    I, I, I watched, Costner on the Academy Awards.: null
+    I, I, I'm actually originally from Hollywood,: null
+    I, I, I've heard lots of good things about it: null
+    I, I, I've seen it the second time not too long ago.: null
+    I, I, I, I feel that way when movies are blown up, out of proportion,: null
+    I, I, I, I have a fiance: null
+    I, I, I, I really, I used to watch a fair number of foreign films.: null
+    I, I, I, I'm very, I'm very critical,: null
+    I, am not one for the,: null
+    I, at least what I hear on that one, that it's coming out a second time in a, in a longer version: null
+    I, come to think of it, I don't think I went to the movies one time.: null
+    I, in that I, I guess I, I hate to be too surprised in a movie,: null
+    I, it's just that they are both very long: null
+    I, n, I haven't been to South Dakota.: null
+    I, now I will copy them and rent them: null
+    I, right now I'm working with a temporary agency.: null
+    I, then I wasn't expecting any classic either.: null
+    I, think because they were, they were scheduling a video release of it in July: null
+    I, was reading in, a book. trying to think,: null
+    I, we have some doctors at church who said that DOCTOR was just wonderful.: null
+    I, we saw her just the other night too.: null
+    I, we've rented some videos.: null
+    IN SEARCH OF SPOCK, JOURNEY HOME, I think that was.: null
+    If I ever get the hankering to see something, I've got, I don't know, maybe about thirty or forty movies: null
+    If you are going to be planning on doing that,: null
+    In fact we kept sitting there all through the theater going now what, what did that mean,: null
+    In fact, I was watching WILD WILD WEST last night: null
+    In fact, people I've talked to said that they hadn't slept real good for a while afterwards.: null
+    In fact, that's where I've seen most of my movies, have been on video.: null
+    In fact, the buffalo, the scene, the big buffalo herd scene, that was, that was a live scene.: null
+    In one of them they have a mother shark, destroy a whole, marina and aquarium.: null
+    It came out right around the time, with Sophia Loren: null
+    It doesn't say part one,: null
+    It got such bad reviews,: null
+    It had a social message to it: null
+    It has, w, to see it on the big screen because it's just the most gorgeous nature scenes you've ever seen in your life.: null
+    It is about a little kid that, that his parents go off to Paris.: null
+    It it's, it's really funny because they run through, what they have them do is sit down and see scenes of their lives.: null
+    It looks, it looks pretty suspenseful.: null
+    It made us think.: null
+    It really was,: null
+    It seems, southern town,: null
+    It sounds kind of like one, we saw at home here on the, rented it, CLARA'S HEART.: null
+    It this is the first time he's interrupted my phone calls.: null
+    It turned out to be a better thriller than I was expecting it to be.: null
+    It used to,: null
+    It was a different movie from anything I've ever seen.: null
+    It was a good show.: null
+    It was a little strange,: null
+    It was a pretty crowded place.: null
+    It was a really, really good movie.: null
+    It was about, a,: null
+    It was cute,: null
+    It was discuss air pollution,: null
+    It was fantastic.: null
+    It was funny.: null
+    It was good.: null
+    It was great.: null
+    It was horrible.: null
+    It was just a good movie.: null
+    It was just mostly centered upon his abilities to: null
+    It was just too perfect at all times.: null
+    It was just,: null
+    It was kind of a silly little film about soap operas and things.: null
+    It was like a FATAL ATTRACTION thing.: null
+    It was like the best of the Walt Disney ones.: null
+    It was like, want an autograph, want to stand in line for about four hours.: null
+    It was not one that I picked,: null
+    It was not, not a wonderful film: null
+    It was pretty good.: null
+    It was pretty scary because I was visiting a V A Hospital, near to where I live: null
+    It was pretty wild: null
+    It was really good.: null
+    It was really kind of interesting because,: null
+    It was really sad.: null
+    It was really suspenseful.: null
+    It was sad, very sad.: null
+    It was sad.: null
+    It was so awful.: null
+    It was telling a friend, I, I said, I only cried twice,: null
+    It was the one where he was a defense,: null
+    It was very difficult.: null
+    It was very predictable,: null
+    It was, I, I, it was, it was weird.: null
+    It was, it was a big western,: null
+    It was, it was all done in studio with smoke and mirrors and all the Hollywood magic.: null
+    It was, it was done fairly well, I think.: null
+    It was, it was filmed in Ireland.: null
+    It was, it, I was absolutely enthralled by it.: null
+    It wasn't Stallone,: null
+    It wasn't the same.: null
+    It's TRUTH OR DARE: null
+    It's a Walt Disney movie: null
+    It's a child's movie,: null
+    It's a good movie.: null
+    It's a little on the violent side: null
+    It's about a Black singing group.: null
+    It's been a while since I've seen it.: null
+    It's called REVIEWING MY LIFE, or something like that.: null
+    It's from DANCES WITH WOLVES.: null
+    It's just beautiful country with the hills and the trees and the buffalo and the whole thing,: null
+    It's just slapstick comedy .: null
+    It's just, it's just so realistic. Everything they do.: null
+    It's just, just the special effects,: null
+    It's no more costly than renting one.: null
+    It's not necessarily, it's not necessarily scary as it is suspenseful.: null
+    It's one of my: null
+    It's one of our favorite movies.: null
+    It's one that, once you've seen it once the suspense there is not really , you really can't see it again: null
+    It's playing at school in about two weeks, I guess.: null
+    It's probably my all time,: null
+    It's really, it was really interesting.: null
+    It's sort of the uncut version.: null
+    It's supposed to: null
+    It's suspenseful.: null
+    It's the behavioral science part of communication,: null
+    It's very peculiar circumstances: null
+    It's with, Jodie Foster.: null
+    It's, I don't know, fifteen minutes from the Mass, border and five minutes from the main border. *main = Maine?: null
+    It's, he is a prosecuting attorney: null
+    It's, it's a neat little story actually.: null
+    It's, it's more suspense.: null
+    It's, it's over two hours long.: null
+    It's, it's pretty deep and, philosophical.: null
+    It's, it's pretty graphic at points.: null
+    It's, it's very, very good. Very good.: null
+    It's, it's, it's a long movie.: null
+    It's, the scenery and the landscape and the country that they're in needs a big screen.: null
+    It's, uh, story about a little boy in a Italian, a little Italian village,: null
+    It, it's just getting so expensive.: null
+    ? It, it's just the idea that there is this one spot where the white man has come
+      by and killed a bunch a buffalo and just stripped its hide, the hides.
+    : null
+    It, it's like most suspense movies,: null
+    JAGGED EDGE,: null
+    Jack Palance had an excellent part in there as the old cowboy.: null
+    Jay really liked ROBIN HOOD.: null
+    Jeff Wariner just got out of the hospital: null
+    Jeff and Deeanna went and another friend in the neighborhood,: null
+    Jessica Tandy won best actress: null
+    John is in it if you don't blink.: null
+    Just as RAIN MAN, with Dustin Hoffman,: null
+    KISS BEFORE DYING.: null
+    Keep her on the edge of her seat.: null
+    Kevin Costner I understand is supposed to be play Schwartzkopf, supposedly.: null
+    Kevin Costner did all of his own scenes: null
+    LITTLE MERMAID and PETER PAN: null
+    Last thing I saw was, I think, SLEEPING WITH THE ENEMY with Julia Roberts.: null
+    Last year's number one movie for the year was GHOSTS.: null
+    Latest, latest one I've saw which was a mistake to go see was LIONHEART,: null
+    Like I said, I wouldn't given the supporting actresses either one.: null
+    Like I said, we don't take her to R s.: null
+    Like you said, you had to accept the beginning of it and just kind of go.: null
+    Matter of fact, he looks just as about as old and the, NEXT GENERATION as he does in the latest STAR TREK .: null
+    Me and my roommate.: null
+    Meanwhile, I sat through the movie and said when are you, when are you supposed to start crying, .: null
+    My all time favorite is WEEKEND AT BERNIE'S.: null
+    My approach to movies is I kind of hear about them,: null
+    My first one was the toughest,: null
+    My husband didn't like it that much.: null
+    My husband doesn't enjoy the shows as much going to them,: null
+    My husband liked that: null
+    My husband said it was, about the same lines.: null
+    My husband took the kids to see that one: null
+    My husband,: null
+    My kids are twenty and sixteen,: null
+    My kids want to see RESCUER'S DOWN UNDER: null
+    My little boy's four: null
+    My little boy, he loves ROBO COP.: null
+    My son just turned two: null
+    My, my very favorite one that the top of the tick for me is, EXCALIBUR.: null
+    NO WAY OUT was really good: null
+    Never sho, any, anyway, anything that I ever wanted,: null
+    Nobody had ever touched it before.: null
+    None at all.: null
+    Normally I'm one of these people that I don't like one, one movie taking all the honors.: null
+    Norman Gear.: null
+    Norman Gray,: null
+    Now I don't, I hardly ever watch T V.: null
+    Now I want to see SLEEPING WITH THE ENEMY.: null
+    Now I've seen another clip of, the guy that plays in MURPHY BROWN,: null
+    Now as far as, let's say, heavy violence, I can't handle .: null
+    Now, I, I also liked, GONE WITH THE WIND or some of the classic, like THE LAWRENCE OF ARABIA: null
+    Number nine, number ten, number: null
+    OLD YELLER. BIG RED.: null
+    Of course I was a teenager when I seen that: null
+    Of course the ones I always remember are the, the older ones: null
+    Of course they raise them now, to eat.: null
+    Of course, the bad thing about it was, the second time I saw it, I didn't really enjoy it as much,: null
+    Of course, the only sound is Dudley Moore narrates it.: null
+    Of course, they got married: null
+    One is SILENCE OF THE LAMBS.: null
+    One movie I saw, I guess it was a while back, RED OCTOBER.: null
+    One of my favorite movies, it's not one that I haven't seen,: null
+    One of those cop thrillers: null
+    One, one, absolutely slapstick comedy and one clearly, serious subject.: null
+    Or what you read.: null
+    Other than that, DANCES WITH WOLVES seems like to be the only thing I've seen in the past several months to have any,: null
+    Other than the,: null
+    P G s used to be R s: null
+    PRESUMED INNOCENT was the one we rented,: null
+    Parts of, parts of WAR OF THE ROSES was funny: null
+    Paul Hogan.: null
+    Probably the last comedy we saw, now that I think about it, is HOME ALONE.: null
+    Quite frequently, we have our grandchildren on the weekends: null
+    Robert De Niro,: null
+    SILENCE OF THE LA, of the LAMBS was good.: null
+    SILENCE OF THE LAMBS kept me on the edge of my seat.: null
+    Saw it just again the other night, for,: null
+    She disappeared from her hu, husband who was abusing her.: null
+    She doesn't mind when we cover up her eyes.: null
+    She goes to almost all movies with us except, R rated.: null
+    She gr, she went through college and graduated very high up in her class and had, gotten a job as, as an instructor: null
+    She said she rented it last night: null
+    She was the only indian to have her hair done at all times.: null
+    Shoot, I can't remember the guy's name.: null
+    Sit there and laugh,: null
+    So, sounds sort of like the incredible journey.: null
+    Some I know,: null
+    Somebody in South Carolina told me about him.: null
+    Somewhere in China somewhere I think that it was filmed.: null
+    Somewhere in that range.: null
+    Speaking of that I think TERMINATOR TWO is supposed to be out.: null
+    Stonehenge, of course,: null
+    Supposed to be his, his debut in comedy.: null
+    TEXASVILLE is just like that.: null
+    THE DOORS movie, that's out on video. I want to watch that.: null
+    THE LITTLE MERMAID is now our favorite movie.: null
+    THE WORLD ACCORDING TO GARP.: null
+    THELMA AND LOUISE,: null
+    TOTAL RECALL last year I thought was really good, last summer.: null
+    Tha, that was a good one too,: null
+    That he had stopped writing and had stopped,: null
+    That is a riot.: null
+    That is one I've been dying to see.: null
+    That is their very favorite.: null
+    That is what people say.: null
+    That kind of reminds me: null
+    That made me go out and watch every David Lynch movie I could lay my hands on.: null
+    That one little spot in New Hampshire, we have ten miles of coastline,: null
+    That scared me to death,: null
+    That was a, a great one.: null
+    That was a, that was a good one, too.: null
+    That was excellent.: null
+    That was fun.: null
+    That was good.: null
+    That was it.: null
+    That was just ,: null
+    That was kind of a funny movie with, Richard Dreyfuss and Bill Murray.: null
+    That was next on our list,: null
+    That was on Prime Time Television here, recently at seven thirty in the evening.: null
+    That was pretty good.: null
+    That was really excellent.: null
+    That was supposed to be a true story, too.: null
+    That was the first place I ever saw it.: null
+    That was the television show.: null
+    That was with Richard Dreyfuss.: null
+    That was, Robin Williams: null
+    That was, that was an excellent movie.: null
+    That's exactly what,: null
+    That's just one of the many rumors that floats around.: null
+    That's kind of how WAR OF THE ROSES was.: null
+    That's not a recent movie,: null
+    That's one I can watch,: null
+    That's pretty good.: null
+    That's probably something I need to see right now because I'm taking history in school .: null
+    That's probably the last movie I saw. DANCES WITH WOLVES,: null
+    That's right.: null
+    That's strictly for entertainment .: null
+    That's the last one I saw, I think.: null
+    That's the, part they had trouble finding was wolves .: null
+    That's us too,: null
+    That's what I heard,: null
+    That's what people said,: null
+    That's why I was thinking it couldn't be just a totally funny part .: null
+    That's why, I,: null
+    That's, that's on our list of things to see .: null
+    That, that's, that's Julia Roberts' new movie.: null
+    The French movies that .: null
+    The ceilings: null
+    The first one was really good.: null
+    The five year old doesn't have the attention span, either.: null
+    The girl next to me saw it,: null
+    The husband was a dentist: null
+    The last one they saw was HOME ALONE: null
+    The last scary thing I saw was MISERY.: null
+    The last two years, I have done more theater movie going than I have actually watched videos at home.: null
+    The latest movie I've seen that I thought was fantastic was DANCES WITH WOLVES.: null
+    The little guy is so cute,: null
+    The oldest daughter, they take a head count and the oldest daughter counts one of the neighbor kids instead of,: null
+    The part where they're shooting .: null
+    The quality I think maybe has improved in that respect.: null
+    The violence can seem very realistic,: null
+    The way, you have to just keep reminding yourself that he's an actor.: null
+    The, the oldest is nine,: null
+    The, the story line,: null
+    ? The, the, I guess the, the first, the first, scene in that movie that really
+      got my attention, concerning the, the disease and all that was when he, dropped
+      the, the, the toothpicks,
+    : null
+    Then, I saw AWAKENING,: null
+    There was a couple of others that are out,: null
+    There were parts that were sad.: null
+    There're several of them that are out right now that I want to see.: null
+    There's a little, an old man who's the projectionist: null
+    There's a movie I do want to see,: null
+    There's one, there's a movie I've seen, ROGER RABBIT.: null
+    They did a lot of stuff that they cut out.: null
+    They had a free showing at the Berkeley, United Artist.: null
+    They had started out with that,: null
+    They had the Disney: null
+    They have been doing that.: null
+    They have some good management principals in this NEW GENERATION.: null
+    They initially start out in the barnyard kind of setting where they're raised.: null
+    They just, just,: null
+    They liked it.: null
+    They said it was really riveting.: null
+    They said it would be up Friday, the, March the fifteenth before it was prepared.: null
+    They say if you really want to be, you really want some suspense, that's the one to see.: null
+    They sort of move up to levels,: null
+    They think they're so cute.: null
+    They wanted to watch PRETTY WOMAN, which I have: null
+    They was actually went back like they were,: null
+    They're eight and ten.: null
+    They're supposed to be coming out with all these Desert Storm movies,: null
+    They've got, they've got a couple of kids, ten or twelve years old,: null
+    This is supposed to be the, the guy that's, replaces Bruce Lee or whatever or,: null
+    This was his American film debut: null
+    Those little,: null
+    Those were the last two that I've seen.: null
+    Two and a half . *is this a title??: null
+    Unfortunately we don't have any animals,: null
+    Valerie Bertinelli.: null
+    WHITE PALACE which I thought was over rated, over hyped, recently.: null
+    WORKING GIRL is really good.: null
+    We don't get to go that often,: null
+    We felt guilty for being,: null
+    We had both moms and, fifteen year olds and a twelve year old: null
+    We had to fast forward through a whole lot of it for them to see it .: null
+    We have cable which: null
+    We have to dig up a babysitter: null
+    We have two children,: null
+    We just got through watching one with, is it Claude Van Damme: null
+    We just rented, a couple weeks ago, a movie called THE FRESHMAN,: null
+    We laughed so hard,: null
+    We live right in the corner.: null
+    We never quite believed that,: null
+    We really need some,: null
+    We rent a lot of movies: null
+    We rented that one, too.: null
+    We saw THE NAKED GUN, TWO AND A HALF: null
+    We saw that too,: null
+    We seen THE LITTLE MERMAID, too.: null
+    We wanted to jump in the cars and race.: null
+    We went to see AWAKENINGS: null
+    We were going to sit through it again cause we really wanted him to see it, too.: null
+    We were just all grou, really grouchy when it was over.: null
+    We were not responsible,: null
+    We will rent two or three movies on Thursday: null
+    We'll have to see, because it's, there was some talk about that.: null
+    We're just not real big movie goers.: null
+    We're not real big movie goers ourselves,: null
+    We're really enjoying it: null
+    We've been waiting for a, a good movie out this summer for the kids to see.: null
+    We've both been wanting to see it.: null
+    We've got a good video place out here: null
+    We've got two bathrooms: null
+    We've seen that movie probably six times in the last six months.: null
+    We've taken her from real young,: null
+    We, I think the last one we saw was, TEENAGE MUTANT NINJA TURTLES PART TWO.: null
+    We, we laughed about it .: null
+    We, we rented one recently that seemed to go on forever .: null
+    We, we saw, an, we liked it: null
+    When I was a little kid, I saw the INCREDIBLE JOURNEY on Christmas Eve: null
+    When it was,: null
+    When that first came out, I really did not expect the special effects or anything like that.: null
+    Where he plays a, a actor that's, th,: null
+    Which was an interesting movie, but not very funny.: null
+    Whoopi Goldberg.: null
+    William Shatner wrote it.: null
+    With that new, Michael J Fox movie, THE HARD WAY.: null
+    With, Anthony Quinn.: null
+    Yes they like your Lewis much to the chagrin of sophisticated Am, of sophisticated American everywhere.: null
+    You can have dinner and everything while you watch the movie.: null
+    You just can't go out the front door honey,: null
+    You know, that I read in PEOPLE or somewhere, it was U S A TODAY: null
+    You listen to him: null
+    You see it for, a couple of hours or an hour: null
+    You start hearing noises: null
+    You wonder how in the world they ever got them to do some of these things.: null
+    You're bringing it,: null
+    a couple years ago, I guess, maybe ten years ago I, I had read: null
+    a defense and a prosecution,: null
+    a friend of mine saw it: null
+    a friend of mine told me she got NAKED GUN last night: null
+    a good bit of that was filmed right in Cincinnati.: null
+    a lot of other stuff we just wait until it comes out on tape.: null
+    a lot of things we try to catch at the dollar theater or matinees: null
+    a lot of times I'll wa, I'll start watching a movie: null
+    a lot of times they have the, the, the, international films downtown: null
+    a lot of times we'll go to rent a movie or something: null
+    a lot of times, what I wind up doing is, picking say an actor or an actress,: null
+    a review usually won't make me go see a movie I hadn't already wanted to see.: null
+    actually have been to the movies,: null
+    after BULL DURHAM and FIELD OF DREAMS,: null
+    after that he did fine.: null
+    after the movie's over, I remember it so terribly well: null
+    after, after that I get involved in other things and don't want to: null
+    all of a sudden I'm saying I wish I'd bought these things.: null
+    all the critics initially said that, it wouldn't go anywhere, that it was just going to be a dud.: null
+    all the other animals.: null
+    all twelve,: null
+    amateurs but really quite good.: null
+    and the music: null
+    and using makeup and using the: null
+    and, WHAT ABOUT BOB?: null
+    another movie I watched.: null
+    another prosecutor in the, a woman prosecutor in there is murdered: null
+    anyhow we got, we got a nice, picture: null
+    anything that's, has anything: null
+    anyway, that was a French movie: null
+    as I say, th, I prefer the light movies that,: null
+    as it turns out, they meet there and fall in love and stuff like that.: null
+    ? as the movie settles down to a comfortable action, I can't really that it would
+      have gotten more than a star and a half from me either.
+    : null
+    ask me to name the ten that are out there right now,: null
+    at first they told me.: null
+    at least you know that it wasn't same situation that the buffalo died in.: null
+    back in his early days, he, he, he had things,: null
+    basically he played, a Frenchman who married an American girl, in a marriage of convenience: null
+    because I was going to say I always enjoyed that,: null
+    because of the cost: null
+    ? because she could claim she was married, she could get, an apartment or a condominium
+      in a very exclusive building in New York that had a garden, an, an, an outside
+      garden, which is very unusual there.
+    : null
+    because, everybody grows up looking at these cop movies and trying to, to imitate them or whatever.: null
+    because, the little boy dies.: null
+    being from Baltimore, of course, I'm a big Barry Levinson fan since, he, he's, he's done a bunch of Baltimore movies.: null
+    boy, I can't think of the other one that's fixing to come out.: null
+    boy. He was, he, he gave the, the best response that I've heard him give of this type of movie for RAIN MAN.: null
+    by the end he was looking more like a cop.: null
+    couple weeks ago I rented it and, watched it: null
+    course I am a Kevin Costner fan.: null
+    course, here's this, this woman who is heavy with child dragging rocks around.: null
+    course, it's one of these with a twist where it looks like he's the one that wound up killing her: null
+    do you know that I don't follow performers,: null
+    don't have a job: null
+    don't really know,: null
+    earlier tonight we were watching TO LIVE AND DIE IN L A.: null
+    especially if there's commercial in it .: null
+    ev, eventually it comes out on video,: null
+    even the ones that we rent at home, the trouble with some of them I know,: null
+    even though they were okay, the girl in it,: null
+    even worse, he directed it.: null
+    every major city had one theater that did it: null
+    every once in a while, I go, but it, it has to be somebody that I like: null
+    every room leads to three rooms,: null
+    every time he left the Enterprise, everything went to hell.: null
+    everyone else watched it .: null
+    everyone feels they are totally retarded.: null
+    excellent acting by Billy Crystal and: null
+    excellent movie.: null
+    ? finally they, carried her, out into the courtyard to, to, either really to shoot
+      her or to go through the motions of, of shooting her, with by firing, executing
+      her by firing squad.
+    : null
+    finally, it's my first summer movie .: null
+    ? finally, through her perseverance and writing enough letters to enough different
+      people embarrassed enough of the, the middle, bureauc, bureaucracy that they
+      finally let her go.
+    : null
+    for a while, sometimes they come in a whole bunch of them that just,: null
+    ? for, for, for no real, direct reason, I guess, we, we get into, a really good
+      relationship for a while and then, back and forth
+    : null
+    friend and I went to see OUT FOR JUSTICE: null
+    from what I heard, the guy who got it was better,: null
+    from where I'm at.: null
+    further down the coast in Massachusetts they got hit pretty bad.: null
+    go rent it.: null
+    gosh, I know, the one with the two girls that take off from, a, across, across the country on a crime spree.: null
+    gosh, I'm just trying to think of all the movies I've recently seen.: null
+    had Claude Van Damme.: null
+    has Jeff Bridges and, and, Robin Williams.: null
+    has Robert DeNiro in it.: null
+    have you seen any movies recently?: null
+    haven't, haven't been to one for a little while,: null
+    he and my husband and I, we just sit there and cackle: null
+    he at least saw it one time .: null
+    he befriends this old man,: null
+    he bought me PRETTY IN PINK.: null
+    he called this kind of stuff off and just put her in the labor camp.: null
+    he certainly didn't,: null
+    he chose it: null
+    he could climb out the window .: null
+    he deserts and goes to New York: null
+    ? he did real good through the whole movie except the part where the dogs are
+      sending the message, that the, the, the puppies are missing
+    : null
+    he didn't go back for more,: null
+    he didn't want to listen to it.: null
+    he directed the one before, I think STAR TREK FOUR, something like that.: null
+    he does, he has a talk show on the, K L I F.: null
+    he ended up being accused of it.: null
+    he got him to run like he was running down the kid by luring him with oreo cookies .: null
+    he got killed.: null
+    he got scared,: null
+    he had murdered her.: null
+    he has a fetish for Oreo cookies.: null
+    ? he has got over ten thousand head of buffalo we, my dad has got a little plane,
+      we flew over it all a, looked at the buffalo,
+    : null
+    he has to go underground,: null
+    he he turns out to be a law man.: null
+    he is still alive: null
+    he is up in the attic asleep because he got in trouble.: null
+    he just a little freckly, little boy.: null
+    he just bawled at the end: null
+    he just kind of hobbled down the halls real slow.: null
+    he just, to me, is not a very dynamic actor.: null
+    he keeps her pretty much terrorized to stay in the house,: null
+    he likes to rent them: null
+    he looks like little, I don't know, he looks like a little boy next door,: null
+    he loves them.: null
+    he made kind of an odd sounding ROBIN HOOD,: null
+    he moves on to L A to where that, where she is to just help him out.: null
+    he only saw it one time,: null
+    he played the, the, the character in it that was very, gross, very dirty,: null
+    he plays one of the main characters: null
+    he rescues this, bald eagle: null
+    he rides through the clouds,: null
+    he runs around a lot.: null
+    he said gosh, you're just healing really well,: null
+    he said something, because his English was so poor on, for the most part,: null
+    he said, I'll wait until it comes out on, tape and rent, rent the video.: null
+    he said, realistically ,: null
+    he says so you just take it easy for two more weeks.: null
+    he says, yeah,: null
+    he sets up traps for them all over the house.: null
+    he shaved the beard off.: null
+    he signed it.: null
+    he speaks very broken English.: null
+    he starts dreaming: null
+    he starts out by fighting to make money,: null
+    he thought ROBIN HOOD was great.: null
+    he told them, remember , remember, you were united, you can succeed, individually you will fail: null
+    he uses all of his special effects knowledge in doing what needs to be done.: null
+    he wa, before he saw the movie he was disappointed that Dustin Hoffman would do this .: null
+    he wanted to see that.: null
+    he wants to see that: null
+    he was a prosecu, cuter.: null
+    ? he was a, a poor Frenchman who had grown up on the, on the streets and sort
+      of pulled himself up by his bootstraps and claimed to be a composer,
+    : null
+    he was able to count the number of toothpicks just by a mental image.: null
+    he was in THE UNTOUCHABLES, too.: null
+    he was just kind of walking around.: null
+    he was on, on, Arsenio, just recently.: null
+    he was rather rather well to do in the old regime: null
+    he was rear admiral, whatever,: null
+    he was teasing me: null
+    he was very dangerous,: null
+    he wasn't there yet.: null
+    he winds up all over creation.: null
+    he worked hard at it.: null
+    he works in a, a movie th, theater it w, it helps the projectionist.: null
+    he'll be three in January.: null
+    he'll have trouble picking up his hat, or catching his umbrella blowing in the wind, or something,: null
+    he's a big Gene Wilder fan,: null
+    he's a little: null
+    he's a turtle fanatic.: null
+    he's a writer: null
+    he's a, Richard Dreyfuss is a, psychiatrist: null
+    he's at work,: null
+    he's been a star in France and a wonderful actor who we've enjoyed for years,: null
+    he's doing some other movie,: null
+    he's going through a stage right now where he's kind of afraid of dogs barking if he can: null
+    he's going to be in also.: null
+    he's hanging around with a cop trying to pick up the stuff.: null
+    he's never made an American film.: null
+    he's nice looking,: null
+    he's playing a cop.: null
+    he's running into Marlon Brando who is playing, this Maf, this, organized crime head.: null
+    he's saving the land of,: null
+    he's singular I guess,: null
+    he's sixteen.: null
+    he's supposed,: null
+    he's terribly rich by now.: null
+    he's the director,: null
+    he's this actor, right: null
+    he's trying to find it,: null
+    he's trying to save the land from some, .: null
+    he's, a very odd, odd man: null
+    he's, he was a real psycho in the movie.: null
+    he, he gets involved in some sort of bad dealings with somebody: null
+    he, he said he enjoyed it: null
+    ? he, he was so proud of himself for giving ex, all the correct answers that,
+      that on the last one he said, I never remember that answer
+    : null
+    he, he's kind of a Dustin Hoffman fan anyway.: null
+    he, he, once he has one he likes, he likes to watch it over and over.: null
+    he, in fact, he didn't direct this one.: null
+    he, owns a,: null
+    he, the next day he looked out there and saw those buzzards, .: null
+    he, the, he was, he's one of these guys though that doesn't really like to go see movies like that.: null
+    her dad was a doctor: null
+    her husband had escaped to Hong Kong,: null
+    her, her time frame was prior to the nineteen fortynine revolution.: null
+    here in Texas we only get two channels,: null
+    here it was quite easily seen by anybody that turned on the T V.: null
+    here, here's another one that I've seen.: null
+    his family, they lived in the same house there,: null
+    his most recent ones have actually been fairly mainstream, like HAIR SPRAY.: null
+    his wife's all excited: null
+    his, his, his karate is pretty good.: null
+    his, it kind of shows how his, best friend, this little girl, deals with his death: null
+    i, they're coming out with a sequel to it.: null
+    ? if I am looking for entertainment usually I, I, have more, time in the evening
+      than I do in the middle of the day to, see things.
+    : null
+    if I could remember the name, I know you'd know his name, because he's played in a few movies.: null
+    if I take a date,: null
+    if I, if I know the topic I'll go ahead and accept it as mine,: null
+    if and when we ever get a babysitter, like we did with SILENCE OF THE LAMBS, we go see it.: null
+    if you accept a few of the basic starting points, I guess the rest falls in place.: null
+    if you don't mind reading subtitles,: null
+    if you like love stories, it's sweet.: null
+    if you want popcorn and stuff: null
+    if, if that is that the second one follows the first.: null
+    impressed with: null
+    in STAR MAN, he was the guy chasing after, Jeff Bridges and Karen Allen, or Nancy Allen.: null
+    in fact I guess this was the last movie I saw: null
+    in fact she told me, Mom if we have a little girl and she has red hair we're naming her Aerial.: null
+    in fact we have a ten year old grandson that,: null
+    in fact, I want to, rent it when it comes out for my husband to see,: null
+    in fact, I'm not even familiar with it,: null
+    in fact, I, I, I'll, I'll look for it because I ,: null
+    in fact, Thing has a big, much bigger role than he does in the series.: null
+    in fact, a friend from Germany was visiting in March: null
+    in fact, it got some pretty serious deep parts in it: null
+    in fact, it's funny.: null
+    in fact, that was advertised not too long ago.: null
+    in his classes they're using, there's a bun, they're running a bunch of scenes from THE GODFATHER: null
+    in some of those, they, I guess they retitled some movies that were going to be about Lebanese and, and, and,: null
+    in that one you could, you could pretty well guess where it was,: null
+    in the case of TWIN PEAK a little, there's some elements of the supernatural in it, too.: null
+    in the early eighties or the, during the, the SMOKEY AND THE BANDIT era.: null
+    in the first scene, the warlock chopped off a guy's finger because he wanted the ring and then: null
+    in the meantime, she and her husband, were ex, ex, were expecting a child, their own child.: null
+    in the middle of that conversation we sort or picked an, an interesting point.: null
+    in the movie she, she disables him, but not by cutting his feet.: null
+    in the sixties.: null
+    in this movie, this, there's this boy: null
+    in time, the, all the side effects started showing.: null
+    in, in the book apparently she cuts his feet off,: null
+    is reborn to the younger generation,: null
+    it came in an envelope that says DANCES WITH WOLVES: null
+    it came out I guess about a month or, about a month and half ago, something like that.: null
+    it came out in the theater.: null
+    it did bring out a lot of thoughts between you and your brother.: null
+    ? it didn't get as, as good a reviews as the LITTLE MERMAID, their last one, and
+      got all kinds of Academy Awards and things last year.
+    : null
+    it doesn't end like the story has been going.: null
+    it flies through the air.: null
+    it gets to where he can't, control his movements at all.: null
+    it gets you,: null
+    it had an excellent story line.: null
+    it had large, press release.: null
+    it is six dollars,: null
+    it just left you with this kind of uneasy feeling,: null
+    it just ran the gamut of emotion.: null
+    it just tells about their friendship that lasts through all these years.: null
+    it just wasn't as funny the second time: null
+    it kept going on: null
+    it looked to me like it was a real submarine,: null
+    it made me think a lot about,: null
+    it makes you feel really sorry for her.: null
+    it put me in a really, it put me in a really bad mood,: null
+    it really is .: null
+    it really is,: null
+    it really keeps: null
+    it really kind of had a turn at the end, when you found out who it was .: null
+    it really wasn't on a theme that I was, that into,: null
+    it says when the conversation is over just say your goodbyes and hang up.: null
+    it seemed like the buffaloes were moving so fast.: null
+    it seemed to be the custom up there.: null
+    it should be a while yet, though.: null
+    it shows the town,: null
+    it sound kind of nice,: null
+    it sounds ki,: null
+    it starred, that, that it's Albert Brooks,: null
+    it starts off with like a tic,: null
+    ? it still would have been every bit as accessible a movie for the kids if they
+      had included all this stuff that, I, as an intellectual adult would appreciate,
+    : null
+    it turned out to be a very cute movie.: null
+    it was Michael Douglas.: null
+    it was THE PRINCESS BRIDE.: null
+    it was a book before it came out in a movie,: null
+    it was a fun movie to watch.: null
+    it was a, a genre that I wasn't in the least bit interested in,: null
+    it was actually better than the first one, I thought.: null
+    it was all bloodless: null
+    it was also right along the same lines.: null
+    it was an enjoyable movie.: null
+    it was an interesting movie.: null
+    it was called the DELLS,: null
+    it was called, HARD WAY, where he was an actor, trying to portray: null
+    it was classic TREK.: null
+    it was excellent.: null
+    it was familiar your accent.: null
+    it was filmed right outside of Pierre.: null
+    it was fine for her: null
+    it was great,: null
+    ? it was hard to accept that, this, multimillionaire wheeler dealer would, would,
+      find himself and allow himself to get into that situation.
+    : null
+    it was him, but with a: null
+    it was his, his,: null
+    it was it was a, it was a mystery.: null
+    it was just enter, all around entertaining.: null
+    it was just so real, realistic and lifelike and good animation.: null
+    it was just so realistic.: null
+    it was just,: null
+    it was just, it was a lot of music a lot of old songs, things like that.: null
+    it was just, you couldn't hear half the dialogue because everyone in the audience was laughing: null
+    it was kind of cute.: null
+    it was kind of fun.: null
+    it was kind of gross, kind of like, SILENCE OF THE LAMBS,: null
+    it was kind of like just about their,: null
+    it was kind of,: null
+    it was late at night and scary .: null
+    it was like this ho, big house had a basement,: null
+    it was like you couldn't stand up inside of it: null
+    it was on T V recently, FATAL ATTRACTION.: null
+    it was on a higher level, where there were some things that kids didn't understand that adults did,: null
+    it was on one of the networks, I think last weekend.: null
+    it was one of those ones that could have been four hours if they hadn't cut a lot out.: null
+    it was one of those that has a lot of twists in it,: null
+    it was probably here and gone fairly quickly.: null
+    it was quite an experience: null
+    it was really good.: null
+    it was really neat.: null
+    it was something like discuss pollution.: null
+    it was still so well done: null
+    it was the,: null
+    it was the, it's one of the best movies I've seen in a long time.: null
+    it was too long: null
+    it was very serious, very se,: null
+    it was very, very difficult.: null
+    it was within, ninety days.: null
+    it was worth the buck I guess.: null
+    it was, it w, it was a drama.: null
+    it was, it was a lot of people said it was a really funny movie,: null
+    it was, it was all right, kind of funny.: null
+    it was, it was believable.: null
+    it was, it was called MANHUNTER, actually.: null
+    it was, it was entertaining,: null
+    it was, it was interesting .: null
+    it was, it was okay.: null
+    it was, it was pretty telling about the, the, the F B I and their procedures.: null
+    it was, it was really fas,: null
+    it was, it was really good to see all the movies and how the story developed,: null
+    it was, it was saying don't do STAR TREK management style.: null
+    it was, it was unimpressive to look at.: null
+    it was, it was,: null
+    it was, it was, in the,: null
+    it was, it was, it was cute but not the biggest laugh I've seen.: null
+    it was, that was the last one I saw downtown,: null
+    it was, what I liked about it was that it was a new subject.: null
+    it was. Because we're here eighteen years: null
+    it wasn't .: null
+    it wasn't a bad movie.: null
+    it wasn't a mystery,: null
+    it wasn't anything spectacular.: null
+    it wasn't something that I would enjoy seeing twice or three times.: null
+    it wasn't, blood and guts and violence and, and car chases type thing.: null
+    it wears off.: null
+    it worked out.: null
+    it would have to be a good show.: null
+    it's , it's obnoxious,: null
+    it's GODFATHER THREE.: null
+    it's a classic slapstick situation with these bungling burglars trying to get in: null
+    it's a cute movie.: null
+    it's a funny movie.: null
+    it's a good movie,: null
+    it's a huge eagle, wing span of twenty feet or something like that.: null
+    it's a matinee,: null
+    it's a precious movie,: null
+    it's a very good movie: null
+    it's a, I guess it's a mystery, you'd call it.: null
+    it's a, it's a mystery.: null
+    it's about Al Capone's brothers.: null
+    it's about a man, that, leaves his home and comes back to his wife,: null
+    it's about this little boy who,: null
+    it's about, Jesuit community in, at the Inca Falls in, in, South America, Northern Argentina.: null
+    it's an excellent movie.: null
+    it's animated.: null
+    it's been about five minutes.: null
+    it's been on cable,: null
+    it's been out for a couple of years,: null
+    it's been out for a while.: null
+    it's been probably a month or so since I've been to the movies.: null
+    it's been so long since I: null
+    it's been so long since I've seen it.: null
+    it's been, it's been a couple of months.: null
+    it's called .: null
+    it's fixing to come out on video: null
+    it's got Matthew Broderick in it and, Marlon Brando.: null
+    it's got a good historical perspective to it.: null
+    it's got this wonderful French actor who's,: null
+    it's got, Cheech .: null
+    it's gotten so expensive that we: null
+    it's hard for me to get to movies now because it's getting so expensive,: null
+    it's hard for us to get out and go to the movies.: null
+    it's hilarious too, especially with that, little guy in it.: null
+    it's interesting.: null
+    it's just I haven't had the time to go to the movies lately .: null
+    it's just a movie,: null
+    it's just been down here a couple weeks, I think.: null
+    it's just really an incredible thing.: null
+    it's just, glued to the T V all the time anyway.: null
+    it's just, just amazing, amazing picture.: null
+    it's just, shoot the Indians,: null
+    it's kind of,: null
+    it's kind of, it's an action adventure kind of, shoot 'em up kind of film.: null
+    it's kind of, kind of a poor man's PRETTY WOMAN in reverse.: null
+    it's not a late movie.: null
+    it's not crowded: null
+    it's not cutesy.: null
+    it's not like there's a lot of scientific data on it.: null
+    it's not my all time favorite movie: null
+    it's on video now, I think.: null
+    it's one of those things.: null
+    it's only about, half an hour.: null
+    it's pretty entertaining,: null
+    it's pretty good,: null
+    it's really good,: null
+    it's really good.: null
+    it's really interesting: null
+    it's really interesting that,: null
+    it's really silly that I enjoy him a lot: null
+    it's really worth it.: null
+    it's so close,: null
+    it's still on, to the best of my knowledge.: null
+    it's still out now,: null
+    it's supposed to be a real scary one .: null
+    it's sweet,: null
+    it's the story of this little cat and dog: null
+    it's usually pretty good,: null
+    it's very, it's really disturbing but a good movie.: null
+    it's was a night out, away from the children.: null
+    it's with Sean Young.: null
+    it's with women in it instead of men: null
+    it's, I think it's less than two hours.: null
+    it's, hasn't worked out that way yet.: null
+    it's, it looks good,: null
+    it's, it was, it was advertised over a period of about ninety days.: null
+    it's, it's a, it's an adaptation of the, of the Shakespeare play,: null
+    it's, it's an excellent movie,: null
+    it's, it's an odd film: null
+    it's, it's different,: null
+    it's, it's fun, it's a fun thing to do to get out and: null
+    it's, it's kind of funny.: null
+    it's, it's one of the reasons why, THE GODFATHER's been on our minds lately.: null
+    it's, it's really a good movie.: null
+    it's, it's something that,: null
+    it's, it's, it's hard to say.: null
+    it's, you can always count on her to watch something like that .: null
+    it, it did show some, some, some interesting things about the F B I: null
+    it, it didn't scare me all that much,: null
+    it, it gets very difficult to,: null
+    it, it had, Fred Savage in it.: null
+    it, it was a big breakthrough,: null
+    it, it was a film of her concert, tour she had taken through all, all around the world.: null
+    it, it was a real good movie.: null
+    it, it was like pulling teeth to go get him to, to see it: null
+    it, it's F slash X.: null
+    it, it's pretty good.: null
+    it, it, it had people,: null
+    it, it, it sort of showed two different types of tribes: null
+    it, it, it varies,: null
+    it, they're flying all over with it.: null
+    ju, ju, just for that reason, it is a, it does cost a lot,: null
+    just every time I would start to get into the movie, and it was getting good: null
+    just finger hopping.: null
+    just kind of, kind of go out and, rent all the movies and, just kind of go,: null
+    just recently I've been to a couple .: null
+    just the one,: null
+    just the other night on H B O we watched THE HUNT FOR RED OCTOBER,: null
+    kind of dark,: null
+    kind of gory and lots of,: null
+    kind of had the feeling along that,: null
+    last week, as a matter of fact, my children was on Spring Break: null
+    let's see, there's a couple or three that I would like to go see before they go into videos.: null
+    like RAMBO and all that.: null
+    like you said, I, I enjoy the comedies a lot better.: null
+    lot of times we don't answer the phone, probably when I get mine: null
+    maybe I just laughed so hard the first time that I didn't have it,: null
+    maybe it will come out this fall.: null
+    maybe it's just the idea of my reaction to the first time. I had laughed so hard I was hoarse.: null
+    me too, because I don't even know if I could live through it now.: null
+    mo, movie prices up here: null
+    most of them were twenty or so: null
+    mostly we wait until they come out on video tape,: null
+    movie theatres here, they are six dollars, for evening performances.: null
+    movies are very expensive.: null
+    movies like that scare me, though.: null
+    my V C R went on the blitz about two weeks ago,: null
+    my boyfriend and I went to see MY GIRL.: null
+    my brother lives over in Fort Worth,: null
+    my dad lives in the state capital, which is Pierre: null
+    my daughter is twelve: null
+    my daughter went to see that one too.: null
+    my daughter's five,: null
+    my daughter's in love with the LITTLE MERMAID: null
+    my face hurt so bad,: null
+    my family tells me that, that, that it had been actually in the house before .: null
+    my father works in films: null
+    my house kind of looks like two trailers put together.: null
+    my husband and I had this great desire to go see a comedy: null
+    my husband bought me, I think PRETTY IN PINK for my birthday.: null
+    my husband does that.: null
+    my husband dragged me to it.: null
+    my husband is a movie fanatic.: null
+    my husband keeps wanting to.: null
+    my husband wants to see that one,: null
+    my husband wasn't going to be able to watch it with me,: null
+    my husband's from New Jersey,: null
+    my husband's name is Bob: null
+    my husband, sometimes, he'll receive a call: null
+    my kids are going to their Dad's tomorrow night: null
+    my kids both saw that.: null
+    my kids weren't in the roo,: null
+    my kids' very favorite, and yours may be too young for it, was HOME ALONE.: null
+    my little boy just turned four.: null
+    my little girl is three months old: null
+    my mom saw that: null
+    my most recent, movie that I, that I liked a lot, not my most recent movie, was HENRY THE FIFTH.: null
+    my one grandson and I,: null
+    my parents took me when I was probably somewhere between Ashley and Jamie's age .: null
+    my preference is the one we saw before that was SILENCE OF THE LAMBS.: null
+    my son had gotten to see a lot of movies this summer, on, choir tour and: null
+    my style of entertainment is, is comedy, primarily: null
+    my wife can't understand it,: null
+    my wife enj, she likes the suspense movies.: null
+    my wife took, I think the kids to see that one,: null
+    ? my wife's from down in that region around the s, the, called the, the Seven
+      Missions which are, which are right down in this, where I'm sure where it was
+      filmed at.
+    : null
+    my wife, has got a, a picture from Kevin Costner: null
+    my, my favorite movie of all time has been, THE MISSION.: null
+    my, my girlfriend's seen part one and part two although she saw them years ago,: null
+    my, my kids are just small babies: null
+    my, my, my movie watching has, has, severely, has, has changed a lot since I got married.: null
+    never seen, I've never seen CASABLANCA and never seen GONE WITH THE WIND.: null
+    no one knew that.: null
+    nobody told me that it was all fake.: null
+    normally we don't think about it until,: null
+    not all time favorite,: null
+    not too often.: null
+    nothing got righted until he got back up on the ship .: null
+    nothing, nothing, of course, serious is wrong with him: null
+    now I ha, I haven't seen THE TERMINATOR movie,: null
+    now that I think back on it, I'd say yeah, I can't believe that either.: null
+    now these are for two very different movies.: null
+    now we did go see HOME ALONE at the dollar movie: null
+    oddly enough, I do too,: null
+    of course it took me the whole weekend to recover from that.: null
+    of course sometimes they rent movies and, have friends over or something.: null
+    of course they wanted to see it.: null
+    of course, I enjoyed those good guy, bad guy type conflicts things.: null
+    of course, I get to watch all these movies like LOOK WHO'S TALKING and WHO'S, LOOK WHO'S TALKING, TOO: null
+    of course, I was, I was living alone at the time: null
+    of course, a bunch of girls had told me and warned me,: null
+    of course, she had to walk.: null
+    ? of the, of the few good things that were in it, it did show, a lot about the
+      F B I. About the training, and, and how they go through training and how they
+      try to, to develop, a mental picture of who they're looking for before they
+      go out and do it and all the different ways they go about doing that.
+    : null
+    on all the, the advertisements Arnold Schwarzenegger says he doesn't kill anybody in the movie.: null
+    on on on, all this wonderful mess: null
+    on that order.: null
+    on the one hand I'd like it to be a warning,: null
+    ? on the other hand I wouldn't want people who currently get sort of enjoy their
+      violence fixes from these movies to start thinking gee, now we want to see the
+      aftermath all the time either.
+    : null
+    on the other hand, I'm not sure I would have gone otherwise,: null
+    on the other hand, given that my wife likes those, I, I, I occasionally like to watch them: null
+    on the, on the whole, it was pretty similar. And, a lot of fun.: null
+    once I was there, I couldn't believe.: null
+    one bathroom is at the end of one side: null
+    one day my husband had the kids: null
+    one movie we saw in the last couple of months that we really enjoyed was, EDWARD SCISSORHANDS.: null
+    one of my favorites,: null
+    one of my friends who went to see SLEEPING WITH THE ENEMY, and she told me to go.: null
+    one of the movies we saw recently, we saw, MISERY.: null
+    one of them was lost for many, many years: null
+    one person at work I know gets really into those goofy horror flicks: null
+    one was a warring tribe,: null
+    one's in the middle of the other,: null
+    other than it was a chop them up movie.: null
+    other than that I just didn't have time to go to the movies,: null
+    other than that I've heard the, the, the, the scenery in it: null
+    other times it was like it was just deadly serious,: null
+    our big thing is,: null
+    our movies today, it used to be X: null
+    our time is scarce.: null
+    out of a piece of paper, they can kill somebody,: null
+    outside of that, rent a lot,: null
+    over time she,: null
+    partly it's supposed to be a little bit more okay because it's comic book: null
+    people call in: null
+    people were just screaming and applauding: null
+    people who bring kids irritates the heck out of me .: null
+    perhaps, perhaps it's unfair, because I, I, I must admit I enjoy these movies: null
+    popcorn is not that expensive.: null
+    reading the little words at the bottom of the screen: null
+    really, really good show.: null
+    recently I, I've seen, the FISHER KING.: null
+    right before I went in the hospital my girlfriend said come on,: null
+    right now Kevin Costner, he's starring in everything.: null
+    said it was real good: null
+    saw THE ADDAMS FAMILY last week.: null
+    see, I haven't seen that one,: null
+    ? several years back one we saw, we saw we really, really enjoyed was, ORDINARY
+      PEOPLE, with, Timothy Hutton and, Mary Tyler Moore,
+    : null
+    she did, years later when the, liberalization, in real life: null
+    she does real good.: null
+    she fakes her death kind of thing: null
+    she falls asleep .: null
+    she feel madly in love with this writer.: null
+    she figures out this way to, to leave him secretly.: null
+    she goes all the time: null
+    she had a baby.: null
+    she has a suit against his company.: null
+    she just thinks the grou,: null
+    she liked it: null
+    she made him go sleep upstairs.: null
+    she played a,: null
+    she played in, narrow margin which was a little more recent,: null
+    she pretended to be the boss or something.: null
+    she put in to go see him.: null
+    she really enjoyed it,: null
+    she really liked it.: null
+    she really likes all these gory: null
+    she said it was okay,: null
+    she said that was an excellent movie.: null
+    she said that was hilarious.: null
+    she says her little girl's into it now.: null
+    she understood everything.: null
+    she was a horticulturist,: null
+    she was a killer,: null
+    she was a very svelte, sophisticated urban New Yorker: null
+    she was not persecuted or anything else like that.: null
+    she wat, she watches these really gross things like,: null
+    she'll even watch things like karate movies and stuff like that.: null
+    she's a housekeeper: null
+    she's a housekeeper.: null
+    she's also ,: null
+    she's his biggest fan: null
+    she's planning ahead,: null
+    she's sort of Schwarzenegger fan type of.: null
+    she, as she grew up towards maturity, her parents,: null
+    she, her life was spared.: null
+    she, she breaks both of his ankles.: null
+    she, she does really good.: null
+    she, she likes, action movies and, and, and comedies: null
+    she, she put in for going, going to,: null
+    she, she went across the border to her husband and another, and other child that they'd already had: null
+    she, we were both feeling so guilty about enjoying this chili after seeing that.: null
+    shoot, I'm going to hit myself after I hang up.: null
+    short nerdy guy with glasses.: null
+    ? since he had this friend up from Houston, and his friend had already seen so
+      many and I thought they decided on this and I thought I want to see this one,
+      too.
+    : null
+    so sometimes we stick with the stuff we've heard more about than,: null
+    some I don't.: null
+    some friends called up and said do you want to go see this movie,: null
+    some of the different things we're doing,: null
+    somebody made an interesting observation,: null
+    somebody was recommending it to somebody.: null
+    somehow just never made it to see that,: null
+    someone had,: null
+    someone said that was a lot of fun to go do.: null
+    sometimes movies are here that I did not, I am not even aware that I could have seen,: null
+    starring Kevin Costner,: null
+    th, that's what I heard, too.: null
+    that I couldn't watch,: null
+    that came out, early in the summer or something like that.: null
+    that clued the investigator that he had memorized a series of answers.: null
+    that comes on different channel.: null
+    that could really happen.: null
+    that horse has been such a pal to him,: null
+    that is true for Ellison.: null
+    that is, it,: null
+    that is, that is the most precious movie.: null
+    that kind of bothered him: null
+    that makes sense.: null
+    that might be good, though,: null
+    that might be good.: null
+    that movie, I have to, I'll fast forward it every time they come to the part where there is,: null
+    that one is definitely worth seeing,: null
+    that one sounded gross,: null
+    that rolling kind of,: null
+    that they said they weren't going to do anymore.: null
+    that was THE TERMINATOR: null
+    that was a good show I thought,: null
+    that was a lot of fun.: null
+    that was a riot to see that.: null
+    that was a well directed and acted movie.: null
+    that was an excellent movie.: null
+    that was around the time of anniversary,: null
+    that was cute,: null
+    that was excellent.: null
+    that was great.: null
+    that was interesting.: null
+    that was just hilarious,: null
+    that was kind of another suspense type, Alfred Hitchcock type thriller.: null
+    that was kind of interesting.: null
+    that was made in a few, I don't know, several years back, I guess.: null
+    that was one of my favorites,: null
+    that was one that, that stayed with me: null
+    that was one where,: null
+    that was one, Jay got to see with a friend: null
+    that was pretty good.: null
+    that was pretty scandalous.: null
+    that was real, that was a good one.: null
+    that was so good.: null
+    that was so that he couldn't leave her,: null
+    that was something for greedy old me at Christmas time, I'll tell you.: null
+    that was sort of her dream.: null
+    that was, that was, what the, much of the hype was that Tom Cruise learned so much from Dustin Hoffman.: null
+    ? that was, that, that helped us sort of feel good about, about ourselves and
+      about one around us, in that at least, at least, if everyone's running around
+      seeing karate movies and stuff like that, at least they're still going to see
+      the real good movies,
+    : null
+    that was, that, that might be one of my all time favorites too,: null
+    that wasn't a real submarine you saw in the water.: null
+    that wasn't it.: null
+    that way you can watch it at your leisure.: null
+    that won best picture, I think.: null
+    that would be kind of hard for us,: null
+    that's a good one to put on the list.: null
+    that's a tearjerker: null
+    that's about all the movies I've seen recently .: null
+    that's about all the time I can, I can spare.: null
+    that's all they'd have to do .: null
+    that's all we get,: null
+    that's also on my list.: null
+    that's another one I wanted to see.: null
+    that's at least the good thing about the Texas organization letting you buy the tickets cheaper.: null
+    that's close,: null
+    that's coming back, on too .: null
+    that's just for a bok, a bucket of popcorn,: null
+    that's just something I just don't want to watch.: null
+    that's kind of the: null
+    that's my husband's all time favorite, I think.: null
+    that's no cartoons for my little boy.: null
+    that's not why I go: null
+    that's on my list to see.: null
+    that's one I have watched, six or eight times.: null
+    that's one of them.: null
+    that's one we want to see.: null
+    that's out on video now: null
+    that's pretty good: null
+    that's pretty much what I do.: null
+    that's right.: null
+    that's something I really should have seen.: null
+    that's something I want to see,: null
+    that's the one I was thinking of.: null
+    that's the one, that is the honest to God the one reason I don't want to see the movie: null
+    that's the one.: null
+    that's the other one that we went to that night.: null
+    that's the way I do it: null
+    that's the way they, they might seem outwardly,: null
+    that's us too: null
+    that's us too.: null
+    that's what I find lacking in a lot of, like HOME ALONE.: null
+    that's what I was ,: null
+    that's what I was thinking.: null
+    that's what he would have liked to have seen REGARDING HENRY, too,: null
+    that's what my wife does too,: null
+    that's when the movie was filmed,: null
+    that's who the guy is.: null
+    that's why I saw that one.: null
+    that's why I watched another silly movie, with my cousin, was the one about the, the turtles,: null
+    that's, that's a, that's a real interesting movie: null
+    that, and plus, part of it is the idea that he goes with them on a buffalo hunt.: null
+    that, her sister got killed: null
+    that, that just reminded me of that.: null
+    that, that just reminds me of, back in school: null
+    that, that was number one for the week too,: null
+    that, that's, that's a real good movie to see.: null
+    that, that, that's okay.: null
+    the Immigration and national, Naturalization Service, started investigating.: null
+    the JAGGED EDGE: null
+    the JAGGED EDGE,: null
+    the Lord just said no,: null
+    the MALTESE FALCON and all those,: null
+    ? the Master should, according to the classic myth, the sort of Joseph Campbell
+      type myth, he, the Master should have died at the end
+    : null
+    the RAIN MAN was one.: null
+    the ROBIN HOOD coming out: null
+    the accents up there fascinated me, because even in his family alone, there were several different accents: null
+    the acting was bland.: null
+    the aftermath is usually not there.: null
+    the book, to me, was far more frightening than the movie was.: null
+    the bourgeoisie was, was, was definitely out of, style, then.: null
+    the boy actually rides on his back: null
+    the cat gets, on this treacherous journey.: null
+    the character that, James Earle Jones played?: null
+    the closest movie theater was Barry Saint Edmunds: null
+    the defense's job is to make sure that you, you do,: null
+    the drugs didn't work for long,: null
+    the first five minutes or ten minutes of the movie was, I was very well persuaded to walk out. Very well persuaded,: null
+    the first person I've talked to outside of Texas.: null
+    the first week, I think, a lot more people were doing it.: null
+    the girlfriends just taking off for a day or something.: null
+    the good guys can get hit all day long: null
+    the guy that comes back is not her original husband,: null
+    ? the guy, the guy that played in it, the one that played in it that I liked best
+      was the one who was in, the one about the old people.
+    : null
+    ? the idea of getting a little extra with it I think is a good idea. Because they,
+      they make bundles of money off those things.
+    : null
+    the interesting thing was is I had heard that,: null
+    the language in it is just for no reason, has to stick in,: null
+    ? the last movie I saw I guess, was, the one about the French, the Frenchman that
+      leaves and comes back, and he's someone different.
+    : null
+    the last movie I saw was REGARDIN, REGARDING HENRY.: null
+    the last movie I saw was THE HARD WAY with Michael J. Fox.: null
+    the last movie I saw was the FIVE HEARTBEATS: null
+    the last movie I saw was, SLEEPING WITH THE ENEMY.: null
+    the last movie I saw, but it wasn't my choice, was the NINJA TURTLE movie .: null
+    the last movie that I have seen,: null
+    the last movie that I saw,: null
+    the last movies that I've seen were probably on video.: null
+    the last one we saw was THELMA AND LOUISE.: null
+    the last two I saw him in, one of those BACK TO THE FUTURE, PART THREE deals: null
+    the lines in there were just perfect.: null
+    the little boy must have been, maybe about ten.: null
+    the matinee starts before I can get away from work.: null
+    the more you got to thinking about it, the more you thought, I did like it .: null
+    the most recent movie I saw, I'm afraid was,: null
+    the most recent ones that I've seen are those two, GHOST and, DANCES WITH WOLVES,: null
+    the movie had the whole, lot of philosophical content, more than, more than,: null
+    the new one that came out.: null
+    the new one, of course .: null
+    the older generation is not needed: null
+    the only reason I know why it ended is on ARSENIO HALL one night, Christopher Reeves told,: null
+    ? the only thing about the costuming my husband remarked that it didn't, that,
+      that, the Indians all appeared to be wearing new things.
+    : null
+    the other day I got one about fishing: null
+    the other one was, vegetarian kind of, feel good tribe.: null
+    the other one, SILENCE OF THE LAMBS, is kind of a, a gory movie, if, if somebody's not into that kind of stuff.: null
+    the plot was bland,: null
+    the premise of the story is that, you go to a pla, after you die you go to a place called Judgment City.: null
+    the previews looked so good that I wanted to see it: null
+    the prosecutor's job is to make sure you don't move up a level,: null
+    the regular NAKED GUN and AIRPORT and,: null
+    the second one ,: null
+    ? the second week I was out of the hospital I went up and worked half day on the
+      computers cause you can learn all the software for free.
+    : null
+    the story was,: null
+    the supporting actor, he was good,: null
+    the thing that I didn't realize is that if you watch the movies in a row, time wise they happen one after another: null
+    the titles might sound familiar: null
+    the wagon, the wagon driver.: null
+    the warmth that developed between them: null
+    the way it wears off is he goes through all these spastic,: null
+    the whole premise is that they go out: null
+    the whole theater was hysterical: null
+    the whole thing was about the size of a, a medium house .: null
+    the whole way .: null
+    the youngest is three.: null
+    the, that's the one I wanted to see where he was on, she was on a carnival, at a carnival on a Ferris wheel or something.: null
+    the, the Chin, the commu, the communist Chinese didn't like this at all.: null
+    the, the character was, prior to that had, had been someone that had killed other people: null
+    the, the end scenes are, are kind of suspenseful, when she realizes he's in the house, after her,: null
+    the, the fire scenes and the dra,: null
+    ? the, the guy, apparently had a, a, mental disfunction in which he needed to
+      go out and just slay people. just, kill them with, with as much blood and, and
+      guts as possible.
+    : null
+    the, the latest one I've seen, had to do with a, the, basically a manhunt,: null
+    ? the, the major point of the movie was that, that she had, married this, this
+      Chinese fellow and was with child when they started this mass court.
+    : null
+    the, the movie did not have anything to do with, with the story that I am talking about.: null
+    the, the nine year old will watch anything that's on T V .: null
+    the, the one that comes immediately to mind, I, is the THE COOK, THE THIEF, HIS WIFE, HER LOVER.: null
+    the, the people kept harassing her over, over a period of months: null
+    the, the people who run the video store was recommending it to somebody else.: null
+    the, the problem I had with the movie was the problem I've had with a lot of, I guess, Hollywood movies: null
+    the, the show is about these, catatonic type people that,: null
+    the, the soldiers were blinded when they shot.: null
+    the, the title sounds familiar,: null
+    their accents differed a little in the family: null
+    then I really liked it.: null
+    then again, she's got a whole lot on the ball,: null
+    then before that one, I saw, NAKED GUN TWO AND A HALF.: null
+    then that was it,: null
+    then they get crazy: null
+    then they got into lots of trouble.: null
+    then they had to have the Master beat him: null
+    then when it started, I just couldn't, read.: null
+    then you can make your popcorn and be comfortable.: null
+    then you end up spending another six dollars on food.: null
+    there are also these various, David Lynch movies.: null
+    there are people, referred to as savants also,: null
+    there are some kind of nice prizes,: null
+    there is lots of areas where Thing saves the day.: null
+    there might be a word or two changed.: null
+    there must be Texas people, as near as I can tell.: null
+    there still hasn't been any, new development in prescribed drugs that can help it.: null
+    there was a big climactic fight scene,: null
+    there was a movie out,: null
+    there was a murder of one of the women that was in the, the D A 's office.: null
+    there was all these weird things going on in the basement,: null
+    there was another town called Barry Saint Edmunds about twenty miles away from us.: null
+    there was humor involved,: null
+    there was more gore than I was interested in seeing.: null
+    there was no proof whatsoever that he really was.: null
+    there was one right before that with a similar title: null
+    there was, didn't seem to be anything else on I wanted to see,: null
+    there were a couple others that I just haven't had the time.: null
+    there were a few things different than the old series,: null
+    there were quite a few, kids in there with their parents.: null
+    there were so many of them.: null
+    there were some others,: null
+    there were three of us who went.: null
+    there were, there were some definite, should I say, tense moments,: null
+    there's a couple scenes, at, at the end there's, there is, some blood and everything: null
+    there's a guy that has got a, a buffalo farm,: null
+    there's a lot I want to see,: null
+    there's a lot in it when you look at the scenery and the cars,: null
+    there's a lot of reasons why I don't go to movies.: null
+    there's also a, a a producer of movies in Baltimore called, John Walters, who, who puts, puts on even weirder movies.: null
+    there's been movies out that I've been wanting to see.: null
+    there's no, nothing else to keep it going.: null
+    there's not really any, blood and guts in it or anything like that.: null
+    there's one really bad scene where it's, there's not blood but it's pretty graphic .: null
+    there's only one,: null
+    there's quite a few, movies out now that I would like to go see.: null
+    there's rats in the attic,: null
+    there's so much out on video now, that it's almost,: null
+    there's some, I think there's some good Disney movies fixing to come out on video, SHIPWRECKED.: null
+    there's something about people coming up through the sofa to get you, or something,: null
+    there's this one, there's this one actor,: null
+    there's this thing with, Danny De Vito called TWINS.: null
+    there's two.: null
+    there's very few I would want to see that many times.: null
+    there, there were times when he was, he'd be running with a gun or whatever.: null
+    there, there, there are several movies that hit home like that.: null
+    they all had seen it anyway.: null
+    they always stayed at home until they got married,: null
+    they are always the savages.: null
+    they are just slapstick .: null
+    they are killing buffalos in it.: null
+    they built up,: null
+    they call in: null
+    they called me to see if I wanted to work a day.: null
+    they changed some things in the movie.: null
+    they couldn't leave him alone: null
+    they couldn't leave him alone at all.: null
+    they decide if you can move up to the next level.: null
+    they decide, make it Iraqis and Americans,: null
+    they did it in Houston,: null
+    they did it, they did it everywhere.: null
+    they didn't fight together,: null
+    they didn't have it in, too awfully many movie houses,: null
+    they didn't just sort of make it silly.: null
+    they didn't remember that,: null
+    they didn't try to make him super human or, invincible.: null
+    they do not have to keep making up stuff if they want to make something good.: null
+    they don't stress that very much,: null
+    they don't, they don't, get, epileptics, that sort of thing from getting hit on their head: null
+    they enjoyed that,: null
+    they failed individually,: null
+    they fell into like, at any rate: null
+    they fought individually,: null
+    they found out what happened when they did leave him alone one time,: null
+    they get you at the ticket booth and then try and get you at the popcorn and coke.: null
+    they go, I know, Mommy, I know.: null
+    they got pretty scenery in Ireland.: null
+    they had HOME ALONE offered for like,: null
+    they had a little, theater company there: null
+    they had her teaching, were starting to have her teach history for the soldiers.: null
+    they had it everywhere,: null
+    they had record high waves, thirty year high waves come in there,: null
+    they had to get back together and get their stories straight,: null
+    they had to learn all about each other basically: null
+    they had to teach a wolf how to, to howl.: null
+    they happen to meet in this, this town, this, this sort of city where you're set up.: null
+    they have a particular child actor, who's, who's being supposedly run down by a buffalo.: null
+    they have this one guy who does slapstick comedy,: null
+    they have to decide whether or not they're good enough,: null
+    they have to shake it off: null
+    they have to,: null
+    they just change the title and, and reshot a few parts, where they, where they could.: null
+    they just had: null
+    they just want to rent that one.: null
+    they just, they're action filled, and a little bit of humor,: null
+    they keep me guessing the whole time.: null
+    they kept on and on at, at her,: null
+    they kept picking at him, picking at his, at her mother and, finally, started picking on her.: null
+    they knew that she wasn't going to come back,: null
+    they leave, they leave some songs with you,: null
+    they lived,: null
+    they loved the dogs,: null
+    they make the movies good enough, they make the movies good enough to be successful: null
+    they never moved into apartments when they were young,: null
+    they never saw each other again.: null
+    they probably do the story of someone who was shot down early in the war or something and how he survived or,: null
+    they pushed it back, to playing it in the theaters until August,: null
+    they really don't.: null
+    they review movies.: null
+    they said get a babysitter: null
+    they said it starred, Meryl Streep and Mel Brooks,: null
+    they said it was okay.: null
+    they said there's a lot that had been edited, because of the length: null
+    ? they said, "Oh, people won't, won't be interested in a three hour movie." But
+      it certainly gotten good acclaim everywhere it has gone.
+    : null
+    they said, it's a real tearjerker," and da, da, da, da, da.: null
+    they said, she said that this was almost believable: null
+    they say it was really cute, but I had not seen it.: null
+    they scream,: null
+    they show up at the dollar movie right after they get, come out.: null
+    they showed all five in a row.: null
+    they sound familiar.: null
+    they started having real bad side effects.: null
+    they talked about her,: null
+    they tell you that kids can, be impressed by all that stuff,: null
+    they thought that, at certain points that it was going to end,: null
+    they thrash around,: null
+    they was just bad side effects.: null
+    they wasn't mild,: null
+    they went in the service,: null
+    they were all from New Jersey.: null
+    they were all to her at the Vatican city and wouldn't let her perform in Rome,: null
+    they were referring to, Captain Kirk,: null
+    ? they were saying that some of the patients there, you can't leave by themselves,
+      because they'll make a weapon out of anything,
+    : null
+    ? they were starting to, accuse her of, of, of, crimes and atrocities before the,
+      the revolution and, and had her write her own story over and over and over.
+    : null
+    they were the, the, the characters trying, trying to get him were F B I people: null
+    they were together for all that time .: null
+    they were, they were suggesting that this Ben was something of a recluse.: null
+    they will be videos.: null
+    they're going to put it in the video.: null
+    they, they did very authentic reproductions of the,: null
+    they, they do have a variety of topics.: null
+    they, they forget all about him.: null
+    they, they stripped her of everything, practically besides the, the clothes on her back.: null
+    they, they, that's what they said about THE EXORCIST,: null
+    this all took place in the South.: null
+    this doctor discovers a drug that brings them back to the, the living, more or less,: null
+    this guy in SILENCE OF THE LAMBS Hannibal Lector, he was, he was that kind of person,: null
+    this is about nineteen sixtyfour, or something like that,: null
+    this is almost, sort of funny.: null
+    this is supposed to be a nice children's movie, CHARLOTTE'S WEB.: null
+    this is the one for me this time.: null
+    this is the,: null
+    this man turned around and said, Could you all please save that for later.: null
+    this one was a lot more dramatic.: null
+    this one was, I thought was excellent.: null
+    this one, it was fairly long.: null
+    this summer before we went on vacation,: null
+    this was my fourth week checkup: null
+    this woman supposedly is, being mentally abused by her husband,: null
+    this, this frightened the, the, the commandant: null
+    those are just absolutely hilarious: null
+    those are, those are two of my most favorite,: null
+    those were, those were okay,: null
+    though it tended to be a little one sided: null
+    to think about how it just changed the whole landscape, you could follow this, this beaten down path,: null
+    to try and, try and find time it's hard, with Jim's schedule, too, just to get a time that we can both go.: null
+    today I was, I, course I went back to work two weeks after,: null
+    today I went to see REGARDING WITH HENRY.: null
+    two, two of them actually.: null
+    unfortunately I haven't,: null
+    usually I don't .: null
+    usually people tell you how good they are,: null
+    very moving, too.: null
+    very suspenseful.: null
+    videos, of course, are not cheap either: null
+    watch them on T V mostly.: null
+    we , we try to go a couple times a month, I guess: null
+    we all liked it.: null
+    we are doing a book called INVISIBLE MAN by Ralph Ellison.: null
+    we are watching the, the movie in the movie theater in Pierre: null
+    we both just thoroughly,: null
+    we could do it.: null
+    we could not call in last week.: null
+    we couldn't run it back: null
+    we decided that may be the mark of a good film.: null
+    we did go see DANCES WITH WOLVES: null
+    we did try to go see about a month ago that, DEAD AGAIN: null
+    we didn't think we'd have much chance of getting in: null
+    we do get a lot of videos that we bring in,: null
+    we do, too,: null
+    we don't have any kids: null
+    we don't have cable.: null
+    we don't know.: null
+    we don't really want cable,: null
+    we don't see movies at the movies a lot.: null
+    we ended up going to see GREEN CARD.: null
+    we enjoyed that,: null
+    we generally rent a couple a week.: null
+    we get it and see it that way.: null
+    we get the channel with YOUNG AND THE RESTLESS on it.: null
+    we get two channels down here.: null
+    we got a babysitter: null
+    we got the backlash of that thing.: null
+    we got to go see WHAT ABOUT BOB?: null
+    we had a sleep over one night.: null
+    we had one here in Dallas.: null
+    we had some friends that went to see it: null
+    we have gone through these, these lapses of, of a relationship,: null
+    we have not seen that,: null
+    we have small children, so we don't get to see too many, but we've seen I guess two or three movies this past summer.: null
+    we have to, we have to pick just the right kind of movie: null
+    we have two little kids,: null
+    we haven't seen that one either: null
+    we haven't seen that one yet, either.: null
+    we haven't seen that one yet.: null
+    we haven't seen that one.: null
+    we haven't,: null
+    we just finished watching, TEENAGE MUTANT NINJA TURTLES on tape, .: null
+    we just haven't had the time to go to the movies lately,: null
+    we just laughed so hard.: null
+    we just love it,: null
+    we just, we hurt by the time we came out.: null
+    we just, we walk into the video store: null
+    we keep holding out,: null
+    we like BILL AND TED'S EXCELLENT ADVENTURE: null
+    we like them anyway.: null
+    we like to laugh .: null
+    we live up in tax free New Hampshire and drive down to Massachusetts to work.: null
+    we loved it.: null
+    we occasionally get out to the movies: null
+    we probably watch twice as many movies at home: null
+    we really enjoyed it,: null
+    we really enjoyed that.: null
+    we really enjoyed, DEAD POETS' SOCIETY.: null
+    we rent a lot of videos: null
+    we rent them: null
+    we rent them .: null
+    we rented ADVENTURES IN BABYSITTING: null
+    we rented CHARLOTTE'S WEB.: null
+    we rented Chevy Chase and that FAMILY VACATION.: null
+    we rented it,: null
+    we rented that one.: null
+    we saw BEAUTY AND THE BEAST .: null
+    we saw CAPE FEAR.: null
+    we saw another one that we thought was really good, early this summer, that was a suspenseful movie.: null
+    we saw it at the movies,: null
+    we saw it, probably,: null
+    we saw one movie recently: null
+    we saw part of THE AFRICAN QUEEN on, on T V a couple of years ago,: null
+    we saw that,: null
+    we saw this movie,: null
+    we saw, DANCES WITH WOLVES: null
+    we still felt the thick blame for,: null
+    we take her to just about every movie,: null
+    we thought we were being very quiet,: null
+    we thought we'd try it, free movie.: null
+    we use to go, go out to that about once a week.: null
+    we used to get five channels without cable.: null
+    we usually have, , we don't get out as much as we like.: null
+    we usually wait: null
+    we want to see GODFATHER PART THREE also: null
+    we want to see that one.: null
+    we wanted to see what this is like.: null
+    we wanted, we wanted to take him to see it.: null
+    we was, teasing, about, splitting our house down the middle .: null
+    we watch a lot of them, at home: null
+    we went and saw THE RESCUERS DOWN UNDER, Under,: null
+    we went on vacation couple months ago,: null
+    we went to see KINDERGARTEN COP.: null
+    we went to see NOT WITHOUT MY DAUGHTER,: null
+    we went to see ONE HUNDRED AND ONE DALMATIANS last weekend: null
+    we went to see SOAPDISH,: null
+    we went to see WHAT ABOUT BOB one night, which is a funny, funny movie: null
+    we went to see a, a real funny one,: null
+    we went to see the JAGGED EDGE.: null
+    we went to the movies that past weekend.: null
+    we went to the,: null
+    we went to two movies.: null
+    we went with some friends of ours,: null
+    we went, without the kids,: null
+    we were grouchy.: null
+    we were in the video store today: null
+    we were just, when, when the topic came up, we, I was asking my husband right quick, what's the last movies we saw.: null
+    we were trying to say, Kenny, it's okay,: null
+    we'll try that one.: null
+    we'll try to rent something that they can see as well as something else that we can see: null
+    we're getting back to last year.: null
+    we're going to go see that.: null
+    we're late twenties.: null
+    we're like why don't we go see this now ,: null
+    we're probably going to rent those some time and then try to see GODFATHER PART THREE somewhere.: null
+    we're sort of in the middle of the summer, season of a lot of new movies coming out,: null
+    we're waiting for the video.: null
+    we've both seen one .: null
+    we've got a V C R and a lot of tapes.: null
+    we've got a couple of movies out recently, GHOSTS and DEFENDING YOUR LIFE, that have to do with, after life, I guess.: null
+    we've got to get it at a time when we can put our kids to bed and stay up late: null
+    we've got to, try to get out there and see that one.: null
+    we've heard about that one,: null
+    we've not been having many opportunities to see movies lately.: null
+    we've only got one bathroom,: null
+    we've rented it several times: null
+    we've watched WEEKEND AT BERNIE'S any number of times .: null
+    we, I just go to the dollar movie theater around here: null
+    we, a whole bunch of us were going to go see it.: null
+    we, we actually rent, probably a go, good combination of movies with the exception of horror films.: null
+    we, we did also,: null
+    we, we had , nothing to do with it.: null
+    we, we just kept trying to figure it out until finally toward the end,: null
+    we, we often sit around and say, what movies should we rent?: null
+    we, we've seen that,: null
+    we, we, rented the other one,: null
+    we, we, we t, we, we're, we're big movie people: null
+    we, when, when the movie came out, we went,: null
+    what I try to do when they come out is just make a list of them that look good: null
+    what is coincidence,: null
+    when I go, I go see two at a time.: null
+    when I thought of that, I thought of,: null
+    when I was in England years ago.: null
+    when I, each time that I thought that the Indians were going to get killed, I cried.: null
+    when he was riding back to the settlement and they shot his horse out from under him.: null
+    when it was, I, I found out it was Kevin Costner when it was on, I guess A B C the other week,: null
+    when it won all those awards, they pushed it back to August,: null
+    when the choir group went to see BACKDRAFT and they thought that was, it was funny cause he sounded like the critics.: null
+    when the computer picked this one, I was a little bit surprised,: null
+    when the, when the anniversary came up: null
+    when they were trying to film that, the buffalo that they used for that scene was Neil Young's buffalo.: null
+    whenever she starts crying .: null
+    ? whenever the cultural revolution of nineteen fortynine occurred and most churches
+      were either banned or their, all the clergy and so forth were killed or, or
+      imprisoned or, and the property confiscated, she was safe because she had, not
+      officially joined the, the Christian movement.
+    : null
+    where I lived. it was a little town called Newmarket.: null
+    which was a,: null
+    who was the,: null
+    why didn't she just tell hi,: null
+    why didn't she just tell him to straighten up.: null
+    you actually have to go up there: null
+    you always, end up with expectations too high or whatever,: null
+    you can get around .: null
+    you can hear all the barking,: null
+    you can imagine what Plano was like eighteen years ago.: null
+    you could tell it,: null
+    you could tell when it was coming.: null
+    you get these twists: null
+    you get, matinee prices.: null
+    you have a, they have an attorney for, attorney for you and attorney,: null
+    you just kind of went with it.: null
+    you just really can't watch a lot of that.: null
+    you knew what was going to happen, of course.: null
+    you knew, you knew when the murder was going to happen or something,: null
+    you know PRETTY WOMAN was kind of a light comedy and a romance,: null
+    you know all the story and who did what: null
+    you see him coming out of the clouds, his head coming out and then the bird coming out,: null
+    you see people who are severely injured, very, very badly, lose control of body functions: null
+    you sound very young: null
+    you think back,: null
+    you were kind of on his side because he was so fascinating.: null
+    you're catching me at, it, at mind's end here.: null
+    you're not sure whether it will be any good or not: null
+    you've probably seen him: null
+    you, you go watch the movie.: null
+  Statement-opinion: !!set
+    A lot of those are really violent type movies.: null
+    Again the relationship, between the two, that, never would have occurred, by accident.: null
+    All I know about that woman is that she's an in, incredible .: null
+    All the way through history, there's, I guess,: null
+    All those old good ones that you, wish they had on: null
+    Arnold Schwarzenegger is getting to be, a bit of a variety actor,: null
+    At first he was just a big muscle man.: null
+    At first, it was kind of strange,: null
+    Both of them were great.: null
+    Cause when you're touristing, you probably don't want to take the time to go see a movie.: null
+    Chuck Norris, of course, could be just about equal,: null
+    Course, it's so expensive, now, too: null
+    DANCES WITH WOLVES did not seem to have anything added.: null
+    DINER is really worth seeing.: null
+    Definitely.: null
+    Even when he's sad, you great faith that he will get happy again.: null
+    Eventually I'm sure they will come out with the,: null
+    Every, everybody makes the obligatory trip to Stonehenge.: null
+    FIELD OF DREAMS was good,: null
+    FIVE was, the script was bad, bad, bad .: null
+    Gene Hackman's a good actor.: null
+    Gosh, was that wonderful.: null
+    He did great.: null
+    He is one of the best actors I've ever seen.: null
+    He seems so macho I just .: null
+    He wanted to direct it,: null
+    He's a good actor though.: null
+    He's a very good writer: null
+    Hollywood, they were doing their dealings with that before they even got over there, I think.: null
+    However, the rumor is, is that it will happen next, happen next time: null
+    I can't remember the titles any more. some really weird ones, with quite a random crew of, of characters.: null
+    I didn't see that, because I didn't think I would care for it.: null
+    I didn't think it was as good as all the, hype was about it.: null
+    I didn't think that one was near as good.: null
+    I didn't think they were great for my daughter .: null
+    I do not think they were very good during that time.: null
+    I don't either .: null
+    I don't see why they have to do that,: null
+    I don't think anybody, anything could ever beat that.: null
+    I don't think he's really a very good actor.: null
+    I don't think it was as funny as what I was an, anticipating,: null
+    I don't think the general audience would, would go for it.: null
+    I don't think too many of them are anymore.: null
+    I got a little sick of his mug on the screen every,: null
+    I guess I can't go see it ,: null
+    I guess I will have to see it then.: null
+    I guess because he is good looking.: null
+    I guess because we don't know,: null
+    I guess it was okay,: null
+    I guess it, it really isn't for everybody.: null
+    I guess maybe it would have been better if we'd have been at the theater: null
+    I guess she does it for the social value of showing you what trash is,: null
+    I guess that I thought was a real good acting and writing job both, because I think, or directing job.: null
+    I guess that's why the actors and actresses make millions of dollars,: null
+    I guess they figured we wouldn't, can't tell the difference between an,: null
+    I guess they would like Jerry Lewis, too.: null
+    I guess they're just not domesticated,: null
+    I guess they, they'll probably come out with a lot of movies,: null
+    I guess you could do that, get all of David Carradine's movies,: null
+    I hope he stays cute: null
+    I just didn't find that one to be real,: null
+    I just have a problem paying twenty five dollars for a movie that I can go down and rent for a dollar .: null
+    I just have to take my hat off to Peter DeNiro.: null
+    I just think he's pretty good.: null
+    I just thought that was terrific.: null
+    I just thought the act, the, author could have been patterned after that,: null
+    I know that sounds awful because so many people think he's so wonderful: null
+    I know that sounds funny coming from a woman,: null
+    I know, it's too bad that they've gotten so expensive.: null
+    I mean it was a real consciousness raiser, I guess.: null
+    I need to go see it.: null
+    ? I only bring up because that was what ten years ago you read and, and understood,
+      about the American pop, Indian population,
+    : null
+    I realize that. to go to these movies and expect them to be, other than just, just good entertainment: null
+    ? I really believe Schwarzenegger is really going to be a varie, variety player
+      more so than he is, because he really played the part good.
+    : null
+    I should think we've done enough.: null
+    I suspect it's always been a preoccupation with that sort of things.: null
+    I suspect today what they see is bound to be what they want to do when they get out of it.: null
+    I think I heard somebody talking about that she cuts his foot off or something,: null
+    I think SMOKEY AND THE BANDIT was a little bit like that.: null
+    I think a lot of kids, get the same kind of fears, like there's somebody under the bed.: null
+    I think about, just the meaning of, the freedom of this country and, and what that really meant.: null
+    I think he just really w, he really wanted it.: null
+    I think he made the movie,: null
+    I think he ought to stay Indiana Jones.: null
+    I think he's really good.: null
+    I think he, he needs a comedy, too.: null
+    I think in this one it wasn't so good.: null
+    I think it is.: null
+    I think it was something that he really wanted to do.: null
+    I think it was the black hills of South Dakota.: null
+    I think it's an excellent movie for,: null
+    I think it's just playing now up here.: null
+    I think it's just,: null
+    I think it's time we had a lady abuse the guys movie.: null
+    I think it, it's just losing its originality or something.: null
+    I think just most people have V C R s now: null
+    I think movies are losing their attractiveness, just to a lot of people.: null
+    I think one is enough.: null
+    I think that GHOSTS was one of those that a lot of people didn't think was going to be any good.: null
+    I think that beard gives him a look that he is always grinning, whether he is or not.: null
+    I think that gets us off to discussing the topic for tonight.: null
+    I think that is, that is the point.: null
+    I think that's important if you're going, if you're going, kids are going to, parents are going to have to go: null
+    I think that's supposed to be good,: null
+    I think that's why a lot of people go to see him, though .: null
+    I think that, I think he did a good job: null
+    I think the script was, just incredible compared to the last one.: null
+    I think they did a real good job of that.: null
+    I think they're both excellent movies.: null
+    I think we all heard the story of the slaughter of the buffalo.: null
+    I think we're going to have a white Christmas up here just like the song says.: null
+    I think we're, we're, we've done okay, though.: null
+    I think we've made it.: null
+    I think we've probably,: null
+    I think you would really like PRETTY WOMAN,: null
+    I think, I think SIXTEEN CANDLES was the name of it.: null
+    I think, I think it was very one sided.: null
+    I think, I think though, that movies are losing their luster.: null
+    I though that was a really cute movie,: null
+    I thought Kevin Costner was just,: null
+    I thought PRETTY WOMAN was a really good movie, too.: null
+    I thought he looked real good with a beard, too.: null
+    ? I thought it had a wonderful message to it. It's the kind you came out and looked
+      at somebody and said, I think I liked that .
+    : null
+    I thought it was a very interesting movie.: null
+    I thought it was an okay movie,: null
+    I thought it was awful,: null
+    I thought it was funny.: null
+    I thought it was just of like you didn't know this was going to happen,: null
+    I thought it was very well done.: null
+    I thought she,: null
+    I thought that might be kind of fun to do.: null
+    I thought that was a very good movie.: null
+    I thought that was appropriate just for everyone.: null
+    I thought that was pushing it a little bit: null
+    I thought that was really good.: null
+    I thought that's, that's close enough to being several,: null
+    ? I thought the funny part in HOME ALONE was, that's good for kids, is kind of
+      coming up with how they can deal with problems on their own without panicking
+    : null
+    I thought the scenes when the buffalos running, though, were beautiful,: null
+    I thought the story was pretty good, too.: null
+    I thought they could learn a lot of lessons from that.: null
+    I thought, it's good that,: null
+    I was just going to say, th, you should see those, fi, first if you can.: null
+    I was, it was great.: null
+    I'd be just fine without them, because, kids come running out wanting to beat each other up.: null
+    I'm just, I guess I'm just middle America or something.: null
+    I'm not really into those.: null
+    I'm not sure I would have enjoyed that at all.: null
+    I'm sure everybody that saw it was believing it right along with them.: null
+    I, I couldn't see it worth getting a nomination for, best picture.: null
+    I, I don't think he really knew it was going to be as big as it was.: null
+    I, I don't, I guess I thought it was too far fetched: null
+    I, I imagine a lot of it had to be fictional just to keep the F B I, going, I guess.: null
+    I, I imagine the way SOAPDISH was, but, with: null
+    I, I just thought it was a really interesting, intense film.: null
+    I, I just thought it was too far fetched.: null
+    I, I just thought life would be,: null
+    I, I think Kevin Costner did a really good job with it.: null
+    I, I think it was more a lesson for Tom Cruise than anything else in terms of, of how to act from Dustin Hoffman,: null
+    I, I was disappointed in it just because of how violent it was.: null
+    I, I, it's a little far fetched to,: null
+    ? I, the, the, I think the, the best thing about RAINMAN was the, the way that
+      they put together the, the real awfulness of the, of the, of the disease,
+    : null
+    If y, if you read the book it's, even better.: null
+    If you hear that music, everybody knows what you are talking about.: null
+    Intense I think is the word for it because three hours went by really fast.: null
+    It didn't, it didn't have any real social bearing: null
+    It is an incredible book.: null
+    It just was not enough to it.: null
+    It really and truly does, because to get the feeling: null
+    It seemed re, it seemed real,: null
+    It still just seems a little twisted to me .: null
+    It was a beautiful story,: null
+    It was done real well too.: null
+    It was good.: null
+    It was just a happy movie.: null
+    It was just all legitimate kind of, film.: null
+    It was just crazy enough for th,: null
+    It was not bad: null
+    It was okay.: null
+    It was real different then you'd expect,: null
+    It was really cute.: null
+    It was really good.: null
+    It was really, the Hollywood really must think there's some real dummies out there or something.: null
+    It was so funny and it sounds like, what you were just describing, SOAPDISH, too.: null
+    It was so funny.: null
+    It was such a,: null
+    It was true, it was truly awful.: null
+    It was very good.: null
+    It was, it was kind of like the STAR WARS: null
+    It was, it was scary.: null
+    It was, it was such a rout though,: null
+    It's a kind of one of those psycho ones.: null
+    It's a really good show.: null
+    It's about time for one of those.: null
+    It's almost more fun: null
+    It's amazing .: null
+    It's boring.: null
+    It's funny how your little minds work,: null
+    It's funny.: null
+    It's hard to find movies that aren't terrible violent or terribly bunch of sex going on anymore.: null
+    It's hard to know what the good movies are anymore.: null
+    It's kind of like waterfront property or something: null
+    It's like ROCKY films.: null
+    It's pretty good.: null
+    It's pretty, it's pretty cute.: null
+    It's really good.: null
+    It's sort of a modern CINDERELLA type of story.: null
+    It's, it's a shame,: null
+    It's, it's so well written.: null
+    It, it might have one best picture, too.: null
+    It, it really just turned out nicely.: null
+    It, it was,: null
+    It, really is very, very interesting.: null
+    James Woods, I think is who it was, did an excellent job as the cop.: null
+    Jean Luke does more of a, a,: null
+    Jody Foster was good, too, but I think, I think Anthony Perkins was the one that, that really made the movie,: null
+    Julia Roberts is good.: null
+    Just more of the same.: null
+    Just, they just carried it off,: null
+    L, Leonard, s, Nimoy, he does a lot better.: null
+    Life's depressing enough .: null
+    Maybe i, maybe that was,: null
+    Might have been Michael Douglas. that starred in it. *listen: null
+    Most of them are a coin flip .: null
+    Must have left an impression.: null
+    Nobody can get along peacefully .: null
+    Not anymore.: null
+    Not, not too often .: null
+    Of course, no one will ever know.: null
+    Probably gives them ideas of what they want to do,: null
+    Probably know him if I saw him.: null
+    Probably one of the best things about it was the scenery: null
+    Probably some of them did .: null
+    Probably, probably worth seeing on video.: null
+    Real scruffy looking,: null
+    Really gory.: null
+    She knows how to do that.: null
+    She's rich .: null
+    Shoeless Joe Jackson really was a player.: null
+    Some of it just isn't,: null
+    Some of them are pretty bad.: null
+    Sometimes I think we think it is.: null
+    Sometimes you're in the mood for it even.: null
+    Sort of interesting,: null
+    Sounds a lot a like a Walt Disney film.: null
+    TEENAGE MUTANT NINJA TURTLES was sort of the same way,: null
+    TWINS was good too,: null
+    TWO THOUSAND AND ONE was a good movie if you had read the book.: null
+    TWO THOUSAND AND TEN was far better.: null
+    Th, that sounds a lot like a Walt Disney film.: null
+    That always seems to happen when you rent them, .: null
+    That has gotten to be a whole camp i, idea now though,: null
+    That is the most heart rendering story of relationships between two people.: null
+    That makes a lot of sense .: null
+    That needs the big screen.: null
+    That one looks so scary just,: null
+    That sounds like an interesting concept.: null
+    That wa, that was pretty good.: null
+    That was a good one.: null
+    That was a mistake that they made.: null
+    That was a really good movie.: null
+    That was excellent.: null
+    That was good,: null
+    That was good.: null
+    That was hilarious.: null
+    That was neat.: null
+    That was rather, gross .: null
+    That was very good.: null
+    That was, that was a good movie.: null
+    That was, that was pretty good.: null
+    That was, that was pretty interesting movie,: null
+    That was, that was so funny,: null
+    That would be pretty good.: null
+    That's a real good show.: null
+    That's a real warm movie.: null
+    That's an excellent movie.: null
+    That's at, that one won't your sides .: null
+    That's good.: null
+    That's not an easy part to play, I, I don't think .: null
+    That's the magic of Hollywood, special effects.: null
+    That's true.: null
+    That's what they when the thing hasn't won any award. *listen: null
+    That, that can make you crabby, yes.: null
+    That, that makes it worth it,: null
+    That, that takes a good bit to make one that's predictable that's still worth watching.: null
+    That, that was cute.: null
+    That, that's horrible,: null
+    The acting was phenomenal.: null
+    The book was excellent.: null
+    The characters played very well off one another.: null
+    The cinematography is just beautiful really beautiful scenes and real good music.: null
+    The most recent one that, my wife and I have seen was the CITY SLICKER.: null
+    The thing that I thought was interesting was that the critics,: null
+    There are a number of good movies like that.: null
+    There was a lot of the human character when he was home alone and he was trying: null
+    There's a certain a mount of dribble that they do.: null
+    There's nothing wrong with that.: null
+    There's only one way of finding it.: null
+    There's some nice stuff over there to see.: null
+    They hardly ever play music when a shark attacks somebody.: null
+    They just changed it because X had a connotation with it,: null
+    They say is really frightening, too.: null
+    They say it's really horrifyingly scary: null
+    They shouldn't have done it.: null
+    They're more interesting.: null
+    They're, they're just strange.: null
+    Unbelievable.: null
+    Usually if a movie is good, once is enough .: null
+    Vulcans age a lot better .: null
+    Walt Disney's kind of gotten worse in my opinion over the past few years.: null
+    Water view .: null
+    Waterfront property here at Love Canal,: null
+    We just keep breeding them.: null
+    We like those things that way.: null
+    When the shoe is on the other foot and see how it,: null
+    When they're so cheap too at the video stores that you can.: null
+    When you think of what it takes to make some of those kind of movies,: null
+    Which most of them probably aren't .: null
+    Y, you have to go see that one.: null
+    You can do that, but it is difficult if you, if you work or,: null
+    You can tell I'm an animal lover,: null
+    You can't just watch them by yourself or else,: null
+    You can't put it in pictures.: null
+    You don't even, you don't even realize it,: null
+    You expect more out of, Julia Roberts, though.: null
+    You give it subtitles, they won't watch,: null
+    You had to wade through it and find it .: null
+    You just had to find it.: null
+    You know how they can make any of, any single one of them in a movie to be a: null
+    You must really keep up.: null
+    You never quite got to,: null
+    You really truly do.: null
+    You see it on video just as soon as it is on the movie screen.: null
+    You weren't sure exactly how it would get there,: null
+    You'll have nightmares,: null
+    You're right,: null
+    a lot of that stuff that was going on in the film, you co, say what is this?: null
+    a lot of the Disney movies, it's just too expensive,: null
+    a lot of times it is added for no real, valid reason.: null
+    again it, I think was a picture of relationships.: null
+    all of them, I guess, could be in that fashion,: null
+    all the comedies are more like jokes and, gags and stuff like that: null
+    all you can do is put it in words.: null
+    and they're making the movie according to certain formula that's a good formula: null
+    and yet it was his character that was so intriguing,: null
+    and, but, but, a little bit strange and esoteric: null
+    apparently it's going to win everything.: null
+    as far as I was concerned, TEENAGE MUTANT NINJA TURTLES could have been a classic of world theater: null
+    as long as we keep paying the money for it, they are going to keep paying them.: null
+    basic thick western U S accent for a ROBIN HOOD just doesn't seem to fit.: null
+    boy there's a lots going on in there .: null
+    but much more true to life: null
+    by the time you get a babysitter, and then pay to go to the movies: null
+    cause it's, it's just a fun summer light comedy,: null
+    course, growing up on, on the back of a horse, and being on ranches and stuff, so much of that was so true: null
+    critically acclaimed.: null
+    didn't need to.: null
+    even on those type they don't show what you expect.: null
+    even the movies that want to show violence as real, they don't really show you what happens with that real violence: null
+    every now and then you find one that you say, yeah,: null
+    everything went away for a couple years,: null
+    except that the rumor is, is that they still might,: null
+    for some people, that's just, that's out of the question,: null
+    from Love Canal .: null
+    from a woman's point of view and it was very, chauvinistic as far as women go.: null
+    ? given the size of the house and how clever the kid was, it seems to me they
+      could have done a lot more, basically stepping on things and yelling in pain
+    : null
+    he certainly could have been.: null
+    he could be this rough, tough guy and then, this substitute teacher.: null
+    he did some clever things,: null
+    he had a way of putting you in that scene,: null
+    he has done a really good job of characterizing the, disabled person.: null
+    he has really developed into a marvelous character actor as he has come older.: null
+    he wanted to, to star in it.: null
+    he was always slick, and greasy, and seemed to be conceited and had more women than he needed: null
+    he's kind of branching out.: null
+    he's very good in REGARDING HENRY.: null
+    he's very good.: null
+    he's, he's talented,: null
+    he, he enjoyed the story line: null
+    he, he has that merry look about his eyes that looks like he stays in mischief all time.: null
+    he, he, he did pretty good on that one.: null
+    his heart was in it,: null
+    hysterical.: null
+    i, it could easily have been patterned after him.: null
+    if something gets really good reviews, maybe you'd finally go spend the twelve bucks,: null
+    if you didn't like BEETLEJUICE you'll probably won't like EDWARD SCISSORHANDS.: null
+    ? if you don't, with some of the movies, if you don't go to them within the first
+      four weeks, the movie may have, left town, never to show up again until it comes
+      back in video.
+    : null
+    if you want to call its mysticism or the occult or whatever. It's always fascinated.: null
+    if you weren't, if you weren't drawn to watch that, you, maybe you wouldn't be drawn to these movies, either.: null
+    if you, if you liked BEETLEJUICE you'll probably like EDWARD SCISSORHANDS,: null
+    if, if she enjoys movies I think it'll work pretty good.: null
+    in order to get a decent movie to have on a weekend, you've got to rent it on Thursday.: null
+    it always balances out one way or the other: null
+    it certainly would, would explain the preoccupation with ,: null
+    it could have been,: null
+    it doesn't seem like it's as big, rage to get the movie theater as it used to be.: null
+    it is so overacted that you're just hysterical: null
+    it is, it is,: null
+    it is, to me an outstanding movie.: null
+    it kind of makes you wonder,: null
+    it kind of runs in, in batches,: null
+    it made you feel really good.: null
+    it made you think a lot: null
+    it may not include the entire crew: null
+    ? it must have been great just being with him on, on a daily basis and seeing
+      how he prepares for his, for his lines and all that stuff.
+    : null
+    it really was good even though it is such a long movie.: null
+    it really was.: null
+    it says a lot about middle life: null
+    it says a lot about,: null
+    it seems to me they could have been a lot more creative stuff used.: null
+    it should be out on T V, I would think,: null
+    it sounded like thunder and earthquakes and that sort of thing.: null
+    it sounds like neither one of us are real movie buffs.: null
+    it sounds like you and your grandson like the same kinds of movies.: null
+    it turned out to be an excellent movie.: null
+    it wa, it was really funny, it's, that, that he winds up playing in the movie.: null
+    it was a good movie.: null
+    it was a lot of fun.: null
+    it was a pretty good movie.: null
+    it was a very famous, popular movie.: null
+    it was a very good movie.: null
+    it was a, of course, one of the typical: null
+    it was all right,: null
+    it was better than it could have been.: null
+    it was excellent,: null
+    it was good,: null
+    it was great .: null
+    it was great.: null
+    it was just a rumor that that would happen this time.: null
+    it was just how she got so caught up,: null
+    it was just hysterical.: null
+    it was just kind of a get away movie.: null
+    it was just, it was done so well,: null
+    it was kind of shocking because that is a scary movie. And children, young children could see, could have seen that movie,: null
+    it was okay.: null
+    it was really good.: null
+    it was shocking at the end too.: null
+    it was silly.: null
+    it was so good.: null
+    it was violent.: null
+    it was well done but, that is one reason why it was scary.: null
+    it was, it was a classic Greek, a sort of, European mess going back three thousand years that they're playing with: null
+    it was, it was a great movie though.: null
+    it was, it was an amusing movie.: null
+    it was, it was innovative, a completely new approach to making a movie in a lot of ways,: null
+    it was, it was more of a love story: null
+    it was, it was not a bad movie.: null
+    it was, it was really good .: null
+    it wasn't impressive necessarily,: null
+    it wasn't worth anything.: null
+    it will be a next generation meets this generation .: null
+    it would have made, these Fellini movies look normal.: null
+    it would have make it, broadened the audience that it could have been targeted for, I thought: null
+    it would, it would be to anyone because, they really don't know that much about it.: null
+    it wouldn't have hurt the movie to do that,: null
+    it'll teach a great lesson, because she ended: null
+    it's a little disturbing the violence in these films,: null
+    it's a matter of your taste,: null
+    it's a really good show.: null
+    ? it's a side that hasn't been told. as far as, telling it from, the Indians as
+      the good guys and the, the white men as the bad guys.
+    : null
+    it's almost more fun really to rent movies. just kind of stay at home, maybe.: null
+    it's amazing,: null
+    it's as simple as that.: null
+    it's beautifully done.: null
+    it's definitely a lot better . A lot more realistic really.: null
+    it's funny because most women aren't really,: null
+    it's great.: null
+    it's hard to believe that, this really happened.: null
+    it's hard, it's hard to find a movie any more these days that you can take your kids: null
+    it's it was, it was a fun movie.: null
+    it's just a very, very bad thing,: null
+    it's just as suspenseful, I think.: null
+    it's just it's something that anyone can watch and enjoy.: null
+    it's just so well done.: null
+    it's just, it's just goofy.: null
+    it's kind of both, I guess,: null
+    it's like golly,: null
+    it's lot better.: null
+    it's not too bad.: null
+    it's not, it's not as bad as SILENCE OF THE LAMBS.: null
+    it's sort of a popular view of, what happened way back then.: null
+    it's terrible.: null
+    it's very cheap to make a slapstick movie.: null
+    it's worth doing it.: null
+    it's, if you keep up with movies, it's kind of interesting.: null
+    it's, it seems like, that kind of: null
+    it's, it's a little different, because you see things from a different: null
+    it's, it's a really good movie,: null
+    it's, it's fun to,: null
+    it's, it's interesting.: null
+    it's, it's really stirring.: null
+    it's, it's something that,: null
+    it's, it's, it's a glorious movie: null
+    it's, one of those movies that it's not a great movie: null
+    it, it has surprised everybody.: null
+    it, it looks good,: null
+    it, it meant something bigger I think.: null
+    it, it really was a fantastic movie.: null
+    it, it was a strange combination.: null
+    it, it's interesting, though,: null
+    it, it's just the idea that these, these actors, live in such lavish style.: null
+    just a touch.: null
+    just generally, that kind of scary stuff I, I just don't want to have anything to do with it.: null
+    just you see the same story lines, different characters: null
+    life is a little slower, a little easier.: null
+    like I said, with CITY SLICK, with SOAPDISH, it is so cornball: null
+    make your cheeks hurt laughing.: null
+    nobody could figure it out.: null
+    normally never the twain shall meet.: null
+    now it's back again.: null
+    of course, Robin Williams always just has a, an air about him that you can't help but enjoy what he is doing.: null
+    of course, he's such a, very good actor anyway: null
+    of course, you need a babysitter for that .: null
+    of the three of those, DINER's probably the best.: null
+    on the, on the broad scope if, it, it, it had a much bigger thing I thin,: null
+    other than that it just seems like it's so expensive.: null
+    people like us, .: null
+    real scruffy looking .: null
+    really good ending: null
+    really, really good.: null
+    really, when you stop and think about it, Anthony Perkins didn't have that big a role in the movie: null
+    seems like the rating system, is kind of switching that way a little bit .: null
+    she's smart at what she does.: null
+    so many of them are done so poorly,: null
+    so many of them are just done real,: null
+    so many people said no it wasn't,: null
+    some of them are done good: null
+    some of them, they, they'll start in one area of the country,: null
+    sometimes the reviews you just can't go by.: null
+    still it was a fantas,: null
+    students might try to do it.: null
+    th, that character could have been patterned after him or someone like him, certainly.: null
+    tha, that's true,: null
+    that does sound fun.: null
+    that is a really good movie, if you like special effects,: null
+    that is horrible: null
+    that is kind of steep,: null
+    that is taking the middle of the afternoon.: null
+    that is where reason why I suppose it won so many Oscars,: null
+    that looks good.: null
+    that looks really good too.: null
+    that may be,: null
+    that mov, that was one movie I came out impressed.: null
+    that one very definitely kept you on the edge of the seats,: null
+    that one was just a very poignant story,: null
+    that one was.: null
+    that one wasn't that great either.: null
+    that really wasn't too bad.: null
+    that seems to be the norm of most movies,: null
+    that that's really like an all time classic.: null
+    that was crummy also.: null
+    that was good,: null
+    that was good.: null
+    that was great one.: null
+    that was great.: null
+    that was just excessively violent.: null
+    that was just so good.: null
+    that was okay,: null
+    that was pretty good, though,: null
+    that was pretty good.: null
+    that was pretty.: null
+    that was really intriguing,: null
+    that was so good.: null
+    that was taking over somebody else's freedoms.: null
+    that was very good.: null
+    that was, that was an excellent movie.: null
+    that was, that was pretty funny,: null
+    that was, was really good.: null
+    that wasn't too bad on tearjerker: null
+    that wouldn't problem.: null
+    that's a wonderful, wonderful job by Robin Williams and Peter De Niro.: null
+    that's kind of a: null
+    that's kind of what, in a way, how it kind of bothered you, the way it ended and stuff.: null
+    that's that bad then.: null
+    that's what they're for,: null
+    that's what you're, you're, dealing with.: null
+    that's, that was a really good movie.: null
+    that, it just doesn't even give you the effect,: null
+    that, it's good because it does make you think, about your own family.: null
+    that, that is what makes it so interesting.: null
+    that, that was just, had all kinds of things throughout the whole movie,: null
+    that, that was so wonderful that they done that: null
+    that, that's true.: null
+    the book is really good.: null
+    the buffalo scene in that thing: null
+    the costuming *slash error: null
+    the idea that they may put a little extra in it I think is a good idea.: null
+    the movie comes out quicker than you can go see it.: null
+    ? the only thing that disturbs me is that now they think they have to add just
+      a little bit of sex and violence in order to get a, a tougher rating. Which
+      suggests that, that, it will be more enticing to the, to the public.
+    : null
+    the popcorn and everything else,: null
+    the price is as reasonable as renting a video.: null
+    the problem is you always have to wait until they're out.: null
+    the second time you see it, you understand more subtleties in it.: null
+    the selfsatisfaction he got out of it is much greater than any awards that they can give him.: null
+    the story was a very dramatic story,: null
+    the whole idea behind it is far fetched.: null
+    the whole movie is kind of far fetched.: null
+    their, their, the language on that's filthy.: null
+    ? then there's these, periods like early fall before Christmas or early spring
+      when there's sort of a quiet period where if you bring something out again,
+      it, will increase the revenues from the movie.
+    : null
+    there are certain things you can't do with a video: null
+    there are certain, qualities that suggest it could be he.: null
+    there are no answers,: null
+    there possibly were because you know you always have conflict in the world.: null
+    there was a lot of human character there,: null
+    there was a lot of pretty scenery, too, in that movie.: null
+    there was, it was like, STEEL MAGNOLIAS.: null
+    there wasn't any part of it that you really felt like, no, this can't happen.: null
+    there's always something that,: null
+    there's no real way of finding out.: null
+    there's no way to protect them any more.: null
+    there's not as much slapstick anymore.: null
+    there's not too many that are, that are good just on their, that, that you wouldn't want to change something,: null
+    there's something about it that just, it isn't just slapstick,: null
+    there's something about it that's so innovative,: null
+    there's something about the human character in it: null
+    there's, there's been a, a fair number of, of pretty good movies out recently.: null
+    they balanced it with the wonderfulness of it,: null
+    they could try to make,: null
+    they did a real good job with it.: null
+    they didn't, they didn't age it: null
+    they do scare you.: null
+    they don't last that long.: null
+    they don't, they, they could make them better,: null
+    they grow up too fast,: null
+    they just don't howl that much anymore.: null
+    they keep it rather secretive,: null
+    ? they made a big deal about how this, this film was such a big leap for the,
+      the people who, who were the ancestors of the, this Indian tribe
+    : null
+    they never present that,: null
+    they seem to fall short of, of being really creative with a lot of things,: null
+    they should have taken them out and rolled them in the dirt a little more: null
+    they sort of candy coated the western story for many years,: null
+    they tried to keep it, as very close to real.: null
+    they were done a little more tastefully.: null
+    they won't come within ten feet of,: null
+    they're just really good movies.: null
+    they're kind of fun to watch in a way.: null
+    they're some of the best of, that are made.: null
+    they're usually not, not that great or didn't do that great anyway.: null
+    they're, they're all pretty good,: null
+    they've probably seen about everything at this point .: null
+    they, I guess they figured, they know what they're doing,: null
+    they, they, they have all these neat phrases.: null
+    this is kind of neat.: null
+    this, French I guess are into the slapsti,: null
+    those are two definite must see movies, I think.: null
+    those old movies seemed to have had something: null
+    to me it's somewhat like PRETTY WOMAN.: null
+    unless a movie is popular and stays around, you probably will see it on video these days more likely than at the movie.: null
+    was that good.: null
+    we're at about five minutes.: null
+    we've, we've got a lot of company this summer, which is wonderful.: null
+    when I compare the winners of this year and last year, it just,: null
+    when it was, the real slapstick moments, him versus the criminals kind of thing, it just sort of lost the human element: null
+    when the truth,: null
+    when they listened to that tape they would have really had a good time,: null
+    when you first came out, you weren't real sure.: null
+    ? whether it, whether it won all kinds of awards or whether it just was okay at
+      the box office, I think he would have been happy.
+    : null
+    which does not make,: null
+    with luck, you'll have one or two that are good.: null
+    ? yet it ended up not being anything particularly memorable, because the, the
+      story was stupid, and, and then things like that,
+    : null
+    you almost can't afford to do it.: null
+    you are right,: null
+    you can hear my dog .: null
+    you can watch the characters develop,: null
+    you could rent it: null
+    you didn't,: null
+    you get the medical profession doing these kinds of things,: null
+    you get to where: null
+    you have to like,: null
+    you have to see those twice to catch everything.: null
+    you have, you have to just sort of like this thing,: null
+    you just gave it away,: null
+    you kind of have to like to be, drawn to this point where you aren't sure what's going to happen.: null
+    you kind of wait: null
+    you knew where it would end up.: null
+    you might not be so: null
+    you need to, to work with it, certainly on, on a daily basis but then ag, then again work with it toward a good end.: null
+    you never know.: null
+    you think, for a Stephen, it because it was by Stephen King it would be really gory: null
+    you would applaud Bruce Willis in DIE HARD if he was doing this: null
+    you wouldn't like to see anybo, anything happen to anybody,: null
+    you're glad you ain't got a four year old.: null
+    you're not a thirteen year old.: null
+    you're thinking of Rick Moranis.: null
+    you're usually going to do, you're usually going to go to a dinner, go to dinner or something with that.: null
+  Wh-Question: !!set
+    Harrison Ford and, how does the story line go?: null
+    How long did that movie run?: null
+    How much is it in Dallas?: null
+    How old are you all?: null
+    How was that?: null
+    How's his karate?: null
+    What ages are they?: null
+    What are some others that you have seen lately?: null
+    What are you?: null
+    What have you been to lately?: null
+    What have you seen lately?: null
+    What have you seen recently that you enjoyed?: null
+    What have you seen recently? .: null
+    What have you seen?: null
+    What kind of movies have you been seeing lately?: null
+    What other movies have you seen?: null
+    What was one of the latest ones that you've seen,: null
+    What was that anyway?: null
+    What was the last comedy you saw?: null
+    What was the last one?: null
+    What was your favorite all time movie?: null
+    What'd you think of it?: null
+    What's that about?: null
+    What's the last movie you saw?: null
+    What's, what's your most recent one that you've seen?: null
+    What, what kind of movies in general do you like to watch?: null
+    When did you live there?: null
+    When was it out?: null
+    Where are you from?: null
+    Where do we get that from?: null
+    Which, which Billy Crystal movie?: null
+    Who, who was in that.: null
+    Whose your favorite actress or actor?: null
+    Why do we end this thing?: null
+    Why don't we do that?: null
+    anyhow, what have you seen?: null
+    how bad were the side effects?: null
+    how was that?: null
+    time wise, how long,: null
+    wha, what's your next,: null
+    what about TOTAL RECALL,: null
+    what business are you in?: null
+    what did I say, Peter?: null
+    what do you mean: null
+    what have you seen lately that, you think is worthwhile?: null
+    what have you seen lately?: null
+    what have you seen?: null
+    what kind of movies have you seen, lately, I guess?: null
+    what movies are showing down there now?: null
+    what movies are you looking forward to seeing now?: null
+    what movies do you like?: null
+    what movies have you seen lately?: null
+    what movies have you seen recently, Valerie?: null
+    what movies have you seen?: null
+    what other movies have you seen then lately?: null
+    what was that one about Bob?: null
+    what's his first name.: null
+    what's the one that just,: null
+    what, what are some of the shows that you have been able to rent though?: null
+    which ones have you seen lately?: null
+    who, who was that with?: null
+    whose in that?: null
+  Yes-No-Question: !!set
+    Are they, is it, like mystery,: null
+    Are you a movie buff?: null
+    Are you calling from Texas, by the way?: null
+    Are you from Texas?: null
+    Are you into,: null
+    Are you looking in the paper?: null
+    Are, you're a real life Trekkie?: null
+    As a recurring character every week?: null
+    Christopher Reeve or Mike Douglas.: null
+    Christopher Reeve wasn't in it at all?: null
+    Cindy, have you seen DANCES WITH WOLVES?: null
+    DANCES WITH WOLVES, have you seen that yet?: null
+    Did they have Thing: null
+    Did you care for SLEEPING WITH THE ENEMY?: null
+    Did you cry through it?: null
+    Did you ever see that?: null
+    Did you ever see the movie BEETLEJUICE?: null
+    Did you ever see the movie STAR MAN.: null
+    Did you ever see the original F X movie.: null
+    Did you ever see the original one?: null
+    Did you go to DANCES WITH WOLVES?: null
+    Did you go with kids though?: null
+    Did you go with kids?: null
+    Did you have damage this year with hurricanes?: null
+    Did you like it?: null
+    Did you see GHOST?: null
+    Did you see GOODFELLAS?: null
+    Did you see HOME ALONE? .: null
+    Did you see PACIFIC HEIGHTS?: null
+    Did you see PRETTY WOMAN?: null
+    Did you see any movies over there ?: null
+    Did you see it?: null
+    Did you see that movie with Fred Savage in it, though,: null
+    Did you see that one,: null
+    Did you see that one?: null
+    Did you see those because of, Julia Roberts, or for, the subject matter of the two?: null
+    Did you see,: null
+    Did you take kids along?: null
+    Did you watch DANCES WITH WOLVES,: null
+    Didn't he used to?: null
+    Do you enjoy that one?: null
+    Do you have any.: null
+    Do you know which one yours was?: null
+    Do you know who the guy was that was playing the, the, the wagon driver?: null
+    Do you like suspense movies: null
+    Do you or your husband work for T I,: null
+    Do you remember,: null
+    Do you rent movies very often,: null
+    Do you see HOOSIERS?: null
+    Do you take her, do you go to a lot of comedy movies: null
+    Do you want to start?: null
+    Do you, do you listen to Gary Cogill?: null
+    Do, do you have kids you take to movies: null
+    Do, do you rent them,: null
+    Does it usually cut off?: null
+    Does, does he, does it have a happy ending,: null
+    Even better than ROGER RABBIT insofar as animation?: null
+    Has he had, has he had very many other movies out?: null
+    Have you been to any lately?: null
+    Have you ever lived in that part of the country?: null
+    Have you ever visited it?: null
+    Have you found: null
+    Have you heard anything on, OUT FOR JUSTICE.: null
+    Have you heard of it?: null
+    Have you rented any movies lately?: null
+    Have you seen DANCES WITH WOLVES?: null
+    Have you seen DANCING WITH WOLVES?: null
+    Have you seen GHOSTS yet?: null
+    Have you seen GREEN CARD?: null
+    Have you seen SLEEPING WITH THE ENEMY?: null
+    Have you seen THE FISHER KING?: null
+    Have you seen WILD ORCHID?: null
+    Have you seen that movie?: null
+    Have you seen that one yet?: null
+    Have you seen that one?: null
+    Have you seen that yet?: null
+    Have you seen that?: null
+    Have you seen the mov,: null
+    Have you seen the movie CLASS ACTION with Gene Hackman?: null
+    Have you seen the movie, CROSSING DELANCY?: null
+    Have you seen the rest?: null
+    Have, have you been up to that?: null
+    He was in, HONEY DON'T SHRINK THE KIDS, wasn't he?: null
+    He wasn't always funny in that show, was he.: null
+    I guess we have talked probably our l, time limit, haven't we?: null
+    I haven't, I didn't hear that was coming out.: null
+    Is it Anthony Perkins or Anthony Hopkins?: null
+    Is it David Segal.: null
+    Is it as good as they say it is?: null
+    Is it good?: null
+    Is that right?: null
+    Is that true? .: null
+    Is that what,: null
+    Is, is the Kmart there? .: null
+    Isn't there a Kmart everywhere?: null
+    Lots of little funny spots,: null
+    Patrick Swayze?: null
+    Really uplifting, ?: null
+    Robby, Robin Williams, does he have a funny part in it?: null
+    SILENCE OF THE LAMBS?: null
+    She knows how to twist this around,: null
+    Should I go rent it tomorrow .: null
+    That was on a while ago, wasn't it?: null
+    That's, that's one of those interesting pieces of trivia that somebody said, did you notice that?: null
+    They did that didn't they: null
+    Was it bad?: null
+    Was it hard when you first came?: null
+    Was that Arnold Schwarzenegger?: null
+    Was that good,: null
+    Was that here in Dallas?: null
+    Was that pretty funny?: null
+    Was that the animated version?: null
+    Wasn't it a murder mystery?: null
+    Wasn't that excellent?: null
+    Were you all transferred?: null
+    You didn't?: null
+    You think my daughter would like it?: null
+    You, you watch many?: null
+    a real dog and cat?: null
+    are you a native of that part of the country?: null
+    are you going to see this next one that's coming out?: null
+    are you talking about movies like DIE HARD TWO.: null
+    are you, are you going to see, do you, are you much of a STAR TREK fan,: null
+    are you, fluent in another language: null
+    as a matter of fact, Sylvester Stallone, is that his name?: null
+    as, it, as I recall it got some Academy Awards, didn't it.: null
+    d, do you all have, do you all still have driveins up there: null
+    did he just do it?: null
+    did it come out in the,: null
+    did that come on T V: null
+    did they have some pretty good special effects?: null
+    did they make the movies after that: null
+    did you all ever think about purchasing that one, when it comes out?: null
+    did you care for that one?: null
+    did you ever see AMERICAN GRAFFITI?: null
+    did you ever see HOME ALONE?: null
+    did you ever see SILVERADO?: null
+    did you ever see, FLATLINERS.: null
+    did you ever see, SLEEPING WITH THE ENEMY?: null
+    did you get to talk to him?: null
+    did you see DIRTY ROTTEN SCOUNDRELS?: null
+    did you see FATAL ATTRACTION?: null
+    did you see TWIN PEAKS?: null
+    did you see it?: null
+    did you see that one that he made years and years ago about the, the sheriff: null
+    did you see that with him?: null
+    did you see that?: null
+    did you see the movie?: null
+    did you see, DRIVING MISS DAISY?: null
+    did you, have you seen that one?: null
+    do you go by the ads when you look at them, or the reviews?: null
+    do you go to many movies more than once?: null
+    do you go to the movies often,: null
+    do you have a V C R?: null
+    do you have them there?: null
+    do you know who he is?: null
+    do you like, movies a lot?: null
+    do you like, steamy movies .: null
+    do you watch soap operas?: null
+    do you work for T I?: null
+    does that make since to you?: null
+    does the old STAR TREK guys meet the new guys?: null
+    have you ever seen any of the movies?: null
+    have you seen DANCES WITH WOLVES?: null
+    have you seen PRETTY WOMAN?: null
+    have you seen ROBIN HOOD yet?: null
+    have you seen SHRIMP ON THE ?: null
+    have you seen THE GODS MUST BE CRAZY, PART TWO?: null
+    have you seen a new movie lately?: null
+    have you seen it?: null
+    have you seen that one?: null
+    have you seen that.: null
+    have you seen that?: null
+    have you, have, did you see TEXASVILLE?: null
+    he didn't look too bad, did he?: null
+    he didn't see it?: null
+    he maims them pretty good, doesn't he?: null
+    he's in a box, right?: null
+    how about SILENCE OF THE LAMB?: null
+    i, is it, is it a terror movie: null
+    is everything going all right up there?: null
+    is he young?: null
+    is it five or three.: null
+    is it good?: null
+    is it just suspenseful?: null
+    is that any good?: null
+    is that the one where, the guy gets captured by that women?: null
+    is that the one with, that's he's starring in?: null
+    it's exactly like AIRPLANE: null
+    it's not David is it?: null
+    on foreign films did, did you, did you watch,: null
+    on likewise then, did you see PRETTY WOMAN?: null
+    only, only five?: null
+    should I rent it?: null
+    that book, have you ever read that book?: null
+    that was a Disney movie, wasn't it.: null
+    that was funny, wasn't it .: null
+    that's kind of blood and guts, isn't it.: null
+    the house explodes?: null
+    the length isn't too long?: null
+    the scary one?: null
+    the, the one with Jody Foster, did you see it?: null
+    they marked off routes that they could go or something .: null
+    was it Kmart.: null
+    was it good.: null
+    was that good?: null
+    was that with that blonde,: null
+    was this the first time you got to see ONE HUNDRED AND ONE DALMATIANS?: null
+    with, Judith Light?: null
+    you enjoyed that?: null
+    you work then?: null
+    you, you said you seen NO WAY OUT?: null

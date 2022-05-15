@@ -1,0 +1,602 @@
+!!set
+again: null
+again please: null
+beg your pardon: null
+can you do it again: null
+can you do it again please: null
+can you repeat: null
+can you repeat it: null
+can you repeat it please: null
+can you repeat please: null
+can you repeat that: null
+can you repeat that please: null
+can you repeat the question: null
+can you repeat the question please: null
+can you replay please: null
+can you replay what said: null
+can you replay your phrase you just said: null
+can you reset: null
+can you reset it please: null
+can you reset please: null
+can you reset what you've said: null
+can you retry: null
+can you retry please: null
+can you retry the last one said please: null
+can you retry what i've said please: null
+can you retry what said please: null
+can you say it once again please: null
+can you say it one more time again please: null
+can you say once again: null
+can you say once more please: null
+can you say one more again: null
+can you say one more time again please: null
+can you say what you have said one more again: null
+can you say what you just said one more time please: null
+can you speak it again please: null
+can you speak once again: null
+can you speak once again please: null
+can you speak once more please: null
+can you speak one more again: null
+can you speak one more time again please: null
+can you speak that one more time: null
+can you speak that one more time again: null
+can you speak the command spoke one more again please: null
+can you start over: null
+can you start over please: null
+can you tell me it once more: null
+can you tell me it one more time again: null
+can you tell me one more again: null
+can you tell me one more time again: null
+can you tell me one more time again please: null
+can you tell me what said once more: null
+can you tell me your last sentence said once again: null
+can you tell me your last things spoke once more please: null
+can you try again please: null
+can you try the last one spoken once again: null
+can you try the last one you just said one more time please: null
+can you try the utterance you said one more time please: null
+can you try what i just said again: null
+come again: null
+could you do it again please: null
+could you repeat it: null
+could you repeat it please: null
+could you repeat that: null
+could you repeat that please: null
+could you repeat the question: null
+could you repeat the question please: null
+could you replay please: null
+could you replay that: null
+could you reset the last phrase spoken please: null
+could you reset what i said please: null
+could you retry please: null
+could you say one more time again please: null
+could you say one more time please: null
+could you say that one more time please: null
+could you say the last one spoken one more again: null
+could you say the sentence spoken once again please: null
+could you say what you said one more time again: null
+could you speak it once again please: null
+could you speak it one more again please: null
+could you speak once again: null
+could you speak once more please: null
+could you speak one more again: null
+could you speak one more again please: null
+could you speak that once more: null
+could you speak the last utterance said once more: null
+could you speak what said once more please: null
+could you start over please: null
+could you tell me again please: null
+could you tell me it once again: null
+could you tell me it once again please: null
+could you tell me it once more please: null
+could you tell me it one more again: null
+could you tell me it one more again please: null
+could you tell me it one more time please: null
+could you tell me once again please: null
+could you tell me one more again please: null
+could you tell me one more time please: null
+could you tell me that information you just said once again: null
+could you tell me that one more again please: null
+could you tell me the last one you just said again please: null
+could you tell me the last spoke once again: null
+could you tell me what i have said once again please: null
+could you try again: null
+could you try again please: null
+could you try what you just said one more again: null
+do it again: null
+do it again please: null
+i am sorry: null
+i beg your pardon: null
+i didn't get that: null
+i don't understand: null
+i need to hear again: null
+i need to hear that sentence again: null
+i need to hear that sentence said again: null
+i need to hear the last phrase said again: null
+i need to hear the last spoke again: null
+i need to hear the last spoken again: null
+i need to hear the last you said again: null
+i need to hear the word spoken again: null
+i need to hear what i just said again: null
+i need to hear what i said again: null
+i need to hear what said again: null
+i need to hear what you've just said again: null
+i need to hear what you've said again: null
+i need to hear your instruction you just said again: null
+i need to hear your last message spoke again: null
+i need to hear your last things again: null
+i need to hear your sentence again: null
+i want to hear again: null
+i want to hear it again: null
+i want to hear that again: null
+i want to hear that the procedure spoken again: null
+i want to hear that things spoke again: null
+i want to hear that word again: null
+i want to hear the command spoken again: null
+i want to hear the last one spoken again: null
+i want to hear the last one you said again: null
+i want to hear the last said again: null
+i want to hear the last you just said again: null
+i want to hear the phrase said again: null
+i want to hear what i've just said again: null
+i want to hear what i've said again: null
+i want to hear what said again: null
+i want to hear what you have said again: null
+i want to hear what you've just said again: null
+i want to hear what you've said again: null
+i want to hear your last instruction you said again: null
+i would like to hear again: null
+i would like to hear it again: null
+i would like to hear that again: null
+i would like to hear that information spoken again: null
+i would like to hear the last information you just said again: null
+i would like to hear the last one again: null
+i would like to hear the last one spoken again: null
+i would like to hear the last one you said again: null
+i would like to hear the last thing spoken again: null
+i would like to hear the last utterance said again: null
+i would like to hear the last you just said again: null
+i would like to hear the statement you just said again: null
+i would like to hear what i have just said again: null
+i would like to hear what i just said again: null
+i would like to hear what i said again: null
+i would like to hear what i've said again: null
+i would like to hear what said again: null
+i would like to hear what you have just said again: null
+i would like to hear what you just said again: null
+i would like to hear what you said again: null
+i would like to hear what you've just said again: null
+i would like to hear your last the procedure said again: null
+i would like to hear your phrase again: null
+i would like to hear your phrase you just said again: null
+i'd like to hear again: null
+i'd like to hear it again: null
+i'd like to hear that again: null
+i'd like to hear that message spoken again: null
+i'd like to hear that sentence spoke again: null
+i'd like to hear that things you just said again: null
+i'd like to hear the last again: null
+i'd like to hear the last one again: null
+i'd like to hear the last one said again: null
+i'd like to hear the last one spoke again: null
+i'd like to hear the last spoke again: null
+i'd like to hear the last spoken again: null
+i'd like to hear the last things spoke again: null
+i'd like to hear the last utterance spoken again: null
+i'd like to hear what i have just said again: null
+i'd like to hear what i've just said again: null
+i'd like to hear what i've said again: null
+i'd like to hear what said again: null
+i'd like to hear what you have said again: null
+i'd like to hear what you just said again: null
+i'd like to hear what you said again: null
+i'd like to hear what you've just said again: null
+i'd like to hear what you've said again: null
+i'd like to hear your information spoke again: null
+i'd like to hear your last the procedure spoken again: null
+i'd like to hear your phrase spoke again: null
+i'm sorry: null
+kindly break down your statement and make it simple: null
+let us do it again: null
+let us do it again please: null
+let us start over: null
+let us start over please: null
+let us try again: null
+let us try again please: null
+let us try it again please: null
+let us try it one more again please: null
+let us try that once again: null
+let us try the last one you just said again please: null
+let us try the last spoke one more time again please: null
+let us try the last spoken again please: null
+let us try the sentence you said once more: null
+let us try what i have said one more time again please: null
+let us try what you've said one more time again: null
+let us try your information spoken one more time please: null
+let us try your last sentence once more please: null
+let us try your last things once more please: null
+let's do it again: null
+let's do it again please: null
+let's start over: null
+let's start over please: null
+let's try again: null
+let's try again please: null
+let's try it again: null
+let's try it once more: null
+let's try it one more time again: null
+let's try that one more again please: null
+let's try the instruction said one more time again please: null
+let's try the last word spoken one more again please: null
+let's try the utterance one more time please: null
+let's try the words one more time again please: null
+let's try what i've just said one more time again please: null
+let's try what said one more again please: null
+let's try what you have just said one more time please: null
+let's try what you have said again: null
+let's try what you said one more time again please: null
+let's try your sentence spoken once again please: null
+once again: null
+once again please: null
+once more: null
+once more please: null
+one more again: null
+one more again please: null
+one more time: null
+one more time again: null
+one more time again please: null
+one more time please: null
+pardon: null
+please can you do it again: null
+please can you replay: null
+please can you retry: null
+please can you retry your last thing you said: null
+please can you say it once again: null
+please can you say it one more time again: null
+please can you say the last again: null
+please can you say the last comment one more time: null
+please can you speak that things again: null
+please can you speak the last one said once more: null
+please can you speak what you've just said again: null
+please can you tell me that word said once again: null
+please can you tell me what said again: null
+please can you try what you've just said once again: null
+please could you repeat: null
+please could you replay: null
+please could you reset: null
+please could you say it once more: null
+please could you speak once again: null
+please could you speak once more: null
+please could you speak what i've said one more time again: null
+please could you tell me again: null
+please could you tell me once more: null
+please could you tell me one more again: null
+please could you tell me one more time again: null
+please could you tell me that comment said once again: null
+please could you tell me that one more time again: null
+please could you try what you've said once more: null
+please do it again: null
+please let us do it again: null
+please let us start over: null
+please let us try again: null
+please let us try that one more again: null
+please let us try the utterance spoke one more again: null
+please let us try what i've said one more time again: null
+please let us try what said once more: null
+please let us try what you've said one more time again: null
+please let's do it again: null
+please let's start over: null
+please let's try it one more time again: null
+please let's try the last spoke one more time again: null
+please let's try your word spoke again: null
+please repeat: null
+please repeat that: null
+please repeat the last sentence said: null
+please replay: null
+please replay that: null
+please replay your last statement: null
+please reset that: null
+please reset the last spoken: null
+please retry: null
+please retry it: null
+please retry the last said: null
+please say it again: null
+please say it once again: null
+please say it one more time again: null
+please say once more: null
+please say one more again: null
+please say one more time: null
+please say one more time again: null
+please say the utterance said again: null
+please say what i've just said again: null
+please say what you've just said once again: null
+please speak again: null
+please speak one more again: null
+please speak one more time again: null
+please speak that one more again: null
+please speak the last one said one more time: null
+please start over: null
+please tell me again: null
+please tell me it once again: null
+please tell me it once more: null
+please tell me it one more again: null
+please tell me it one more time: null
+please tell me once again: null
+please tell me once more: null
+please tell me one more again: null
+please tell me one more time: null
+please tell me that again: null
+please tell me that message spoke once more: null
+please tell me that one more again: null
+please tell me that one more time again: null
+please tell me the last one spoken one more time: null
+please tell me what you have just said one more time again: null
+please try again: null
+please try the last one you said once more: null
+please try the things one more again: null
+please try what you've just said again: null
+please try your last sentence you said once again: null
+please will you do it again: null
+please will you replay: null
+please will you reset: null
+please will you say it again: null
+please will you say once again: null
+please will you say that one more again: null
+please will you say what i have just said one more time: null
+please will you speak once again: null
+please will you tell me it one more again: null
+please will you tell me once more: null
+please will you tell me one more time again: null
+please will you tell me that phrase one more again: null
+please will you try again: null
+please would you repeat: null
+please would you repeat that: null
+please would you repeat what you've said: null
+please would you replay your last phrase said: null
+please would you reset: null
+please would you reset that: null
+please would you say again: null
+please would you speak one more again: null
+please would you tell me again: null
+please would you tell me one more time: null
+please would you tell me one more time again: null
+please would you tell me that once again: null
+please would you try again: null
+please would you try that one more time again: null
+repeat: null
+repeat it please: null
+repeat please: null
+repeat that: null
+repeat what i've just said please: null
+repeat what you have just said: null
+repeat what you've said: null
+repeat your last sentence you just said: null
+replay it please: null
+replay please: null
+replay that: null
+replay that please: null
+replay the last said please: null
+replay the last utterance said: null
+replay what i've just said please: null
+replay what said please: null
+replay what you've just said: null
+reset: null
+reset it please: null
+reset please: null
+reset the thing spoke please: null
+retry: null
+retry it: null
+retry it please: null
+retry please: null
+retry that: null
+retry the instruction spoke please: null
+retry the last one said: null
+retry the last spoken: null
+retry what i've just said please: null
+retry what i've said please: null
+retry what said please: null
+retry what you've just said please: null
+say again: null
+say again please: null
+say it once again please: null
+say it one more time please: null
+say once again: null
+say once again please: null
+say one more again: null
+say one more time: null
+say one more time again please: null
+say one more time please: null
+say that again: null
+say that again please: null
+say that once again please: null
+say that once more: null
+say that one more time again: null
+say the last one said again please: null
+say the last spoke once more: null
+say what i've just said one more again please: null
+say what you've said one more time again please: null
+say your sentence spoken one more time please: null
+sorry: null
+speak again please: null
+speak it once again please: null
+speak it one more again please: null
+speak once again please: null
+speak once more: null
+speak once more please: null
+speak one more again please: null
+speak one more time: null
+speak one more time again: null
+speak one more time again please: null
+speak one more time please: null
+speak that again: null
+speak that again please: null
+speak that one more time please: null
+speak the last one one more again please: null
+speak the last one you said one more again please: null
+speak the last words one more time please: null
+speak what i have just said one more again: null
+speak what you've said once again: null
+speak your phrase spoke one more time please: null
+start over: null
+start over please: null
+stop and do it again: null
+stop and start over: null
+stop and try again: null
+stop and try the last again: null
+stop and try what i've just said once more: null
+stop and try what i've said once again: null
+stop and try what said one more time again: null
+stop and try what you've just said one more again: null
+stop and try what you've said once more: null
+tell me again: null
+tell me again please: null
+tell me it again: null
+tell me it again please: null
+tell me it once more: null
+tell me it one more again please: null
+tell me it one more time again please: null
+tell me once again: null
+tell me once again please: null
+tell me once more: null
+tell me once more please: null
+tell me one more again: null
+tell me one more again please: null
+tell me one more time again please: null
+tell me one more time please: null
+tell me that command one more again please: null
+tell me that once again: null
+tell me that one more again please: null
+tell me that one more time again: null
+tell me that one more time again please: null
+tell me that one more time please: null
+tell me that words spoke again please: null
+tell me the last once again please: null
+tell me the last one spoken once more please: null
+tell me the last phrase you just said one more time again please: null
+tell me the last spoke one more time: null
+tell me what i have said again: null
+tell me what i said one more time again please: null
+tell me what you just said once again please: null
+tell me what you've just said once more please: null
+tell me what you've said one more again please: null
+tell me your last words said one more time again please: null
+try again please: null
+try it once more please: null
+try it one more time please: null
+try the last message one more time please: null
+try what i've just said one more time again: null
+try what you have said once again please: null
+try what you just said one more time please: null
+try what you've just said one more time again please: null
+try your last thing one more time please: null
+what: null
+what are you saying: null
+what are you trying to say: null
+what did you just say: null
+what did you just say in the last conversation: null
+what did you say: null
+what did you say in the last conversation: null
+what is that: null
+what is that once again: null
+what is that one more time: null
+what is that one more time again: null
+what was that: null
+what was that again: null
+what was that once again: null
+what was that one more again: null
+what was that one more time: null
+what was the last thing you said to me: null
+what were you trying to say: null
+what's that: null
+will you do it again: null
+will you do it again please: null
+will you repeat: null
+will you replay please: null
+will you replay that please: null
+will you replay what you have said please: null
+will you reset: null
+will you reset it please: null
+will you retry it: null
+will you retry it please: null
+will you retry please: null
+will you retry that command spoke: null
+will you retry what said: null
+will you say again please: null
+will you say once again: null
+will you say once again please: null
+will you say once more please: null
+will you say the last phrase said one more time please: null
+will you say what you have just said once more please: null
+will you speak it again please: null
+will you speak it once again: null
+will you speak once again please: null
+will you speak one more again please: null
+will you speak one more time again: null
+will you speak what i have just said once more please: null
+will you start over please: null
+will you tell me again: null
+will you tell me again please: null
+will you tell me it once more: null
+will you tell me it one more again please: null
+will you tell me once more please: null
+will you tell me one more again: null
+will you tell me one more again please: null
+will you tell me one more time: null
+will you tell me one more time again: null
+will you tell me one more time please: null
+will you tell me that once again please: null
+will you tell me that once more please: null
+will you tell me that one more again: null
+will you tell me what i've said one more time please: null
+will you tell me what you have said one more time please: null
+will you try again: null
+will you try again please: null
+will you try that statement you said one more again please: null
+will you try what i have just said one more time please: null
+will you try what i've said again please: null
+would you do it again: null
+would you do it again please: null
+would you repeat: null
+would you repeat please: null
+would you repeat the last please: null
+would you repeat what said please: null
+would you replay please: null
+would you replay that things you said please: null
+would you reset please: null
+would you reset what i have just said please: null
+would you reset what i've said please: null
+would you retry: null
+would you say it once again: null
+would you say once more please: null
+would you say one more again: null
+would you say one more time again please: null
+would you say that once more please: null
+would you say that one more time again please: null
+would you say that statement spoke once again: null
+would you say the last one said one more again please: null
+would you say what i've just said again please: null
+would you say what you said once again please: null
+would you speak it once more please: null
+would you speak it one more again please: null
+would you speak once more please: null
+would you speak one more time please: null
+would you start over: null
+would you start over please: null
+would you tell me it one more again: null
+would you tell me it one more time please: null
+would you tell me once again: null
+would you tell me once more: null
+would you tell me one more again please: null
+would you tell me one more time please: null
+would you tell me that once again: null
+would you tell me that one more time again please: null
+would you tell me what i said one more time again: null
+would you tell me what said one more time: null
+would you try again: null
+would you try again please: null
+would you try that instruction said again please: null
+would you try that words spoke one more time again: null
+would you try the last one spoken one more time again please: null
+would you try the last one you just said once again: null
+would you try the last utterance spoken once more please: null
+would you try what i have just said one more time please: null
+would you try what you said again: null

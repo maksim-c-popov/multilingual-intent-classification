@@ -1,0 +1,335 @@
+!!set
+abort: null
+annul: null
+be quiet: null
+but can you cancel it: null
+bye: null
+bye bye: null
+can you cancel it: null
+can you cancel it please: null
+can you cancel please: null
+can you cancel that: null
+can you just cancel it: null
+can you just cancel please: null
+can you just stop: null
+can you just stop it please: null
+can you please shut down: null
+can you please shut off: null
+can you please shut up: null
+can you shut down: null
+can you shut down please: null
+can you shut off: null
+can you shut off please: null
+can you shut up: null
+can you shut up please: null
+can you stop it: null
+can you stop it please: null
+can you stop please: null
+can you stop?: null
+cancel: null
+cancel all: null
+cancel all that: null
+cancel all this: null
+cancel everything: null
+cancel it: null
+cancel my request: null
+cancel now: null
+cancel please: null
+cancel request: null
+cancel that cancel that: null
+cancel that one: null
+cancel the whole thing: null
+cancel this request: null
+cancelled: null
+close: null
+could you just cancel: null
+could you just cancel it please: null
+could you just cancel please: null
+could you just stop it please: null
+could you just stop please: null
+could you please shut down: null
+could you please shut off: null
+could you please shut up: null
+could you shut down: null
+could you shut down please: null
+could you shut off: null
+could you shut off please: null
+could you shut up: null
+could you shut up please: null
+could you stop: null
+could you stop please: null
+discard: null
+dismiss: null
+dismissed: null
+disregard: null
+disregard that: null
+do nothing: null
+don't do that: null
+don't message me: null
+don't talk: null
+done: null
+enough please: null
+enough talking: null
+exit: null
+farewell: null
+forget: null
+forget about it: null
+forget about that: null
+forget it: null
+forget that: null
+forget this: null
+goodbye: null
+how do you stop?: null
+i don't have time for this: null
+i don't like this game anymore: null
+i don't want to chat: null
+i don't want to play: null
+i don't want to play any game: null
+i don't want to play any game anymore: null
+i don't want to play anymore: null
+i got things to do: null
+i got work to do: null
+i have no time: null
+i like you cancel: null
+i like you cancel it: null
+i like you just cancel: null
+i like you just cancel it: null
+i like you just stop: null
+i like you stop: null
+i like you stop it: null
+i said cancel: null
+i said cancel cancel: null
+i said cancel it: null
+i said forget it: null
+i want to cancel: null
+i want to cancel it: null
+i want to close: null
+i want to exit: null
+i want to fire you: null
+i want to quit: null
+i want to stop: null
+i want to stop it: null
+i want to turn off: null
+i want to turn you off: null
+i want you cancel: null
+i want you cancel it: null
+i want you just cancel it: null
+i want you just stop: null
+i want you just stop it: null
+i want you stop: null
+i will fire you: null
+i will talk to you later: null
+i will talk to you later on: null
+i would like to cancel: null
+i would like you cancel: null
+i would like you cancel it: null
+i would like you just cancel: null
+i would like you just cancel it: null
+i would like you just stop: null
+i would like you just stop it: null
+i would like you stop: null
+i would talk to you later: null
+i would talk to you later on: null
+i'd like you cancel it: null
+i'd like you just cancel: null
+i'd like you just cancel it: null
+i'd like you just stop: null
+i'd like you just stop it: null
+i'd like you stop: null
+i'm busy: null
+i'm done here: null
+i'm finished here: null
+i'm finished with: null
+i'm firing you: null
+i'm not enjoying this: null
+i'm not enjoying this game: null
+i'm overloaded: null
+i'm swamped: null
+i'm working: null
+i've had enough of this: null
+it's over: null
+just cancel: null
+just cancel it: null
+just cancel please: null
+just forget: null
+just forget about it: null
+just forget it: null
+just stop: null
+just stop it: null
+just stop please: null
+leave me alone: null
+leave me be: null
+nevermind: null
+no cancel cancel: null
+no cancel everything: null
+no cancel this: null
+no just cancel: null
+no just cancel it: null
+no messages please: null
+no stop: null
+no thanks: null
+nothing cancel: null
+nothing just forget it: null
+now cancel: null
+now you're fired: null
+please be quiet: null
+please can you cancel: null
+please can you cancel it: null
+please can you just stop: null
+please can you just stop it: null
+please can you shut down: null
+please can you shut off: null
+please can you shut up: null
+please can you stop: null
+please can you stop it: null
+please cancel: null
+please could you cancel: null
+please could you just cancel: null
+please could you shut down: null
+please could you shut off: null
+please could you shut up: null
+please don't message: null
+please just cancel: null
+please just stop: null
+please shut down: null
+please shut off: null
+please shut up: null
+please stop: null
+please stop messaging me: null
+please stop this: null
+please stop this now: null
+please will you cancel: null
+please will you just cancel: null
+please will you just stop: null
+please will you just stop it: null
+please will you shut down: null
+please will you shut off: null
+please will you shut up: null
+please will you stop: null
+please would you cancel: null
+please would you cancel it: null
+please would you just cancel it: null
+please would you just stop it: null
+please would you shut down: null
+please would you shut off: null
+please would you shut up: null
+please would you stop: null
+quiet: null
+quit: null
+shhh: null
+shut down: null
+shut down please: null
+shut off: null
+shut off please: null
+shut up: null
+shut up please: null
+skip: null
+skip it: null
+skip skip skip: null
+so cancel: null
+sorry cancel: null
+stop: null
+stop and shut up: null
+stop bugging me: null
+stop doing that: null
+stop immediately: null
+stop it: null
+stop please: null
+stop sending me messages: null
+stop sending me messages immediately: null
+stop sending me messages now: null
+stop talking: null
+stop this: null
+stop this now: null
+talk to you later: null
+talk to you later on: null
+that is all: null
+that is all cancel: null
+that is all cancel it: null
+that is all just cancel: null
+that is all just cancel it: null
+that is all just stop: null
+that is all just stop it: null
+that is all stop: null
+that is all stop it: null
+that is enough: null
+that is enough cancel: null
+that is enough cancel it: null
+that is enough just cancel: null
+that is enough just cancel it: null
+that is enough just stop: null
+that is enough just stop it: null
+that is enough stop: null
+that is enough stop it: null
+that will be all: null
+that would be all: null
+that's all: null
+that's all cancel: null
+that's all cancel it: null
+that's all just cancel: null
+that's all just cancel it: null
+that's all just stop: null
+that's all just stop it: null
+that's all stop: null
+that's all stop it: null
+that's enough: null
+that's enough cancel: null
+that's enough cancel it: null
+that's enough just cancel: null
+that's enough just cancel it: null
+that's enough just stop: null
+that's enough just stop it: null
+that's enough stop: null
+that's enough stop it: null
+this is boring: null
+time to fire you: null
+turn off: null
+turn you off: null
+we're done: null
+why do you keep sending me messages: null
+will you cancel: null
+will you cancel it: null
+will you cancel it please: null
+will you cancel please: null
+will you just cancel it: null
+will you just cancel please: null
+will you just stop it please: null
+will you just stop please: null
+will you please shut down: null
+will you please shut off: null
+will you please shut up: null
+will you shut down: null
+will you shut down please: null
+will you shut off: null
+will you shut off please: null
+will you shut up: null
+will you shut up please: null
+will you stop: null
+will you stop it: null
+will you stop please: null
+would you cancel it please: null
+would you just cancel: null
+would you just cancel it please: null
+would you just stop: null
+would you just stop it: null
+would you just stop it please: null
+would you just stop please: null
+would you please shut down: null
+would you please shut off: null
+would you please shut up: null
+would you shut down: null
+would you shut down please: null
+would you shut off: null
+would you shut off please: null
+would you shut up: null
+would you shut up please: null
+would you stop: null
+would you stop it: null
+would you stop please: null
+you: null
+you are dismissed: null
+you are fired: null
+you need to stop: null
+you should be fired: null
+you're fired: null
+you've been terminated: null

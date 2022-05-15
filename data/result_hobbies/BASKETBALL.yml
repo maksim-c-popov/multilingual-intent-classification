@@ -1,0 +1,655 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    Hopefully you're a basketball fan.: null
+    I don't know if you've down to the sports for Reunion Arena.: null
+  Statement-non-opinion: !!set
+    Although, I, what I saw was at the end of the first quarter,: null
+    Any basketball that I like,: null
+    Billy Owens looks like he was,: null
+    Detroit kept coming back: null
+    Detroit's in that same, that, that same, division.: null
+    Hate to put it that way.: null
+    He was making: null
+    Houston pulls for, for the Rockets.: null
+    I always thought that col, university was for an education and then sports of course is part of the education.: null
+    I believe that one,: null
+    I came up spittering and sputtering for air: null
+    I can't think of what school he went to,: null
+    I certainly am too.: null
+    I certainly would agree to that.: null
+    I couldn't care about any of it.: null
+    I didn't even see,: null
+    I don't care about seeing the best players in the world play.: null
+    I don't either.: null
+    I don't even know how much Ewing weighs.: null
+    I don't know how good Portland will turn out to be by the end of the year.: null
+    I don't know if they were necessarily behind,: null
+    I don't know if they won very many games.: null
+    I don't know what it was.: null
+    I don't know who won,: null
+    I don't know who would meet them in the west.: null
+    I don't know why the don't keep fencing and all that,: null
+    I don't know,: null
+    I don't like to see the ones that aren't, have no intention of going to class,: null
+    I don't really follow the N B A very closely.: null
+    I don't really get much out of that.: null
+    I don't remember what his name was,: null
+    I don't think I've ever seen them nationally on basketball.: null
+    I don't think so: null
+    I don't think that sports has to make a lot of money, or you do away with it.: null
+    I don't, I haven't kept up with what was going on with, with the,: null
+    I feel like, the best they can hope for this year is probably an opportunity to make the playoffs.: null
+    I feel sorry for Donald Carter and the members of the team and the management team and everyone else.: null
+    I forget how that works.: null
+    I go to a few games.: null
+    I guess I'm a big Laker, L A Laker fan,: null
+    I guess he's been here about five, six, seven years in the pros.: null
+    I guess my mind went blank.: null
+    I guess, I guess they don't, they have, they, they, have a lottery on it.: null
+    I had to register us in there.: null
+    I haven't been to many.: null
+    I haven't really even started thinking about basketball yet: null
+    I haven't seen them on much T V that much at all,: null
+    I haven't, I didn't go down there last year,: null
+    I heard he was suspended.: null
+    I heard on the radio it was sixtythree thousand and change a month.: null
+    I hope they do something.: null
+    I just would not believe him any more.: null
+    I kind of feel like the, about the Mavericks the way I do about the Cowboys now.: null
+    I know like what you just said,: null
+    I know there's a lot of pressure on schools to have a winning program.: null
+    I like high school football, which again is not the subject,: null
+    I like that.: null
+    I like their coach.: null
+    I like to see the people going to Texas just play, the ones that are in class.: null
+    I made some comment: null
+    I mean there's two guys named Johnson on their team that are really good or doing good or something,: null
+    I never been in a bask, football game in high school that had that many.: null
+    I never heard ,: null
+    I really do,: null
+    I really like a lot,: null
+    I saw Princeton, I think it was, or Harvard play this year.: null
+    I saw just a little bit of the game today: null
+    I saw the w, I saw the Warriors, just a little bit of the highlights of the Warriors, Dallas game.: null
+    I saw the, the second half of the game last night: null
+    I saw, I saw a guy,: null
+    I think Boston's playing Detroit: null
+    I think he only had eightch, eight points: null
+    I think it was Utah or somebody like that: null
+    I think it was Wisconsin or somewhere, they were getting rid of fencing and a couple of other things.: null
+    I think the Bulls won by two.: null
+    I thought he was gone period.: null
+    I thought it was so that you give them an education of that particular discipline.: null
+    I use to say was the dominant player, when he,: null
+    I used to go down to Reunion Arena,: null
+    I used to think that, that one, one player really doesn't make a club,: null
+    I was a season ticket holder of the Cowboys for years,: null
+    I was down by the pool: null
+    I was pulling for Kansas on the other side,: null
+    I was real happy to see them get knocked off.: null
+    I was thinking maybe David Robinson made a bit of a difference with kids and that sort of thing.: null
+    I was very pleased with all three games, because Kansas,: null
+    I was, I wondered that,: null
+    I wasn't paying attention.: null
+    I wasn't, I, I d, I watched only a few minutes of it: null
+    I watched a little bit of, of the Bulls game: null
+    I watched every,: null
+    I wear, contacts,: null
+    I went down there and, and just jumped into the water where they were: null
+    I wish it'd return to the good old days of the amateur. Everybody play.: null
+    I would like to see Texas and all the teams,: null
+    I'd like to see athletes, or fellow students, like myself, to play the game.: null
+    I'd like to see college basketball and all the other sports go back to being amateurs.: null
+    I'd like to see it be more of an amateur sport.: null
+    I'd like to see it turned back to the Southwest Conference down here,: null
+    I'd like to see them to be true athletes where they're, they're taking a regular college course.: null
+    I'd like to see,: null
+    I'm a Dallas Maverick fan.: null
+    I'm all for that.: null
+    I'm from Indiana.: null
+    I'm glad you are,: null
+    I'm in the facilities there, down here in Dallas.: null
+    I'm kind of hoping that they'll repeat again this year.: null
+    I'm looking at his calendar,: null
+    I'm looking forward to the, the pro playoff,: null
+    I'm not a season ticket holder or anything.: null
+    I'm not well versed on their capabilities,: null
+    I'm so depressed with the Dallas Mavericks,: null
+    I'm so much a Maverick, Maverick fan I don't know.: null
+    I'm surprised a little bit when you're talking about basketball how some players work.: null
+    I'm usually more the end of the season person,: null
+    I'm, I'm kind of, I'm not sure about him this year.: null
+    I'm, I've always been a Boston Celtic fan, too,: null
+    I'm, originally from the Saint Louis area,: null
+    I've been pulling for, Duke for about four years now: null
+    I've just always like the Boston Celtics.: null
+    I've lived in Texas since seventyfour,: null
+    I, I did keep track a little bit of the Mavericks.: null
+    I, I didn't read the story,: null
+    I, I do pull for Chicago.: null
+    I, I don't, I don't like the pros at all.: null
+    I, I guess the headlines said something about him, that the Mavericks released him or something,: null
+    I, I had my glasses on: null
+    I, I haven't kept up with any of the other, teams.: null
+    I, I haven't really gone to a lot of games live,: null
+    I, I just kind of, I, I kind of watch them on the news: null
+    I, I listen to him,: null
+    I, I watched that game.: null
+    I, I will take a look at the individual score, in the individual stance in the N B A: null
+    I, I would like to talk about, maybe college basketball.: null
+    I, I'd like to see them back up there again.: null
+    I, I'm awfully sorry that the Mavericks can't come on and, and do.: null
+    I, I, I can't get interested at all,: null
+    I, I, I've always been pulling for the Lakers for a long time.: null
+    I, I, in fact, I like amateur sports.: null
+    I, I, read that,: null
+    I, course I don't know any of the newer ones that they have: null
+    I, had to leave.: null
+    I, maybe I misunderstood what they meant.: null
+    I, we have moved in the last couple years from Utah to Texas: null
+    If it's not making money, then we'll do away with it.: null
+    If they did, they'd still have to pay his contract .: null
+    Indiana him to be a lot bigger than pro basketball up there.: null
+    It doesn't even say.: null
+    It doesn't say,: null
+    It must not be according to their, how they did during the year.: null
+    It really is for a noncontact sport,: null
+    It was a lot of money.: null
+    It was a very close game, and hard fought game.: null
+    It's, it's, it's about the same, same distance from here to s, to San Antonio as it is: null
+    Just, just, just playing horse and stuff like that.: null
+    Last I've heard is that he's starting to peak right now.: null
+    Lucille, I'm on, on .: null
+    Magic was a franchise for the Lakers: null
+    Mavericks had, two players this year that they got rid of last year.: null
+    National championship or the world championship, and something like this happens.: null
+    Of course, I wasn't really,: null
+    Of course, I've, I knew whenever U N L V went in at half time,: null
+    One of the two, who, along with, Chris Mullen was,: null
+    ? One of the, commentators said that they expected that the Bulls would, if they
+      continued at their current pace, set an N B A record for seventy wins in a season.
+    : null
+    Perkins, Sam Perkins,: null
+    ? Philadelphia was, favored by one point over Chicago and the Lakers one point
+      over Golden State, and Detroit by five over, Boston .
+    : null
+    Probably the Boston Celtics.: null
+    Purdue, even though they're one of the few schools that really, stress academics, they're suffering,: null
+    Sam Perkins, here, he's one guy I did follow: null
+    San Antonio pulls for San Antonio,: null
+    San Antonio,: null
+    Several years ago when I was up in, Cleveland, I was staying at the Marriott: null
+    Since Kareem's retired,: null
+    That was about five, six years ago by now.: null
+    That's what I like,: null
+    That's what happened to this guy.: null
+    That's what he was being paid,: null
+    There's an old saying you can, you can lead a horse to water: null
+    They didn't have, they didn't have to go through some tough games during the year: null
+    They have a lot of the same players back.: null
+    They have the, they have the playoff experience,: null
+    They have to wear goggles because they get hit in the, in the face with elbows all the time.: null
+    They may have done it.: null
+    They pick numbers: null
+    They say he's starting to do, starting to play,: null
+    ? They usually have, a video, highlights of the season, and basically kind of
+      walks you through what happened to the Mavs and who they traded for and how
+      they did and a lot of good footage, both the good and the bad
+    : null
+    They won by: null
+    They won in a squeaker.: null
+    They're ahead,: null
+    They're all white,: null
+    They've got two, the two Johnson brothers: null
+    U N L V kind of gave me the impression of being a, a macho team,: null
+    U N L V wasn't used to that.: null
+    Utah, Portland, Boston and Detroit.: null
+    Walter Davis and,: null
+    You never see them on a, on nationally basketball.: null
+    You see them in football on T V once in awhile.: null
+    actually, actually, the, the, the Dallas area here, pulls for Dallas.: null
+    again being from Saint Louis, I pull for Missouri.: null
+    again, I'd just like to see the true athlete, the true student athlete,: null
+    against any team he would dominate,: null
+    all I can do is hear about,: null
+    any dark horses I,: null
+    as I heard, Isaiah came back this week.: null
+    as far as college teams, I know it's really easy to say,: null
+    at the end, I think they were, looked, they looked like they were closing it out: null
+    baseball has a, a, minor league system,: null
+    basketball.: null
+    being a transplanted Texan in, in the Dallas area, I have to stick with those Dallas Mavericks.: null
+    both of them were on playoff teams,: null
+    boy I'd sure like to.: null
+    course, I was real familiar with the Utah Jazz,: null
+    course, we have Duke University that was the national champions last year,: null
+    d, you find them, they're, find them be, to be pretty loyal, in, with the local teams.: null
+    does Detroit, does Chicago. do, all three of them do,: null
+    everybody should play,: null
+    except Larry Bird's hurt.: null
+    fast breaks and things and,: null
+    he apparently can't straighten his act out,: null
+    he does a lot of local stuff there in San Antonio: null
+    he goes to a lot of the Maverick games and everything.: null
+    he got on the elevator: null
+    he had his swimsuit on: null
+    he had to sit,: null
+    he loves that.: null
+    he plays for Indiana now.: null
+    he said, he said the other night on the news that he hadn't done any extra shooting for six weeks,: null
+    he says I weigh about, two hundred and forty pounds: null
+    he says it's not much when you stretch it over seven foot one.: null
+    he says, yeah,: null
+    he was just skin and bones,: null
+    he was kicked off the team.: null
+    he was out there playing.: null
+    he was treated like all the rest of students,: null
+    he was, he didn't go to class, and so they just said, you can't make the grades,: null
+    he wasn't even playing.: null
+    he weighs two hundred and eighty pounds.: null
+    he's from Indiana,: null
+    he's got all over the place,: null
+    he's seven feet tall: null
+    he's the one that's always winning the, the, the outside, the three point shot: null
+    here it says, it says: null
+    here's a, here's a guy from L S U, Stanley Roberts,: null
+    here's the top N B A draft prospects: null
+    hopefully we'll have a good year.: null
+    in fact I, I think the Bulls were ahead when I, when I left.: null
+    in the east, I don't know,: null
+    it looked like something out of Africa: null
+    it looks like he's going in for a dunk: null
+    it seems that way to me.: null
+    it was like, they played so much smarter and more disciplined.: null
+    it was real nice to have the, the teams that were there.: null
+    it was really kind of interesting .: null
+    it was so funny to watch them play against the other teams,: null
+    it was, it was funny, I tell you.: null
+    it went right up over my head: null
+    it's h, it's, I was looking in the paper for something on it: null
+    it's kind of, I guess it's kind of like, there in the Bay area, you don't find a whole lot of, of Sacramento fans.: null
+    it's, it's not really a local,: null
+    it, it was only a couple dollars to get in: null
+    jeez, it was thirty five baskets in thirty seconds or something like that from three point range.: null
+    just all this Roy Tarpley stuff: null
+    last year, when he was in high school, they drew a crowd of fortyone thousand for the state finals, when he played.: null
+    matter of fact, I watched him, on T V, sink, I don't know a,: null
+    my Atlanta Braves.: null
+    my office mate here, Earl, he, he goes to all the Maverick games: null
+    none of them are our, our alma mater: null
+    not a whole lot.: null
+    now he's probably an old age of, twentyfive or six: null
+    occasionally I'll watch them on channel eleven,: null
+    of course I try to follow my alma mater,: null
+    our top, our topic was,: null
+    shoot, I can't remember them all now.: null
+    ? since we're supposed to talk about specific teams, I would like to see them
+      turned back to where the college player plays for four years, and then, they're
+      not, they're not semipro
+    : null
+    that meant that they had to play a second half: null
+    that might have been what it was,: null
+    that seems to help.: null
+    that was really pretty interesting.: null
+    that's about it.: null
+    that's how they take them in order.: null
+    that's probably all, all I saw.: null
+    that's what I think is a lot of fun.: null
+    that's, B Y U,: null
+    that's, that's: null
+    the Cavaliers were playing somebody.: null
+    the Lakers are down, I guess in fourth, position in the west: null
+    the basketball season's supposed to start in the next couple of weeks.: null
+    the college ranks, I guess I really,: null
+    the only basketball team, pro anyway, in that part of the country is Chicago.: null
+    the season hasn't started yet.: null
+    the under, this is for underclassmen for June twentysix: null
+    the year that Danny Aines was there.: null
+    the, the prep school they go to before they can play: null
+    their best player this year, averaged twenty points a game: null
+    their starting guard had S A T scores of fifteen hundred.: null
+    their very best player,: null
+    their, he got, he's in trouble again down in Houston: null
+    then, he's gone now: null
+    there was all these guys standing around about chest deep in water.: null
+    there's articles in the TIME magazine and all about whether it be basketball or anything else.: null
+    there's so many colleges and universities in Texas, we haven't really followed them too much: null
+    they benefitted tremendously by leaving the Mavericks.: null
+    they both left this past year,: null
+    they came back in the second half: null
+    they didn't ask that, but they're talking about college teams,: null
+    they do the same thing: null
+    they don't wear any pads .: null
+    they go on road trips: null
+    ? they had to make him sit the bench. And actually kicked him off the team because,
+      his, grades, even though they passed Big Ten standings and they passed, N C
+      double A, they weren't, they did not pass, Purdue requirements.
+    : null
+    they kind of just scoot out of his way or take a step back,: null
+    they looked real good: null
+    they made it to the sweet sixteen,: null
+    they play two or three times a week.: null
+    they probably lost over half their games, because, by twenty points, which is what he averaged,: null
+    ? they said the other night his contract is so big that if anything happens to
+      him, if they don't trade him, they'll have to pay him off,
+    : null
+    they thought that was big news.: null
+    they traded away, Mitch Richmond,: null
+    they traded either Richmond or Hardaway to Sacramento for Billy Owens: null
+    they usually lose in the first round.: null
+    they were all six eight and, six ten,: null
+    they were all the basketball players there to play the Cavaliers: null
+    they were behind as they headed into each quarter: null
+    they were impressive.: null
+    they were standing in water that was six foot,: null
+    they weren't ahead as much as they normally are.: null
+    ? they'll have, a individuals, they'll have the, the highest scorer, the top rebounders,
+      assists, foul shooting percentages and all that,
+    : null
+    they're all the size of football players, except they're just taller.: null
+    ? they're going, I, I think they're going for an all time record of how many l,
+      losses in a row they can, they c, they can, pull out.
+    : null
+    they're not brothers,: null
+    they're obviously practicing sixty hours a week,: null
+    they're on, probation this year: null
+    ? they're rather have him, except that he gets in trouble all the time and falls
+      off the wagon, and, and, and have some chance of him playing, earning his money.
+    : null
+    they've got three players, top, recruiting class this year that: null
+    they, they have got a great club.: null
+    they, they have in the paper, fifteen different categories: null
+    they, they play the pro style, is,: null
+    they, they stay out for two or three weeks at a time.: null
+    they, they've not had to do that all year: null
+    think Chicago's playing Philadelphia: null
+    think he was in Virginia,: null
+    this is a great question for him,: null
+    this is college: null
+    those three,: null
+    unfortunately, I don't expect a great deal out of them.: null
+    usually hardly any, any, anybody in the top twenty except for, Magic: null
+    virtually every one of the categories there isn't, a Laker in the top ten: null
+    went down there a couple years on the day of the draft: null
+    ? when my kids got to a certain age and went off to school and college and doing
+      their own thing, sort of gets boring going by yourself .
+    : null
+    when they had, Akeem: null
+    where I'm from the Atlantic coast conference is a very big conference: null
+    yet the Lakers continue to win.: null
+    you go through: null
+    you take a, a young kid Roy Tarpley's age, I'd say he was twentyone when he came into the league,: null
+    you're going to have to,: null
+  Statement-opinion: !!set
+    Basketball's gotten to be a lot of fun.: null
+    Be interesting to see how the Olympics does this year with all the, the N B A players playing on the Olympic team.: null
+    Course, the Celtics are always really, really good, too, with their players.: null
+    Detroit hasn't been having that great a year this year.: null
+    Duke's schedule was, was so much harder than U N L V's that it, it just made them a much tougher team overall,: null
+    Everything has been put out of perspective now.: null
+    God. That's a, that's a lot .: null
+    He only has twenty, twentyfive, whatever hours he has to spend on practice.: null
+    He ought to have his own bed come along with him, .: null
+    He ruined his sweet position .: null
+    He should be playing, they all should be playing another team that, that has about twenty hours to practice a week.: null
+    He's got to be pretty much,: null
+    He's, yeah he's been, yeah, he's been kind of up and down all year.: null
+    I didn't think that was the objective, to make money.: null
+    I don't think he's really been a super star for them.: null
+    I don't think that college football, or basketball, should have to be semipro,: null
+    I don't think there's any clear pick,: null
+    I guess I'm probably a lot like you.: null
+    I guess it's tough to play that many games and still stay healthy.: null
+    I guess the two teams that you can't count out are the Celtics because of Bird, and the Lakers because of Magic Johnson.: null
+    I just, I think he deserves a good break.: null
+    I think Boston, Boston will win.: null
+    I think Chicago will probably with the N B A again.: null
+    I think Donald Carter, the owner, I think with all he's invested, he deserves a: null
+    I think Isaiah Thomas would fit in Detroit: null
+    I think Magic does a,: null
+    I think Tarpley's just a sad case.: null
+    I think at this time, we're just in a, a rebuilding type of phase,: null
+    I think by, by relieving some of the pressure off of, of,: null
+    I think he deserves a healthy team so they can really see what he can do for the club.: null
+    I think he has gone over the limit.: null
+    I think that probably be evident with the more and more, the more and more young guys they draft.: null
+    ? I think that that, there's a lot of inconsistencies when some conference, players
+      come from outside of Texas, and play us here.
+    : null
+    I think that the football and basketball, should, let, let them go, have a semipro team.: null
+    I think that will be real interesting to see what they can do.: null
+    I think that's going to be one of those that's, that's won by the home team,: null
+    I think the way it, I think that's the way it works now in basketball.: null
+    I think they do really play much better as a team than they do, each one, individually at their spot .: null
+    I think they ought to get rid of that.: null
+    I think they're fools if they ever bring him back .: null
+    I think they're really giving them a run for their money.: null
+    I think those things do make a difference: null
+    I think, I think that, that probably was the difference in that game.: null
+    I think, I'd like to see college athletes,: null
+    I think, it's created by,: null
+    I'm afraid to say, that's probably who they need to trade to get someone in there good,: null
+    I'm sure it would in such a monstrous place down there.: null
+    I, I, I just think that amateur sports should stay in universities,: null
+    ? It just seems like they were just getting themselves in a position where they
+      could possibly be a final, a final team playing for all of it.
+    : null
+    It just seems so sad to have to only rely on, college football.: null
+    It seems like Rolando Blackman and, and Harper sort of carry the team,: null
+    It will certainly be different .: null
+    It's a little early.: null
+    It's a long season.: null
+    It's going to be a great series.: null
+    It's like last season was so long ago: null
+    It's unbelievable.: null
+    It, it's, it's real amateur sports.: null
+    Kind of like the Cowboys , I guess.: null
+    Michael Jordan really helped them out.: null
+    ? Now they kind of got caught up with a lot of the other players and, course,
+      all the people that follow the Lakers and everything out there in, in California.
+    : null
+    Once he left, it's, it's just not the same, it's not the same team.: null
+    One of those two will probably be, in there,: null
+    Phoenix isn't doing too bad.: null
+    Phoenix, Phoenix and Portland have both been very good clubs: null
+    Portland's pretty good.: null
+    Robinson's getting up there ,: null
+    S M U down here in footballs and trying to get back, to having true student athletes,: null
+    San Antonio,: null
+    Seems to me, that Purdue, when they're trying,: null
+    Some of those guys got pretty funny looking, eye wear.: null
+    That's a lot of, a lot of guy coming down on you.: null
+    That's going to be a war.: null
+    That's not too bad.: null
+    That's somebody you can get behind and,: null
+    That's surprising that they, that they have better requirements.: null
+    That's what I like to see.: null
+    The Pacers don't really draw that big of a crowd .: null
+    There's just so much pressure on the schools, I think to win, though,: null
+    There's not the leadership there that they used to rely on him for.: null
+    There's too many semipros in college: null
+    They are two guys that seem to find a way when they,: null
+    They have a, they have a similar situation in that a lot of old guys on the team,: null
+    They just have too many problems, too many ailments, too many hurt bones, and maybe too much age at this point.: null
+    They look good.: null
+    They need to: null
+    They really, they really gave some, some really good years of, of enjoyment and fun and everything.: null
+    They shut all that down and made them play half court it seemed: null
+    They were so disap,: null
+    They'll make it,: null
+    They're consistent.: null
+    They've done a good job.: null
+    They've got th, the Warriors have got a team,: null
+    They've not had any good seasons for a long time,: null
+    They, last year they had a really good team,: null
+    This thing with Roy Tarpley just upset everyone, I think. Fans, owners, management, everyone.: null
+    We certainly need to support them,: null
+    We have like Carolina, and Duke, and Georgia Tech, and N C State, teams that are normally ranked in the top twenty.: null
+    We'll see if it's held on.: null
+    Whatever sport it is, if they're really putting a lot of money in,: null
+    When it's on the line, they seem to find a way.: null
+    With Roy Tarpley they're in big trouble.: null
+    You get somebody like Magic: null
+    You go to college,: null
+    a lot of teams will, will, will win in the playoffs: null
+    a student athlete is spending so many hours in class.: null
+    again high school football is just so much fun to watch,: null
+    anybody who has David Robinson,: null
+    as far as playing together as a team that day, it didn't, Duke seemed to have them off balance.: null
+    because it's, it kind of a violent game.: null
+    boy they have the seeing eye.: null
+    boy, what a good job he had .: null
+    for awhile anyway.: null
+    he doesn't have, they don't have to rely on him to score ev, thirty or forty points at every: null
+    he never quite achieved the, the super stardom that he had: null
+    he's got to be way up there.: null
+    he's more of a,: null
+    he's really worked out well.: null
+    he, he to me is not a center,: null
+    i, i, it, it's going to be a war between, between Chicago and, and, Boston Celtics.: null
+    it also helps when they were winning .: null
+    it is fun to watch some real disciplined teams play in, in college.: null
+    it just, it's so discouraging that they can't really,: null
+    it looked like U N L V may have had more, talent,: null
+    it loses it somewhere.: null
+    it really could have gone an, either way. Down to the end,: null
+    it really does,: null
+    it seems like it is.: null
+    it was a good game.: null
+    it's just sad: null
+    it's like if they don't win, they don't get any money, so, and the school suffers, which is kind of bad,: null
+    just this whole year has been just disastrous for them: null
+    maybe next, maybe they can do some.: null
+    maybe now that that's over they'll, they'll come out of it: null
+    maybe they were,: null
+    nobody's got enough beef, I guess, to challenge him when he's, when he's driving hard to the hoop.: null
+    not everybody plays of course, but they're still,: null
+    of course, drafting a franchise like him certainly,: null
+    of course, this year is a good year to be a, a Chicago B, fan, I guess, because they're doing pretty good.: null
+    of, pro anyway.: null
+    one game and he'll be playing to where everything he throws up goes in: null
+    seems like you could set the score at a hundred: null
+    that always makes a big difference.: null
+    that can really help the team,: null
+    that had to help them a lot.: null
+    that might help them.: null
+    that was a good move for the Warriors to trade for him.: null
+    that's an up and coming team, though.: null
+    that's just dollars right out of the franchise.: null
+    that's just how it always is.: null
+    that's so much fun to watch because they're, they're pure amateurs, and there's no money involved.: null
+    that's when,: null
+    that's where it's at.: null
+    that's, that's pretty big.: null
+    ? that's, that's quite a, that's a little more of a challenge for a young man
+      than they, they need at that point in their life, I think.
+    : null
+    that, that, that's a terrible time to have to deal with that, right in, when it, when it counts so much.: null
+    that, they didn't, couldn't,: null
+    the Lakers have always been amazing to watch.: null
+    the Mailman or Karl Malone was, pretty big thing: null
+    the high school games, that seems to be the big attraction, and college.: null
+    the last, what, five minutes they decide who's going to be the winner, I guess.: null
+    the next time he'll,: null
+    the next year they'll be all: null
+    the other teams are, I'm sure practice a lot more,: null
+    their style of play was so much different from: null
+    then it'd be the same result.: null
+    there are marquee players.: null
+    there are teams that practice sixty hours a: null
+    there's no consistency.: null
+    there's no defense it seems: null
+    these players, let's face it, ninety percent are being paid.: null
+    they do that,: null
+    they don't have much of a team usually.: null
+    they have just done as much as they can for that man,: null
+    they just didn't seem, they seemed to think they were better than everybody else: null
+    they just kind of score a hundred twenty five points, hundred twentytwo,: null
+    they play better as a team than anybody else, seems like.: null
+    they seem to be kind of not having a very good few seasons.: null
+    they seem to be,: null
+    they shoot so much,: null
+    they trade the nucleus of their power right now.: null
+    they're entitled to more than they've been able to do so far.: null
+    they're going to have to be,: null
+    they're high scoring,: null
+    they're more of a football team than they are basketball team.: null
+    they're not going to have any of the team left at all.: null
+    they're sleeping in different bed every night: null
+    they're still playing good ball.: null
+    they've got Perkins,: null
+    they've had a hard time.: null
+    they, coming out of it this year.: null
+    they, they start,: null
+    they, they're, they're balancing their attack: null
+    this wasn't a good subject,: null
+    those are what makes a champion I guess.: null
+    those guys really hang tough.: null
+    though three were three of the best in the N B A,: null
+    to be making a, a million dollars a year, that's pretty sad.: null
+    too bad the Mavericks couldn't get him.: null
+    we need to talk about baseball: null
+    we need to, to build on something more positive than that.: null
+    we really need to do something.: null
+    we're going to have to do something about all of these fabulous salaries they're paying to all of our athletes, I think.: null
+    week, they're not going to class at all.: null
+    when Roy Tarpley just now he messed up on them, it just hurt them so bad.: null
+    whoever has home court advantage is going to win that one I think.: null
+    year in and year out, it's not like they have,: null
+    you can never count the Celtics out when Larry Bird's,: null
+    you can see the decline in that team.: null
+    you can't do much about that.: null
+    you can't give, anyone too many chances: null
+    you don't really know,: null
+    you know they're going to class,: null
+    you never know.: null
+  Wh-Question: !!set
+    How do people in Texas deal with Dallas, Houston and San Antonio.: null
+    Roy, who's your next best team,: null
+    What do they have: null
+    Who won that Portland game?: null
+    Who won the game?: null
+    where does Detroit fit in?: null
+    which, what basketball teams are you interested in?: null
+    who do they need to trade?: null
+    who do you like after the Mavericks?: null
+    who do you thinks going to win the playoffs?: null
+    who's going,: null
+    who's the other one that's doing so well this year,: null
+    who's, who's supposed to have the, the, the best, draft picks?: null
+  Yes-No-Question: !!set
+    Are we talking about, is this the N B A?: null
+    Are you from Dallas area?: null
+    Did he get hurt again?: null
+    Do you go to the game?: null
+    Do you like professional basketball?: null
+    Do you, for example, like San: null
+    Have you ever been up there to Boston Garden?: null
+    Hopefully you're a basketball fan.: null
+    I guess football is the big sport down here, isn't it.: null
+    Is it the Bulls you're talking about?: null
+    Is that part of our problem?: null
+    It's coming up, isn't it.: null
+    Port, is that Portland?: null
+    That's the N B A?: null
+    What, did he get hurt last night: null
+    You heard of,: null
+    You went to Indiana University?: null
+    You're, you're a T I er up in Sherman?: null
+    are, aren't they playing Detroit?: null
+    aren't they more of a running gun team ?: null
+    did you ever play much basketball?: null
+    did you get a chance to watch any of the games?: null
+    did you hear our topic?: null
+    did you watch the Bulls this morning?: null
+    did you watch the, final four this year?: null
+    do I take it that you think though that the Lakers will,: null
+    do you think it's time that we go for new, coaches?: null
+    is it Boston in, first place?: null
+    is it Chicago and,: null
+    s, San Antonio isn't that close to you, are they?: null
+    the, Michael Jordan's on Chicago Bulls isn't he.: null
+    who do you normally pull for, the, the Mavericks or,: null

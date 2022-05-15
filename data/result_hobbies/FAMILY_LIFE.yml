@@ -1,0 +1,3133 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    I don't know if you have gotten into that with your kids,: null
+    I imagine you still have a very close relationship with them.: null
+    I'm sure he appreciated that!: null
+    Like you say you bowl.: null
+    She just recently started working then.: null
+    She must really like them.: null
+    She worked at home, I'm sure .: null
+    Such as how much time,: null
+    They have to see their other parent, I guess: null
+    They want to be with their friends.: null
+    We, she, she's the middle one?: null
+    Which your income would be a lot better,: null
+    With all the yard work and things like that.: null
+    You all don't have any other children around there?: null
+    You can do, more than: null
+    You don't have children?: null
+    You must be a .: null
+    You're off of the main road, you said?: null
+    You're still trying to dry out?: null
+    You're working then?: null
+    You've been through the fun part .: null
+    at this point.: null
+    lives in Pittsburgh, you probably don't know where that is.: null
+    long way down the road, right.: null
+    now that they've all sort of moved off,: null
+    she likes to do that?: null
+    that's a bit of a drive for you there.: null
+    the family home evening, too.: null
+    then you'd be willing to give up your job to stay home and with, stay with the children?: null
+    with the dysfunctional families today, I'm sure, with a, as a schoolteacher also, you see: null
+    you don't have to have tokens for everything.: null
+    you don't want to?: null
+    you have a break too.: null
+    you have a son?: null
+    you have children I take it?: null
+    you have got, young children then.: null
+    you know how they are at that age, I guess.: null
+    you like to go there for the holidays: null
+    you only have the, you only have the stepdaughter at home?: null
+    you said about Plano and Campbell is the petting,: null
+    you say your, you go to school?: null
+    you see them magnified in the children.: null
+    you're married?: null
+    you, you say you're in communications,: null
+  Dispreferred answers: !!set
+    Generally we try to get all of our kids back home for the holidays: null
+    I grew up in Wisconsin,: null
+    I'm surprised to hear that.: null
+    We were all pretty close when we were younger.: null
+    it was the equivalent of a Christmas present.: null
+    we don't go very often for holidays.: null
+  Statement-non-opinion: !!set
+    A Keeshonden.: null
+    A fuzzy little dog.: null
+    A lot of people, I talk to a lot of people about that: null
+    A lot of the people I've, that's call, I've talked to work for, for the same.: null
+    A real point of pride with me.: null
+    Actually the, they're both going on their own most of the time.: null
+    All my friends, they, their parents worked all the time,: null
+    Allyson sings in the choir.: null
+    Always something to do .: null
+    And I could, you know, go and do whatever, pretty much whatever I wanted to do,: null
+    And I have two dogs too,: null
+    And I think of those,: null
+    And hide and seek,: null
+    And she got all the attention from her dad.: null
+    And the, and the younger one is a boy,: null
+    And they're real happy with one another: null
+    And they, they still live at home.: null
+    And you can tell, it's a family hobby.: null
+    And, uh, he's, he really likes it: null
+    And, uh, most of the time with a three year old we're trying to, to get him, uh,: null
+    And, uh, of course, the one year old hasn't, hasn't gotten there yet: null
+    And, uh, so you know it keeps us pretty busy as you know.: null
+    And, uh, the one year old just kind of follows along and does everything,: null
+    Atlanta is horrible.: null
+    Baseball has started.: null
+    Besides don't sweat the small stuff .: null
+    Born in Denton, raised in Lubbock.: null
+    Both my husband and I work: null
+    Breakfast and run.: null
+    ? Brent, I've been, I kind of gave up my career about three years ago to stay
+      home with my children because I thought, if it, it's only going to be another
+      year until the youngest is in school.
+    : null
+    But, it, it's kind of weighed on me: null
+    But, nevertheless retired.: null
+    Christmas Eve they all pass through,: null
+    Come about March, it gets, a lot nicer.: null
+    Dave is, in supervisory work: null
+    Different places every year.: null
+    Different worlds: null
+    Discuss everything that didn't agree with them.: null
+    Disney World or Disney Land.: null
+    Educational games like, you know, concentration type games,: null
+    Especially since my youngest one is , only fourteen months.: null
+    Even just finding the time to do the grocery shopping and everything.: null
+    Even when I was there, my boys didn't share all that much with me, and certainly not to the extent I did with my mother.: null
+    Every now and then,: null
+    Everybody's spayed,: null
+    For adults.: null
+    For, for a three year old it's that, uh,: null
+    Getting up in the mountains and getting away from it all: null
+    Gives him a little bit of that individual time.: null
+    Go on a diet or they, they have a,: null
+    Ha, ha, lots of luck.: null
+    Ha, we have a lot of people moving here from Boston and, and different areas: null
+    He came to school up here,: null
+    He didn't even tell us.: null
+    He doesn't have any children yet though.: null
+    He is a lieutenant in the Navy: null
+    He is a wildlife biologist,: null
+    He is oldest: null
+    He says yeah,: null
+    He was, I was working in the evening,: null
+    He worked at a truck line: null
+    He works right on the border of D C.: null
+    He's been on temporary duties where he's been gone nine months.: null
+    He's working long hours,: null
+    He, he wants,: null
+    He, he's, just now really starting to, to get interested in a lot of things,: null
+    He, in fact, he just goes right out here.: null
+    Her and I get along a lot better now that she's moved out of the house .: null
+    How they do things: null
+    I , I have,: null
+    I also had the supervision that I needed while I was growing up,: null
+    I also notice that the children that come over here to play: null
+    I always just had a mother.: null
+    I always just made it a point, to spend about ten minutes with each one of them.: null
+    I always thought it'd be great to have twins.: null
+    I always thought we'd get outvoted five to two: null
+    I always thought, when I have kids, I really want to be involved with them.: null
+    I always, I really appreciated that. Having her there when I was, when I came home from school and when I worked,: null
+    I am a missionary: null
+    I am home on furlough.: null
+    I am just about three months,: null
+    I brought him in so.: null
+    I came from a family of five.: null
+    I came in from work today: null
+    I came out and was making as much money forty hours a week as I did fiftyone hours,: null
+    I came with a split family: null
+    I can help her with that: null
+    I can just see how much,: null
+    I can live with it because: null
+    I can remember one of the things I'm most proud of is, when my son was,: null
+    I can remember times my parents would say what do you think would be a fair punishment.: null
+    I can remember,: null
+    I can talk to the teacher and tell them, on a pretty good basis, after I've worked up at the school for a couple of weeks: null
+    I can't say that,: null
+    I can't, it's not flexible.: null
+    I can, I can, I know what you mean.: null
+    I certainly don't remember my parents running me here and there and supporting me in all these things,: null
+    I certainly hope so.: null
+    I come home for a year.: null
+    I cou, I'm perfectly capable of doing it for them,: null
+    I could talk about the kinds of problems which they were bringing that they had just in general aspect: null
+    I couldn't, you know.: null
+    ? I decided to hold off on my job for a while and stay home with them and spend
+      some more time with them which I hadn't been doing.
+    : null
+    I did keep statistics for his team,: null
+    I did not work, when I did this.: null
+    I did notice the difference between those of infants being placed in daycare: null
+    I didn't feel like I was very good at it either.: null
+    I didn't get to spend as much time with them as I, as I should have, as I really wanted to.: null
+    I didn't get,: null
+    I didn't have much of a role model to go by.: null
+    I didn't it wasn't really that important to me,: null
+    I didn't know that.: null
+    I didn't this done,: null
+    I didn't, I didn't even really think about it that much,: null
+    I do have some neighbor kids, lots of little neighbor kids.: null
+    I do keep my,: null
+    I do know about that program: null
+    I do not like that.: null
+    I do take care of my youngest granddaughter, most every Saturday.: null
+    I don't any children ,: null
+    I don't care if I ever see it,: null
+    I don't either,: null
+    I don't even know where he's at.: null
+    I don't even remember them being around when we were little.: null
+    I don't have a great deal of time to spend with the kids,: null
+    I don't have a problem with it.: null
+    I don't have any, an, children.: null
+    I don't know how it is in Georgia: null
+    I don't know how my father did it.: null
+    I don't know how my, my parents did it.: null
+    I don't know how people can afford kids.: null
+    I don't know if he's ever going to have any or not,: null
+    I don't know if she'd be happy to stay at home.: null
+    I don't know what kind of a area Virginia Beach is,: null
+    I don't know what.: null
+    I don't know why I even went to college when I was seventeen.: null
+    I don't know, I just don't want, I just don't want strangers raising my children.: null
+    I don't let mine out anyway,: null
+    I don't like to play.: null
+    I don't meet, I don't speak with many people that come from families that large any more.: null
+    I don't mind it,: null
+    I don't recall, wanting anything in particular.: null
+    I don't remember doing all these things.: null
+    I don't see how anyone can afford it.: null
+    I don't think we really even want to find out.: null
+    I don't think we've, we've missed a fish store on the entire east, northeast coast of the United States .: null
+    I don't want to, I don't want this to be a unilateral conversation: null
+    I don't work.: null
+    I don't, I don't have that choice.: null
+    I enjoy it,: null
+    I enjoy the grandchildren.: null
+    ? I feel like I'm a lot closer to the three that are still living at home than
+      I ever was to the two that were living there before.
+    : null
+    I feel like, I don't know, when I have children I want to be able to spend a lot of time with them.: null
+    ? I feel like, like President Bush, Bush has mentioned quite often, that we are
+      trying to become a kinder and gentler nation,
+    : null
+    ? I feel when my children were very young, I had jobs that helped me be flexible
+      with my schedule and spend time with them and all that sort of thing.
+    : null
+    I felt like I really wanted to work.: null
+    I felt, I also felt like, boy, I was sure missing a lot: null
+    I find it a lot when I'm up here at college because I've always had a bank account,: null
+    I find my grandchildren are very involved in soccer and baseball: null
+    I firmly believe that,: null
+    I forgot all about that that it had to be pressed.: null
+    ? I found, a lot of times when we went on to tournaments and stuff, it was really
+      funny because the crowds would get into argu, get into fights, who can scream
+      louder, and everything.
+    : null
+    I get to see him maybe once every three months.: null
+    I go now, with my husband.: null
+    I go out and, I play ball with them.: null
+    I go to L S U.: null
+    I go, yeah,: null
+    I got my degree and got the better paying job,: null
+    I got three.: null
+    I grew up in a situation where on weekends we were always visiting relatives.: null
+    I guess he was probably five or six, you know, when he first started playing soccer.: null
+    I guess our big outlet is music.: null
+    I guess there's Science Place One and Science Place Two.: null
+    I guess they never spent much time watching T V.: null
+    I guess we could ring this off since we, we've exhausted all of our ideas,: null
+    I guess we're all in, movie, fanatics or whatever around here.: null
+    I guess you'd say J R is working, going to s, trying to go to school.: null
+    ? I guess, in one of the things that, that I like to do with my boys when, when
+      I get home is, I like to try and spend a lot of time with them.
+    : null
+    I had four brothers,: null
+    I had plenty of snow to last me forever.: null
+    I had the little ones.: null
+    I had to deal with their problems: null
+    I had very flexible hours.: null
+    I happen to,: null
+    I hate to put it quite that way.: null
+    I have a brother in his twenties.: null
+    I have a daughter.: null
+    I have a four and a half and a three.: null
+    I have a friend that's a nurse: null
+    I have a girl and a boy,: null
+    I have a kind of a fortunate situation, I think, right now with my sixteen year old.: null
+    I have a seven year old and a three year old.: null
+    I have a son: null
+    I have a younger brother like that.: null
+    I have a, a son who lives in, Warrington, Pennsylvania.: null
+    I have five.: null
+    I have four.: null
+    I have heard about it.: null
+    I have mixed feelings about that.: null
+    I have my own policy,: null
+    I have my own policy, too.: null
+    I have one neighbor that's, the father is a fireman: null
+    I have one son who's almost sixteen months old.: null
+    I have one son who's gone: null
+    I have one that's a freshman in high school, a daughter. And a son who's a sixth grader in a middle school.: null
+    I have seen: null
+    I have seven cats: null
+    I have some relatives out there in Texas,: null
+    I have taught school ever since my children were little.: null
+    I have three,: null
+    I have to answer a business phone .: null
+    I have to be at work at, at X hour, at just, at, at a certain hour: null
+    I have two boys also .: null
+    I have two boys who are twentyeight and twentyfour: null
+    I have two children and, two stepdaughters.: null
+    I have two daughters.: null
+    I have two dogs,: null
+    I have two girls and a son,: null
+    I have two, two boys, twelve and sixteen.: null
+    I have two.: null
+    I have worked for four years in Africa: null
+    I have, I have two children,: null
+    I have, two married, two almo, two almost married: null
+    I haven't experienced it,: null
+    I haven't gone that far.: null
+    I haven't seen him since eight o'clock this morning.: null
+    I hear mine saying, I remember mother and daddy used to take us to do so and so.: null
+    I heard it's twenty bucks a whack.: null
+    I hope that I can provide that for my child too.: null
+    I hope that happens, in my case.: null
+    I hope, I hope to be able to spend, their growing up years, being in the home, not having to work.: null
+    I imagine that they have, some, a lot of homework, too.: null
+    I just have one child.: null
+    I just have two that drive me crazy,: null
+    I just kept getting pushed into administration,: null
+    I just started picking up books: null
+    I just, I just don't want my children to have to be raised like that.: null
+    I keep saying jeez, I don't have that much time with her .: null
+    I kept him on Friday night,: null
+    I knew the kids next door were all into cocaine: null
+    I know I never ever said that because I knew that that was one thing that was really irritating to young people.: null
+    I know I spent hours in the gym every day with my daughter: null
+    I know I'm guilty of it.: null
+    I know it sounds like a rationalization: null
+    I know more about them and watch their growth and how they improve and, and learn much more so than my own kids.: null
+    I know my husband was real,: null
+    I know my husband, if I were gone as much as he is: null
+    I know my parents are growing up,: null
+    I know that I have three children.: null
+    I know that my husband and I have to do a lot of sacrificing: null
+    ? I know that when I was in school and getting my degree at the same time my husband
+      was, it was really hard on our family because I would, he would come home
+    : null
+    I know there are some days when she wi,: null
+    I know we'd, I'd like to get into do more camping and outings and things.: null
+    I know we're not supposed to do this long distance: null
+    I know what family home evening's all about.: null
+    I know what you mean,: null
+    I know what you're talking about when he's involved, the children are involved: null
+    I know when our kids were growing up, our, we were big into water sports.: null
+    I know, I know they can't wait .: null
+    I know, especially when they grow up like that,: null
+    I know, that, one of the ladies I know, they are very involved with their little girl: null
+    I learned something already .: null
+    I let two of them out just in the back yard every now and then,: null
+    I like th, I like the way I did it.: null
+    I like that.: null
+    I like to see that.: null
+    I like to spend time with them.: null
+    I like to watch 'em: null
+    I like to, I like to do it: null
+    I liked that: null
+    I listened to more than one parent say I don't know what this child wants.: null
+    I live in Germantown,: null
+    I long ago decided I'm a better mother because I work outside the home.: null
+    I look at my daughter: null
+    I love children.: null
+    I love that.: null
+    I made a special effort with my children to do things like that.: null
+    I mean a male cats are, are re, you know, real territorial: null
+    I mean, mine, you know, I have five males and two females.: null
+    I need to take my boys to do this or that,: null
+    I never felt spoiled.: null
+    I never read until a few years ago: null
+    I never saw him.: null
+    I never, I never had that kind of experience.: null
+    I noticed parents not spending time with their,: null
+    I nursed all three of our children until they were at least a year: null
+    I only have one other person I know in my, in my group here that works where the wife stays home,: null
+    I pay for my own life insurance too.: null
+    I play Old Maid and Fish with them,: null
+    I play in several symphony orchestras: null
+    I play some computer games and stuff with him.: null
+    I play with the grandchildren .: null
+    I preferred the high school age level much better than I did the college,: null
+    I probably spend an hour or two.: null
+    I put a bow on her one ni, one day: null
+    I read her stories.: null
+    I really believe that.: null
+    I really didn't have that much of a choice because my husband was trying to finish his, college work: null
+    I really didn't have to: null
+    I really do because, because I don't see many others: null
+    I really do spend probably more time with him than, than most,: null
+    I really have just a thirteen year old at home.: null
+    I really would not have been totally staying home with a young child.: null
+    I really, we've lost,: null
+    I refuse to have one in the house.: null
+    I remember my parents didn't do all those type things,: null
+    I remember our family, we, we, we went everywhere.: null
+    I remember the one daughter saying, we had a, a friend of hers that used to drive us up a tree: null
+    I remember when I was that age.: null
+    I remember,: null
+    I said, you can take a little girl hunting and fishing just as easily.: null
+    I saw it there, too,: null
+    I saw the family falling apart down,: null
+    I say Arlington, Texas now because I talked one night to somebody in Arlington, Virginia.: null
+    I see a lot of, variation in what happens when kids are at home.: null
+    I see that we both share the same belief here that: null
+    I see these cats that are wandering around the neighborhood: null
+    I sort of worked half time.: null
+    I spend most of my time carpooling .: null
+    I spend time with them while, he's doing other stuff.: null
+    I spent thirtyfour years in education.: null
+    I started out as a P E major,: null
+    I started out with college and then went to high school: null
+    I started working halftime when, they were at the nursery school.: null
+    I stay home.: null
+    I still got a few more years,: null
+    I still haven't done it yet.: null
+    I still try to read to them, although our son is not liking that anymore.: null
+    I sure did.: null
+    I take advantage of, dinner time.: null
+    I take them to the park and stuff: null
+    I taught early childhood: null
+    I taught physical education.: null
+    I teach school: null
+    I teach, middle school age children.: null
+    I tell you I read that book to my kids so many times I almost have the thing memorized.: null
+    I think as parents we really enjoy them in, in our personal situation: null
+    I think as they're getting in college, I just,: null
+    I think because she is, the only child that they concentrate, they would like to have more,: null
+    I think it came here in either September or October: null
+    I think it has worked very well.: null
+    I think it makes it more difficult for me to, find time with my, my children since I: null
+    I think it was easier when they all had each other and could entertain each other and I was home more.: null
+    I think it was in the sixth grade,: null
+    I think it's Owens Country Farms has a free petting, like a farm that you can go to: null
+    I think it's going to be real quiet: null
+    ? I think it's important that we do, because, I notice that, when I had spent
+      two years down in Dallas, down there they all have a, a me kind of attitude.
+    : null
+    I think it's kind of important that I, that I, nurture the relationship I have with my children now.: null
+    I think maybe we'll try to do that.: null
+    ? I think my feeling was that the very best teachers should be in grades one,
+      two, and three. To get the students off to a good start let them have positive,
+      experiences,
+    : null
+    I think not.: null
+    I think of the kittens at the pound.: null
+    I think one day one of our kids said,: null
+    I think one of the nice things about holidays is that, it does give you the opportunity to spend more time: null
+    I think our kids are real secure.: null
+    I think she even gives mom and dad a little bit, of rent money.: null
+    I think that helps.: null
+    I think that's been important, because we do have a close family: null
+    I think the hardest thing for us has been, is to find ac, leisure time activities that all of our kids can enjoy together: null
+    I think they need me more,: null
+    I think they've learned some real good life skills. being: null
+    I think w, I think we're going to talk about parents spending time with their children.: null
+    I think we choose very, very carefully the, alternative situations that we had them in.: null
+    I think we probably will soon as the boys get a little: null
+    I think, I find myself getting my little projects going and not taking the time that I should .: null
+    I think, I think his sleep book is my favorite.: null
+    I think, it's become real important to me that we try to spend time together as a family.: null
+    I though about it a lot: null
+    I thought if I do that, I might not have a job: null
+    I thought it was a good sacrifice to make,: null
+    I told her that's a gift from God: null
+    I told him I really wanted him to build the train,: null
+    I took a picture of her: null
+    I try to fool everybody .: null
+    I try to say, why don't you go fly kites: null
+    I try to spend as much time as possible with them.: null
+    I understand Six Flags is real expensive now.: null
+    I understand about bass.: null
+    I understand how that worked.: null
+    I understand that,: null
+    I understand.: null
+    I wanted to be a P E teacher.: null
+    I was able to help the coach in, in just controlling the kids, if nothing else,: null
+    I was an only child too.: null
+    I was brought up the same way,: null
+    I was going to say the same thing.: null
+    I was going to say, my sister wasn't spoiled very much.: null
+    I was off, doing, hou, household type things.: null
+    I was raised in that type of family where, you don't disobey me, you mind me: null
+    I was teaching for Richardson School District.: null
+    I was thinking, Oh my God, I go back there,: null
+    I was twentynine when I had my first child: null
+    ? I was very proud when my son wrote that he wanted to, have a family and be able
+      to help coach little league and do things like his dad had done with him.
+    : null
+    I was, I was the youngest.: null
+    I will go out and play catch with them or we ha, let the dogs outside: null
+    I wish I would have gone into, nursing .: null
+    I wish to God he would go back.: null
+    I wish we could reach more of the rest of the world .: null
+    I wonder if I could possibly take it on call waiting.: null
+    I work at it .: null
+    I work different shifts so are pretty much a later shift to where I don't have I don't have the family time.: null
+    I work for Texas Instruments.: null
+    I work full time,: null
+    I work outside the home: null
+    I work parttime also,: null
+    I work two nights a week at a,: null
+    I work two nights a week at the Senior High School library.: null
+    I work with a lot of them,: null
+    I woul, I hope so anyway.: null
+    I would be at my school,: null
+    I would get there at eight o'clock in the morning,: null
+    I would hope that I would be able to give that to my kids.: null
+    I would leave,: null
+    I would like to do that as a, as a family and,: null
+    I would like to, stay at home with my children for at least the first five years.: null
+    I would love to live up there.: null
+    I would not have been real fulfilled.: null
+    I would suspect your nights would be pretty quiet for the most part.: null
+    I would work in the summer,: null
+    I wouldn't have checked on him.: null
+    I wouldn't take it apart: null
+    I'd like to be able to stay home and be able to spend time with my kids.: null
+    I'd like to have an everyday contact with children, as well as you do, for that matter,: null
+    I'd like to stay at home with them until they get in, at least into kindergarten,: null
+    I'd, I'd like to be able to do that.: null
+    I'll be right back.: null
+    I'll be twentytwo next month.: null
+    I'll take one of the kids with me grocery shopping, usually on the weekend,: null
+    I'll take some time and do that with her.: null
+    I'm Catholic .: null
+    I'm a librarian: null
+    I'm a newlywed: null
+    I'm a nurse.: null
+    I'm a pediatrician.: null
+    I'm a writer by profession: null
+    I'm afraid, you know, the neighbors will,: null
+    I'm an accountant presently working as a contractor liquidating a failed savings and loan .: null
+    I'm an electrical engineer by trade: null
+    I'm closer to the younger kids than I am the ones my own age.: null
+    I'm divorced,: null
+    I'm doing my Master's at N C State: null
+    I'm doing my best: null
+    I'm equally proud of her when I see her in church as I am when I see her performing.: null
+    I'm finding as I volunteer up at the school, I just, being,: null
+    I'm finding that more and more people that I talk to, there's less and less family time available to them.: null
+    I'm from Argentina,: null
+    I'm from Maryland: null
+    I'm from Pennsylvania,: null
+    I'm getting a call.: null
+    I'm getting married in October,: null
+    I'm glad she's staying home,: null
+    I'm helping the kids more with their homework in the evenings.: null
+    I'm in Dallas, Texas.: null
+    I'm in a neighborhood: null
+    I'm in my forties, like I say: null
+    I'm just engaged,: null
+    I'm just real,: null
+    I'm just starting out.: null
+    I'm just working a couple days a month,: null
+    I'm kind of old fashioned, I guess, that way.: null
+    I'm like, really.: null
+    I'm majoring in, public relations.: null
+    I'm more worried about,: null
+    I'm no good at it,: null
+    I'm not able to work during the week, because of that.: null
+    I'm not educated at all in, really detecting this: null
+    I'm not in that category quite yet: null
+    I'm not sure that they would admit it at that age, that it was boys,: null
+    I'm not that bonkers.: null
+    I'm only twentyone.: null
+    I'm paying, three thousand,: null
+    I'm putting myself through college,: null
+    I'm real jealous when I hear that somebody has a grandma around: null
+    I'm real proud of her.: null
+    I'm really close to the younger ones,: null
+    I'm really glad she did: null
+    I'm sitting here on the ninth floor of an office building on the north side of Dallas, Texas.: null
+    I'm so glad they're out of the, that young, real young: null
+    I'm su, sure that's coming though.: null
+    I'm the third oldest of twelve children.: null
+    I'm trying to, these last five or six years, I'm trying to make them really special and: null
+    I'm twentytwo: null
+    I'm worried about Christmas.: null
+    I'm, I'm going to U T A right now myself: null
+    I'm, I'm hanging onto those and doing as much activity as I can with them.: null
+    I'm, I've lived here like eight years or so,: null
+    I'm, I've, I've lived here forever,: null
+    I've always had my own checking account since I was in tenth grade.: null
+    I've always thought about maybe transferring up there,: null
+    ? I've always tried to do things with them, like, when you're at the little league,
+      helping out even though I'm not a good athlete myself,
+    : null
+    I've always worked, from the time that they were little: null
+    I've been babysitting this child, for about eight years,: null
+    I've been calling a lot of companies.: null
+    I've been lucky in that respect that I don't, don't travel too much .: null
+    I've been off doing my thing all day: null
+    I've been real pleased with that, too.: null
+    I've even cut that down now,: null
+    I've even noticed that with my five year old. She started kindergarten this year,: null
+    I've found that, it's really important to me to get to read.: null
+    I've got a daughter that's a sophomore at U T: null
+    I've got two boys, one four year old one two years old,: null
+    I've got two children: null
+    I've gotten some good ideas from you .: null
+    I've heard, we have a couple of friends that goes to Washington quite often,: null
+    I've helped out ,: null
+    I've just learned about that breed.: null
+    I've never got off of level one .: null
+    I've noticed that.: null
+    I've put a lot more emphasis on that, on my kids: null
+    I've seen it in magazines and stuff where you dress your animals up and take them to a par,: null
+    I've seen my uncle and his family, does everything together,: null
+    I've seen some people that are really quite up there: null
+    I've thought about it myself: null
+    I've tried to spend more time with, the children since then.: null
+    I've watched him grow up: null
+    I've, I never read a lot growing up: null
+    I've, I tell myself sometimes, just sit down after work,: null
+    I've, I've heard of that.: null
+    I've, I've helped out extremely,: null
+    I've, I've noticed, another thing, when I was younger my father was always working.: null
+    I've, two kids right now: null
+    I, I I talk to parents about this a lot.: null
+    I, I always said that if I had a kid they wouldn't know what McDonald's is.: null
+    I, I am in, I am in a different situation.: null
+    I, I can only rera, relate now to my grandchildren.: null
+    I, I could go to work,: null
+    I, I don't care if I ever see any,: null
+    I, I don't even know what they're talking about.: null
+    I, I don't even think we had ,: null
+    I, I don't have any children,: null
+    I, I don't think I ever would have had what it would take to work full time and raise a family.: null
+    I, I feel like that it helped me now because I appreciate the value of the dollar,: null
+    I, I found that, it was a perfect combination from the standpoint of having vacations off at the same time.: null
+    I, I guess I felt fairly fortunate that I was able to do that.: null
+    I, I had plenty of snow,: null
+    I, I have five children all together.: null
+    I, I helped out with it.: null
+    I, I hope to, of course, be able to teach them right from wrong.: null
+    ? I, I know that, my daughter, even though she goes out with the, the sports and
+      everything, she likes to watch the football for, the kids .
+    : null
+    I, I never, I don't even know what day care is really all about because I, I never went to a day care center,: null
+    I, I remember whenever I was growing up, often times spent with my Dad was, just wonderful, go,: null
+    I, I started working parttime when they were in, junior high school and high school,: null
+    ? I, I suppose they are trying to get through to them that daddy is not home because,
+      he is out working trying to make some money for, we can buy you this bike and
+      that toy and so forth,
+    : null
+    I, I taught school for six years.: null
+    I, I think, I think this is a good closing point.: null
+    I, I think, our kids just always dearly loved that, play bounce the ball, or: null
+    I, I told him, listen you could have had a lot of money if you would have only had two kids.: null
+    I, I took great pleasure in reading to my kids when they were little: null
+    I, I tried it once or twice,: null
+    I, I try to go out of my way to, to plan things that he can do with the kids because,: null
+    I, I used to play soccer when I was that age: null
+    I, I was aware, vaguely aware of it,: null
+    I, I was in physical education then: null
+    I, I'm a firm believer in that, too.: null
+    I, I'm a single parent,: null
+    I, I'm constantly going back and forth.: null
+    I, I'm doing computer science, computer engineering.: null
+    I, I'm from a smaller town in east Texas.: null
+    I, I've seen a lot of people just say he'll learn everything when he gets into,: null
+    I, I, I grew up on a farm, in Iowa,: null
+    I, I, I know a lot of people wh, who,: null
+    I, I, I realize that,: null
+    I, have a set of twins that are fourteen: null
+    I, is, I'm not sure which one we went into,: null
+    I, it, that choice was there,: null
+    ? I, last year, I had a little part time job in a private, high school, tutoring,
+      high school students with learning disabilities.
+    : null
+    I, started back to school.: null
+    I, we try to do a lot of things as a family and, inexpensively as possible,: null
+    I, we, we do a lot of things on the weekends together, the family,: null
+    I, we, we got married a few months ago: null
+    I, you know, to ha, I was an only child,: null
+    If my husband golfs, he'll do it during nap time, things like that where they're not really missing the presence,: null
+    If we're not doing sports we go somewhere.: null
+    In Arizona.: null
+    In fact my toys were destroyed .: null
+    In fact, I spent the first three years at home with my daughter,: null
+    In fact, I was going to school while I was working fiftyone hours a week: null
+    In fact, I've never seen my mom turn on the T V,: null
+    In fact, it's funny,: null
+    In my household, we have a little bit, of, uh, a fight for whose boss.: null
+    It costs five hundred dollars a semester suppose.: null
+    It happens that way .: null
+    It is a financial sacrifice to make because we go from two incomes down to one.: null
+    It keeps them busy.: null
+    It sounds to me like, you're doing well.: null
+    It was a magic number for him: null
+    It was just a recorded message,: null
+    It was like that they thought that's the way life was,: null
+    It wasn't really conversation,: null
+    It's I love you: null
+    It's a wonderful, it's wonderful to be a mother: null
+    It's just the kids like to, being together as a family.: null
+    It's like you said, to each his own.: null
+    It's not going to be too many more years before I, they'll be gone: null
+    It's that's no problem here.: null
+    It's where we originally started out,: null
+    It's, I guess it's out there, clear out.: null
+    It, it was, it was a, a smart move to make.: null
+    J R, my, my, my last son: null
+    Jenny is a sweet kid.: null
+    Kind of r, kind of hit us between the eyes.: null
+    Like last Saturday we went, had some errands to run: null
+    Likewise, we, we do some projects every now and then.: null
+    Little baby kittens dropped and stuff: null
+    Maybe Brian will still be up, and spend some time with him.: null
+    Maybe thirty minutes max.: null
+    Miss Nancy, we should be in business now.: null
+    Most of them don't even try to ge, you know, to go out.: null
+    My Mother used to put that curse on my sister.: null
+    My children are all grown up.: null
+    My children are in college.: null
+    My daughter and, and I hate camping so we go shopping.: null
+    My daughter has played basketball for six years,: null
+    My daughter is, doing a schedule of, twentyfour hours on the weekend,: null
+    My daughter's like, Mommy can I help you with the laundry?: null
+    My grandson got me to one day,: null
+    My husband has taken us to work with him,: null
+    My husband is a physician,: null
+    My husband is going to take our six year old to the monster truck show tonight.: null
+    My husband will say that he'd like to have a little boy to take hunting and fishing: null
+    My husband's retired,: null
+    My kids are involved in sports.: null
+    My mom didn't go back to work until I was in junior high school.: null
+    My mother's a school teacher: null
+    My next oldest daughter that's in college in California is a world twirling champion.: null
+    My oldest is, four: null
+    My wife and I were in Utah until: null
+    My wife works at night,: null
+    My youngest sister is five.: null
+    My, my wife and I are, u, in our forties,: null
+    My, second grandson is in A Cappella: null
+    Never been back, since then,: null
+    Not at all .: null
+    Not at all.: null
+    Not much at all .: null
+    Not that the kids that go out aren't getting that: null
+    Nothing real bad, you know,: null
+    Now I do work fulltime.: null
+    Now I have friends that I love to death,: null
+    Now they go to a state college: null
+    Now, this year, it's, was hard with our son now being in college.: null
+    Now, we waited several years before we started having children because we was still in college,: null
+    Of course, that's not the way I was raised, being raised in West Texas.: null
+    Of course, the baby is young,: null
+    Of, of course, I find now that I spend more time with my grandchildren in: null
+    Oh, them too .: null
+    On Sunday we just met, uh, a family,: null
+    Once upon a time I was.: null
+    One at a time, just kin,: null
+    One of our older kids now is going to graduate school down at College Station: null
+    One thing is I got a home computer too: null
+    One time two of them came at once: null
+    Other than that, they were pretty much,: null
+    Our little boy is in the first grade: null
+    Ours finally disintegrated.: null
+    Out in the front or backyard playing like, uh, tee ball off the, you know, off the ball and let him hit a lot of baseball.: null
+    Out oldest son. When,: null
+    Plus, you teach middle school,: null
+    Probably doing outdoorsie stuff, and keeping, trying to keep them away from the T V, I guess . And, McDonald's .: null
+    Rather, rather odd personality,: null
+    Rent a car when you get there and all that.: null
+    Same husband, everything.: null
+    Same, same situation here, I've been married about ten months,: null
+    She and I did a lot of things together and flew,: null
+    She can't hit it in the air yet,: null
+    She goes, okay if your going to blow your money on other things, she goes, you can just pay for your life insurance.: null
+    She had to go with me.: null
+    She has this continual guilt trip that she's not doing the right thing,: null
+    She has two boys.: null
+    She is in the seventh grade.: null
+    She is, loves riding horses: null
+    She likes to sew and do crafts and things like that .: null
+    She rides English, and does jumping, takes lesson and all that kind of stuff.: null
+    She twirls a baton: null
+    She was a miracle baby.: null
+    She works in these, Trump type casinos,: null
+    She'll be in kindergarten next year.: null
+    She's a nurse,: null
+    She's able to do that: null
+    She's got all these sisters and her brother to take care of her.: null
+    She's my baby,: null
+    She's only five,: null
+    She's says how are you doing grandma today.: null
+    She's three.: null
+    She's, she's little .: null
+    She, she's really getting to the age where she's playing,: null
+    So she's never been the only one,: null
+    So, I, I wish I could see more of that, you know.: null
+    So, sh, not only is she the better skier, but she got all the attention, because she got to go out.: null
+    So, they've done really well.: null
+    ? So, uh, most of our activities are, you know, just discussion type things about
+      what's going on in the family and what they're doing and
+    : null
+    Some babysitting groups,: null
+    Sometimes I'm a little exhausted .: null
+    Sometimes that's okay.: null
+    Stepdaughter.: null
+    Ta, Taylor my youngest is,: null
+    That really seem, they really seemed to go wild in there.: null
+    That was my daughter's Brownie leader telling me that there is a meeting tomorrow: null
+    That was two days a week,: null
+    That was, that was a lot of fun.: null
+    That's always a big, thing.: null
+    That's exactly how it is,: null
+    That's how it is at our house when you're on the phone.: null
+    That's not her bag.: null
+    That's on Plano Road,: null
+    That's the kind I like.: null
+    That's wha, that's what we mostly do, pretty simple things.: null
+    That's what I heard.: null
+    That's what I've heard too.: null
+    That's what my daughterinlaw told me. That they were going to have kids probably after two years of marriage.: null
+    That's what my mother said one time.: null
+    That's what the Utah and the large family.: null
+    That's why I like to to, to work a couple days,: null
+    That's why I lucked out,: null
+    The housing is cheaper,: null
+    The insurance.: null
+    The kids just get a crack out of that.: null
+    The kids, they are real people: null
+    The money's not available.: null
+    The one we went in had,: null
+    The place she works with, worked with before, worked out an arrangement with her where she can work at home,: null
+    The story of my life .: null
+    The, the older one is not, was not at all into, sports for the most part.: null
+    The, they're all a part of it.: null
+    Then we decided to have kids.: null
+    Then we would just come home and just be, go to a neighbor's house for an hour,: null
+    Then when they get down here, they realize the cost of living is outrageous: null
+    There they're a singing group here in Plano.: null
+    There we go.: null
+    There's a movie theater that offers dollar movies on Wednesday nights.: null
+    They both grew up on a farm,: null
+    They did not win that,: null
+    They don't want to be around you.: null
+    They don't want to play around adults.: null
+    They don't want you to tell them what to do.: null
+    They go upstairs at nine,: null
+    They have a ranch that has like five hundred acres,: null
+    They have not been too bad.: null
+    They have tours going through there: null
+    They keep it open, for kids to do their work: null
+    They like that.: null
+    They like to be outside as much as possible.: null
+    They like to,: null
+    They range from twentyfour to five.: null
+    They really do,: null
+    They really hadn't either.: null
+    They sell their house,: null
+    They want to do their own thing.: null
+    They went to the Memorial,: null
+    They were both interested in things like model rockets,: null
+    They were fifty miles away: null
+    They were fourteen pounds and,: null
+    They'd rather, they'd take their trucks out in the backyard ,: null
+    They're Baptists: null
+    They're all grown up: null
+    They're going to get mad .: null
+    They're grown and gone.: null
+    They're two and one.: null
+    They, she enjoys that kind of stuff: null
+    They, they thought it was the greatest fun,: null
+    They, we've, we've got two.: null
+    This is a very interesting program I, I heard about here on this,: null
+    This is the first time we've gone anywhere without the kids: null
+    This is the first year we're staying home, too,: null
+    This lady in our bass club, we had a tournament yesterday: null
+    This relative may work even a weirder shift like weekends, or something,: null
+    Those are my children.: null
+    Three times a year she's really busy doing certain things: null
+    To, I like to get away in a book,: null
+    Trying to work myself out of a job .: null
+    Two of our children live there.: null
+    Uh, one is twentyone,: null
+    Uh, our children are both, uh, basically adults.: null
+    Uh, since we just got here we got the, uh, uh, new two wheel bike with training wheels on it for him,: null
+    Uh, we just bought, uh, acre, a house with an acre to try to, so she'll have some room to walk around,: null
+    Uh, you know, I never, never had to worry about the bad guys being out there.: null
+    ? Um, I guess looking at, uh, back at, at what our children did compared to what,
+      uh, you know, what I had to go through in school.
+    : null
+    Usually busy fighting for survival.: null
+    Very little.: null
+    We 've spend a lo, spend a n, did spend a lot of time,: null
+    We all kind of play tennis as a family,: null
+    We always eat together: null
+    We did a lot of stuff like that: null
+    We do get the Disney channel for the kids.: null
+    We don't have H B O.: null
+    We don't have very many activities: null
+    We don't, we don't have that luxury.: null
+    We even have peewee basketball here.: null
+    We feel like that, that couple you are not giving enough of yourself: null
+    We found this Oriental game called .: null
+    We get an occasional one or two day thing: null
+    We had a boat: null
+    We had a felt one that was li,: null
+    We had a house and a home and,: null
+    We had an interesting experience the other day.: null
+    We had eight boys and one girl.: null
+    We had nine kids in our family.: null
+    We have family that lives outside of the state: null
+    We have got quite a bit of snow,: null
+    We have had a few early springs though in the last few years.: null
+    We have not taken our kids skiing or anything.: null
+    We have two children,: null
+    We have, we often go to Illinois: null
+    We ju, we haven't lived here too long: null
+    We just made up our own stupid little games.: null
+    We just, just do various things, nothing really.: null
+    We keep in close contact with grandparents and talk over the phone,: null
+    We know we try, try real hard to keep them healthy.: null
+    We like surprises.: null
+    We like to get support from, other, other companies as well.: null
+    We look back and wonder how we did it.: null
+    We play like soccer.: null
+    We really don't watch, I think, as much T V as a lot of people.: null
+    We really want to have a family.: null
+    We take turns with her.: null
+    We take, whenever we take them to Showbiz: null
+    We try to spend Saturdays together.: null
+    We used to live up in Seattle for a couple of years.: null
+    We want more communication and interaction, amongst us as a family.: null
+    We were close to my, maternal grandparents, just a few miles,: null
+    We were very heavy into that.: null
+    We will take either.: null
+    We would make that sacrifice.: null
+    We're also real active in our church: null
+    We're hoping,: null
+    We're planning a trip, just he and I.: null
+    We're right smack dab in the middle of baseball season right now.: null
+    We're together a lot on special days: null
+    We're, we're choosing our house for our cat.: null
+    We're, we're kind of going the other direction this weekend.: null
+    We've been trying for about two years but: null
+    We've got quite a few of DOCTOR SEUSS' books.: null
+    We've lived here about seventeen years,: null
+    We've only been in, I think it's Science Place Two.: null
+    We've taken a lot of trips with our kids when they were younger.: null
+    We've, my, when we first got married, my wife worked for a year.: null
+    We, as I said, living in an area of Washington, D C.: null
+    We, because I, she loves, she's one of those that loves th, outside,: null
+    We, we have pretty much a, a routine that we spend,: null
+    We, we just been hitting the ball on the ground.: null
+    We, we kind of like our boys though too,: null
+    Well that's what we're going to end up getting .: null
+    Well they have weddings for dogs now and cats: null
+    Well they're the ones that need the homes.: null
+    Well, I know of number of people that are in the, in the, uh, school district an, down in, in, uh, San Antonio.: null
+    Well, we have a, uh, three year old and a one year old.: null
+    Well, we were just talking about that too.: null
+    Whe, I, every time I see one run over I just, you know,: null
+    When my second one was little, they were coming out with SESAME STREET: null
+    When they were younger we would go to the beach,: null
+    When things don't go right, she just calls one of them,: null
+    When we tell people how many kids we have they look at us like we didn't have good sense.: null
+    Whenever I do have children I, I'm going to try as hard as I can to s, see that we spend a lot of time together,: null
+    Whereas, I'm the type of person, I could not sit,: null
+    With every passing day we wonder if we will be.: null
+    You can have birthday parties there: null
+    You fit it in with all that, that.: null
+    You know, I have, uh, some friends that, uh,: null
+    You know, I just worry,: null
+    You know, mine were just all, uh, strays in the neighborhood.: null
+    You know, my cats do not wear clothes,: null
+    You know, they've really become very much involved in, in just that one organization,: null
+    a couple of hours later I'm home.: null
+    a lot of people that I work for are, mothers that stay home.: null
+    a lot of the dads said that they would probably choose careers that are more, where they could manage their own schedule: null
+    a lot of them played it,: null
+    a lot of times, she and I will travel to writers conferences together.: null
+    a lot of times, whenever we head out of town on a trip or something,: null
+    a slap here and there,: null
+    a thing such as,: null
+    a very, family thing, made, go skiing in Vermont or something.: null
+    about the time I got out of working that long hours was when the, when the twins were about three years old.: null
+    activities for, for children now are,: null
+    again, I know it sounds like a rationalization,: null
+    all seven are in a sport,: null
+    all summer we live on hamburgers and hot dogs and sports,: null
+    all the ones I know,: null
+    all the traveling I do is alone.: null
+    all the, the, the rides are free.: null
+    also the girls are in softball: null
+    although I have brought my boys into to see where I work, it's not that easy,: null
+    ? although, it wasn't them playing I notice whenever I was playing softball and
+      such, my mom and dad got into it more than I did.
+    : null
+    amazingly a lot of times it's real easy.: null
+    and I always got all the attention,: null
+    and I can't turn a hungry cat down.: null
+    and I know they spend a lot of time with them.: null
+    and I looked out there: null
+    and I said, I can't stand it,: null
+    and I said, I just can not have another cat,: null
+    and I'm like, ugh, you know.: null
+    and I'm like, well why can't Ashley be at the wedding .: null
+    and Jerry just kept saying you are the meanest person .: null
+    and Plano, Texas rather than Plano, Illinois.: null
+    and he really liked it: null
+    and he really likes riding that around.: null
+    and he was just laying on my lawn just shivering and all,: null
+    and it just kind of built.: null
+    and it was winter time: null
+    and maybe dancing school for a while or mainly school sports and things like that.: null
+    and one is twentyfive.: null
+    and people run over them: null
+    and she does not want to be around other cats.: null
+    and she just, uh, she wants to be around human beings: null
+    and she says things like, I'm really glad when he comes home: null
+    and so that's the big battle here, you know,: null
+    and that was all it, all it lasted for.: null
+    and the last one that I pic, was here, uh,: null
+    ? and the other thing we try to do is, uh, since the here is, uh, sign him up
+      for, and her, for, uh, different activities at like the rec center or something
+      like swimming,
+    : null
+    and the other was in the Brownies: null
+    ? and then all of a sudden the father was getting involved with doing nature hikes
+      for them and working with the Girl Scout camp he, here in Dallas and then going
+      out to, uh, Betty Perot camp and working with the horses and stuff
+    : null
+    and then she spread it to her, her li, younger sister and her brother: null
+    and then she's saying, you know, you can't let them outside: null
+    and then the mother got involved as a leader: null
+    and then the other day my husband and I met a couple who, who,: null
+    and they go away for weekends and in the winter time even, you know, to do work with the Girl Scouts: null
+    and they got it just at the beginning of the vacation, where she got better.: null
+    and they raise champion cats.: null
+    and they really like each other.: null
+    and they take their girls: null
+    and they will eventually.: null
+    and they're gone a lot: null
+    and they've slapped the dogs around too .: null
+    and they, they go on family vacations: null
+    and too they can catch diseases really easy,: null
+    and trying to supervisor him with that and everything and, uh, playing squirt guns and all that,: null
+    and we still have a scrap every now and then.: null
+    and we went over to, uh, lady that breeds them here in town: null
+    and, I, I just, you know, I just don't.: null
+    and, and now they've lost the desire.: null
+    and, and she doesn't go far: null
+    and, th, we've tried to get her to like other cats: null
+    and, uh, I play, uh, with the three year old: null
+    and, uh, her daughter actually was,: null
+    and, uh, they go, like to go skiing,: null
+    and, was a, a problem with having five children needing to work a, a fulltime job that,: null
+    another thing we used to do is have ham, family councils.: null
+    as a matter of fact, that's what we're doing tonight .: null
+    as a mother I will have certain responsibilities that he might not necessarily have: null
+    as far as during the week, it's, it's usually, just my son and I,: null
+    as far as our activities, we are kind of on a different level here.: null
+    as far as that , that's about all we've discussed as far as for family.: null
+    as far as that goes, we play games,: null
+    as is our husband,: null
+    as the kids got older I made them, help me cut the grass and: null
+    as they got older we tried to pattern our vacations where we would travel and do things,: null
+    as they were growing up much of, our, normal life outside of school and everything arou, revolved around their swimming.: null
+    as, when they were growing up, I, probably we had a lot of similar things l, like you had, having the time.: null
+    at a fairly young age we started teaching them to play games and card games and so forth.: null
+    at any rate, my first two children, I didn't spend a whole lot of time with them.: null
+    at least for a year and a half: null
+    at least once you pay your way in there,: null
+    at the end you had a decorated tree.: null
+    at this particular time the children were two and six.: null
+    at work a lot of people are,: null
+    band and, and, scouts were his two big things.: null
+    be very hard for me to sit down and watch a program all the way through without: null
+    because, uh, when he was a baby that we did the swimming too: null
+    being from Plano, I know so very few people who have extended family in town.: null
+    both my husband and I work: null
+    both of mine are boys.: null
+    both preschoolers,: null
+    boy, I, I feel for you and your husband.: null
+    boy, they, they'd show up.: null
+    but I won't let them get,: null
+    but I, I have a lot of friends with children: null
+    but it took our total time.: null
+    but my cats are insi,: null
+    but she just wants to be able to have that freedom.: null
+    but she's married,: null
+    but they're all mongrels .: null
+    but what they don't have is you.: null
+    but, of course, uh, Richardson is in the Dallas area.: null
+    but, uh, they put up with each other: null
+    but, uh, this last ski trip they took, uh, she had in, contracted chicken pox first: null
+    children wouldn't be very convenient for me right now.: null
+    come about this time of year I am kind of ready for it to start getting spring,: null
+    communications.: null
+    course, when our big ones were little, we lived up north,: null
+    course, when they got bigger, they were both quite into sports: null
+    cousins and aunts and uncles,: null
+    did some shopping and stuff.: null
+    drugs is, in Texas, are extremely bad.: null
+    during the day, it's all devoted to our kids: null
+    entirely too much time is spent,: null
+    ? even if our kids, get into sports that we're really not interested in, I don't,
+      I want them, to know that we're still there
+    : null
+    even just this first year, that I've been with, my son, h, here, he's,: null
+    even just those two days just seemed like it was a lot.: null
+    even just when I grew up and everything.: null
+    even now with my grandchildren, I feel it's a very important thing to be done.: null
+    even the, the older kids sometimes sit down and, and will join in and listen to a story.: null
+    ? even though the kids are basically, grown, they still like to sit down at the
+      table and us all eat together when they're here and
+    : null
+    even, even when I was, when I was, living with her with did stuff then too,: null
+    every couple of weeks we will go to the movies because that's how often they change the,: null
+    every now and then, he's got a lot of those technic, those hard kind,: null
+    every time something new came up, I was explaining it to them.: null
+    every weekend there was some visiting somewhere.: null
+    every year I'd have the Lego train under the tree.: null
+    everybody tends to be in the same boat.: null
+    everybody's neutered: null
+    everyone always asked if the girl got spoiled.: null
+    everyone would get one vote.: null
+    ? everything that he taught me, that my family taught me, which is very hard to
+      change that all of a sudden from one year to the next and say, I'm sorry,
+    : null
+    everything's free except for the food.: null
+    except that I consider them my children .: null
+    first of all, uh, the girls joined,: null
+    first thing I did was turn the TV on.: null
+    five are, four of them are grown,: null
+    for just, for just a day, not in, a day or two, not including lodging and food and all that.: null
+    for my older boy that was in college I put a dollar bill for each day. Which was the equivalent: null
+    for one thing.: null
+    for right now, they don't,: null
+    for them that's wonderful,: null
+    ? four, fou, four children is expensive, especially when you consider especially
+      for me, which I'm paying out of state tuition.
+    : null
+    from little on,: null
+    from talking to them, they're shocked.: null
+    from the people I've talked to, I don't know if I should bring this into it,: null
+    fuzzy little thing.: null
+    granted the child doesn't always think that they're sharing it,: null
+    have Christmas dinner with us and then go to other inlaws and things,: null
+    he and his wife come and a lot of their friends,: null
+    he can't make enough as a fireman to support his family,: null
+    he could buy us material things.: null
+    he did get on the bus,: null
+    he gets home from work late or whatever: null
+    he has an apartment,: null
+    he has to work almost every Saturday: null
+    he has traveled: null
+    he has, he has seven other brothers and sisters,: null
+    he held three jobs. was in college * Could this be "while he . . ."?: null
+    he is in the Navy.: null
+    he just didn't make that kind of money with five children.: null
+    he made it at fifty .: null
+    ? he never ever thought of, not going to school he said, in view of the fact that
+      he was certain I had a hot line to his school.
+    : null
+    he plays tennis with, with the kids.: null
+    he put himself through college,: null
+    he reads to them,: null
+    he really enjoys it.: null
+    he really likes that.: null
+    he sat down,: null
+    he spends a lot of time with them while I'm cooking: null
+    he spends about an hour doing that,: null
+    he spends time doing that with him, planning and, practicing outside.: null
+    he still likes: null
+    he still works part time at other thing, same job as he was doing, only he's retired and doing it independently.: null
+    he wants me now,: null
+    he wants to be an engineer,: null
+    he wants to be best friends: null
+    he was coming home: null
+    he was from the time he was in the seventh grade and, a small and all the way through college: null
+    he was just so bad off,: null
+    he was off today, looking at, at records.: null
+    he was treated like he had five fathers or something.: null
+    he went at fifty,: null
+    he went to a baby sitter that this lady had about five other kids that she baby sat,: null
+    he worked on that for the longest time, ever since school was out on Friday,: null
+    he works four days on: null
+    he would have to make decisions for himself along those same types of, of, lines. So that,: null
+    he would leave,: null
+    he'll, he'll take them out just to be with them.: null
+    he's a real sports kind of person,: null
+    he's a record collector and a Hot Wheels collector.: null
+    he's been retired for three years now.: null
+    he's going to be with, regular pitching: null
+    he's gone three weeks right now: null
+    he's got a second job.: null
+    he's in kindergarten,: null
+    he's into wrestling.: null
+    he's like a little brother to me.: null
+    he's nine now: null
+    he's out of the house.: null
+    he's taken off for parts unknown,: null
+    he's thirtyseven: null
+    he's, he's not home very often.: null
+    he, he manages a plant out here,: null
+    he, he worked a fulltime job and a parttime job,: null
+    he, he works about an hour and a half away from here, from our home,: null
+    he, he works for Coca Cola.: null
+    he, he's fun.: null
+    he, he, he wants to be best friends now: null
+    he, she said that her husband said to her daughter, you need a hobby,: null
+    he, they can have time with him an.: null
+    he, they, the school district hires an aide, to work: null
+    he, when he comes home, he, He puts the kids to bed,: null
+    he, works, for a different company.: null
+    her husband builds forte pianos,: null
+    his dad's at home: null
+    his parents have thirteen grandchildren.: null
+    his, what he does is, when he gets home, he separates his work from his house.: null
+    history is what their peace class is this year.: null
+    hopefully he won't have too many surprises when he gets home.: null
+    hopefully, hopefully it's going to spread, .: null
+    if I have something in mind, then he, he remembers that,: null
+    if he flunked out he was on his own ...: null
+    if he got married he was on his own,: null
+    if my Dad had done that when I was a kid I probably wouldn't have liked it.: null
+    if they start going in the front and stuff, I bring them in.: null
+    if they want to play, they have to play with mom and dad.: null
+    if we do watch T V at night, they just enjoy just, laying on top of me or something.: null
+    if you go back there, then you can never get out.: null
+    if, if everybody would be a little bit responsible,: null
+    if, if they missed it, they had to abide by the rules.: null
+    if, if we want to drive, we pay our own insurance,: null
+    in fact my mom's out there in Texas right now, in Dallas, spending a month with her cousins, on their ranch,: null
+    in fact, I found that I'm a lot closer with,: null
+    in fact, I'll be leaving very shortly to go to work: null
+    in order to have a reason for being there, especially as they got older, I became involved in it too: null
+    in that case then I'll be, I'll be at home when my children are at home,: null
+    in the Dallas area: null
+    in the beginning when he, he was transferred to a, a larger plant: null
+    in the next year or so, you'll see so many instances where, he'll mimic something that you've done,: null
+    in the summer everyone is I think there's seven of us still at home,: null
+    in the summer we spent most weekends on the lake with them skiing: null
+    in the summer we were always in the library programs reading books: null
+    in the winter when it wa,: null
+    it cost us a lot of financial problems doing it: null
+    it costs two hundred dollars for books,: null
+    it didn't cost any money.: null
+    it doesn't matter what age you have,: null
+    it finally got motheaten,: null
+    it has a bunch of different rides for kids.: null
+    ? it has, helped us to afford some things for our children that we couldn't otherwise
+      that I think are wonderful particularly at this age,
+    : null
+    it is a program for: null
+    it is hard to make, those interests not be as a major part of my life.: null
+    it is too early yet.: null
+    it just seemed like it took a lot of my time with them being so little.: null
+    it just seems like she doesn't have any time for her. Which is kind of sad,: null
+    it keeps them busy.: null
+    it makes me sick,: null
+    it never worked that way.: null
+    it really helped when the, older one was old enough to get his license and could,: null
+    it seems like he is suppose to come home for three or four days,: null
+    it seems like soon as that over with we get into basketball.: null
+    it seems that now the bank's not available.: null
+    it seems, it seems for them that it works out all right.: null
+    it takes a lot of time.: null
+    it takes him a little bit of time.: null
+    it varies what it is, of course,: null
+    it was a Christmas tree that had, a little trinket for each day,: null
+    it was a matter of somebody had to have a job.: null
+    it was a really neat experience,: null
+    it was about a year or so ago, when we went.: null
+    it was an hour,: null
+    it was easier for them to do that,: null
+    it was funny,: null
+    it was his responsibility: null
+    it was sort of an Italian family,: null
+    it was time for them to go to bed.: null
+    it was with all of them,: null
+    it was, I guess I didn't realize what a luxury it was at the time.: null
+    it was, it was, it was fun,: null
+    it was, more an impact, I think, on the oldest two.: null
+    it wasn't that I didn't like them: null
+    it worked out fine from that standpoint, plus the fact that, when I left,: null
+    it would, I think it was very beneficial to us.: null
+    it's a game that none of their friends know how to play,: null
+    it's a girl.: null
+    it's a indoor fun park: null
+    it's a little bit past Campbell and Plano Road .: null
+    it's a real, it's a real problem for me.: null
+    it's a, it's a whole different, kind of thing there then,: null
+    it's almost like a lot of things that were available to us as children,: null
+    it's also important, I think, for my husband.: null
+    it's always the same man: null
+    it's been an interesting, roughly, nine months here,: null
+    it's between tennis and, and bowling.: null
+    it's called a sleep book: null
+    it's changed over the, over the years,: null
+    it's coach pitch, until you get nine: null
+    it's during the week,: null
+    it's five dollars admission per child, all day.: null
+    it's football in the fall and, and baseball in the spring: null
+    it's funny because, my mom and dad both were kind of athletic.: null
+    it's hard for him on Saturdays.: null
+    it's just really nice because we can do, the things you want to do.: null
+    ? it's just, it's helps, I think, the children to, when they're learning in school,
+      to say, I've been there and I've seen that.
+    : null
+    it's kind of hard for us to visit with them, as much as I'd like to.: null
+    it's kind of hard.: null
+    it's kind of like they don't,: null
+    it's like in Richardson you go up Plano Road,: null
+    it's like you grow up to be twenty years old,: null
+    it's like, I can only express myself so much,: null
+    it's like, do I really need to work,: null
+    it's more fun with four people.: null
+    it's not really just to getting to sight see.: null
+    it's not that constant: null
+    it's our last hope .: null
+    it's really fun.: null
+    it's really morally wrong to eat meat or something,: null
+    it's really pretty funny to see my parents get into it,: null
+    it's straight: null
+    it's that grandmother figure, not only raising her own children, but raising, children from the streets, too, frequently.: null
+    it's very hard for me: null
+    it's we never threw a football or something: null
+    it's working out pretty well.: null
+    it's, I really think it's true for our family,: null
+    it's, although it's not the same, we are,: null
+    it's, because like this one that lives right next door, her mother does some work at home: null
+    it's, it's a beautiful city.: null
+    it's, it's certainly not at all common,: null
+    ? it's, it's in the same old y, routine of, doing homework and, trying to talk
+      between all of that and, and, the other activities that we all have.
+    : null
+    it's, it's so different down here where y, you go take lessons to learn to ice skate or something.: null
+    it's, it's, it's real easy to work out my schedule,: null
+    it's, it's, it's, it's been difficult to try to find the time,: null
+    it's, it's, ten o'clock here in Falls Church, Virginia.: null
+    it's, it's, we can see it work with her,: null
+    it's, there's a lot of kids in the family: null
+    it, it all paid off.: null
+    it, it just seems like there was always something to do.: null
+    it, it's a little bit difficult, though.: null
+    it, it's funny,: null
+    it, it's really hard.: null
+    just by touching a nose to another cat they can contac, leukemia, feline leukemia,: null
+    just getting out in the front, and just being outside is good for them: null
+    just so long as you can get up to go to class the next morning, you can stay up: null
+    just so that they get to know their grandparents, but also for help .: null
+    just start not even,: null
+    just the time that they were spending together,: null
+    just to let you know, I have, two, children of my own.: null
+    keep it off of here .: null
+    kind of the same thing, our,: null
+    last night was a band concert: null
+    last week we got a lot.: null
+    last year they, they, got, the state level.: null
+    last, a few summers ago I kept two children every day for the entire summer: null
+    let me see, I've got two children.: null
+    like I sa, I don't have any children.: null
+    like I said my wife normally feels that way,: null
+    like I say, I'm twenty, I'll be twentytwo next month,: null
+    like in my case I, I do shift work.: null
+    like last weekend, there's the Soviet space exhibit is here in Dallas,: null
+    lot of time spent with her,: null
+    m, my sister that's closest to me, we're only fourteen months apart.: null
+    maybe after we decide to have kids I, I might find a job that has flexible hours.: null
+    ? maybe just even, if we just rent a movie and watch it together just to make
+      sure that everybody's not going out and doing and their her own thing all the
+      time.
+    : null
+    maybe that riding place that is North of town that she goes to.: null
+    ? maybe they just decided that, if they wanted to have kids around the house they
+      would just call one of their sisters or brothers up and tell them to send the
+      kids over for the night.
+    : null
+    mine I don't spend a whole lot of time because they're not here.: null
+    mine are all grown .: null
+    mine is, down at U T Austin at college: null
+    mine were not terribly sporting.: null
+    most of them are going and seeing Grandma and Grandpa.: null
+    most, most of them, the father and mother both work,: null
+    mostly between the ages of two and ten.: null
+    my , my youngest daughter lives in New Jersey,: null
+    my Dad worked for Braniff when I was a kid so we got, our air fare free: null
+    my Grandmother must have put that on my Dad because he got my sister,: null
+    my brother right behind me, he moved out,: null
+    my brotherinlaw has three young kids seven and on down: null
+    my children are, are swimmers,: null
+    my dad died, when I was less than a year old: null
+    my dad had his own business: null
+    my dad wants me to go back.: null
+    my dad, all he, all he wanted to do was get money for us,: null
+    my daughter and her husband work Saturdays.: null
+    my daughter enjoys writing too,: null
+    my daughter has, tennis,: null
+    my daughter is, has moved out of the house.: null
+    my daughter s, sings with Younger Generation, I don't know if you've ever heard of them.: null
+    my eleven year old, of course, is pitching.: null
+    my fianc3e and I are paying for most of the wedding.: null
+    my goal is to try to retire by the time I'm fiftyfive.: null
+    my husband also, we're involved in everything our kids does: null
+    my husband and I have different hobbies.: null
+    my husband and I will do the same job: null
+    my husband and I will go out to dinner and come home and, probably not too late.: null
+    my husband and son go camping: null
+    my husband sometimes joins them with that.: null
+    my husband's into, computers.: null
+    my husband, is working mo, most of the time.: null
+    my kids do an awful lot with that.: null
+    my kids have a Nintendo which they play,: null
+    my kids wanted to learn how to play it: null
+    my little girl, Jennifer, likes to do crafty things,: null
+    my little one also competed because really she had no choice.: null
+    my mom and dad got it set up, helped me to get it and everything,: null
+    my mom and dad, whenever, we would go out and we would get a summer job,: null
+    my mom said, that's silly to let one of the older one's drive it,: null
+    my mom said, that's stupid for you to be blowing money.: null
+    my mother and I have talked about it, to how important it was when I came home from school.: null
+    my mother was an only child: null
+    my oldest daughter lives in Amsterdam, Holland.: null
+    my oldest is in school: null
+    my oldest two are already out and about in the world: null
+    my other child, is in, big into tropical fish,: null
+    my parents live down there.: null
+    my roommate's laughing at, at me, because their schooling's paid for.: null
+    my rule is that they can't play a sport the same time of the year ,: null
+    my sister and, and her husband are coming down,: null
+    my sister lives in Turkey,: null
+    my son is in, Little League this year.: null
+    my son is my aide.: null
+    my son plays baseball: null
+    my son plays football.: null
+    my stepdaughter plays softball: null
+    my thirteen year old is pretty separate from her brother and sisters: null
+    my twelve year old got out the Legos: null
+    my wife and I were wondering what if,: null
+    my wife did some teaching at a private tutoring place.: null
+    my wife is involved: null
+    my wife's from Fort Worth.: null
+    my wife, likes staying home.: null
+    my youngest is about to turn three.: null
+    my youngest is twelve.: null
+    my, my father was raising four ki, three kids before he had me,: null
+    my, my kids are, they're starting to grow up,: null
+    my, my kids even have already gotten out,: null
+    my, my wife was,: null
+    neither one of them carried on, the sports after that.: null
+    not at all.: null
+    ? not really looking for a school for him but, uh, like a preschool or something
+      that where he would go maybe a couple hours a couple days a week or something.
+    : null
+    not right now.: null
+    not usually on the weekends we don't see very many in comparison.: null
+    nothing to quite that depth, I guess.: null
+    now I realize that it was better because, they have got into a lot of trouble,: null
+    now I work a full school day,: null
+    now I work for Texas Instruments.: null
+    now I'm looking for a job before they have to send me back home: null
+    now I've noticed that while I'm at college, and when I go home, my bro, my,: null
+    now it's just, that she's kind of resolved herself that, this is going to be the only one .: null
+    now it's, he likes to watch T V: null
+    now my husband and I, we go different places.: null
+    now she's staying home all the time,: null
+    now that my, my, youngest sister's at B Y U now,: null
+    now that they're each,: null
+    now that we're getting older, people are get, each one of us are going our own direction.: null
+    now when I look back at it, it must have been a really difficult thing that she did: null
+    now, I worked in the school system,: null
+    now, my wife and I both work: null
+    now, this weekend we'll have a babysitter come: null
+    obv, obviously things are different from, for me than, and my children than when I was growing up.: null
+    of course I'm away from my other son those hours, too.: null
+    ? of course three girls, they're each becoming the, they've all become women in
+      themselves that it's been neat to watch them.
+    : null
+    of course we learned too.: null
+    of course, take care of the house all this good kind of stuff.: null
+    of course, they have a pretty, busy social calendar too .: null
+    of course, they have all the little video games and, those little quarter rides, to, and stuff like that: null
+    of course, we always read a bedtime story at night,: null
+    of course, we try to spend a lot of time on the weekend.: null
+    of course, with the holidays and everything.: null
+    of whose, whose top dog, we, top cat, I guess.: null
+    on Monday nights we set aside time where it's called, family home evening: null
+    on school nights, the two older ones get to bed about nine.: null
+    on the other hand, we just love watching the kids play and getting to know the other parents: null
+    on the way home we drove by the local high school: null
+    on, on weekends she would, spend all of her time with her kids and spend lots of, lots and lots of money.: null
+    one is in Vermont, Montpe, Mont, Montpelier: null
+    one is in college, also swims in college,: null
+    one is o, just turned to be a teenager: null
+    one is two and a half: null
+    one is, four.: null
+    one joined the Girl Scouts: null
+    one just occurred to me because I was editing a book about it recently,: null
+    one lives in Connecticut: null
+    one of my children is, also a musician: null
+    one of my neighbors moved here from Memphis: null
+    one of our funnest games we like to play together is hide and seek,: null
+    one of the biggest complaints I well remember because I spent a lot of time with seniors,: null
+    ? one of the things I've noticed is, one of the trends I've, I've noticed is that,
+      it's always too easy to just plop your kids down in front of the T V and let
+      them watch movies or, or play video games or something.
+    : null
+    one of the things that we did with him a lot was to go, either my husband or I, or both of us would, t, concerts with him.: null
+    one of the things we try to do is we try to avoid doing that as much as possible.: null
+    one of those hell family vacations.: null
+    one parent.: null
+    one summer we, we went up to New England: null
+    one week she'll eat nothing but Twix candy bars,: null
+    one's a freshman in college: null
+    one's a sophomore in high school.: null
+    one's nine months,: null
+    one, I, like I said, lives near Maryl, in, in around Maryland, D C.: null
+    or twentyone.: null
+    other than that, there was basically, there was not educational T V: null
+    our baby lives just a mile over the hill ,: null
+    our baby will be a year on Monday.: null
+    our boys, one, is, he is in graduate school at A and M,: null
+    our cat hates other cats,: null
+    our child, when we go with our children we usually kind of stay close.: null
+    our children are sixth, fourth, and third grade.: null
+    our children have not yet decided to rebel .: null
+    our daughter has three sons,: null
+    our daughter is a big Cowboy fan,: null
+    our daughter, our, she's our second oldest, she has, she's the only that, other one that has children.: null
+    our girl is thirteen.: null
+    our house isn't the average small one.: null
+    our next door neighbor was there,: null
+    our next door neighbor,: null
+    our problem is that, a trip to Six Flags or Disney World or, Disney Land, or God forbid, Disney World, would take forever.: null
+    our son would share this: null
+    our son, he had to get on the bus,: null
+    our thirteen year old son plays violin: null
+    our two had, had, totally different interests of,: null
+    our vacations have always been, as, as they've gotten older.: null
+    our whole family, we take family trips to different places to visit fish stores or go to fish shows,: null
+    our youngest is, expecting her first baby.: null
+    our, our whole weekends are divi, are devoted to our children except for we might go out, one evening or something,: null
+    ours are all out of the nest .: null
+    ours start at twelve: null
+    ours, uh, the older one is a girl,: null
+    out here in Utah, five is about the: null
+    parents get in free: null
+    people say, it's expensive to think it's college,: null
+    people throw rocks at them,: null
+    personally, I don't have any children.: null
+    plus, we like, we both like to cook,: null
+    prior to that I, I worked in a food store.: null
+    really, it makes me nervous.: null
+    right now it's football season,: null
+    right now it's kind of a difficult time,: null
+    right, we try to do a family activity on Saturday,: null
+    seeing New England and, being on Plymouth Rock and stuff like that was: null
+    seven hundred dollars a semester,: null
+    sh, after she had the first baby, she stayed home.: null
+    she always likes to do things whenever the T V s off.: null
+    she and her husband both do.: null
+    she and, and the three boys and my husband and I went over into Fort Worth to see the space exhibit: null
+    she can pick her hours: null
+    she could go to sleep at two in the morning: null
+    she does, Tupperware,: null
+    she enjoys staying at home,: null
+    she gets paid for forty.: null
+    she gives me ideas for my writing too: null
+    she goes out riding as much as she can.: null
+    she has a lot of school programs and things like that.: null
+    she has brothers and sisters that has got lots of little kids,: null
+    she has such a flexible schedule,: null
+    she hasn't brought her tennis racquet over lately.: null
+    she is into a little bit of everything.: null
+    she is into this, odyssey of the mind thing, which is, takes a lot of time, for,: null
+    she is sort of like an only child: null
+    she just doesn't think that she could,: null
+    she just eats weird.: null
+    she kind of heads that up for these kids,: null
+    she likes to pick flowers and look at birds.: null
+    she never did.: null
+    she plays on her school volleyball team and, stuff like that.: null
+    she plays softball: null
+    she plays the flute in the band, and, the piccolo,: null
+    she quit that job because it was too inconvenient.: null
+    she really was.: null
+    she said that's really not fair to the younger kids.: null
+    she said, I don't make fun , fun of your friends: null
+    she said, no, Sunday's our family day: null
+    she started a group going in the neighborhood: null
+    she was always home for us: null
+    she was just always there for us,: null
+    she was talking about her daughter, said, one week her daughter will, be on a no meat kick,: null
+    she was there pretty much all my, formative years.: null
+    she watches that: null
+    she worked a job until we moved to our new house: null
+    she worked either two to thre, three days a week: null
+    she worked nights: null
+    she worked parttime when my oldest was, was little: null
+    she works at home some, though.: null
+    she works full time: null
+    she would get home at five thirty in the afternoon.: null
+    she would just substitute once or twice a week, just for that little extra money when we were in school.: null
+    she wouldn't do that every day.: null
+    she'll forget about the T V completely.: null
+    she's back teaching school full time now, again.: null
+    she's five.: null
+    she's frustrated.: null
+    she's gone a lot at nights: null
+    she's growing fast: null
+    she's just like him.: null
+    she's my baby.: null
+    she's now, four, going to be four: null
+    she's on the yearbook staff and things like that: null
+    she's so busy: null
+    she's still at home .: null
+    she's still living at home,: null
+    she's tried many, avenues: null
+    she's, she's had about enough during those days,: null
+    she, she got pregnant: null
+    since I'm an international student, they want to send me back to: null
+    so I did have that advantage there,: null
+    so I wouldn't know.: null
+    so it was kind of like, they see their kids for fifteen minutes and the same with their spouses.: null
+    so we're going to do that with our daughter too.: null
+    so, I, you know, I wasn't raised with brothers or sisters: null
+    so, she chose the cats.: null
+    some nights it's just real, real quiet.: null
+    ? some of the people that I work with they, when I worked on second shift, their
+      paren, their kids go to school during the day
+    : null
+    some of the things we do together as a family, we like to play games a lot,: null
+    some of them are interested.: null
+    somebody came up and asked if their daughter could spend Saturday night at their house: null
+    someone came home: null
+    something major,: null
+    ? sometimes I feel like, by the time I pick them up and get them home and get
+      them fed, I have very little time each evening.
+    : null
+    sometimes I, I kind of long for the good old days when: null
+    sometimes they want to do their own thing,: null
+    sometimes we try to do our lesson on Sunday night and then our activity or something on Monday: null
+    spent a lot of time outside with us and stuff,: null
+    still we will share that job.: null
+    suddenly he sees that he's getting old,: null
+    that explains.: null
+    that gives us special time together too.: null
+    that got her out of the house: null
+    that hasn't been, possible.: null
+    that is so fun.: null
+    that is where the, kind of,: null
+    that is, that's, the, the, my little pair.: null
+    that just kind of works out real well.: null
+    that kind of covers it.: null
+    that leaves me off on holidays and summers.: null
+    that really gets kind of aggravating after a while: null
+    that the only reason I'm home is because I'm home with a cold .: null
+    that was a cat that hit the telephone.: null
+    that was a lot of fun.: null
+    that was always good time.: null
+    that was it,: null
+    that was nice: null
+    that was the most boring place on earth.: null
+    ? that was the thing that I, I noticed that, I know a lot of people, lot of friends
+      that we have, they have a tendency to do the same thing.
+    : null
+    that's a lot of fun.: null
+    that's a tradition: null
+    that's a, that's a neat thing.: null
+    that's about all I can think to talk about right now.: null
+    that's about it.: null
+    that's all you can do.: null
+    that's always been a little bit of a tradition that we've had.: null
+    that's an opportunity to get out the games: null
+    that's another thing,: null
+    that's basically my job .: null
+    that's because of religious values as well.: null
+    that's his mother: null
+    that's how I keep looking at it.: null
+    that's how we spent most of the time with him.: null
+    that's kind of a special time for just myself and my little girl or myself and my son,: null
+    that's kind of cutting into your, your time.: null
+    that's one reason I have so many because I really, I enjoy the big family.: null
+    that's right.: null
+    that's so true.: null
+    that's something we spend time together too, is, cooking and, preparing meals and stuff.: null
+    that's that whole thing that he'll say when,: null
+    that's what I was doing before,: null
+    that's what was kind of what, where we were,: null
+    that's what, when she's with me that's what we do.: null
+    that's where they've gone to make their homes.: null
+    that's why they're over there.: null
+    that's, I think,: null
+    that's, that's mild compare to the big ones,: null
+    that's, that's pretty good quality time,: null
+    that's, that's real neat.: null
+    that's, that's what happened to my brother.: null
+    that, it's kind of a seasonal thing.: null
+    that, that got me to sp, to be able to spend more time with the kids at night and stuff,: null
+    that, that was always good quality time for us.: null
+    the Navy is sending him for his Masters in Ocean Engineering: null
+    the activities that we were involved in were the activities the kids were: null
+    the advantage of teaching school is your hours are closer to your children's: null
+    the babies,: null
+    the boy's five,: null
+    the boys are in baseball.: null
+    the children usually weren't awake by then.: null
+    the girl is four.: null
+    the guilt feelings, she can't deal with: null
+    the housing is so cheap: null
+    the kids I know miss that.: null
+    the kids are kind of hungry for someone to play with them.: null
+    the kids brought him over and said he was injured: null
+    the kids can pet animals and stuff.: null
+    the kids just had a wonderful time there,: null
+    the kids just think it's wonderful just maybe to go get an ice cream cone or,: null
+    the kids like to play Nintendo,: null
+    the kids seem to enjoy being with us,: null
+    the kids think that was a lot of fun, too.: null
+    the kids thought that was wonderful.: null
+    the kitchen needs to be cleaned: null
+    the money part of it is not as rewarding, obviously,: null
+    the next one down is in the Marines,: null
+    the older kids love playing board games and that kind of thing: null
+    the older they got, I enjoyed them as teenagers.: null
+    the one in Mesquite is, Scyene exit.: null
+    the one person I know that has one, they, they feel guilty.: null
+    the only girl.: null
+    the other one is in Everett, Washington.: null
+    the other one is in high school.: null
+    the other one is on his way,: null
+    the other thing I think we like to go to the movies, too.: null
+    the other two, I'm not sure.: null
+    the other will continue to swim in college,: null
+    the presents have gone from the days when they were very young to a little box of BandAids and an eraser and things,: null
+    the problem is , first time I went out of here, and they took me to Las Vegas: null
+    the question now to ask, is it difficult to find time,: null
+    the rest of the time she's free.: null
+    the school years are wonderful,: null
+    the second question, forgot what the second question,: null
+    the thing that sticks out most in my mind is that, a kid's place area.: null
+    the three of us just spent a lot of time traveling and, and competing: null
+    the time that my, we spent with our Dad was, he owned his own business: null
+    the topic for me,: null
+    the way I was brought up,: null
+    the weather's trying to turn now: null
+    the whole family was around the, the whole time.: null
+    the wife says, you need something to do,: null
+    the young kids don't understand it: null
+    the younger kids are at home,: null
+    the younger kids, or maybe all of them needed help at one time or another.: null
+    the, the boys tried those,: null
+    the, the kids got up in the morning and ate breakfast and poked around: null
+    the, the mom stayed home, and raised the kids.: null
+    ? the, the one down thing about having that many people in our family is you real,
+      we really don't have any privacy when we're at home, because you couldn't possibly
+      have a house with twelve bedrooms.
+    : null
+    the, the thing that we like to do the most is to watch T V together.: null
+    the, the, the, the fourth and fifth child of the: null
+    the, the, the, third daughter fell in love with, Vermont.: null
+    the, there was not much, overlap as such.: null
+    the, whatever season it is he's, he's playing,: null
+    their children does anything,: null
+    their friends enjoy being with us.: null
+    their, their cousins are about ten years younger.: null
+    then his sixteen year old brother started helping, too,: null
+    then she just started substituting.: null
+    then she'd be home.: null
+    ? then we have decisions that we have to make that are hard about schooling, like
+      do you want to home school your kids on a computer program
+    : null
+    then we kick the ball.: null
+    then we, when we all graduated from hi, college, from high school,: null
+    then what my father did was, was, in, obvious to me: null
+    then you took it off and put it on the tree,: null
+    then, a family is, is definitely a high priority.: null
+    then, my husband enjoys spending time with the kids,: null
+    there are days when, I come home and she says here take these kids,: null
+    there are only two of them: null
+    there happened to be an F A, F A A, Future Far, F A, Future Farmers of America, F F A: null
+    there is camping: null
+    there is so much of them are gone: null
+    there was always an activity,: null
+    there was always, there was never just one alone,: null
+    there were always things that just tumbled out.: null
+    there were five of us: null
+    there won't be as many activities.: null
+    there's a little soccer thing that he's going to do for a week or so: null
+    there's a lot of kids up here that would have no idea how to even do a checkbook or,: null
+    there's a lot of times my house may not be as clean as I particularly like it: null
+    there's a ring: null
+    there's a sister older than me,: null
+    there's always a few people in the family that, when they stare at it, they're totally turned off to everything else.: null
+    there's always something.: null
+    there's going to be eleven of us for Christmas.: null
+    there's never much of a family family thing.: null
+    there's nine that are younger than me.: null
+    there's not much I can do about it.: null
+    there's one or two nights a week, we have a,: null
+    there's plenty of, plenty of interactive time in, practicing. Although neither kid likes to practice.: null
+    there's this DOCTOR SEUSS sleep book.: null
+    there's usually not very much business.: null
+    there's, there's some petting, like,: null
+    there, there was not nearly as much of it.: null
+    these are kind of things during the normal rat race: null
+    they all end up spending the night Christmas Eve night, so that,: null
+    they all skied: null
+    they always took other friends with them: null
+    they are a handful .: null
+    they are interesting: null
+    they became like my children .: null
+    they both did Tball and soccer in grade school,: null
+    they both enjoy it.: null
+    they camp out: null
+    they come, go to church with us: null
+    they couldn't do a whole lot, yet.: null
+    they didn't live in the same town.: null
+    they didn't,: null
+    they do a lot of things with their kids that they wouldn't ordinarily be able to do if they were working.: null
+    they don't go for the food: null
+    they don't have any cousins,: null
+    ? they don't want to have anymore children because they just don't think, that,
+      she doesn't think she could be a mother at home.
+    : null
+    they don't want to know, they almost don't want to know us.: null
+    they enjoy reading.: null
+    they get into the high schools so often they seem to drop away at that point.: null
+    they get real frustrated when we try to do that,: null
+    they go down to four.: null
+    they go for the, to play around: null
+    they go out to the other, the inlaws in between some of this,: null
+    they got a new mix of kids this time.: null
+    they got more interested in other things,: null
+    they got to stay at home by themselves: null
+    they had a blast running around the Farmers Market looking at all the,: null
+    they had a little pen there with animals in they could pet,: null
+    they had a lot of fun in there: null
+    they had a lot of fun.: null
+    ? they had all kinds of pigs and horses and goats and sheep and everything, all
+      out in this, in the, in this schoolyard there.
+    : null
+    they had their favorite T V shows and things like that that we watched: null
+    they had to write a, a little brief autobiography of themselves, and about what they had done and what they wanted to do,: null
+    they have a game: null
+    they have children,: null
+    they have no one at home,: null
+    they have two girls,: null
+    they have won awards,: null
+    they have, we have thirteen grand,: null
+    they like to, spend time with me.: null
+    they liked that.: null
+    they live at home: null
+    they live in an apartment complex: null
+    they look back: null
+    they look today as new as they did when they gave them to, she gave them to us,: null
+    they loved it.: null
+    they ma, even made nationals.: null
+    they never played together or anything.: null
+    they never, I don't think they noticed I wasn't around that much.: null
+    they practice three times a week: null
+    they really loved it,: null
+    they said, when is dad leaving or something.: null
+    they saw them a lot,: null
+    they seem to, they seem to give, quality time to those children when they are together.: null
+    they started swimming when they were, seven and eight,: null
+    they stash away a good bit of money and come down here: null
+    they talk about T V shows,: null
+    they talk about these different levels and stuff: null
+    they think it's wonderful just to go to McDonald's,: null
+    they w, they did go in,: null
+    they were growing so fast: null
+    they were usually tougher on themselves than they were on us.: null
+    they will be married nine years ,: null
+    they will roll around on the ground and play with the dogs: null
+    they will, those will be passed on to them when they,: null
+    they would have dinner: null
+    they wouldn't see them at night,: null
+    they'd be in the audience screaming and yelling,: null
+    they'll all be married.: null
+    they'll be my helper,: null
+    they'll get to pick out some of those favorite snacks that they get to pick out: null
+    they're all kind of regretful, I think.: null
+    they're all,: null
+    they're both grown and married: null
+    they're doing their own things: null
+    they're five and three and nineteen months.: null
+    they're focusing on all of her, welfare.: null
+    they're fortunate,: null
+    they're going to Washington, D. C. next December . to sing for President Bush at the White House at Christmas time.: null
+    they're in college or just out of college: null
+    they're into sports: null
+    they're just going to have their first child: null
+    they're just wonderful.: null
+    they're not really even participating.: null
+    they're not very old,: null
+    they're part of the ch, Plano Children's Civics, Civic Chorus.: null
+    they're real active in the community: null
+    they're running lights right now and audio and for,: null
+    they're swimming both c,: null
+    they're the very same age as my children.: null
+    they're, they're all doing pretty good.: null
+    they're, they're all out and on their own.: null
+    they're, we're all, we're all pretty close together.: null
+    they, everybody decided to come over and talk to me right now.: null
+    they, got one local and, one region,: null
+    they, they do a lot of volunteer work: null
+    they, they just don't really have that same idea,: null
+    they, they think that's a lot of fun.: null
+    they, they think that's important.: null
+    they, they think they, they have really done something.: null
+    they, they were interested in a lot of things,: null
+    they, they were never that interested in it anyway.: null
+    they, we, we go to the park: null
+    they, you just pay that admission,: null
+    this Christmas, I went to Turkey.: null
+    this being a school night and stuff,: null
+    this is my first year off,: null
+    this is the big issue with us. Although I don't recall marking it on my little things to talk about: null
+    this needs to be done,: null
+    this time of the year it, it, the fun thing was to go out and swoosh around in the leaves ,: null
+    this was one thing that we, weren't able to do this year,: null
+    this, next Sunday they're coming over after the Cowboy game: null
+    those activities helped a lot in,: null
+    those are my kids.: null
+    those are the real killers.: null
+    those kinds of things never happen: null
+    three hundred and fifty dollars for a kitten.: null
+    three hundred dollars.: null
+    time we spend with our children.: null
+    to me five wasn't even a lot, because I was just so used to twelve.: null
+    to me, it's now I'm twentytwo,: null
+    to see who could jump over,: null
+    ? to today, where, sometimes I put a little gift if I see something that's, occasionally
+      a Christmas tree decoration which they will save for their, their future,
+    : null
+    trying to do everything he does.: null
+    twentyseven up.: null
+    two nights a week for four hours we're stuck together: null
+    usually in the summer time.: null
+    usually, my husband was seldom home for maybe fortyfive minutes or so: null
+    usually, once in a while he'll read the story to little one,: null
+    vacations are very special for us, and activities.: null
+    w, we do a lot of things with them,: null
+    w, we play board games,: null
+    w, we really, we don't want to get in the habit of watching a lot of T V: null
+    we also , spend, time with them trying to, trying to,: null
+    we also have five children.: null
+    we also, come winter time we'd stick them on sleds.: null
+    we always did, just, to the park for walks: null
+    we always had our days off together: null
+    we always made a point to have breakfast together and supper together now.: null
+    we are going to wait a year.: null
+    we both enjoy that.: null
+    we both like sports,: null
+    we color a lot: null
+    we could bring up: null
+    we could play hide and go seek in our house and even stuff like that.: null
+    ? we could, read the things in the history books and understand what they said,
+      when it was like, we need food, we need to raise food quickly
+    : null
+    we couldn't go outside because of the snow and stuff: null
+    we decided she would stay home with the kids.: null
+    we did a lot of things together.: null
+    we did a lot of things,: null
+    we did always have breakfast together.: null
+    we did go to things like aquariums and,: null
+    we did okay.: null
+    ? we did that for e, from the time the children were young enough to realize what
+      it was until, our older son went away to college.
+    : null
+    we did too.: null
+    we didn't do too much sports wise.: null
+    we didn't even know it.: null
+    we didn't get to eat out all the time: null
+    we didn't have any, avid, activities like that,: null
+    we didn't really have one .: null
+    we didn't sit in front of a T V or: null
+    we didn't, do it as much or as often as, I would have liked to.: null
+    we do a lot of family things together.: null
+    we do a lot of that on the weekends,: null
+    we do a lot of things with the kids on the computer.: null
+    we do different things now,: null
+    we do do things,: null
+    we do have our fun: null
+    we do have our trips: null
+    we do spend time driving in the mountains,: null
+    we do things together.: null
+    we don't do a lot of vacationing.: null
+    we don't have our kids play with other kids on Sunday: null
+    we don't really ski.: null
+    we don't, I don't believe we have as much as my parents did: null
+    we enjoy Christmas Eve night, because they all start arriving by about eleven o'clock,: null
+    we enjoy living here.: null
+    we feel like, like the first year needs to be devoted to, making the family, the couple strong: null
+    we figured, what, what better way to get out and, be together as a family: null
+    we get along a lot better now that he's older.: null
+    we get up occasionally.: null
+    we go and watch.: null
+    we go back for four years.: null
+    we go camp out,: null
+    we go down there fairly often, for a weekend for, family gettogethers and stuff like that.: null
+    we go fishing.: null
+    we go in the backyard and sit down: null
+    we go out and fly kites: null
+    we go out to dinner,: null
+    we go out to the farm.: null
+    we go to movies: null
+    we go to the zoo,: null
+    we go visit both sets of grandparents and, and take car trips.: null
+    we had a lot of fun doing that,: null
+    we had a lot of time together that way: null
+    we had a second baby: null
+    we had a sociologist at the center where I work who was writing a book on, multigeneration,: null
+    we had five.: null
+    we had growing up: null
+    we had more, I guess family time alone: null
+    we had started out like that: null
+    we had told him that if he ever wanted to go to college he could go,: null
+    we have a computer: null
+    we have a, a bigger house than a lot,: null
+    we have advent calendars still,: null
+    we have an eleven year old, an eight year old, and a three year old: null
+    we have cookouts on Sunday: null
+    we have family that's far away.: null
+    we have flown all over the world for her to compete and to perform.: null
+    we have four altogether, too.: null
+    we have got another boy that is, us, out in Maryland.: null
+    we have got two boys and a girl .: null
+    we have got two boys and a girl also.: null
+    we have got, still, all sorts of good activities since,: null
+    we have lived here about seventeen years,: null
+    we have lots of friends,: null
+    we have one to get married yet .: null
+    we have one.: null
+    we have the train,: null
+    we have three playing baseball.: null
+    we have to take them, and,: null
+    we have two and another one on the way.: null
+    we have two sons.: null
+    we have, a six year old.: null
+    we have, between the spouse and myself we have six.: null
+    we have, lived several places around the U S: null
+    we have, where we've lived, we've taken them to see and do things of interest and of historical significance in the area,: null
+    we haven't discussed this at all .: null
+    we haven't had that Lego train together for years,: null
+    we just did, we would make,: null
+    we just do all kinds of fun things like that: null
+    we just don't want that.: null
+    we just got married December,: null
+    we just have a hoot playing hide and seek when it's dark: null
+    we just kind of keep them at home: null
+    we just moved down here.: null
+    we just said, let's stop: null
+    we just say he travels a lot.: null
+    we just started a thing where every other week we go to, movies.: null
+    we just, I just do the carpooling and, and handle whatever needs to be done.: null
+    we just, we try to spend as much time as we can.: null
+    we knew time wise, or, and money wise, too: null
+    we like to do those kind of things.: null
+    we like to go miniature golfing and to movies.: null
+    we like to play kick ball and softball and stuff.: null
+    we like, we do like to go to the park, too you, like your family.: null
+    we live near Washington,: null
+    we lived in a trailer for eighteen years.: null
+    we made a point to spend a lot of quality time: null
+    we made that decision: null
+    we only had one telephone,: null
+    we only have one child.: null
+    we open presents about five o'clock Christmas,: null
+    we participated.: null
+    we play that a lot of them,: null
+    we play with the kids,: null
+    we played on the playground a lot: null
+    we really got to know the kids well.: null
+    we really have to keep it together to get just her activities in and still have time to spend with each other.: null
+    we really liked it up there: null
+    we sat around the table,: null
+    we see a lot of them.: null
+    we see our son and his wife about every other week: null
+    we see that a lot out here in Utah,: null
+    we see them at least once a week,: null
+    we spend a lot of time at the playground: null
+    we spend a lot of time outdoors jogging, bicycling, going to the park, some time watching V C R: null
+    ? we spend a lot of time, carpooling and, and then trying to be, up as much as
+      possible with anything that they, that they do.
+    : null
+    we spend weekends at the, in the country with them: null
+    we start here at, five.: null
+    we stay home that evening, all of us,: null
+    we still don't know what he does.: null
+    we swam a lot: null
+    we take the kids to the park,: null
+    we take walks,: null
+    we threw it way last year .: null
+    we took naps: null
+    we took the kids and, and went by the Farmers Market down in, in, down there in Garland.: null
+    we tried to be a part of it but not overshadowing him or making him feel that we had to be there all the time.: null
+    we tried to do things both together and individually with the children,: null
+    we try hurtling our couches and stuff. and.: null
+    we try to take a vacation with them every year, camping of some sort, something that wasn't expensive.: null
+    we use to take all of the kids tobogganing and ice skating, and all of that kind of stuff: null
+    we used to play ball a lot: null
+    we usually do that,: null
+    we watch a little T V together.: null
+    we went camping on vacations.: null
+    we went sh, we went to go see a movie and, things like that: null
+    we went skating a lot: null
+    we went there a couple of weeks ago: null
+    we went through this with our children, and now with our grandchildren,: null
+    we went to the marble quarries up there, and,: null
+    we were all pretty close where we, we always had a buddy to play with,: null
+    we were always together at their meets.: null
+    we were at a soccer game Saturday,: null
+    we were fortunate in view of the fact that my son did play football: null
+    we were talking about how much it cost to go to Disney Land.: null
+    we were thinking about getting cat: null
+    we were, we're very active, of course, at church, and, Boy Scouting, and Girl Scouts, Four H,: null
+    we will be living in, in Africa: null
+    we will be working together.: null
+    we will, we will share the job of raising the family.: null
+    we worked with him most of the time.: null
+    we would always come up with something that was harder than what they would have done: null
+    we would do, just, even stupid things,: null
+    we would drive up to see that when w, whenever it was reasonably close,: null
+    we would go to a movie on Thursdays: null
+    we would go to the football field and set off model rockets .: null
+    we would just run and jump over the couches.: null
+    we would put it under the tree, and that I would keep it together,: null
+    we would start blowing money,: null
+    we'd go to the library and do things like that,: null
+    we'd have, great times,: null
+    we'd take turns being president.: null
+    we'd usually take notes: null
+    we're Catholics.: null
+    we're a fairly closeknit family.: null
+    we're going there,: null
+    we're going to try it with a kitten and see if her maternal instincts come out.: null
+    we're into baseball,: null
+    we're kind of far apart here.: null
+    we're not this year,: null
+    we're planning on having my wife stay home.: null
+    we're pretty active as a sports,: null
+    we're spending more time together.: null
+    we're still, I'm still covered under my mom and dad's life insurance because I'm still in school,: null
+    we're talking like north Texas.: null
+    we're very family oriented.: null
+    ? we've always, tried to take our children and no, now at this age our grandchildren
+      to see and do things that otherwise they might not be able to.
+    : null
+    we've always, we have had this tradition, that we always go out before Christmas and cut our own tree.: null
+    we've been studying this in our school, that, this is one of the symptoms, or not the symptoms,: null
+    we've lived up north for a while in Chicago and over in Tennessee.: null
+    we've never had anything: null
+    we've, been, we've gone other, all kinds of places,: null
+    we, I have sort of a captive audience,: null
+    we, I really didn't have to work,: null
+    we, I, I grew up with,: null
+    we, although we have some relatives in the area that we, we see, we,: null
+    we, the, the middle girl doesn't get a whole lot of attention,: null
+    we, we do everything we can possibly as a family.: null
+    we, we had blocks and stuff,: null
+    we, we had supper together as much as possible,: null
+    we, we have done that.: null
+    we, we only had one car,: null
+    we, we spend a lot,: null
+    we, we still, like to pack up, just go someplace for the day: null
+    we, we tend to do a lot of running.: null
+    we, we trade off a whole lot with friends and, run here and run there.: null
+    ? we, we try to teach our kids as much as we can at home, we have, we try to spend
+      Monday nights, we call it family home evening,
+    : null
+    we, we try to, to do it as well as we can.: null
+    we, we would always go in for the museums.: null
+    we, we would, clear out our basement,: null
+    we, we've been married for two and a half years.: null
+    we, we, do not have any real,: null
+    well t, that's, that's why I'm glad my wife did too,: null
+    ? well, we play usually in the evening when, when I get home, you know, about
+      five o'clock or so until about eight, you know, with the exception of dinner.
+    : null
+    went back to school and got my degree when I was thirty years old.: null
+    wh, I feel that I learned a great deal from my students, with regard to what their biggest complaints were with parents.: null
+    what I'm currently doing is, taking a lot of time.: null
+    what I've tried to do, now that I've, fi,: null
+    what happens is we used to fight a lot,: null
+    what is it, two thousand six hundred dollars for one semester.: null
+    what kind of: null
+    what kind of mothers they are,: null
+    what they call peace group.: null
+    what, what I plan to do in the future is, go ahead and get my upper education as far as my masters,: null
+    when I lived in Washington, Washington, D C, I never went to the Washington Memorial,: null
+    when I signed up for it, it, looked like it could be, make a real contribution in participating.: null
+    when I was eleven I went also to the Caribbean.: null
+    when I was growing up my Mom stayed at home with me and my brother until we were in junior high.: null
+    when I was growing up my mom worked too,: null
+    when I was like fourteen, fifteen, I went, I went to Turkey.: null
+    when I was younger I thought they were lucky because they got to get away with things,: null
+    when I was younger I used to say that I would like to have five.: null
+    when I went back to visit, I went to the Washington Memorial.: null
+    when I would come home: null
+    when he graduated he had a five thousand dollar bank account: null
+    when he went away to coll,: null
+    when he went down there,: null
+    when his little girl was five years old and everything, they, they would go to the beach,: null
+    when it wasn't feasible,: null
+    when it's nice out, we go outside,: null
+    when mine were growing up, I did some traveling and but not that extensively: null
+    when mine were real little, they all played soccer: null
+    when my husband gets home, it's usually, he's home with my daughter alone: null
+    when my kids were quite small,: null
+    when my mom,: null
+    when my son was at home, I, I did work: null
+    when my, my big kids were, were little, ev, ev, all the mothers were home.: null
+    when our daughter started playing cello, I took up cello.: null
+    when our kids were little you, you got them a pair of skates .: null
+    when our son started playing violin, I took up violin: null
+    when our son's over, we have a pool,: null
+    when ours was a,: null
+    when they felt like it, they went out to play,: null
+    when they go, it's on business: null
+    when they were little, we did lots of reading and playing and going to parks,: null
+    when they were very young I did not work.: null
+    when was, when she was here last summer we played tennis: null
+    ? when we lived in Tennessee, we, we took them to Washington, D C to see all the
+      capitol and, and things like that when they were small.
+    : null
+    when, the kids were in high school, it was harder to always have supper together,: null
+    when, when we started, having kids, she had to work for a little while,: null
+    when, when, when I do go home they enjoy just laying around me,: null
+    when, whenever we go to the park or something sometimes on the weekdays, we'll see other families.: null
+    whenever my Mom stayed home with us, we did without a lot,: null
+    whenever we, he, my husband has time off or something, we take them to the zoo,: null
+    where they go for an hour or so.: null
+    ? whether it was going back and laying in bed with them and just shooting the
+      breeze or whatever, telling them stories or reading to them.
+    : null
+    which are harpsichord size pianos.: null
+    which that keeps us very, very young, with all these young people passing in and out and eating,: null
+    while parents very often will be involved with the school activities when the child's in the elementary school: null
+    with all the children around the house, it's,: null
+    with the kids getting older, now on the weekends they get to the bed like at ten: null
+    with three kids and laundry and keeping the house the way: null
+    ? with, me being at home and just having the one income, you don't have, this
+      lot of extra money to, to do a lot of, extra things.
+    : null
+    wound up back about two hundred miles aware, away from where we started out.: null
+    wound up in administration,: null
+    yet she'd get to spend, three or four days with ...: null
+    yet, on the other hand, I, I've got the mixed feelings that I think you should be at home with your children.: null
+    you always have the lack of funds: null
+    you are welcome to keep that .: null
+    you buy a present,: null
+    you don't have any money to, to, get out.: null
+    you don't see many leaves around Dallas.: null
+    you enjoy them,: null
+    you get to stay home,: null
+    you have got,: null
+    you honestly do.: null
+    you know, if I could have, I would have.: null
+    you probably know a peace group that, that they are advanced type. That they are special, classes for peace classes.: null
+    you said, you said you worked a couple days a month, though,: null
+    you think, if I wasn't here he'd be learning that from a babysitter or from a day care.: null
+    ? you want to be avail, I've wanted to be available, when they, for some reason,
+      they had, they were bouncing something off of me.
+    : null
+    you were saying what other trends are there,: null
+    you wrap the present up,: null
+    you'd have to pay air fare,: null
+    you're saying, I work full time too,: null
+    you, it's, it's hard sometimes at work because, people say, we're taking a cruise,: null
+    your holidays are, too.: null
+  Statement-opinion: !!set
+    A lot more available, of course.: null
+    A lot of people choose to, which is fine.: null
+    A lot of times the parents get into it just as much as, as the kids,: null
+    And I guess it's not really soccer it's just kind of a, well, kick the ball around for a while,: null
+    And I think, uh, the big city, uh,: null
+    And it seems like it's more, uh,: null
+    And it was really neat because they all were interested in each other and, and the cats: null
+    ? And, and it seems like it's a lot more than the, they need to know and be able
+      to do than when we are the, when I had to go in t, ki, kindergarten.
+    : null
+    And, and, the way it is now you get a lot of supervision is, is at hand and everything.: null
+    And, uh, and that was, that was more fun to watch those boys trying to, trying to kick the ball up and down the field.: null
+    And, uh, it seems like it's,: null
+    And, uh, you know,: null
+    And, uh, you know, I find it's, it's quite a bit different now: null
+    ? And, uh, you know, it tends to, uh, to encourage students to not be as, you
+      know, to not concentrate as much on the education.
+    : null
+    And, you know, to, to see how little they can get by with.: null
+    As long as you do not have to drive in it.: null
+    As long as you make her feel, uh, like she's still loved and everything,: null
+    Away from a road, you know, and you keep an eye on her, it's probably okay.: null
+    Basically, I think they, they really spoil the child,: null
+    But how these women must feel to place their children into care: null
+    But, uh, I guess the activities that, uh, we have with them are, uh, pretty few and far between.: null
+    Children are so full of energy.: null
+    Day cares have, have, have popped up and become a lot more, a lot bigger part of, of the kids' lives.: null
+    Especially in some of these schools around here, I think they have about twenty percent older students.: null
+    Especially these days where there is not a job right around the corner.: null
+    Every person out there should have kids, at least once or, or have some they can borrow for a time,: null
+    Fathers don't even like malls,: null
+    Give them, give them an edge,: null
+    Got a parttime job: null
+    He, her nose will be out of joint for a while: null
+    However, there are, there are, points both directions in that, from the standpoint of parents working and not working.: null
+    I am sure it was,: null
+    I am surprised they would bring anything over here.: null
+    I believe that, we in that category,: null
+    I can't imagine th, them having as much fun as the parents,: null
+    I d, I also think that's, at least in my experience, truer of girls than boys.: null
+    I decided that, you need that once in awhile. That you, you need to plan the quality time: null
+    I do feel like it's important that you make the time for children ,: null
+    I do think it's right that they're harder on themselves,: null
+    I do think that if you plan it and spend that and make it quality time you don't have to be there twentyfour hours a day.: null
+    I do think that the parents should have, a little bit more time to spend with their kids.: null
+    I do think with working parents it is, there are some real issues here.: null
+    I do think, the current trends are that, the family unit is devaluated.: null
+    ? I don't know what the families are going to come to now days because they, there
+      just doesn't seem like they do have time for their kids.
+    : null
+    ? I don't quite understand it, although I think probably the, the worst thing
+      that's happening in the world, at least the modern world today, is television.
+    : null
+    I don't see a lot of families fishing and doing things like that.: null
+    I don't think it needs to be the mothers,: null
+    I don't think it's going to be realistic.: null
+    I don't think it's too good.: null
+    I don't think our part of the country is particularly bad compared to some.: null
+    I don't think they're leaving them with babysitters,: null
+    I don't think you, you should spend too much time outside at the detriment of, of losing your fam, the family unit.: null
+    I don't think, although i, i,: null
+    I feel much the same way.: null
+    I feel really bad that it's turned so much: null
+    I guarantee it.: null
+    I guess I'm too protective,: null
+    I guess it's why they wanted to do it on this type of telephone because there's all kind of activity that goes on.: null
+    ? I guess one of the things that I think about is a, talking about education,
+      uh, I kind of feel like, uh, that, uh, the, the school systems in this, particularly
+      in this area, the systems are not under enough control.
+    : null
+    I guess that was good that you were, you were hearing it from other students.: null
+    I guess that's not a big surprise.: null
+    I guess they get used to it.: null
+    ? I guess, that was, you know, as important, uh, as much important to the parents
+      as it was to the children that, uh, you know, to get out and watch the kids
+      play,
+    : null
+    I know that it, it must be really challenging to, try to juggle a job and, and also your children.: null
+    ? I mea, I imagine with infants you are, most of your time is sort of spent taking
+      care of them rather than interacting with them.
+    : null
+    I most certainly couldn't educate three.: null
+    I really do think sometimes they very early on are around lots of other children: null
+    I really think that that's one of the problems the nation's facing that, we need to do something about,: null
+    ? I thin, there's also some, I think, poorer lifestyles illustrated but simply
+      because it dominates so much discussionary time.
+    : null
+    I think I think people are trying to get out of that.: null
+    I think I would be extremely jealous, or would have been, had there been another child in the family.: null
+    I think a lot of families now, they probably don't spend enough time together.: null
+    ? I think a lot of people are panicked, how kids are turning out and how things
+      are going for kids and realizing they've got to start doing something.
+    : null
+    I think a lot of people are, are turning to, I think, I think a lot of people are realizing that: null
+    I think a lot of people either, don't care, or don't realize it,: null
+    I think a, a, more than one child, probably three children is probably the ideal to me: null
+    I think different parts of the country,: null
+    I think if we weren't so interested i, in children, in child care, then we wouldn't be teaching anyway.: null
+    ? I think in Plano and maybe this area in Texas, there's a lot of community activities
+      that parents could join in with their kids.
+    : null
+    I think it would be nice if some of the parents would be around for a few more hours.: null
+    I think it's a big, it's a big, responsibility.: null
+    I think it's a step, a, a giant step of progress, I really do.: null
+    I think it's an investment in your future, even if it's purely not, not religious.: null
+    I think it's excellent because she's getting qualified quality time: null
+    I think it's gone to one extreme where the families were just running all different direction: null
+    I think it's improving, actually.: null
+    I think it's,: null
+    I think it, it really, it really helped to have that time together.: null
+    I think more people are interested in spending time with their kids now.: null
+    I think most of the time the kids are usually off watching cartoons or playing video games or stuff, stuff like that.: null
+    I think parents are definitely, spending more and more time.: null
+    I think she planned it.: null
+    ? I think that contributes to a lot of why society is going downhill right now
+      is because the basic family unit is being destroyed.
+    : null
+    I think that was better than Showbiz Pizza cause there's more for them to do.: null
+    I think that was really ideal,: null
+    I think that would be the ideal situation.: null
+    I think that's a lot of the breakdown of the communication: null
+    I think that's for the, the few and far between.: null
+    I think that's just part of their overall educational process, is to get out and see and do things.: null
+    I think that's le, tended to lead to a decline in, in families and family values especially.: null
+    I think that's probably true. The,: null
+    I think that's probably what it was.: null
+    I think that's really the best.: null
+    I think that's that is a big problem. The television: null
+    I think that's wonderful.: null
+    I think that, most, most kids that I see don't really, they don't really value quality time.: null
+    I think that, probably ninety percent of the,: null
+    I think that, we need to spend more family time together with, with children today.: null
+    I think the trend in the United States,: null
+    I think they can turn off the T V for one thing.: null
+    I think they just learn to accept.: null
+    I think they've learned a whole lot about being part of a team, whether the team is your singing group, your band, your: null
+    I think this is not a normal situation anymore in our, in our world we live in.: null
+    I think those kinds of things are happening a lot where we are right now.: null
+    I think we make a point to do that.: null
+    I think with the way the future is, economy wise,: null
+    ? I think with working moms, if you can get them ma, the bosses to give you almost
+      a rotation like they're going to do with yearround school where you work,
+    : null
+    I think you'll see a lot of growth in, in their ability to, control their thought pattern: null
+    I think you're doing a good job.: null
+    I think yu, you grow closer.: null
+    I think, I think family quality time is becoming much more important than it was there: null
+    I think, it's very, very easy to fall into that trap,: null
+    I think, it, they need you in different ways.: null
+    ? I think, like in my situation, today, on a weekend when couples are supposed
+      to spend time together, my husband's been off doing his thing all day today,
+    : null
+    I think, the kids are where they need to,: null
+    I think, the major problems in education are not what's happening in the schools,: null
+    I think, the older mine get, the more I enjoy them.: null
+    ? I think, think that's another reason why people are, so health conscious now
+      is because America's becoming really a couch potato society.
+    : null
+    ? I think, those type of children, that are involved in things like that, their,
+      goals are going to be set higher than the average child that are not participating
+      in things.
+    : null
+    I think, uh, you know, some of the thing has to do with, uh,: null
+    I thought to myself, how can a mother place her child at the age of six weeks or four weeks or two weeks or three weeks,: null
+    I would think for your parents it would be, it would still be hard even nowadays, just to raise twelve kids.: null
+    I'd have to go in the other: null
+    I'm going to have difficulty with this topic.: null
+    I'm not sure I could afford three.: null
+    I'm not, totally innocent of that because,: null
+    I'm sure it does.: null
+    I'm sure it has been done.: null
+    I'm sure part of it is a male, female thing,: null
+    I'm sure she is.: null
+    I'm sure when your children grew up you didn't,: null
+    I've heard very positive things about Atlanta,: null
+    I, I don't think they'd like to.: null
+    I, I don't, I don't really see that, that trend changing much,: null
+    I, I feel like, uh,: null
+    I, I it seems like that's, that's a big trend, in the last ten years.: null
+    I, I personally feel that it is extremely important to be with your own child, for the,: null
+    I, I think a lot of people, a lot of people s, set their kids in front of the T V and H B O and rent movies and, and,: null
+    I, I think he said that he'd give her a big ring and she got married to him.: null
+    I, I think it's gotten, very different.: null
+    I, I think kids now a days are raised on T V.: null
+    I, I think so, too.: null
+    I, I think that it's getting to where they're not spending time together.: null
+    I, I think the trends are going back to spending more time with families.: null
+    I, I think working mothers or mothers who choose to work outside the home, very early to come to grips with any guilt,: null
+    I, I think, I think that would be the ideal situation,: null
+    I, I would probably have a hard time getting through school myself.: null
+    I, I'm sure there's a lot of differences in the way, in the way it's done now and then.: null
+    I, I, I think that my wife leaned that way: null
+    I, I, I think that, I think very few spend quality time.: null
+    I, ideally, it wo, it would be nice to be able to just have, back in the old days,: null
+    If it's not raining.: null
+    If we were careless and was in a wreck and they got sued: null
+    If you like doing everything twice .: null
+    If you're, stay at home and you're a mother, it's what a waste.: null
+    If, if a woman is happy doing that,: null
+    In fact in, I think if people would learn to turn off the T V s: null
+    In fact, I, I think things were, were quite a bit different.: null
+    It makes you know that you can't take anything for granted: null
+    It really is hard.: null
+    It seems almost as though children hate it.: null
+    It seems bizarre to me.: null
+    It was a complete waste of money.: null
+    It was much, much harder when mine were young.: null
+    It's a little bit financial type thing: null
+    It's a little bit of a ways,: null
+    It's a lot more complicated.: null
+    It's an adjustment to make, also.: null
+    It's an interesting: null
+    It's just different.: null
+    It's like a home away from home for a lot of them.: null
+    It's not to say that some day you won't go back to work.: null
+    It's really kind of sad,: null
+    It's so darned easy to turn the thing on.: null
+    It's too much effort to go somewhere with all the kids.: null
+    It's, it's amazing, they either have one or none.: null
+    It's, it's better to be employed.: null
+    It's, it's not easy.: null
+    ? It's, it's really hard, hard to find time to spend together when you both work
+      full time and, you both have hobbies that are different.
+    : null
+    It, in the middle of it, it seems like a long time,: null
+    Just keep them talking that way.: null
+    Just simply because that time isn't spent just doing things like fishing: null
+    Kids, I think would much rather have dad there than the toy anyway.: null
+    Let's face it,: null
+    Maybe, maybe you will get lucky and get a girl this time.: null
+    Most of them, continue to work if they have, have kids.: null
+    Not for kids .: null
+    Not necessarily in that order,: null
+    Not so much because, it's bad per se, although there is some pretty crappy programming: null
+    Not that the civil rights program is bad: null
+    Now I think: null
+    Parents kind of went and did their thing,: null
+    People are,: null
+    People do it for their children ,: null
+    Seems like it went through a spell there where families weren't that big a deal.: null
+    So, it's, it's always nice to see people that like each other,: null
+    Sounds like you're, have a handle on it.: null
+    Television sure makes child rearing easy on you.: null
+    That becomes a drudgery: null
+    That is a lot of money.: null
+    That is awful high.: null
+    That keeps you bu,: null
+    That ki, the kids maybe on the average get, something like thirty seconds of quality time with the parents.: null
+    That's a lot of time.: null
+    That's also something, family oriented that everyone can do.: null
+    That's good to hear.: null
+    That's good, you know,: null
+    That's great fun .: null
+    That's quite a change.: null
+    That's really is: null
+    That's true,: null
+    That, uh, uh, watching a little, little boys play soccer is, is more fun.: null
+    The best of,: null
+    The make it worth it, with the cost of daycare.: null
+    The only problem is, it keeps you pretty busy, keeping everything going,: null
+    The time you have with them has to be quality time then.: null
+    The, the students have a little too much, uh, too much leeway.: null
+    The, uh, there i, there does seem to be a lot more in the curriculum.: null
+    Then your kind family is probably pretty rare now a days.: null
+    There's no question,: null
+    There, there, there is a difference there.: null
+    They do what they see,: null
+    They learn not necessarily to be the center of attention but that at the same time we have to be sure they are secure.: null
+    They need to have a highlight in the newspaper or something tell us what's,: null
+    They really grow up quick. Especially at that early age.: null
+    They'll always remember it, too.: null
+    They're always wanting to go on a diet or something.: null
+    They're expecting more or, uh, or just, uh, you know,: null
+    They're probably at an age where they don't want to spend any time with their parents.: null
+    They're really nice looking cats.: null
+    Things are very different nowadays than when I grew up: null
+    Time spent with Mom and Dad is, next, is probably one of the worst punishments spent on earth to them.: null
+    Uh, I guess, uh, what I see is so far as, uh, the trends, uh, uh, for children, uh,: null
+    ? Uh, the only other thing I have noticed though is that, uh, it seems that there's
+      been a lot of or more empha, emphasis at least in what we've been dealing with
+    : null
+    Uh, uh, I kind of feel like there's, there's too much allowed to go on in at, at school.: null
+    Um, an, an, and the, and that's kind of contradictory to what I said: null
+    Until, until they're older: null
+    Utah's a lot better than Texas.: null
+    ? Wayne, I, feel very strongly about parents doing things with their children,
+      and making time available even sometimes when time isn't available.
+    : null
+    We don't even have to cook dinner anymore.: null
+    We don't go out drinking beer till three and try to go to class in the morning .: null
+    ? We find that, back just even fifty years ago when people had financial problems,
+      the first place they went to was their family.
+    : null
+    We know what we can do .: null
+    We're past, we're past that age .: null
+    Well I'm sure it's been done.: null
+    Well, that's, that's a little unusual for, uh, for children of that age, to have both of them that age at home.: null
+    When you have children, you have to say, now, this is different: null
+    When you have younger ones to take care of, you maybe sometimes do not take as much time for the older ones.: null
+    When, when your own children are growing up, you just take them for granted: null
+    Which is good, you know.: null
+    Would be, shoosh.: null
+    You can at least say that it's important to our country,: null
+    You do the best you can: null
+    You don't have grandparents near by or aunts and uncles.: null
+    ? You don't necessarily have to be doing anything, that costs money or, or, that
+      requires you to go a great distance or anything like that.
+    : null
+    You don't see yourself getting.: null
+    You have to be a very unselfish person to, to spend a lot of time with your kids, I think.: null
+    You have to look on that, on the, positive side of that.: null
+    You just don't,: null
+    You know, it must be hard when you have a lot of children,: null
+    You know, they really don't have any choice .: null
+    You know, they're, they're there for a good time.: null
+    You of course, spend less time with them when they get older,: null
+    You sound so young.: null
+    You want to be around for the crisis and things like that,: null
+    You're kind of like, what are you talking about: null
+    You've still have a lot of time before she gets up in years .: null
+    a family without a father, it's, it's, a really hard thing.: null
+    a girl is very different .: null
+    a girl would like you to spend time with her going shopping .: null
+    a lot of it is due to the fact that the mothers are on drugs.: null
+    a lot of people can spare that if they planned ahead,: null
+    a lot of people that are adults are having to go back and learn those basics when our children are already learning that.: null
+    a lot of the problem is to, you know,: null
+    a lot of them decide just not to have children.: null
+    a mother isn't an important: null
+    and I seem, I seem to feel the same way, you know,: null
+    and I think it's neat.: null
+    and I, I'm not quite sure why.: null
+    and he seems to enjoy it.: null
+    and it's, it's just real tough on animals here, you know.: null
+    and like families that get along with each other and like to do things together.: null
+    and she'll hiss and growl and slap every now and then,: null
+    and so they don't settle the resources to draw on to give as much supervision as, as, as,: null
+    and the broken families.: null
+    and they are lovely: null
+    and, uh, and I think it's important because I think that, uh, you know, it gives him the interaction with the computer: null
+    at least you're encouraging them on and stuff: null
+    at least, I, I just consider myself blessed that I can stay home .: null
+    ? because if, kids don't look up to you, or, or, ca, can't feel they can spend
+      time with you, they're going to find someone else
+    : null
+    because it sure looks like that's going to be you, you know, the big thing for a long time.: null
+    because that I think that when you spend a lot of time with each other you communicate a lot.: null
+    between a person's religion, their, their faith in their maker: null
+    both boy things .: null
+    breakfast is a kind of a funny meal anyway,: null
+    but I think she planned it .: null
+    but anyway, we kind of got off the subject of children,: null
+    but it seems to be getting worse and worse: null
+    but she'll accept another cat eventually.: null
+    but there's so much, uh, potential danger, you know,: null
+    but they'll, she'll finally accept it.: null
+    but when they're in school they, they don't have quite, quite as much control,: null
+    definitely motherhood is devalued in this s, society.: null
+    especially if they're active kids.: null
+    especially when they get into the teenage stage.: null
+    everybody else works: null
+    everybody's not FATHER KNOWS BEST.: null
+    everyone makes its own model,: null
+    everything I'm doing, he's learning from.: null
+    families are facing a challenge,: null
+    families took care of themselves: null
+    financially, they got themselves into I'll have the boat,: null
+    first of all you're coming to me: null
+    first, they always say, get to know your country first before you leave,: null
+    friends are cool, parents aren't.: null
+    girls at that age,: null
+    house payment .: null
+    how can you watch that,: null
+    how easy it is to blow money you earn.: null
+    i, it seems that there should be some continuity,: null
+    if anything, I think,: null
+    if she looks,: null
+    if they force them to,: null
+    if we were in a wreck, you can be sued for anything now.: null
+    ? if you do have any time, it's kind of like on a rush cycle that you have to
+      get so many other things done, ju, just to maintain your home and maintain the
+      things outside your home and then, plus try to have that relationship with your
+      children,
+    : null
+    if you get your family involved in exercising and maybe playing tennis or something like that, that also helps.: null
+    if you have a large number of children or, then you don't.: null
+    if you have hobbies that are the same, then, you can enjoy your hobby together,: null
+    if you have one child or fewer, you get involved in organized events or: null
+    ? if you look all over in the other countries, like Europe and that, their standards
+      of living are a lot less than what ours are
+    : null
+    if you want to do something every night that's fine,: null
+    if you want to play something on the little kids' level, then the older kids get real bored,: null
+    if you're kind of a person that likes things, organized or neat: null
+    if, you know, it's not, it's just a temporary thing.: null
+    ? in this modern day and age, it seems like, we have more and more leisure time
+      because, we have so many convenience, appliances and whatnot.
+    : null
+    it carried over,: null
+    ? it certainly does, because, the things in the books seem so dead to the kids,
+      unless they've actually been there or whatever,
+    : null
+    it does begin with the families at home: null
+    it gets hard, especially with the cars.: null
+    ? it has been, it's been interesting and particularly I, I think because the society
+      in which we live, families are separated.
+    : null
+    it is fun really.: null
+    it is hard to do,: null
+    it is hard, once they get that age,: null
+    it is now, our financial situations are as, it almost takes two people to bring in an income to support a family now: null
+    it makes it a little bit easier, I think, that way.: null
+    it must be tough.: null
+    it puts a strain on everybody, your wife and your family.: null
+    it really does: null
+    ? it seems that business wise, in the business community, your employers seem
+      to be taking more and more time away from the family.
+    : null
+    it sounds like we both have colds.: null
+    it was bad enough every place else,: null
+    it was making the friends and going all the places: null
+    it was really sad, jus, that a lot of families, have to, have to have dual income.: null
+    it's a rite of passage .: null
+    it's a tough one.: null
+    it's also for you, because you're both kind of bonding together there too, I think,: null
+    it's always that way unti, until it's too late.: null
+    it's amazing how your whole focus on life changes after you've had a child.: null
+    it's becoming really health conscious: null
+    it's been very well done .: null
+    it's different staying home too,: null
+    it's difficult,: null
+    it's difficult, to do it any other way.: null
+    it's funny,: null
+    it's hard to make it on one income,: null
+    it's hard to raise one child without them thinking they're the, they're the pivot point of the universe.: null
+    it's helpful to have, things that become family traditions, and that sort of thing.: null
+    ? it's important for you to spend time doing the things that you want them to
+      learn, that, that they need to learn at the age,
+    : null
+    it's just a different,: null
+    it's just, if there were more than one child, I don't know, the, there would be no way to do it.: null
+    it's like sticking, an electrode into their pleasure center: null
+    it's like, if you plan a year ahead, you can probably save up seven hundred dollars: null
+    it's my feeling that if you don't have a role model to follow: null
+    it's not an easy sacrifice for a person to make,: null
+    it's not just for him,: null
+    it's not your kids' problems: null
+    it's one of the ways that young girls feel that they are maturing,: null
+    it's our society saying yes,: null
+    it's pretty hard: null
+    it's really hard.: null
+    it's really nice,: null
+    it's really rough.: null
+    it's so expensive, man.: null
+    it's so, it would be really hard now to have twelve children.: null
+    it's something that you can do: null
+    it's the same type of thing,: null
+    it's too late then,: null
+    it's very hard to, spend time with the children and, and your husband and: null
+    it's what's happening in the families.: null
+    it's, it's hard because,: null
+    it's, it's just not, it's not as stable for the kids,: null
+    it's, it's too static,: null
+    it's, it's very hard, because when you get used to two salaries, it's very hard to, to cut back to one.: null
+    it's, it's very nice.: null
+    it's, of course, still really important.: null
+    it, it is hard, I can imagine, on your parents, ...: null
+    it, it is interesting,: null
+    it, it would be nice to be able to have flexible hours: null
+    it, it's interesting.: null
+    it, it's sometimes a very, it, it's a very hard juggling act.: null
+    kids did their thing.: null
+    kids eat funny.: null
+    ? kids just because of the computer age or whatever, it just, know more when they
+      get, you know, to be five or six or something.
+    : null
+    kind of goes on.: null
+    let's see how we can get rid of the problem,: null
+    ? like my husband was saying, maybe some of the problems we brought on to ourselves
+      is that these women back in the nineteen fifties, were staying at home with
+      their kids and then made the decision, jeez, I'll go out and get a parttime
+      job.
+    : null
+    ? like what you said with the cost of living and everything, I think a lot of
+      people can't afford to get by on just one salary an
+    : null
+    little girls are worse about it than little boys.: null
+    m, I think most teachers realize the value of quality time with children: null
+    maybe something will open up for you.: null
+    none of us are.: null
+    not a, not a very good one at that.: null
+    now, people don't, they don't: null
+    nowadays if there are two parents to a family, the mother works just as hard as the father does,: null
+    nowadays there's a lot of people out there that you don't want your kid to, emulating or whatever.: null
+    occasionally they do,: null
+    ? of course, JudeoChristianity, and of the Jewish folks, too, believe that the
+      family unit is the one that was given the, mission by the Lord
+    : null
+    of course, the competing itself, really didn't matter what it was,: null
+    oh, they're just gorgeous,: null
+    once they hit ten or eleven or twelve, you've pretty much lost them .: null
+    once you're best friends with your parents, then, I think everything go a lot better.: null
+    one parent go one direction: null
+    ooh, for a family, for a family it gets pretty expensive pretty quick.: null
+    or at least it would be a lot harder than it was when I went to school.: null
+    parents are a curse that they just have to live with.: null
+    people aren't doing anything just sitting around, no thinking involved: null
+    phone calls that's about, about it.: null
+    plus, plus I think it becomes part of y, part of you too,: null
+    pretty soon, you're at the limit where you've got to say okay, you've sacrificed for, so many years at home: null
+    probably maybe that, that.: null
+    reading is so good.: null
+    real maternal .: null
+    really women, past generation women have done it to women of this day and age too,: null
+    really, I think, sometimes there's an advantage,: null
+    schools are: null
+    so much more to learn now that it really makes it more difficult, I would think.: null
+    so she really doesn't even know what it is to be the only one.: null
+    sometimes I think maybe the larger families create more independence in the children though,: null
+    sometimes it's good to have a bigger family because it does make you more independent.: null
+    still there are so many people that are, have their careers first: null
+    teaching, I think is a, a good career to have and still be able to spend a lot of quality time with kids.: null
+    th, that's how they're developing their patterns.: null
+    ? that I think has contributed much to, the delinquency that and the poor school
+      results that we're having. that the students', parents have just not really
+      taken enough interest in them from the very very beginning
+    : null
+    that age, of course, everything you do they're trying to learn to do,: null
+    that creates family tensions.: null
+    that cuts into our free time right there.: null
+    that does make a big difference.: null
+    that is just as valuable,: null
+    that is the trend in a lot of, lower class areas, for the grandmothers to be raising the children.: null
+    that is the way of getting attention.: null
+    that it's, it's really a sad commentary on, uh, you know, a life in general,: null
+    that makes it hard though for in terms of, family time with,: null
+    that must be the thing.: null
+    ? that people are starting to look out for cholesterol and things like that trying
+      to get out and workout more often and jog and walk and different things like
+      that.
+    : null
+    that should be first and, and children second.: null
+    that that's a tough situation,: null
+    that worked out really well because it's a big transition I think to have children.: null
+    that you really have to watch your children so closely now: null
+    that's a big thrill for them.: null
+    that's a good way to put it.: null
+    that's a little tough for fathers.: null
+    that's a possibility.: null
+    that's a pretty good way to put it .: null
+    that's a, a great career.: null
+    that's for sure .: null
+    that's good sometimes because you need to, get away.: null
+    that's good, that's real good advice.: null
+    that's it then, I think,: null
+    that's kind of hard to do,: null
+    that's part of, I think, teaching too, is what a family is like,: null
+    that's plenty though.: null
+    that's probably good,: null
+    that's quite a spread .: null
+    that's that's very, that's very hard to do,: null
+    that's the kind of thing that they will remember, though.: null
+    that's tough, you know ...: null
+    that's true.: null
+    that's, that's almost a surog,: null
+    that's, that's good, too, as far as entering,: null
+    that's, that's not as bad.: null
+    that's, those are a long way.: null
+    that, that certainly can happen now if: null
+    that, that would be fun.: null
+    that, that's, is an advantage of being in the education field.: null
+    that, that, I guess you could consider that organized.: null
+    that, they say it, it, all it takes is about five, ten minutes a day.: null
+    that, uh, you know that children can't, cannot be allowed to grow up, uh, you know, without really close supervision.: null
+    that, uh, you know, you have to watch your children so closely and, uh, keep up with them.: null
+    the child needs to take pride in the fact that their parent is doing something.: null
+    the children stay at home and get into trouble: null
+    the communication helps you build on your, helps just, just build your family.: null
+    the cost of living here is just so tremendously, outrageous .: null
+    the kids can be a real pest,: null
+    ? the kids in some ways are, are, are suffering a little bit, in that, the model,
+      the role models that get the, the, the family issues that get discussed,
+    : null
+    the little kids would have nothing.: null
+    the one trend I would say is that with so many more women choosing professional careers,: null
+    the only thing you can remember is to try and stay together as much as you can,: null
+    the trends in the families were to spread apart, do your own thing.: null
+    the winter gets long.: null
+    their Catholic *they're: null
+    their friends are the most important thing there is.: null
+    then I think it, it is hard.: null
+    then the kids kind of suffer.: null
+    then when you start having two of them, it's, a little bit tougher,: null
+    then you never get to know them either.: null
+    there is a competition all the time.: null
+    there's a lot of emphasis on, on, on, on education and what these children should know before they reach kindergarten.: null
+    there's just so many things to do with them nowadays, though,: null
+    there's less, friction involved in relationships when you add that skill: null
+    there's no thinking involved, no motion,: null
+    there's not enough time,: null
+    they can take everything away from my mom and dad,: null
+    they despise shopping.: null
+    they don't always do it,: null
+    they don't have kind of an, what we call an internal perspective of things.: null
+    they don't like it.: null
+    they drop their kids off at daycare and, and leave them: null
+    ? they expect us to, have, create miracles at school and fix all the problems
+      and take over the roles of the parents as well as that of the teachers
+    : null
+    they get to that stage.: null
+    they just really can't wait to be able to take their kids where they had fun.: null
+    they keep you hopping, I'm sure.: null
+    they learn from their friends,: null
+    they look back.: null
+    they need to really focus on the children in the wor, in this country.: null
+    they think that's a family activity,: null
+    they want to be able to spend,: null
+    they want to do something else.: null
+    they were, they just, the, they just keep you going .: null
+    they're cute.: null
+    they're good: null
+    they're not use to being with adults and to responding: null
+    they're stuck in a day care.: null
+    they're very, very different,: null
+    they're, they are more use to being with their own age kids: null
+    they've got to keep them in line.: null
+    they, they learn to share.: null
+    they, they'd much rather be with friends,: null
+    ? thing is, is, that, if, if they would ever happen to have a drug problem, suppose,
+      that they could feel comfortable coming to me and saying, I got a problem
+    : null
+    things cost a lot more.: null
+    those are neat cats, too.: null
+    those are the two that can, that, that have the wherewithal: null
+    to go from, nothing,: null
+    to some extent the public schools, or the schools in general,: null
+    turning the T V on is almost like magic,: null
+    usually people are not sitting in front of that.: null
+    we are seasoned minds.: null
+    we certainly, we need more of that,: null
+    we don't try to burn the candle at both ends and in: null
+    we feel that, just spending time together.: null
+    we kind of got different ball game: null
+    we know what we're wanting to, to, study: null
+    we need more parents willing to supervise,: null
+    we see , we see all the time, the outcome of not doing that: null
+    we seem to agree.: null
+    we're, we're smarter now.: null
+    we've had such a breakdown in the family structure,: null
+    well I've been around a lot of people lately at wo, at my job that don't have a lot of values .: null
+    well if you're off, off, of a, you know, away from a road,: null
+    well those cats were great.: null
+    what a coincidence.: null
+    what if's always rough.: null
+    what's sad about that is day cares end up instilling values in your kids.: null
+    ? whatever the employer says you have to be back at work is basically when you
+      have to be back at work, whether it be six weeks or three or four.
+    : null
+    when another group of, of, people step in, try to do it, they're, they're tromping on our territory, so to speak,: null
+    when they do, there's a reason for it, that they're sharing it,: null
+    when they, when it's not there they miss it.: null
+    when you adjust your income for what you put out for daycare, you're only making five.: null
+    when you employ the Word of God there's nothing as powerful as the Word of God.: null
+    when you have children it doesn't work that way anymore,: null
+    when you're saying older, we're talking fifty up.: null
+    whenever you're with your kids, you want to interact with them rather than just ignore them.: null
+    where, where parents are spending less time, you don't have the families, too, to take up the gap.: null
+    whether their parents are together or divorced they don't spend enough time together: null
+    which the organization can use the help too.: null
+    why not because that's a, a lot of times, it's,: null
+    with kids you're not going to have a neat house.: null
+    with lots of kids you don't have lots of money for recreation.: null
+    with them being as young.: null
+    would, it would not have been a good idea to had them then.: null
+    y, as you know, with five children it takes a lot of work.: null
+    yet, you feel for the, the kids.: null
+    ? you can just tell in their personalities and how they respond to the adults
+      that, the ones that are, are home and the ones even that are at home that are
+      getting the love and attention that they need.
+    : null
+    you can't afford to.: null
+    you can't take this money with us, though: null
+    you cannot,: null
+    you do have to give things up.: null
+    you don't have quite as much money when, when the wife doesn't work.: null
+    you don't have to worry about them.: null
+    you get to a point where it's completely impossible.: null
+    you go ahead and do your thing: null
+    you got to do what you got to do,: null
+    you got to try to be with them as much as you can: null
+    you have a lot of kids.: null
+    you have to be under control so much when they're out: null
+    you have to make that decision: null
+    you have to make that decision to go back to work parttime or go back to work fulltime: null
+    you have your hands full with them,: null
+    you just felt, gee, if I weren't here,: null
+    you just get more and more frustrated: null
+    you know, they have all that parties for them where they dress up.: null
+    you may think this is funny,: null
+    you might have problems,: null
+    you really have to make, quite a bit of money.: null
+    you seem to be making out all right.: null
+    you will get to different levels.: null
+    you're not getting any further, along: null
+    you're not,: null
+    you're really ready to learn finally.: null
+    you're trying, to support, four kids,: null
+    you're, you're participating,: null
+    you, you just it's, it's, kind of an eyeopener.: null
+    you, you kind of have your own independence on going out and getting it yourself,: null
+    you, you make more fun than,: null
+  Wh-Question: !!set
+    Are you, where are you from?: null
+    Ho, how old are your kids again?: null
+    How did they end up so far away?: null
+    How many children do you have now?: null
+    How many children do you have?: null
+    How many do you have?: null
+    How many kids do you have? .: null
+    How much time did she spend with them?: null
+    How much time do you spend with your children?: null
+    How old are your children?: null
+    How old are your kids?: null
+    How old is your granddaughter?: null
+    How, how old is she?: null
+    Tell me, what are some of the things that you did with your children when they were growing up?: null
+    What are you learning to be?: null
+    What degree, what are you wanting to do after you get out of college?: null
+    What did you teach?: null
+    What do you do during those, those days?: null
+    What grade?: null
+    What is the best advice of mothering that you know? .: null
+    What is the favorite thing you do with your children?: null
+    What kind is it?: null
+    What kind of mix do you have?: null
+    What line of work are you in now since you went to school: null
+    What was the age difference between the youngest and the oldest?: null
+    What's your, been your experience?: null
+    What's, what are some other questions they have,: null
+    What, kinds of activities do you spend with them?: null
+    What, what are you doing?: null
+    Where are you from Tina?: null
+    Where's that.: null
+    Where, where in Dallas?: null
+    how does she feel about going out and doing stuff with you all.: null
+    how many children do you have?: null
+    how many do you have?: null
+    how much time do you spend with your children,: null
+    how, how would you spend time with kids?: null
+    now where do they live?: null
+    seeing as you've got: null
+    what ages? .: null
+    what are the ages of your kids then?: null
+    what are you studying?: null
+    what base of communications would you be most interested in getting in to?: null
+    what did you do when you were younger,: null
+    what do you do with your seventh grader?: null
+    what do you think are some current trends in, the way families spend time together, based on what you've seen.: null
+    what do you, what activities do you do with your children when you are together?: null
+    what do, what do you do?: null
+    what kind of things do you do?: null
+    what would you do,: null
+    what's your husband do?: null
+    what, what, how do you spend the time with your children?: null
+    when you babysit, what age group children do you sit with?: null
+    when you were growing up and they weren't, and the younger ones weren't around, what did you do?: null
+    where do you go?: null
+    why is that?: null
+  Yes-No-Question: !!set
+    A boy and a girl?: null
+    Are going to have to solve some of the problem,: null
+    Are they married or what?: null
+    Are they, are those two married?: null
+    Are you Mormons?: null
+    Are you newly married,: null
+    Are you surviving.: null
+    Are you, are you running ragged these days?: null
+    Are, are you down here in Texas?: null
+    Are, are you from the Maryland area?: null
+    Are, are you married, or ...: null
+    At T I, is that where you work?: null
+    Challenging,: null
+    Did you all do a lot of organized things like, Little League, soccer?: null
+    Did you both work? Your wife too?: null
+    Did you hear the questions that the lady, brought up?: null
+    Did you work: null
+    Did, did, did you go to Disneyland?: null
+    Do they have children?: null
+    Do you do sports: null
+    Do you get to see them?: null
+    Do you go, how about for, do you go for long vacations, like a week or something when they have school off?: null
+    Do you have any children?: null
+    Do you have children?: null
+    Do you have horses?: null
+    Do you have kids?: null
+    Do you keep your kids, active in sports or anything: null
+    Do you know what is on the way yet?: null
+    Do you work during the day?: null
+    Do you work for T I?: null
+    Do you work outside the home?: null
+    Do you work?: null
+    Do, do they play does the eight year old play baseball?: null
+    Do, do you have friends with older children,: null
+    Does your son work for T I?: null
+    Have you all been able to do much as a family these days?: null
+    Have you all been able to do much as, as a full family these days, all of you.: null
+    Have you ever seen that yet?: null
+    Have you taken a lot of vacations together: null
+    Have, have you been out of the country?: null
+    Have, have you ever been to the Science, it's called the Science Place?: null
+    Ho, was it a big change in your life, to,: null
+    I, I was going to ask, too, does your wife work?: null
+    In the summer or like in the Easter time, like around now?: null
+    Is he a hunter and a fisher and all that.: null
+    Is she ol, your oldest grandd, child?: null
+    Is she spayed.: null
+    Is, is that close to Dallas?: null
+    Isn't that neat?: null
+    Now do your other grandchildren live in Dal, the Dallas area?: null
+    She, just, she knows people that does,: null
+    That was a dead giveaway, huh?: null
+    The Soviet space exhibit?: null
+    They, just working up there or going to school or what?: null
+    Those are the youngest ones?: null
+    Was your, was your husband, naturally a child,: null
+    We, d, do any of your friends have, have, uh, older children that they do anything with.: null
+    Whatever was voted on,: null
+    Would, would you have said that a couple of years ago, do you think?: null
+    You don't think of it that way do you .: null
+    You feel like you're a little bit out of it, don't you.: null
+    You feel like you're in the minority?: null
+    You just watch them play,: null
+    You kind of got, a span there,: null
+    You know what I meant with rain, .: null
+    You would like that, huh?: null
+    Your first ones you mean, it,: null
+    are do you think it's more watching T V and stuff like that, not really, ...: null
+    are the two boys first?: null
+    are you planning on, to having any children: null
+    did some people go to their rooms and ,: null
+    did you go do the board games and stuff,: null
+    do people go off in their own little groups with that many?: null
+    do they all live in the area?: null
+    do they have a standing ball or a machine, or what?: null
+    do they have one?: null
+    do we approve what other,: null
+    do you feel like you have any time,: null
+    do you feel that the current trend in families spending time together is a positive one or a negative one?: null
+    do you find it difficult to find time,: null
+    do you go out?: null
+    do you have a lot of activities with your kids?: null
+    do you have a lot of large families out there in Texas,: null
+    do you plan on staying home after you have your children: null
+    do you see yourself having thirteen kids: null
+    do you think s, the, the parents spend quality time with their kids: null
+    ? do you think that you, do you think that your family is pretty rare in that
+      you do a lot of things or just the relationship between you and your daughter?
+    : null
+    do you, do the, do your daughters live close where you can go out?: null
+    does she go actually out into a different classroom with, with, other kids that are involved in this?: null
+    ha, had he been around children,: null
+    in, in his league do they have a pitcher,: null
+    is that where you're from?: null
+    is that, is that pretty common up there, in,: null
+    is the one year old a boy?: null
+    she needed that,: null
+    that explains it doesn't it.: null
+    they were all real close?: null
+    they're pretty good kids, huh?: null
+    was this a one parent or two parent family?: null
+    what do you, do you have any feelings as to the trends that you see?: null
+    when, when your son was at home did you, working?: null
+    you do have a hard time finding time then don't you?: null
+    you do spend less time then?: null
+    you go, if you're, if you're not doing any kind of sport thing you go to one of your sisters' or brothers': null
+    you have some in the nest and some out,: null
+    you still did what you do now.: null

@@ -1,0 +1,2835 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    A jar or something: null
+    I don't know if you'd call that a hobby,: null
+    ? I know one thing that's pretty popular with the girls up here at college, and
+      I make them also, is the padded covered photo albums?
+    : null
+    If you're like me, you never have enough time for the hobbies.: null
+    It's something that goes with it?: null
+    Like an attachment: null
+    Like fabric that's been stiffened.: null
+    Now these are long haired?: null
+    That works all right then.: null
+    Then you are busy .: null
+    Through a, an adult ed, or strictly a china type,: null
+    What. With ink?: null
+    You don't, you're not in,: null
+    You have a computer at home?: null
+    You must have a, a son.: null
+    You must, work for T I?: null
+    You're right across the, lake from, what, Plattsburgh?: null
+    by Fort Sill there?: null
+    for a vacation you'd go backpacking?: null
+    that kind of moderates the weather a little bit?: null
+    the Serger is not a sewing machine, itself.: null
+    this is done in the needlepoint?: null
+    you didn't even get the severance package.: null
+    you live in Garland then.: null
+    you said you did cycling?: null
+    you said you've just lived in North Carolina just: null
+  Dispreferred answers: !!set
+    I, I think I'm, I think I'm a hacker,: null
+    we like it once in a while but not as often as we have to do it .: null
+    you don't have to do as much as, as I thought.: null
+  Statement-non-opinion: !!set
+    A friend of mine gave me a clock kit: null
+    A true crime story.: null
+    About the same time that you plant okra because it's supposed to be warm.: null
+    Actually, December was my first month away from them.: null
+    Actually, seventeen now,: null
+    After a while, cross stitch, I th,: null
+    All he liked was the lights this year,: null
+    All that stuff that's bad for you.: null
+    All the time,: null
+    Almost had it done,: null
+    Almost hated to come,: null
+    Although, sometimes it gets to be excessive.: null
+    Always want to go to Canada: null
+    Another thing I enjoy doing is cooking.: null
+    Anyway, it's a little bit more loose, and not quite as structured,: null
+    Anyway, we're supposed to be talking about crafts.: null
+    Apple's coming to town: null
+    At least, I don't think it is.: null
+    Atlanta and Dallas are almost identical in every way, weather and everything.: null
+    Backpacking.: null
+    Besides that, I just, try to make the club hit the ball.: null
+    By the time I put my kids in bed at night, I don't want to do anything.: null
+    China painting and ceramics.: null
+    Cleveland is located right on Lake Erie: null
+    Cleveland isn't all as bad as what you've heard .: null
+    Colorado Springs specifically,: null
+    Considering I, I work for it a living,: null
+    Copper is kind of my favorite up there.: null
+    Cycling, computers, backpacking, just about everything.: null
+    Did you do, did you use, a stamp pad: null
+    Didn't have the, I guess I didn't have the person out there saying hey let me take you skiing: null
+    Especially the catnip.: null
+    Especially, on, from the inside, how you look under, under something that you've made: null
+    Even though my, mother's people are from Georgia.: null
+    Everyone I've ever known from the Midwest can do everything with their hands.: null
+    Everything does real well here in the spring until about, first part of June: null
+    Flowers, during the summer down here, the, the normal kind of flowers, there's very few of them that will really do well.: null
+    For Christmas, my daughter and I received matching sweat shirts: null
+    For some reason I just couldn't do it.: null
+    For the last many years I've more or less let them direct what I want to do,: null
+    Goes to U T.: null
+    Going to have some nice kittens, I hope.: null
+    Haven't been there,: null
+    Haven't tried that either.: null
+    He gets right into it: null
+    He had a blue, blue bowl a few weeks ago that he, he fixed that way.: null
+    He is, he is pretty, mobile in that area too.: null
+    He kind of laughs .: null
+    He likes to help me design, projects that are,: null
+    He plays on a T I softball team and the church softball team.: null
+    He rarely takes them in: null
+    He's admissions director.: null
+    He's been pretty good, because there's T shirt stuff all over the house.: null
+    He's doing, quite a bit of consulting work and,: null
+    He's seven months old.: null
+    He's, he's not that old,: null
+    He, he remembers lots of snow .: null
+    He, he works on the cars.: null
+    He, he's liking this free time .: null
+    Her name's Tina .: null
+    Hope, hope the stud will find her attractive.: null
+    I , that's the problem.: null
+    I admire people that have that in their minds already.: null
+    I also crochet: null
+    I also like to plant flowers and do do some gardening and do arts and crafts.: null
+    I also made a little thing for a baby gift,: null
+    I also, I play a couple of instruments.: null
+    I always go back to it .: null
+    I always have done needlepoint and cross stitch and all that,: null
+    I always have to either take it out or have my picture slightly off centered: null
+    I always think, I can do this and watch T V or something: null
+    I always thought I would,: null
+    I always try.: null
+    I am a computer scientist.: null
+    I am a travel agent at heart,: null
+    I am finding out, a lot of the spare time that I had isn't there.: null
+    I am hoping,: null
+    I am kind of happy with it,: null
+    I am kind of, I guess what you would call it, a project person.: null
+    I am loving it .: null
+    I am not a real elaborate cook or anything like that unfortunately.: null
+    I am not much into fishing,: null
+    I am saying, no, no .: null
+    I asked my roommate if she would teach me how to crochet granny squares.: null
+    I basically read books.: null
+    I belong to a, a Boy Scout troop.: null
+    I belong to this organization for, if, if you have preschool children: null
+    I bought a doll everywhere we went ,: null
+    I bought a little lamb pattern and the material and everything to make it out of,: null
+    I bought it up there before I moved down here.: null
+    I bought one of those latch hook rug kits.: null
+    I bought the Singer machine: null
+    I bought the paint and redid most of the edges: null
+    I buy the bibs separate.: null
+    I call on people in .: null
+    I can always give them away.: null
+    I can hardly wait to get: null
+    I can plink out a song or two on a piano: null
+    I can remember paying seventyfive cents for a pattern .: null
+    I can remember when I used to do, those little salt, those figurines and things.: null
+    I can't , I can't draw it out of my own head: null
+    I can't do any of that,: null
+    I can't do that painting thing.: null
+    I can't even remember how I did it now .: null
+    I can't find one that I've done.: null
+    I can't play that well,: null
+    I can't really watch television if the pattern is very intricate.: null
+    I can, I can sketch something, like if I see a picture, like, out of a book, I can sketch that: null
+    I certainly can't create.: null
+    I collect dolls,: null
+    I come home: null
+    I consider that a hobby.: null
+    I considered it last year: null
+    I cook dinner .: null
+    I could be at work from anytime, from nine until nine at night or ten or whatever,: null
+    I could do that all day long: null
+    I could do with a little less wind,: null
+    I couldn't go by myself.: null
+    I couldn't imagine taking lumber, raw lumber and trying to make something out of it.: null
+    I couldn't really leave it out if I was working on something.: null
+    I crocheted a blanket for my sister's baby,: null
+    I cut it and sewed it: null
+    I decided that that's something that demands my tim, my, my total attention.: null
+    I did a lot of latch hook: null
+    I did a quilt,: null
+    I did not realize how long it took.: null
+    I did one wedding last year: null
+    I did some needlepoint years ago,: null
+    I did some of that.: null
+    I did that when I went to Europe one summer.: null
+    I did the same thing.: null
+    I did, I didn't give them away,: null
+    I did, I, I ended up just stenciling a, a blind, a, just a roller shade.: null
+    I didn't cross stitch the actual thumb print,: null
+    I didn't do anything to them: null
+    ? I didn't do too much to the engine, because the engine was pretty good, but
+      the, the whole interior and then part of the exterior,
+    : null
+    I didn't even know it.: null
+    I didn't have access to a machine the whole time I was in college.: null
+    I didn't have time to do that stuff either.: null
+    I didn't hear.: null
+    I didn't know anyone ever moved from California to Kan, Iowa?: null
+    I didn't know if it's been my color choice or multiple moves: null
+    I didn't know there were such things.: null
+    I didn't know, even know what the stitch is called.: null
+    I didn't like the way it looked so I'd never wear anything.: null
+    I didn't like them at first.: null
+    I didn't piece it or anything like that: null
+    I didn't realize what it was for a while.: null
+    I didn't see that many of them.: null
+    I didn't want to go to Texas.: null
+    I didn't, I didn't buy the, I didn't buy a kit.: null
+    I didn't, I don't like at first.: null
+    I didn't, wasn't expecting that,: null
+    I do a little bit of woodworking,: null
+    I do a lot of crossstitching and painting, when I do have spare time.: null
+    I do a lot of gardening.: null
+    I do a lot of my own patterns also.: null
+    I do crochet and a lot of, things like that,: null
+    I do do some crafts like it mentioned in the thing,: null
+    I do enjoy, sewing,: null
+    I do fabric painting.: null
+    I do have a call,: null
+    I do like sewing sometimes.: null
+    I do little news reports and things.: null
+    I do lots of cross stitching when I have time: null
+    I do make all my own clothes: null
+    I do mostly hand needlework like cross stitch and crewel embroidery: null
+    I do mostly that,: null
+    I do not get much of a chance to just really sit down and do much sewing.: null
+    I do not get to do that too often.: null
+    I do not have a whole lot of spare time right now.: null
+    I do not work,: null
+    I do some counted crossstitch and some painting on shirts.: null
+    I do some needlepoint.: null
+    I do sports, but I'm, I don't have a lot of time for them.: null
+    I do sweatshirts and Tshirts: null
+    I do the same thing .: null
+    I do water color,: null
+    I do, I do like to go to movies,: null
+    I do, I try to do some arts and crafts: null
+    I do, don't know where they came from.: null
+    I do, quite a bit of wreath making: null
+    I don't always get direct sun except in certain spots.: null
+    I don't do anything to mine, water them or anything .: null
+    I don't do it quite as much as I used to. I guess because I, I went back to school,: null
+    I don't do it that much.: null
+    I don't even know how to knit: null
+    I don't even know how to knit ,: null
+    I don't even want to get into it in the first place.: null
+    I don't get into the: null
+    I don't have a lot of crafty type things I do.: null
+    I don't have a lot of hobbies,: null
+    I don't have a lot of time to read.: null
+    I don't have any real serious,: null
+    I don't have as much time.: null
+    I don't have enough time to do it to really, take orders on it,: null
+    I don't have much time for hobbies, between being a student and trying to run a business on the side,: null
+    I don't have the equipment here.: null
+    I don't have them all yet: null
+    I don't have to worry about getting stuff on the carpet except when I track in saw dust,: null
+    I don't know how to explain it.: null
+    I don't know if I have any or not.: null
+    I don't know if I,: null
+    I don't know if it's looking at the little th, things every time.: null
+    I don't know if it's the saw dust or the mess you make or the smell of the wood: null
+    I don't know if that took or not,: null
+    I don't know if that was a,: null
+    I don't know that I could even think about quilting.: null
+    I don't know that,: null
+    I don't know too much about it either.: null
+    I don't know what kind they are,: null
+    I don't know what, what, is,: null
+    I don't know why that is.: null
+    I don't know why we have so much going for us,: null
+    I don't know.: null
+    I don't like pulling a cart on Firewell golf course because they want you to pull the cart on the path.: null
+    I don't much care about things like that.: null
+    I don't necessarily draw or do any of that kind of art,: null
+    I don't necessarily either.: null
+    I don't play it that much any more,: null
+    I don't really, don't really do any handicraft things like that.: null
+    I don't think he goofs too much,: null
+    I don't think you can blame the weather on that.: null
+    I don't think,: null
+    I don't to, see too much scrap around.: null
+    I don't try and sterilize things .: null
+    I don't usually use the colors they tell me to.: null
+    I don't want to do them sometimes,: null
+    I don't want to play strike out,: null
+    I don't want to wash it, because that would start breaking down the batting and so forth,: null
+    I don't, I hadn't looked at a farmers almanac to find out when a good time for zucchini is.: null
+    I don't, I, I'm so, timid when it comes to starting a business.: null
+    I end up lots of time not doing anything at all.: null
+    I ended up,: null
+    I enjoy all kind of sports.: null
+    I enjoy doing my, toppers for my window applications: null
+    I enjoy doing that.: null
+    I enjoy going places with my kids: null
+    I enjoy it,: null
+    I enjoy it.: null
+    I enjoy knitting.: null
+    I enjoy music too: null
+    I enjoy playing basketball and, and basically all kinds of sports.: null
+    I enjoy playing volleyball but I, I, I don't have a lot of time to do it,: null
+    I enjoy playing with my cats.: null
+    I enjoy reading and playing softball.: null
+    I enjoy singing.: null
+    I enjoy softball,: null
+    I enjoy that.: null
+    I enjoy the china more.: null
+    I enjoy watching and participating.: null
+    I enjoy, cooking things to take over to her house: null
+    I enjoy, just,: null
+    I enjoy, sewing and needlework also.: null
+    I enjoyed it.: null
+    I enter things in our little state fair,: null
+    I even had, I guess it was last year or the year before, I had some out: null
+    I feel like, I've accomplished something.: null
+    I feel real good if I water them: null
+    I find that when I ride in a cart, I play better: null
+    I found my little daughter some tap shoes for her tap class.: null
+    I found one that's real easy,: null
+    I gave it to her: null
+    I gave them a bath tonight,: null
+    I generically have, millions of hobbies.: null
+    I get frustrated doing that: null
+    I get real nervous whereas usually the other needlework stuff is relaxing to me.: null
+    I get too involved in reading sometimes that I neglect what I should be doing.: null
+    I get, I get burned out on it.: null
+    I give a lot to our two daughters that are grown and have their home ,: null
+    I go to estate sales, which takes up a lot of time.: null
+    I go to my room and I walk in, turn the radio on, or, just kind of veg out or something.: null
+    I got a whole bunch of bulbs along with this stuff,: null
+    I got about two, twothirds of it done,: null
+    I got customers in Oklahoma City and Tulsa and Perry, Oklahoma: null
+    I got into the Bargello.: null
+    I got married and, maybe some day.: null
+    I got married there: null
+    I got off on my rows somehow,: null
+    I got one done: null
+    I got them for two dollars .: null
+    I got to counting the other day: null
+    I got to thinking the money that I've got invested in this is,: null
+    I grew up in Arizona which has some mountains around it: null
+    I grew up in California,: null
+    I guess I do: null
+    I guess I do have one thing.: null
+    I guess I get some of both.: null
+    I guess I got too many hobbies: null
+    I guess I kind of consider shopping a hobby .: null
+    I guess I'll have to say my computer has probably taken the place of most of my hobbies.: null
+    I guess I'm probably better at softball.: null
+    I guess I've decorated baskets and stuff before in the past,: null
+    I guess a lot of people do, do do that.: null
+    I guess if I had a house I might enjoy gardening, some.: null
+    I guess in my spare time I'll be making T shirts .: null
+    I guess it's been two years now I've had a, a tank here,: null
+    I guess its recording.: null
+    I guess talking on the phone is one of my hobbies too.: null
+    I guess that for me it was very helpful.: null
+    I guess that's a hobby.: null
+    I guess that's a really true, true hobby,: null
+    I guess that's the only way I could do it.: null
+    I guess the car too.: null
+    I guess the minute marks,: null
+    I guess they, they say you can plant them in the spring or the fall, .: null
+    I guess those are the only places I've skied up there.: null
+    I guess we'll call this one quits: null
+    I guess we're recording now.: null
+    I guess you can make baby blankets that wouldn't take as long .: null
+    I guess, I'm going to school while I'm working at T I,: null
+    I guess, I, I just, I always, I have always tried to sew: null
+    I guess, I, I like to play golf.: null
+    I guess, I, it's more not so much a hobby but things I enjoy doing.: null
+    I guess, this is probably really a good subject for me because I really like to do, hand work.: null
+    I had a friend from Albany, which is about thirtysix miles away,: null
+    I had been doing a lot of crocheting.: null
+    I had fish as a kid: null
+    I had my parents buy everything,: null
+    I had never been there,: null
+    I had so many groundhogs last year that I think they'll let me get by with it,: null
+    I had the baby .: null
+    I had, I had a cousin that was stationed there, Plattsburgh for a while.: null
+    I had, I had some,: null
+    I had, I went and bought just some cloth glue and glued it all back: null
+    I hate to dust.: null
+    I have a V C R,: null
+    I have a call: null
+    I have a five year old daughter: null
+    I have a friend that is, pregnant: null
+    I have a huge collection of dolls which is still in New Mexico with my parents .: null
+    I have a lot of dolls.: null
+    I have a lot of other hobbies.: null
+    I have a shop: null
+    I have a similar problem.: null
+    I have a sister that can, can, crochet real well,: null
+    I have a sisterinlaw that, if it can be done with your hands, she does it.: null
+    I have a three and a half and a two year old.: null
+    I have a whole stack of material and patterns to sew up as it is,: null
+    I have about three books that I am going on.: null
+    I have all these friends that wherever you go, they, they sit down and the next thing they pull out of their,: null
+    I have become a garage sale shopper.: null
+    I have been a little bit negligent about it because I was so tired when I had to go to work after my husband's death.: null
+    I have been doing some crossstitch for something I wanted to put in the nursery.: null
+    I have dolls from all over too.: null
+    I have done a little bit of that,: null
+    I have enough plants in them that it takes up a lot of my porch area,: null
+    I have fun doing it,: null
+    I have got some of those too,: null
+    I have just retired.: null
+    I have kind of enjoyed that.: null
+    I have little projects little computer projects going on that I consider hobbies.: null
+    I have nearly an hour both ways that I can really get a lot of work done: null
+    I have never done any.: null
+    I have never heard and I have actually never run into anyone into the china painting: null
+    I have no idea where they are.: null
+    I have not had the opportunity to go skiing: null
+    I have one here,: null
+    I have one of them.: null
+    ? I have one that I was reading on, raising your children and then another one
+      on a, an autobiography, and another one on, like a crime story .
+    : null
+    I have played different courses in in the Dallas area.: null
+    I have put it aside for a little while,: null
+    I have quite a few of them in my house,: null
+    I have quite a few of those that my uncle made.: null
+    I have really gotten out of it.: null
+    I have recently done some cross stitch.: null
+    I have several pattern books,: null
+    I have sold quite a bit.: null
+    I have some,: null
+    I have stayed home for about the last nine years.: null
+    I have to bring it back.: null
+    I have to do something where I can do it at home.: null
+    I have to hang these things high,: null
+    I have two cats,: null
+    I have two children also .: null
+    I have two children,: null
+    I have two daughters: null
+    I have two kids: null
+    I have two sisters in Texas now, one in Austin, one in Dallas,: null
+    I have two small kids: null
+    I have very little of my own stuff,: null
+    I have, I have, I have children: null
+    I have, have done fairly well at them.: null
+    I have, let's see, I have a dog, and a lot of fish.: null
+    I have, right now I have the movie channel,: null
+    I haven't done anything about it.: null
+    I haven't done everything on it yet,: null
+    I haven't done it in so long that I probably wouldn't remember how .: null
+    I haven't done tons of them .: null
+    I haven't had much opportunity to work on any other craft stuff lately: null
+    I haven't had much spare time lately: null
+    I haven't made it yet.: null
+    I haven't sewed since then: null
+    I haven't talked to her.: null
+    I haven't touched one since college, so I kind of am picking it all out again and trying to remember how to do it again.: null
+    I haven't tried another one.: null
+    I haven't tried any needlepoint yet.: null
+    ? I haven't, I haven't played in a while, but I do, when I get time and it's pretty
+      weather and it's summer I like to play golf.
+    : null
+    I hear them in the background .: null
+    I heard Aspen got three feet.: null
+    I hope you all had as pretty a day today as we did.: null
+    I hope you have a good rest of your weekend.: null
+    I interviewed with them.: null
+    I just don't have the patience to just, do something.: null
+    I just don't like that.: null
+    I just go out just to, just to enjoy it and not: null
+    I just go with those.: null
+    I just got her back from the vet this morning, getting her spayed.: null
+    I just had this, piece of yarn: null
+    I just have a hard time finding any spare time lately.: null
+    I just have a phobia about not being able to actually sew.: null
+    I just have the rest of my house with lot of hand painting in it.: null
+    I just have to get a place where, I can sell them: null
+    I just have, what they call community fish: null
+    I just kind of sew for my kids: null
+    I just like playing with my computer and doing stuff on that.: null
+    I just love all the different colors.: null
+    I just make clothes for my dolls.: null
+    I just now got some cards together, kind of, business cards that say,: null
+    I just started a new job and trying to get acclimated there.: null
+    I just started about, five years ago, I think.: null
+    I just started last week,: null
+    I just started ordering some parts: null
+    I just use whatever colors I want to.: null
+    I just went around the design: null
+    I just, I bought the cloth and the pattern for it.: null
+    I just, I just keep an inventory of what I currently have,: null
+    I just, have, one brother and he's married,: null
+    I just, like I say, haven't done it for a while.: null
+    I just, put a, little fence around my yard, which is I suppose, technically illegal,: null
+    I just, sometimes,: null
+    I keep hearing these marvelous things: null
+    ? I keep thinking when the kids get bigger and I have a little more time, I might
+      take up, there is, I would love to crossstitch.
+    : null
+    I kept doing that,: null
+    I kept thinking that it was going to get cold one more time,: null
+    I kind of enjoy doing that a little bit, too.: null
+    I kind of like gardening: null
+    I kind of like to do a little bit of sewing.: null
+    I kind of made the pattern up.: null
+    I kind of, kind of gave that hobby up real quick.: null
+    I knew it would be different from the very beginning,: null
+    I knit sometimes,: null
+    I know I've seen,: null
+    I know a lot of people where I work make their clothes.: null
+    I know a number of people who are, surplused: null
+    I know a woman who's just wonderful at that.: null
+    I know it did it all February.: null
+    I know it seems like, she,: null
+    I know someone who does a lot of woodworking for a hobby.: null
+    I know that I learned how to knit one time and, made a few things: null
+    I know that my husband's grandmother does a lot of that.: null
+    I know they're real popular here at school, also.: null
+    I know what you mean .: null
+    I leave that more up to my Mom .: null
+    I li, I live up at the college,: null
+    I like animals,: null
+    I like bluegrass, too.: null
+    I like both,: null
+    I like crossstitch too.: null
+    I like dogs: null
+    I like doing things with my hands.: null
+    I like gardening a lot,: null
+    I like gardening,: null
+    I like photography a lot,: null
+    I like that .: null
+    I like that a little bit better: null
+    I like that.: null
+    I like the course, but I don't play over there because, you, they don't, don't allow you to pull a cart.: null
+    I like the planting, and watering is okay.: null
+    I like the quiet of doing things away,: null
+    I like the sports,: null
+    I like the way that, I like the way that idea of the south is,: null
+    I like things that, two people can do,: null
+    I like those.: null
+    I like to bake off and on.: null
+    I like to bang on the keyboards once in a while.: null
+    I like to be outside,: null
+    I like to cook and eat and,: null
+    I like to cook for other people.: null
+    I like to crochet and knit.: null
+    I like to do physical things like sports.: null
+    ? I like to do that stuff, but when I'm in, when I'm at school, I don't have time
+      to do it or even time to learn how to do it.
+    : null
+    I like to do that.: null
+    I like to have,: null
+    I like to just mostly do the tie quilts.: null
+    I like to knit.: null
+    I like to put flowers out and,: null
+    I like to read also,: null
+    I like to read, too .: null
+    I like to rent movies,: null
+    I like to sew sometimes for my kids.: null
+    I like to sing.: null
+    I like to sketch.: null
+    I like to think that I'm a very good cook.: null
+    I like to, I like to do, stuff with plants.: null
+    I like volleyball.: null
+    I like, I have a lot of plants in my apartment,: null
+    I like, just to get away,: null
+    I like, messing around in your house building things, and,: null
+    I like, most sports.: null
+    I liked the hills: null
+    I live in a pretty small apartment,: null
+    I live in a townhouse: null
+    I live in northwest Garland.: null
+    I live, very near, very close to the Firewheel Golf Course.: null
+    I look at it: null
+    I look at them: null
+    I love flowers .: null
+    I love it .: null
+    I love tennis too: null
+    I love to cook, too,: null
+    I love to cook.: null
+    I love to do all kinds of crafts and stuff like that.: null
+    I love to go,: null
+    I love to sew,: null
+    I love traveling and, and being involved of that and finding out more,: null
+    I ma, I make a lot of my Christmas presents,: null
+    I made some afghans and that kind of stuff.: null
+    I made some of them with regular wigs.: null
+    I made some of them with that hair: null
+    I made some, candle sconces that you hang on the ...: null
+    I made the ears and little eyes and nose and mouth.: null
+    I made them out of all lace and, and satin, and made them as wedding gifts and stuff like that,: null
+    I made, stockings for both my children and a Christmas tree shirt and that,: null
+    I mainly play the guitar a lot,: null
+    I make a lot of afghans or used to make a lot of them.: null
+    I make quilts.: null
+    I make the clothes for them.: null
+    I married a Texan,: null
+    I miss it .: null
+    I missed out this last year.: null
+    I need to get better at it though .: null
+    I need to go,: null
+    I never collected those, never collected those.: null
+    I never count right,: null
+    I never did.: null
+    I never found the one that was worth it for me to leave.: null
+    I never had time for, to sew myself a new dress or anything like that: null
+    I never have time to deal with them.: null
+    I never have tried that, just because I don't have that much space on this little porch here in this apartment: null
+    I never have,: null
+    I never learned,: null
+    I never thought I would get rusty,: null
+    I never, returned to work for the p,: null
+    I only can do things that are pretty fast, because we just, got our baby last year,: null
+    I only just put them out this week: null
+    I only took lessons for golf when I was in college.: null
+    I paid about eight hundred dollars for mine,: null
+    I paint around it: null
+    I painted an awful lot until his death, which was several years.: null
+    I planted four hills of them.: null
+    I planted them: null
+    I planted, zucchini last year.: null
+    I play a lot of racquetball.: null
+    I play about every night.: null
+    I play in a couple of leagues and, and occasionally in a tournament or something on a weekend.: null
+    I play tennis.: null
+    I play the guitar and a banjo.: null
+    I play the organ sometimes, just for my own satisfaction . Not for anybody else's ears: null
+    I pressed one: null
+    I probably should go buy some.: null
+    I probably won't make anything beyond this blanket .: null
+    I put it in the bedrooms and the bathroom,: null
+    I put it on the frame, the quilting frame.: null
+    I put mine in probably in November.: null
+    I really do en,: null
+    I really do.: null
+    I really don't.: null
+    I really enjoy bike riding: null
+    I really enjoy doing that.: null
+    I really enjoy it when I do do it, when I get the chance,: null
+    I really enjoy it.: null
+    I really enjoy softball: null
+    I really enjoy,: null
+    I really enjoyed it.: null
+    I really enjoyed skiing. and a lot of outdoor activities.: null
+    I really enjoyed that,: null
+    I really enjoyed, mountain climbing.: null
+    I really haven't done anything really, professional per se.: null
+    I really like doing stuff like that.: null
+    I really like to do that,: null
+    I really like water sports like swimming and skiing,: null
+    I really like, I like the Midwest.: null
+    I really love that,: null
+    I really wanted to do,: null
+    I remember it took me a long time,: null
+    I remember it.: null
+    I remember that.: null
+    I remember when I was in college,: null
+    I remember you could make something for, half what it cost to buy: null
+    I remembered something I learned I think when I was five years old: null
+    I rent my kids .: null
+    I repaired a, a gasoline tank with it once.: null
+    I said I really enjoy it when I do.: null
+    I said I'll do it for three months: null
+    I said didn't .: null
+    I said, but there's so many things I want to do,: null
+    I sang all through college and things like that: null
+    I sang at one last summer.: null
+    I saw how beautiful it looked,: null
+    I saw the commercial on T V,: null
+    I says, you go pay to have someone do it.: null
+    I seem rather happy about it most of the time,: null
+    I seen a, a magazine for,: null
+    I seen her house: null
+    I should have taken the, the, the, option when that was there,: null
+    I show, I showed mine to my boyfriend: null
+    ? I sing in a church choir on Wednesday nights when I'm around, and play in the
+      band on Monday nights, and keeps you out of trouble that way.
+    : null
+    I sit and design cards: null
+    I ski, ski,: null
+    I sold seven.: null
+    I spent one winter in North Dakota,: null
+    I started a project, that I swore I was going to finish for somebody for Christmas.: null
+    I started an afghan,: null
+    I started collecting music boxes.: null
+    I started crocheting a king size bedspread for a guy that I was dating at the time.: null
+    I started doing it as a, just something fun to do,: null
+    I started reading the: null
+    I started to s, to knit a sweater.: null
+    I started to say the canvas,: null
+    I stiffen those with a, a glue mixture.: null
+    I still haven't finished it, because I, I stopped,: null
+    I stopped because it was so,: null
+    I substitute at the schools parttime.: null
+    I suspect they're fairly simple, because the one lady I've seen, I know that does it, I've never asked her any questions,: null
+    I suspect you,: null
+    I swear, swear that game off for another year,: null
+    I tell you, I could just kick myself for even starting it, because I have a feeling I'm never going to get it done.: null
+    I think I had four, jalapeno plants last year.: null
+    I think I had three or four seeds in each one of them,: null
+    I think I have, what was it two hundred,: null
+    I think I will enjoy cooking more when I am not working, when I: null
+    I think I will like it better.: null
+    I think I'm in handicraft.: null
+    I think he's stopped pretty much now.: null
+    I think it was November: null
+    I think it will become resume writing.: null
+    I think it will.: null
+    I think it's going to be warm enough this afternoon, we were noticing a while ago it's already eighty in, in the house.: null
+    I think kind of discouraged me from doing much more with it.: null
+    I think one of them died,: null
+    I think she made three this year one for, my fatherinlaw and then a couple of brothers and sisters.: null
+    I think she's a temporary worker .: null
+    I think that is important too.: null
+    I think that would be fascinating.: null
+    I think the other one is going. The child is going to be in high school before I get finished.: null
+    I think the, the temperature has been pretty good so far for working outside.: null
+    I think we're probably past that now.: null
+    I think, God, I, I should be able to do things like this .: null
+    I think, however, that's like February.: null
+    I think, my husband is real into sports too.: null
+    I though, this won't take long at all.: null
+    I thought Austin was beautiful: null
+    I thought I better do some simple things and work up to this: null
+    I thought that the man told me five minutes.: null
+    I thought, I can do this while I watch T V.: null
+    I thought, I could use this as a gift or something,: null
+    I told my husband, I said, you go out some to work on the car,: null
+    I took a leave of, of T I back in November.: null
+    I took one lesson one other time.: null
+    I tore it back apart again,: null
+    I tore it out and threw it down.: null
+    I tri, I tried that,: null
+    I tried knitting first,: null
+    I try to do some painting, although I'm not very good at it .: null
+    I try to save that for the weekend.: null
+    I understood that.: null
+    I use to do a lot more and sell at craft shows.: null
+    I use, the graphics: null
+    I used to be a lot better than I am now.: null
+    I used to be more into crafts, when I was younger, like high school stuff.: null
+    I used to do a lot of knitting and crocheting,: null
+    I used to do more before, before I had, before we got our baby,: null
+    I used to do that a lot: null
+    I used to play trombone .: null
+    I used to, do: null
+    I used to. I used to do, salt ornaments and things.: null
+    I usually get them for Christmas gifts or, and when people go, to, on trips or something.: null
+    I usually go do aerobics and read,: null
+    I usually just buy a pattern book.: null
+    I usually sew, sew around the flower, whatever first,: null
+    I usually start in the fall.: null
+    I want to learn to crochet.: null
+    I wanted to start something: null
+    I was always amazed.: null
+    I was disappointed when I went to Texas.: null
+    I was getting ready to fall asleep.: null
+    I was going to say, that could be difficult .: null
+    I was in a tour,: null
+    I was in four H: null
+    I was in the computer operations: null
+    I was in, I was in high school,: null
+    I was just astounded.: null
+    I was just going to say, it's a little over six or seven minutes.: null
+    I was like, I don't want to mess those up.: null
+    I was over there at Easter,: null
+    I was over there,: null
+    I was reading when you called.: null
+    I was so proud of them when I got them finished,: null
+    I was so, I was so thrilled because they came up, nice green shoots coming up all over the place.: null
+    I was thinking maybe need to learn to quilt.: null
+    I was tonight,: null
+    I was trying to think of some while, while it was, talking about it,: null
+    I was, I was making some little things for Christmas,: null
+    I wasn't able to get the time off, but maybe next year.: null
+    I went on, went ahead and sold it.: null
+    I went to school in Utah,: null
+    I went to the flea markets and bought, the wigs for a dollar.: null
+    I will find that thing.: null
+    I will just stay up and finish a book that I am,: null
+    I will think, maybe I ought to get the rest of that out, and finish it.: null
+    I will work on one for a little bit, and then the next one.: null
+    I wish I could.: null
+    I wish I had a green thumb, though.: null
+    I wish I had more time to do it.: null
+    I wish that I had started sewing, when they were younger.: null
+    I work for channel six in Waco.: null
+    I would have to say that camping and hiking and canoeing and Boy Scouts is my hobby.: null
+    I would have to, put stuff away.: null
+    I would help her with whatever she happened to be doing,: null
+    I would just take everything out and just wash it with scalding hot water: null
+    I would love one of these.: null
+    I would love to, I would like to get back to it.: null
+    I would really like to do those: null
+    I wouldn't trade it for the world.: null
+    I'd like to find out a little bit about your hobbies.: null
+    I'd like to go back, because we had,: null
+    I'd like to learn how to do this cross stitch these, knit these things: null
+    I'd like to start sewing again,: null
+    I'd love it.: null
+    I'd love to have, have some animals.: null
+    I'd love to teach them to play, too.: null
+    I'd rather be outside.: null
+    I'd say probably for maybe fifteen years, we dabbled in that,: null
+    ? I'd say reading is probably one of my biggest ones, because it's the type of
+      thing that you can, you can do a little bit at a time, whereas, I would love
+      to do crafts and stuff if I just had the time to do it
+    : null
+    I'd walk into a room where some of that,: null
+    I'd wonder what is that,: null
+    I'd, I think when I was real little I probably had a finger in on that every time he did it: null
+    I'll call ho, when I know my mom and dad aren't home, I'll call home just to talk to my little brothers and sisters.: null
+    I'll just hand it off to you: null
+    I'll probably always have a place here in Richardson or Dallas .: null
+    I'll take a chance,: null
+    I'll take a lot of pictures of her,: null
+    I'll, I'll make a little sort of greenhouse, a miniature greenhouse to put all this stuff in.: null
+    I'll, buy some plastic and make a little house: null
+    I'm a defense worker.: null
+    I'm a hobby person.: null
+    I'm a housewife.: null
+    I'm about, fifteen miles, probably, from downtown Cleveland, something like that.: null
+    I'm also, I'm expecting,: null
+    I'm always very envious of people who do.: null
+    I'm an avid gardener,: null
+    I'm around my kids: null
+    I'm at school,: null
+    I'm at the age where bifocals or trifocals would be necessary.: null
+    I'm building a, a log house at a farm that I have in East Texas, which is: null
+    I'm encouraged .: null
+    I'm enjoying it.: null
+    I'm familiar with that,: null
+    I'm getting rather good at reading want ads.: null
+    I'm going deer, right here in the city .: null
+    I'm going to have to do it.: null
+    I'm going to have to go check it out.: null
+    I'm going to wait on those.: null
+    I'm just a weekend cyclist.: null
+    I'm just happy still to have a job.: null
+    I'm just intrigued with it.: null
+    I'm just me .: null
+    I'm just not experienced enough with: null
+    I'm kind of into camping and, vacationing, that sort of thing.: null
+    I'm like, that's a lost art from this family .: null
+    I'm looking as, as a opportunity.: null
+    I'm looking at it as a change.: null
+    I'm looking at it as, as an adventure.: null
+    I'm making T shirts and sweat shirts.: null
+    I'm making drapes for my house, just because I'm,: null
+    I'm mother of four,: null
+    I'm n, I've not ever been a real craft type person.: null
+    I'm not great,: null
+    I'm not much of a basketball fan either.: null
+    I'm not quite that bad.: null
+    I'm not real crazy about pulling weeds and things like that.: null
+    I'm not really knowledgeable.: null
+    I'm not sure what she does: null
+    I'm not sure when a good time to plant those is, if they should be planted early or later.: null
+    I'm not that good at it,: null
+    I'm not that great either.: null
+    I'm not that talented.: null
+    I'm not too much,: null
+    I'm not very good at,: null
+    I'm not, not kind, not the, the, dial around randomly trying to break into computers type: null
+    I'm probably going to hear about it the rest of my life .: null
+    I'm probably one of the few people that the,: null
+    I'm really not too creative: null
+    I'm rusty now.: null
+    I'm still trying to get all the D M C colors .: null
+    I'm sure the number's s, somewhere classified: null
+    I'm teasing, only because I'm from Indiana.: null
+    I'm the, I'm the opposing teams best player, so, so to speak,: null
+    I'm too tired.: null
+    I'm totally intimidated if I sit down at a sewing machine.: null
+    I'm trying to be sensible, sensible, too, at the same time.: null
+    I'm trying to think of anything else I do as a hobby. I don't even watch T V very much.: null
+    I'm, I have just found me an instructor to get started again,: null
+    I'm, I just love to sew: null
+    I'm, I work full time: null
+    I'm, I'm beginning to get a little bored with cross stitch.: null
+    I'm, I'm kind of a compulsive obsessive person: null
+    I'm, I'm working for T I, Texas Instruments, down here.: null
+    I'm, government tool control specialist.: null
+    I'm, have material that I cut out,: null
+    I'm, just wrote my resume up because told we might be facing layoff over at Digital: null
+    I've already forgotten,: null
+    I've always done a lot of craft stuff.: null
+    I've always thought that would be a real fun thing to do.: null
+    I've always, after hearing that, I always sewed it on, even, even with the, a loose zigzag even helps .: null
+    I've been doing it for probably ten years or so.: null
+    I've been doing that: null
+    ? I've been involved in making, hat stands and, rag dolls and, different type
+      hats with, flowers and roses, and, that kind of thing, straw hats and,
+    : null
+    I've been librarian all this week, which has been real interesting,: null
+    I've been making a lot of quilts, not a lot, but several quilts lately.: null
+    I've been making dolls, cloth dolls.: null
+    I've been passing them out to different wedding shops,: null
+    I've been to Telluride which is on the west side: null
+    I've been trying to do some bibs for him.: null
+    I've been trying to get some wedding gigs and things like that.: null
+    I've been with them sixteen.: null
+    I've done a quilt for our baby: null
+    I've done a quilt for our bed,: null
+    I've done it before and when I was in hi, in high school and college,: null
+    I've done it in the all, all my rooms.: null
+    I've done mostly cross stitching.: null
+    I've done other hobbies.: null
+    I've done some cross, cross stitch,: null
+    I've done some of the crewel and the,: null
+    I've done that: null
+    I've done that once: null
+    I've done those too, before,: null
+    I've done, little commercials and background singing: null
+    I've either seen the signs or,: null
+    I've got a brown thumb.: null
+    I've got a few planters out there that I, I'll,: null
+    I've got a few plants here,: null
+    I've got a little girl who's six and a little girl that's three.: null
+    I've got a new born: null
+    I've got a pretty small porch,: null
+    I've got a, a Bombay, a Turkish Van and a Himalayan Persian.: null
+    I've got a, a six year old and a,: null
+    I've got kids all over the United States: null
+    I've got the kits to put them all in.: null
+    I've got to have time: null
+    I've got to have total, almost total silence.: null
+    I've got two kids to put clothes on,: null
+    I've gotten all of them for gifts.: null
+    I've gotten into,: null
+    I've gotten to where I start, have started selling them at craft shows and things.: null
+    I've had them calling up and saying, will you make me another one: null
+    I've had to, to get my money back from them and had better luck with, with some of the, the more expensive companies.: null
+    I've heard so many people talk about that area.: null
+    I've just been singing every chance I get.: null
+    I've just never been very skilled at,: null
+    I've kind of gotten out of that.: null
+    I've learned how to crochet,: null
+    I've made a few, few garments.: null
+    I've made a lot of baby gifts .: null
+    I've made a lot of bibs, and wall hangings,: null
+    I've made a, few things, crossstitch things.: null
+    I've made stuffed cows, dress, dolls,: null
+    I've made, I made a little, little, little thumb print and made it a bunny.: null
+    I've never been there: null
+    I've never done that,: null
+    I've never had any luck with their's.: null
+    I've never heard of it before,: null
+    I've never heard of that before.: null
+    I've never picked up a needle since then,: null
+    I've never really tried anything like that since then.: null
+    I've never, I've never had, formal training.: null
+    I've not really done any, too much challenging, stuff.: null
+    I've only been to Texas once.: null
+    I've only done this one other time: null
+    I've probably seen it, though,: null
+    I've recorded quite a few movies off of that.: null
+    I've seen her do it.: null
+    I've seen some,: null
+    I've seen the afghans in the stores that are designed for crossstitching.: null
+    I've skied in Colorado: null
+    I've taken some classes: null
+    I've taken some classes here in, in, Dallas.: null
+    I've, I doubt I'll be here in six months.: null
+    I've, I have had some because I was working for P I E,: null
+    I've, I have worked on it quite a bit, but not as much as I'd like to.: null
+    I've, I've gone and, put the needle through my thumb a few times ,: null
+    I've, I've lived in, in Texas and New Mexico most of my life,: null
+    I've, I've, made some small things, cross stitch things.: null
+    I, I almost want to start a business doing it,: null
+    I, I bought a bunny pattern one time,: null
+    I, I bought some, plants from Michigan Bulb Company: null
+    I, I can do it with a, a needle and thread: null
+    I, I can remember once in high school, I wanted some extra money,: null
+    I, I can, I had a hard time stenciling.: null
+    I, I collect antique tools, for one thing, I I'm sort of in an antique business,: null
+    I, I cover Texas and Oklahoma.: null
+    I, I crocheted when I was younger.: null
+    I, I did make some clothes for one of those: null
+    I, I didn't have a lot of,: null
+    I, I didn't like it.: null
+    I, I do crossstitch: null
+    I, I do have two daughters that, out, they're, they're grown now though.: null
+    I, I do some sewing, mostly out of necessity.: null
+    I, I do some things.: null
+    I, I don't have, I don't get on the phone too much.: null
+    I, I don't have, much time to, to go places and play sports,: null
+    I, I don't practice a lot anymore,: null
+    I, I don't pretend to be that good,: null
+    I, I don't, I say I don't have the time,: null
+    I, I doubt if zucchini is in there.: null
+    I, I figure it takes practice: null
+    ? I, I find if I, I make I have to make myself realize that it is important to
+      get out there and just even to go for a walk is good recreation for me .
+    : null
+    I, I find that's my one release ,: null
+    I, I guess mostly as far as, as crafts go, I've done, some needlepoint.: null
+    I, I hate laying out material and trying to get the most out of the material and,: null
+    I, I hate to think about it: null
+    I, I have a co, several of those that I've made as wedding gifts,: null
+    I, I have absolutely no musical ability whatsoever,: null
+    I, I have played for, the church choir,: null
+    I, I have seen things I really like,: null
+    I, I have varied interests and stuff: null
+    I, I have, I inherited the genes that make me think I'm creative,: null
+    I, I haven't had, had good luck with that company,: null
+    I, I just don't know when I'm ever,: null
+    I, I just think that, that's one of, one of the arts that I think are really pretty.: null
+    I, I kind of have hobby fads, I guess.: null
+    I, I kind of like that,: null
+    I, I like especially,: null
+    I, I like sewing, sewing up the garment itself.: null
+    I, I like to decorate things: null
+    I, I like to do,: null
+    I, I like, I love to do, all kinds of crafts and sewing,: null
+    I, I lived in Abilene for a little while,: null
+    I, I needlepointed the face,: null
+    I, I play that about six times a year: null
+    I, I play the piano.: null
+    I, I read a lot.: null
+    I, I really enjoy sewing,: null
+    I, I really miss them a lot: null
+    I, I remember in college, I did a lot of reading, most of it text books,: null
+    I, I remember that it was on into May before it really started warming up,: null
+    I, I sew clothes for them every once in a while.: null
+    I, I sewed, in high school: null
+    I, I started knitting awhile ago,: null
+    I, I still remember how to do it.: null
+    I, I take spells,: null
+    I, I talk to my husband,: null
+    I, I used to do the latch hook rugs and needlepoint and things like that,: null
+    I, I'm a technician.: null
+    I, I'm really into graphics,: null
+    I, I'm teaching in the daytime: null
+    I, I've always enjoyed it.: null
+    I, I've been doing a a picture for my fatherinlaw,: null
+    ? I, I've got, s, I've put them, I chop them up and put them in jars and usually
+      give them away because I, there is no way that I can eat all of those
+    : null
+    I, I've just, started learning how to sew: null
+    I, I've made a few of the, just the little valence curtains in my house, and: null
+    I, I've only talked to one or two: null
+    I, I've worked all day: null
+    I, I, I can crochet and knit.: null
+    I, I, I've got a couple of articles published.: null
+    I, and, even hobbies and crafts and sewing things like that, I, I think gee, I could do this or that,: null
+    I, around with my hands and things like that: null
+    I, don't seem to have as much spare time as I used to,: null
+    I, in fact, I just bought a serger in December.: null
+    I, kept that because she gave me that.: null
+    I, like sports type things too.: null
+    ? I, like to do a lot of bicycling when the weather allows, and during summer
+      when there's daylight savings time's when I get out and bike.
+    : null
+    I, most of them I have bought, already clothed,: null
+    I, my little brother lives in Austin right now.: null
+    I, my neighbor did it first: null
+    I, play trombone in the Plano Community Band.: null
+    I, used to play it a lot when I was in school,: null
+    I, was just in a supermarket: null
+    I, what I said that I wasn't being real facetious about that.: null
+    If I see something, I can copy it,: null
+    If it tasted good, yeah.: null
+    If we get a place where we can have both, it'll be great,: null
+    If you ever start, be sure and start with a large piece that you can, a large flat plate.: null
+    If, if somebody would lay it out for me, then I didn't mind cutting it out and sewing it.: null
+    In Abilene, Texas.: null
+    In fact that's what I was doing when you called.: null
+    In fact, I did one, BILL THE CAT, from: null
+    In fact, he's out there right now: null
+    In fact, she's talked to a couple of people from North Carolina, I think.: null
+    In fact, there is actually several of them here right now.: null
+    It beats paying United Way.: null
+    It came out really dark.: null
+    It depends on how frequently they die, and: null
+    It didn't take anything at all.: null
+    It drives me crazy .: null
+    It has been so long since I did it that: null
+    It has completely died out two times.: null
+    It is funny though, it is like I do not really want to cook for us .: null
+    It is funny, when I was in high school, I made a blanket.: null
+    It is just a work bench and a gazillion tools.: null
+    It is just hard to find the time to sit there and do it.: null
+    It is, it is something I enjoy doing.: null
+    It keeps me very busy.: null
+    It never has worked out completely.: null
+    It really does.: null
+    It seem like that's,: null
+    It seems like all I got was,: null
+    It seems like she hasn't talked to anybody from Dallas.: null
+    It took me, quite a bit of time.: null
+    It took, it took a while to do.: null
+    It used to be tea spoons, was the thing.: null
+    It was a real pretty rug.: null
+    It was great,: null
+    It was just a little different though.: null
+    It was really easy.: null
+    It was really,: null
+    It was tough,: null
+    It wasn't, there was no incentive for myself to leave,: null
+    It will also do a rolled edge,: null
+    It worked out real well, too.: null
+    It worked out that way.: null
+    It'll cost about three hundred dollars for a stud for her.: null
+    It's B, A, R, G, E, double L, O: null
+    It's a good possibility.: null
+    It's a great hobby,: null
+    It's a little plastic things that sort of floats: null
+    It's a lot easier.: null
+    It's a, it's a mutant.: null
+    It's an epoxy resin that you mix together.: null
+    It's an, cloth I think.: null
+    It's called J B Weld: null
+    It's curly, as a matter of fact.: null
+    It's funny, when you were talking about sewing, I love to do anything by hand with a needle.: null
+    It's got a kind of a peculiar smell to it: null
+    It's humid.: null
+    It's just been so long since I've actually sat down and taken the time to do something like that.: null
+    It's just hard.: null
+    It's just me in the house,: null
+    It's just the stud fees are so much, though.: null
+    It's just wonderful after all,: null
+    It's just, medium size short hair cat.: null
+    It's kind of a hobnail: null
+    It's kind of a, kind of a ivory color all over and: null
+    It's kind of, kind of neat.: null
+    It's like getting together with,: null
+    It's like white glue,: null
+    It's maybe once a year or something: null
+    It's more like maybe projects or something on the weekend.: null
+    It's not as exciting as it ,: null
+    It's not like there are four or five of you there.: null
+    It's not too difficult.: null
+    It's not, any porcelain at all.: null
+    It's not, it's probably not the best: null
+    It's one of those things: null
+    It's real pretty.: null
+    It's so I find myself putting glasses on to, to watch T V and then taking them off to do needlework: null
+    It's that cloth.: null
+    It's very tedious if you don't have a whole group, you're not finishing a quilt in a long time .: null
+    It's, I've never heard of it,: null
+    It's, directly across the straight, state from Tulsa.: null
+    It's, it has four, four threads instead of, the, the regular basic two threads.: null
+    It's, it's right outside of Macon,: null
+    It's, it's, taken up by activities with, work, with family, with, civic and Church responsibilities for me.: null
+    It's, to high school kids, it's, alternative learning: null
+    It, it comes from England and, fr, in the county of Devon.: null
+    It, it just kind of depends on what you're, what you're planting,: null
+    It, it was quite bit of work,: null
+    It, it's funny because the one I have, every single month without fail she has babies.: null
+    It, it's humid.: null
+    It, unfortunately I guess for myself it wasn't, it was purely by my own choice.: null
+    Italian food .: null
+    June, July, August are,: null
+    Just give it up.: null
+    Just when I get some spare time here and there I'll work on it,: null
+    Just, just sewing and stuff and decided to buy a pattern and try to make a doll.: null
+    Keeping fish, I guess: null
+    Kind of made it sticky for a while.: null
+    Like I said, I like doing a lot of outdoor stuff,: null
+    Like my, oldest boy is involved in soccer: null
+    Lots and lots of catnip,: null
+    M C I s coming if, if, telemarketing is your bag.: null
+    Mainly do reading.: null
+    Maybe it's one of those retirement things .: null
+    Maybe that's why they're so slow.: null
+    Mile a Minute.: null
+    Mine's pretty limited to my little, porch plants .: null
+    Mine, sort of, he looks at the pattern: null
+    Mom would say you planted them in the wrong sign of the moon.: null
+    More like embroidery or something.: null
+    Most of the okra that is growing around higher is, is, later okra.: null
+    Mostly just stuff that I can, use right around the house: null
+    Mostly, I think in a place where it's really cold they do it in the fall,: null
+    My brotherinlaw works for the University, in Dallas.: null
+    My business is, machine tool sales,: null
+    My husband is even interested in it now.: null
+    My husband is into cycling.: null
+    My husband kept begging me,: null
+    My mother was real heavy into crafts,: null
+    My parents go camping a lot,: null
+    My parents would have a fit probably.: null
+    My problem, I guess is time,: null
+    My schedule is like from nine to five thirty,: null
+    My sister does, flower gardens.: null
+    My sister tries to set up a greenhouse on her back deck: null
+    My sisters both seem to like it pretty well.: null
+    My two oldest brothers were very interested in skiing.: null
+    My wife and I spent a couple years, doing church work up in the state of Washington right,: null
+    My wife had, just put in a bunch of, I want to say, they are pansies.: null
+    My wife hates it,: null
+    My, my children all ski: null
+    My, my father is in the, in the antique business.: null
+    My, my husband loves to fish.: null
+    My, my kids are all grown.: null
+    Needlepoint,: null
+    Nobody would want me on their team.: null
+    Not all of them being mine.: null
+    Not at the same time.: null
+    Not everybody shows up,: null
+    Not really an indoor hobby type person unless the weather's really bad.: null
+    Not that I don't like reporting,: null
+    Nothing as big as a blanket.: null
+    Now my latest one is classic cars.: null
+    Now our temperatures down here, we're starting to get pretty consistently in the seventies and eighties: null
+    Now the part about sewing that I never liked was laying out the material and the pattern and cutting it out.: null
+    Number one turned out just great,: null
+    Of all sports, I think that would be my favorite, because I hate basketball: null
+    Of course, I just have one beautiful p, with peonies, umbrella stand,: null
+    Okay, I guess, we are just supposed to talk about things we do in our spare time.: null
+    On the weekends I drive around, look to see, who is selling what.: null
+    One of the things that I have made time for is, playing softball.: null
+    One of these days I keep thinking I'm going to finish it because it would make a really pretty bedspread .: null
+    Only going to breed them once.: null
+    Only if there's baby fish.: null
+    Or whatever I have.: null
+    People say let me see some of your work.: null
+    People would always bring them when they go to the countries,: null
+    Personally I'd rather die a slow painful death: null
+    Plattsburgh's kind of a,: null
+    Pretty good.: null
+    Probably o, about twenty.: null
+    Probably the other thing I do which I am sure will sound horrible to you, but is I program for fun. on the computer.: null
+    Reading that one last night.: null
+    Real simple ones, I do.: null
+    Right now I was just sitting here watching T V,: null
+    Right up there near the golf course.: null
+    Seattle is only about two and a half hours,: null
+    ? She enjoys doing it during the cold weather because she's always got something
+      to cover her, her legs and feet with while she is working on it.
+    : null
+    She gets right into it.: null
+    She had crocheted a full bedspread.: null
+    She hung it on the wall.: null
+    She just taught china painting.: null
+    She makes things for the kids for Christmas and nephews and nieces: null
+    She put them in like two months ago cause they are winter plants.: null
+    She said, I know she doesn't get to touch it.: null
+    She spends lots of money on them.: null
+    She still likes her piano: null
+    She's got just a small patch of lawn and just flowers and ba, tree bark all over her lawn .: null
+    She's, she's just a little sweetheart.: null
+    Since I've got cats, I decided to get some catnip.: null
+    Since I've moved away they've had it redone.: null
+    Sing pop music.: null
+    So many of my crafts,: null
+    Something like that.: null
+    Something, something, to keep me occupied,: null
+    Sometimes, when everybody's gone to bed, my kids are in bed and my husband in bed,: null
+    Supposedly after the soil warms up.: null
+    That I started when I was a little girl,: null
+    That is pretty much like my husband.: null
+    That is the reason, I don't play over there.: null
+    That is usually where we play,: null
+    That is when she did, I think.: null
+    That was loads of fun.: null
+    That was so simple .: null
+    That'd be my self defense.: null
+    That's babies.: null
+    That's funny .: null
+    That's interesting.: null
+    That's just fantastic down there.: null
+    That's just something I hadn't heard of: null
+    That's so much easier.: null
+    That's terrible.: null
+    That's the name of it.: null
+    That's the only thing,: null
+    That's the way it is, was, there, too.: null
+    That's the way looked at the whole thing here,: null
+    That's what I would do, too.: null
+    That's what everything turns.: null
+    That's, it, that's the fun part, trying to figure out what you've got to breed them with,: null
+    That, I hear they're hiring all over the place for that.: null
+    That, that about covers mine: null
+    The expensive ones.: null
+    The first project I started out one was a big one,: null
+    The girls love it.: null
+    The moss grows,: null
+    The two cities are very, very identical,: null
+    The weather is divine.: null
+    The weather is wonderful.: null
+    Then I could be getting paid for something I love to do.: null
+    Then I cut a V shape out of the back of them: null
+    Then, then we had so much fun there,: null
+    There aren't too many people around anymore that really enjoy sewing,: null
+    ? There was a program on T V down here on the educational channel here a while
+      back about a lot of little, little companies of one and two guys, up there,
+    : null
+    There's also a couple of large projects, baby afghans,: null
+    There's bound to be some kind of fabric stiffener like that that's very similar: null
+    There's lots of shades of greens.: null
+    There's so many things I wish I had learned to do with my mother.: null
+    There's something about working with wood that, that I enjoy, that,: null
+    There's there's a few designs I guess I've done myself, but not very many.: null
+    They always borrow a few of them.: null
+    They can go fishing.: null
+    They come out of nurseries mostly in Missouri and places like that.: null
+    They didn't like it too much.: null
+    They don't necessarily follow that any more,: null
+    They don't, encompass, many handcrafts like knitting and that kind of thing.: null
+    They had quite a few new ones come out last year, that they added to.: null
+    ? They have been a couple of times, and, just getting to be outside, all the time
+      and sleep in a tent. And that is really fun to them.
+    : null
+    They have the, they have the gloves on the paws: null
+    They just get around and, and talk techy or, or else,: null
+    They landscape their whole house with flower gardens.: null
+    They last for a long time then.: null
+    They looked really cute .: null
+    They make them hard,: null
+    They went and hid after they, after they got dried off.: null
+    They wouldn't accept my, T I N number,: null
+    They're pretty expensive.: null
+    They're very expensive: null
+    They've got great big ears,: null
+    They, they all play different songs.: null
+    They, those have been real popular with my family.: null
+    Things to hang on the wall.: null
+    This one woman even wanted me to bring my tape in because I have a demo tape, if any one wants to listen.: null
+    This was, this was, this was pasture land,: null
+    Those are real,: null
+    Tina enjoys, the other lady,: null
+    To find broken,: null
+    To tell you the truth, I'm, I'm, I'm not really worried.: null
+    Today's his birthday.: null
+    University of Texas in Dallas.: null
+    Usually I think it's a little bit cheaper in the long run,: null
+    Usually single crochet would, is, is always starts it off.: null
+    We are a little lucky.: null
+    We are really looking forward to it.: null
+    We can't have that down here.: null
+    We decided this year,: null
+    We did, I did horseback riding, too,: null
+    We do that too,: null
+    We get disconnected all the time.: null
+    We get lots of sunlight here,: null
+    We go to Tulsa from time to time.: null
+    We go, we go through Enid, quite a bit.: null
+    We have a nine month old with another on the way: null
+    We have a, a very small phone company down here.: null
+    We have never done that before,: null
+    We have to get a, we have to get a silver point Himie,: null
+    We like that.: null
+    We like to get out and walk,: null
+    We live in an apartment also.: null
+    We make all kinds of things just with dried flowers.: null
+    We might, We might decide what's proper and what isn't,: null
+    We missed it last year,: null
+    We moved here from Enid, Oklahoma.: null
+    We moved to Dallas about a year ago: null
+    We planted, potatoes and onions and bell peppers.: null
+    We rarely have to take those things in too.: null
+    We snow ski at Mount Bachelor mostly: null
+    We try to do everything we can together.: null
+    We will be busy with that again.: null
+    We'll start them inside: null
+    We're in the sub, I'm in the suburb of Cleveland: null
+    We're kind of out of, the natural tree area.: null
+    We're kind of up on a, on a higher,: null
+    We're to get one to three inches tonight.: null
+    We're, we're about to get another breed,: null
+    We're, we're about to take the kids to go roller skating and a birthday party and stuff,: null
+    We've transferred around,: null
+    We, we want to breed her with a champion,: null
+    Well that's about,: null
+    What I did, when I was doing that was mostly pillows, for sofas and so forth,: null
+    What they do is they work construction,: null
+    When I do, crochet, it's usually the lacy Victorian type: null
+    When I lived around in that area my brother would fly in from Chicago: null
+    When I was a kid, we'd do the equivalent thing in the High Sierras.: null
+    When I was growing up I was, was into coin collecting,: null
+    When they're skiing they're fearless,: null
+    Which is in now.: null
+    Whistler and Black Home is in Canada,: null
+    Y, you, you need it to do things like button holes,: null
+    You always have to isolate those.: null
+    You can do a lot with the Serger though.: null
+    You can make, piping and cording: null
+    You can't throw your sewing machine away.: null
+    You don't have to worry about cleaning it up.: null
+    You heard her in the background .: null
+    You might put them in the ground just the first week of June: null
+    a couple of hobbies that I also have is,: null
+    a couple years ago when they, they sail,: null
+    a gal who works, with T I on this project .: null
+    a good friend of mine that plays on one of my teams, we,: null
+    a hundred dollars: null
+    a lot of my sewing I kind of do out of necessity,: null
+    ? a lot of the hobbies that I have right now are centered around my, my children
+      and also things that my wife and I like to do
+    : null
+    a lot of times I'd help her with that.: null
+    a, a few of my little hobby projects have totally bombed,: null
+    about thirtythree thousand miles a year.: null
+    actually I'm from California: null
+    actually I, I'm pretty untalented .: null
+    actually my hobbies is mostly is my sports. Tennis,: null
+    actually my hobbies now are T shirt making.: null
+    actually the sewing isn't the hard part,: null
+    actually, I'm not even sure,: null
+    actually, it, if you, if you start it in a couple weeks and you can get your plants outside, pretty much the end of May,: null
+    after I got it done it was pretty dark, and ended up not being real smooth looking.: null
+    after a while you make some stuff,: null
+    after it dried out, it was, it was real hard,: null
+    all I did is, I bought the car: null
+    all means about fifteen to twenty percent,: null
+    all of our areas have associations that you have to get permission.: null
+    all that hoedown stuff.: null
+    all you can do is sell them as pet quality.: null
+    always got to the keep those planted.: null
+    amount of people eat, *listen: null
+    an awful lot of people know where it is, or have been there.: null
+    and jalapeno peppers.: null
+    and we, that is getting outside and, doing things they like to do too.: null
+    as a course for P E you know: null
+    as a rule, it sounds pretty decent,: null
+    as an overall package, I'm pretty happy so far with the way it's turned out.: null
+    as far as fun reading, I maybe get to read the Sunday paper, but, that's about it,: null
+    as far as spare time, they talked about,: null
+    ? as far as, planting outdoor stuff, matter of fact, tonight I just got through,
+      I was planting some, some trees out back tonight,
+    : null
+    as the babies come out they fall down in the trough: null
+    as you get to know more of the people that work there and more of what's going on with the system,: null
+    at first I'm how, why do people like this,: null
+    ? at first, when you first have a baby, you, seems to take every moment of your
+      time. Partly because you are not used to, juggling your time around like that.
+    : null
+    at the numbers they, they're kind of outlined and stuff.: null
+    back at home I used to have a small, five gallon tank.: null
+    basically I'm just,: null
+    basically bows and lace: null
+    basically it, it was called MUSTANG MAGAZINE: null
+    basically, I had read that they're just looking at relocating them all to McKinney is it, Texas,: null
+    basically, I, what I did was, I redid the whole interior.: null
+    because it's, it's out there.: null
+    because they, they like to get in and fertilize things too.: null
+    because we have these tow,: null
+    before then I was from Utah.: null
+    between that and the chairs and the barbecue grill and the fireplace wood,: null
+    bought a few of them.: null
+    but nothing steady.: null
+    by the time he plays two games a week and I play a game a week, we go to lots of softball .: null
+    can't just go out there and say, you guys breed, .: null
+    cooking, that's not really a hobby,: null
+    course I've been working on it for five years,: null
+    decided to take it.: null
+    despite the fact that I should be tying flies or fly fishing or, or going for walks in the mountains,: null
+    do you have any, do you do any handicraft type things, I think was the question.: null
+    down here, it's done both ways.: null
+    down the, down the hill here a little ways there are parks that are, look like jungles,: null
+    drive my wife crazy.: null
+    during Christmas I work on, like, holiday sweat shirts and those kinds of things.: null
+    during Four H, they really encouraged to do all kinds of crafty stuff, which is in, interesting,: null
+    during the summer months it's, occupies quite a bit of my,: null
+    during the summer we, we have concerts every Monday night in the park,: null
+    during the week they go back and do some more.: null
+    enough that, again for anything in the house I could probably,: null
+    ? espec, this particular one, I think, was in Maine and New Hampshire, where out
+      in the, just kind of out in these little towns they'd be in,
+    : null
+    especially lately there's been so many babies, that, bibs and blankets, and things like that. Wall hangings,: null
+    ? essentially anything you find in a house. a stove, or oven or a broken piece
+      of porcelain or, chipped tile on the floor. just anything.
+    : null
+    even somewhere better,: null
+    even the cutting I don't like.: null
+    every once and a while they will have a craft, section for the moms: null
+    every once in a while I will be digging through the closet,: null
+    every time you go they just punch it for you.: null
+    every year I hang my bag up if I get that five or six: null
+    everything was an hour or two hours at the Louvre, things like that where you need the whole day,: null
+    everything was rushed: null
+    except for time in service.: null
+    first thing I did: null
+    first thing I think of is how easy would this,: null
+    ? first thing that comes to mind is some kind of chain stitch because she starts
+      and goes all the way across, back and forth until she winds up with this big
+      piece of, of afghan.
+    : null
+    for a while there latch hook rugs were a real big, hobby.: null
+    from New Mexico.: null
+    from Plattsburgh Air Force Base.: null
+    from the one stand point, it is work.: null
+    get into a house with a little more space.: null
+    h, he makes,: null
+    haven't either.: null
+    he buys all kinds of, china and figurines and statues and stuff.: null
+    he does it, believe it or not, to get out of the house, away from his wife,: null
+    he finally brought me the china, the book, the brushes and he said I have made arrangements for your lessons.: null
+    he fixed some, fixes some bowls that have the cracks or chips in them, and, molds that in.: null
+    he gets frost: null
+    he just quit a perfectly good job and came, we came East .: null
+    he left it up to me if I worked or not.: null
+    he likes it all right.: null
+    he makes like,: null
+    he makes, little kids' furniture.: null
+    he says how do you get that from there to the material .: null
+    he used to paint, a long time ago,: null
+    he was like, you didn't make that.: null
+    he was repairing that,: null
+    he went with, a family corporation that had, has oil and ranching and varied enterprises.: null
+    he works in the construction.: null
+    he works on irons, and all T V s and stuff too.: null
+    he's a seasonal worker,: null
+    he's been dead now for twenty years,: null
+    he's getting on in his years now.: null
+    he's getting to the point where he needed an extra boost,: null
+    he's mostly white with, brown and black patches.: null
+    he, he goes around to garage sales: null
+    her variety, it says they won't eat the babies,: null
+    here I've mostly done things that I can do strictly by hand, sewing and quilting and,: null
+    here a lot of the country stuff is in, a lot of the woodwork, a lot of, stenciling.: null
+    his, son built him a garage and got him some, I don't know what the equipment's called, but planers and things: null
+    hobbies in our spare time is what we've been selected to discuss today.: null
+    hopefully I will be able to get back to the slopes some day: null
+    hopefully this year he'll have one.: null
+    if I could do anything I wanted to do, it would be to sing professionally.: null
+    if I don't like it, I'll go someplace else, do something different.: null
+    if I don't like it, that's it.: null
+    if I had more time, I'd probably do it and sell the stuff: null
+    if I remember I think we made some, Christmas stockings,: null
+    if I was a cat or dog, I'd respond probably by biting or something.: null
+    if I would just work all day long, making the clothes and everything, probably about two and a half days.: null
+    if I'd do something, be motivated enough to do something, I think it would work out well.: null
+    if I, ever get enough spare time,: null
+    if everyone did we'd probably have over a hundred: null
+    if it got to be forty degrees, I decided it was too cold to, to walk the dogs .: null
+    if the baby is strong enough, it can swim away fast enough: null
+    if we were going to get anything now it would definitely be a cat, or even a bird or a fish tank or something, .: null
+    if we're trying to get acclimated with the, with having a baby,: null
+    if yo, if you know what a Himalayan is, generally they look something like,: null
+    if you get too much in one spot you can smooth it out.: null
+    if you start putting them, you can put them out in the spring too,: null
+    if you were familiar with Atlanta,: null
+    in December everyone was doing stockings,: null
+    in fact my brother still does a lot of skiing.: null
+    in fact, I got some of those for my wedding,: null
+    in fact, I think it's still sitting in the top of the closet .: null
+    in fact, when my children were growing up, we always had horses: null
+    in my spare time, I love to sew.: null
+    in the last five years I've used so much of it that,: null
+    in the last two years, I have not played very much golf because I am involved in Boy Scouts.: null
+    in the summer I'll plant petunias,: null
+    in the winter time I usually plant some pansies in there,: null
+    in was in high school.: null
+    in, when we used to sew, we'd sew the seam: null
+    instead of, yarn: null
+    interesting thing that I do is with, gardening,: null
+    it came out pretty good.: null
+    it could be a flame stitch where so rather than drawing a picture you're making a design like a geometric or whatever,: null
+    it cuts off the, excess seam allowance.: null
+    it didn't come out that well.: null
+    it do, it does sew the seam and trim the edges and all that stuff,: null
+    it doesn't dry too fast,: null
+    it doesn't have the specific stitches.: null
+    it doesn't really,: null
+    it doesn't seem like I get anything done,: null
+    it doesn't.: null
+    it gets a little aggravating.: null
+    it has become a chore .: null
+    it has deer and trees: null
+    it has got one through ten on it: null
+    it has just been the most relaxing, enjoyable , selfsatisfying thing I've had.: null
+    it has the borders and everything already.: null
+    it hasn't been a long time T I: null
+    ? it helps because its the time of the year that they're shedding a lot, and cleaning
+      cat fur off the couch and off the floor is not a hobby of mine.
+    : null
+    it is a hobby too, that I enjoy: null
+    it is half price what the normal green fees are.: null
+    it is just like, a bus card: null
+    it is not, it is not fun.: null
+    it is probably going to be six to eight years before they go to college.: null
+    it is real strange,: null
+    it is so detailed,: null
+    it just seems like there's just never enough time to pick it up and do it,: null
+    it just takes a long time to get it done: null
+    it just was so time, time,: null
+    it just, it developed into sort of a business,: null
+    it kind of works,: null
+    it looked like, it looked,: null
+    it looked, just like it, it had been there all the time.: null
+    it looks like an air conditioner,: null
+    it looks, halfway decent: null
+    it makes you understand that, things are different .: null
+    ? it may be something similar to that that the fabric is dipped in and then, allowed
+      to dry in those, those draping bows, those draping streamers.
+    : null
+    it really isn't,: null
+    it seems like I always get my mind carried away to something else: null
+    it seems like, seems like that goes through Enid,: null
+    it spreads real evenly: null
+    it took me like several months, several weeks to do it during the summer,: null
+    it took so long for someone to answer,: null
+    it usually takes long stitches over two or three openings in the cloth: null
+    it was a lot of fun, too.: null
+    it was a true one.: null
+    it was about fifteen by twenty maybe.: null
+    it was all right.: null
+    it was beautiful,: null
+    it was called People to People,: null
+    it was fun,: null
+    it was fun.: null
+    it was just an opportunity arose: null
+    it was just like: null
+    it was just such a delightful time.: null
+    it was just too much to begin with.: null
+    it was just too much to start with.: null
+    it was just, I missed it by a couple months.: null
+    it was my first wedding.: null
+    it was quick.: null
+    it was salvageable ,: null
+    it was something easy I could do .: null
+    it was the type of thing,: null
+    it was their table, their kitchen table.: null
+    it was too pointed.: null
+    ? it was used quite often in the colonial times to, to upholster chairs, and so
+      forth, as well as the crewel, embroidery work that was done on them.
+    : null
+    it was, it was kind of rusted out there,: null
+    it was, it was of a lady: null
+    it wasn't too bad, other than the Cowboys didn't do so hot.: null
+    it wasn't until late in the summer they started making fruit.: null
+    it wasn't until late, I guess in the summer,: null
+    it works, I guess.: null
+    it would have helped me out tremendously .: null
+    it would kill all the bacteria,: null
+    it'll fit out the slots.: null
+    it's a concert band,: null
+    it's a knitting one.: null
+    it's a little: null
+    it's a mutant cat.: null
+    it's a picture,: null
+    it's a wildlife,: null
+    it's a, it's cross stitch,: null
+    it's a, they're all cloth.: null
+    it's all got to line up.: null
+    it's also got slots in it so the water can circulate: null
+    it's an Italian, needlework, using, using the: null
+    it's approximately six fifty,: null
+    it's beautiful,: null
+    it's been a real interesting thing for them .: null
+    it's been a whole long time ago: null
+    it's been beautiful this last week: null
+    it's been raining a lot here so far.: null
+    it's been two days: null
+    it's beginning to do well.: null
+    it's counted cross stitch, is what I'm doing,: null
+    it's cutting off the,: null
+    it's funny,: null
+    it's getting better all the time,: null
+    it's getting real close to: null
+    it's going to be a lot of work,: null
+    it's good to fall back on those hobbies when you have time to. Like you mentioned: null
+    it's got a trough underneath her: null
+    it's got to be something she can do fairly easily: null
+    it's hard to find the time.: null
+    it's hard to make plans much less, have a hobby.: null
+    it's in Georgia.: null
+    it's in the northwest.: null
+    it's just getting going.: null
+    it's just north of me here.: null
+    it's just really hard.: null
+    it's just so hard.: null
+    it's just so versatile,: null
+    it's just that it doesn't keep your feet quite as warm because you do it in strips like that: null
+    it's keeping his marriage ,: null
+    it's kind of a, it's kind of to establish better rapport with the different countries,: null
+    it's kind of embarrassing.: null
+    it's kind of nice because I've made money at it, too.: null
+    it's kind of, it the stitch is kind of like a knitting machine, the, they're loopers under the bottom: null
+    it's like I can only do it when I have time.: null
+    it's like a fine mist all the time: null
+    it's like there,: null
+    it's mostly oaks: null
+    it's no big deal for me to pick those up and do them.: null
+    it's not anything elaborate, .: null
+    it's not exactly a sewing machine: null
+    it's not one of my favorite things, especially from the vapors,: null
+    it's nothing that I,: null
+    it's pretty large.: null
+    it's real easy to do,: null
+    it's real fun.: null
+    it's real neat.: null
+    it's real pretty.: null
+    it's really beautiful,: null
+    it's really interesting.: null
+    it's really not too difficult.: null
+    it's really, it's, it's, hard work.: null
+    it's really, since it's counted, it's really a lot of work.: null
+    it's sitting in my closet half done right now,: null
+    it's so relaxing to just sit,: null
+    it's such a dust collector to be out, and so forth.: null
+    it's the loopers that form the, the edge, that edge finish.: null
+    it's the one that I grew up with,: null
+    it's used with yarn,: null
+    it's very long.: null
+    it's, it all starts to become similar: null
+    it's, it started out as a hobby: null
+    it's, it's Eastern Hardwood, forest,: null
+    it's, it's a flag,: null
+    it's, it's a, it's a, it's a machine,: null
+    it's, it's funny,: null
+    it's, it's really a challenge,: null
+    it's, it's still green,: null
+    it's, it's, depressed economically.: null
+    it's, it's, it's, like a fad thing.: null
+    it's, it's, not dry at all.: null
+    it's, low hills,: null
+    it, it can add up quick.: null
+    it, it depends on what it is,: null
+    it, it is fun for me to do that.: null
+    it, it just, I sit and learn new programs: null
+    it, it's a lot of fun as a hobby. Especially when you go to shows and get to see all the different cats.: null
+    it, it's got this one inch mesh: null
+    it, it, it's a strange looking cat.: null
+    just all over the place.: null
+    just any time.: null
+    just buy the colors that I need: null
+    just in the last, ten or twe, I just haven't sewn anything.: null
+    just into everything,: null
+    just kind of do it.: null
+    just last weekend went to Davy Crockett forest: null
+    just like being finger printed ...: null
+    just little things,: null
+    just really different ones.: null
+    just regular old flower seeds: null
+    just since October.: null
+    just what little bit I have used it for, I really like it.: null
+    just when I thought I really enjoyed my hobby, yours sounds great .: null
+    just whittle away my life.: null
+    just, I've kind of got a collection going of tapes now,: null
+    just, just did a thumb print.: null
+    keeping busy with everything else going on,: null
+    kind of one or the other.: null
+    l, lot of times we take seventyfive: null
+    let them winter: null
+    like I said, we're getting, getting the kids ready to go to the birthday party,: null
+    like half the members are really expert: null
+    like if somebody needed a bridesmaids, maids dress made, I'd make that,: null
+    like my husband.: null
+    like you said, unless you have a pool in your backyard or access to a good place to play, it is kind of hard.: null
+    like you, unless you have a pool in your backyard, it is kind of hard to get to do that: null
+    little bit of embroidery work, once in a while.: null
+    luckily it's kind of unusual because hobbies, it's a, it's a nice thing to have: null
+    matter of fact this past weekend I just got finished planting a bunch of tulips and daffodil bulbs.: null
+    maybe I'll wet a fly line this year and do some camping if I don't get laid off between now and then.: null
+    maybe it was because it was too dry,: null
+    mine are just mostly, things I just do out of necessity.: null
+    most of my stuff is just going pla,: null
+    most of my things are dust collectors .: null
+    most of the, those kind of plants just, are just barely staying alive, let alone make flowers.: null
+    mostly I do needlepoint, I guess.: null
+    mostly flowers: null
+    ? mostly right now I'm a, I do a lot of sports and stuff like that is my hobbies
+      and do a lot of things with my family as much as possible.
+    : null
+    mostly what I do,: null
+    mother is my best friend ,: null
+    my baby's one today.: null
+    my boys are at the point where they scare their mommy to death.: null
+    my boys are still right at the beginning age: null
+    my cats got into it and started digging and that took care of that.: null
+    my dad had a lot of woodworking equipment: null
+    my dad, my dad used to grow tomatoes and things at the house.: null
+    my daughter thinks she wants to learn how to fish: null
+    my daughter was in Girl Scouts until just about a year ago: null
+    my day is usually pretty full.: null
+    my dogs are my hobbies.: null
+    my family usually goes with me.: null
+    my favorite is volleyball,: null
+    my folks gave it to me,: null
+    my golf clubs will probably rust before I get to use them again: null
+    my hobbies in high school went just to the sports.: null
+    my hobby is, sewing.: null
+    my husband and I both, I think, consider it a chore.: null
+    my husband does too.: null
+    my husband doesn't like them either,: null
+    my husband is afraid he is going to have a softball tournament that weekend.: null
+    my husband likes cats.: null
+    my husband says I do it, make afghans so I can keep my lap warm.: null
+    my husband says that's called rinkydink .: null
+    my husband was with, University of Oklahoma and,: null
+    my husband's working: null
+    my mom wanted some pants,: null
+    my mother said ten minutes: null
+    my mother used to knit,: null
+    my oldest daughter is in school,: null
+    my only craft work is kind of like computers and, go off to the little computer club meetings,: null
+    my other two pots are,: null
+    my sister grows flowers that you can dry,: null
+    my sister is the seamstress of the two of us.: null
+    my sister sewed: null
+    my son's, has been married for almost ten years,: null
+    my spare time usually involves something with the kids.: null
+    my wife has talked more than I have,: null
+    my youngest daughter is going to be starting up soccer: null
+    my youngest son is a skier.: null
+    my, again, my mother back in Indiana,: null
+    my, grandmother, made us a couple of quilts for the baby,: null
+    my, my other things that I like to do in my spare time, I'm, I like swimming.: null
+    my, my parents live in southern Illinois.: null
+    neither one of us are really,: null
+    nobody else in the family likes them,: null
+    not quite because I'm not a whole family.: null
+    not really.: null
+    not recently because, the Boy Scouts makes it so that I go like once a month,: null
+    not that I like reading, but I do do a lot of reading while I'm here at school.: null
+    not that long.: null
+    not very artistic really for like painting and stuff.: null
+    not, not really,: null
+    now I always plant trees in the fall.: null
+    now I can't remember anything about it .: null
+    now I don't know.: null
+    now I feel lost.: null
+    now I have a little blanket: null
+    now I want to learn how to knit again.: null
+    now I'm selling them and pretty,: null
+    now I've got the material to do an afghan that I just never did get around to finishing it.: null
+    now I, I r, have bought some, new, sewing equipment.: null
+    now can I improvise with adding and using another color instead, what comes close.: null
+    now it developed in to going to cat shows and finding studs for them, and, all this kind of stuff.: null
+    now only, I only clean things to make things look more aesthetically pleasing: null
+    now that I have my eyes, corrected to the point that I can see the delicate part of china painting, I do enjoy it.: null
+    now that I'm married and stuff I, I've I'm really bad.: null
+    now we're in U, Iowa .: null
+    now, I don't have a whole lot of time now but I have more time than I did,: null
+    now, now they have the, knitting machines that will do it for you.: null
+    of course I'm a real Seahawks fan: null
+    of course there's still a lot of work to be done,: null
+    of course, I was at that stage of my life where I had to be taken to p, places.: null
+    of course, my kids jump in the middle of it and want to pound on it: null
+    of course, once I got to the age where I could have done it myself, I had other interests I guess.: null
+    of course, the quality was just exceptional.: null
+    on the grain of the fabric.: null
+    on weekends they go out and sell it: null
+    once I get started, I can't put it down.: null
+    once it starts getting real hot: null
+    once you've done something like that it kind of makes you feel good, to,: null
+    one day I, I realized that it was eucalyptus.: null
+    one of the things that I do when I've got some spare time is I do some woodworking.: null
+    one other thing we are doing this year is, we bought Wet and Wild passes.: null
+    one that I did for both kids are: null
+    ? one thing that I like about this fabric painting thing is I can just make a
+      T shirt and put a little ruffle around it and then, cut out a little pattern
+      from the material, from some material, like flowers or something, and make,
+      a design or, a little arrangement or something on the shirt and, fuse it on
+      with Heat and Bond, or whatever and then paint around it.
+    : null
+    one thing that I like to do, is sit down and play the piano.: null
+    other than gardening which I fiddle at,: null
+    our baby's quilt, it was a pre, like the design,: null
+    our last area was in a rural section right on the lake, on Lake Erie.: null
+    our local stores don't, don't offer any guarantee.: null
+    our two older boys were in Boy Scouts: null
+    our yard has had so many problems.: null
+    outside of, outside of art class in, in school, I, I stopped doing most of that, unless he has a computer,: null
+    part of my big hobby has been trying to put together a nursery and all that kind of stuff, lately.: null
+    people do not do that much any more.: null
+    people have told me it's very easy.: null
+    personally a lot of the hobbies I had when I was growing up and, going to college and so forth are having to change.: null
+    pizzas and spaghettis and lasagnas and that kind of stuff.: null
+    prior to this, we were fifty miles west from here.: null
+    probably Spring,: null
+    quite a few: null
+    raising cats.: null
+    right at the present time nothing real special.: null
+    right in the tub,: null
+    right now I'm just sewing for myself.: null
+    right now I'm looking at a little quilted, hanging,: null
+    right now I'm making Christmas ones with poinsettias and bears and: null
+    right now my actual job is a news reporter.: null
+    right now we, start our seeds inside.: null
+    seems like these all, they all went to, to leaf,: null
+    several years.: null
+    she can't get up and walk around right now.: null
+    she doesn't china paint: null
+    she gets bored real fast when she is home with nothing to do.: null
+    she has chocolate, paws, chocolate stomach and silver on her hindquarters.: null
+    she has got so many interests herself that,: null
+    she has three kids all under the age of like six.: null
+    she hasn't talked to anybody,: null
+    she is in band.: null
+    she is really looking forward.: null
+    she knits things hats,: null
+    she laid out the material: null
+    she makes a lot of afghans and all that kind of stuff: null
+    she needed the money so I would pay her: null
+    she paid me I think two dollars a pair to make her some pants.: null
+    she said how did you know those are the colors we used.: null
+    she said, she said it's for your daughter to use.: null
+    she wanted me to bring it in,: null
+    she was in it for a few years,: null
+    she was kneeling,: null
+    she would go to these, arts and crafts shows and sell her needlework.: null
+    she would help us: null
+    she would, she would quilt whole quilts by herself.: null
+    she'd make my clothes .: null
+    she's going to play it on Saturday: null
+    she's got lots of hobbies or, activities going on.: null
+    she's had really good luck.: null
+    she's not, she's not feeling too great today.: null
+    she's real excited about doing that.: null
+    she's talked to four, five different people.: null
+    she's, into aerobics,: null
+    she's, pre, predominantly, black: null
+    she's, she's quite attractive looking.: null
+    she's, she's sweet.: null
+    shoot, I can't even remember the name of it now,: null
+    since I bought it and paid that much for it, I guess I'd be, might as well get some use out of it.: null
+    since I was in college, since I went to school,: null
+    smoke them an,: null
+    so many of them now have the ribbons where, I'm not sure how they do it,: null
+    some of the internal news and the news services,: null
+    some of the things I like to do are,: null
+    some of the,: null
+    some other things I like to do are, is music and, also reading.: null
+    some people said to me, that's our wintertime.": null
+    some things, especially letters, if they suggest certain colors for letters, I just go with whatever I want to.: null
+    some, I have some good shots and some bad shots.: null
+    somehow I don't have the time anymore.: null
+    someone told me that, that it, that they had done it both ways,: null
+    something like that.: null
+    something that's colorful: null
+    sometimes I have to go back and read the page over again cause I didn't quite get it all.: null
+    sometimes I will get started on a project and then finishing it is more of a chore than ,: null
+    sometimes I work on trumpet mouthpieces.: null
+    sometimes I, I play the trumpet,: null
+    sometimes they get disconnected when I'm talking to them.: null
+    sometimes we ride: null
+    sometimes, even with that. I, I think you have to have some,: null
+    sometimes, we, pull,: null
+    still in all,: null
+    sure enough, boy the fur just came off like crazy once I got them: null
+    sweat shirts is certainly impressive.: null
+    ten percent of six fifty, is sixtyfive: null
+    that blooms a lot.: null
+    that could become a hobby.: null
+    that dropped off about the time I hit puberty, I guess,: null
+    that is another thing though, when sometimes your, hobbies can interfere with each other.: null
+    that is how sewing.: null
+    that is something I have decided I am going to make sure my kids have a, have a happy growing up years: null
+    that is something that we are planning to do not this weekend, but the next.: null
+    that is the only time I think I have ever really taken golf lessons: null
+    that is why we play over there: null
+    that isn't necessarily their career,: null
+    that isn't too bad.: null
+    that keeps you busy.: null
+    that makes me so mad .: null
+    that never worked well.: null
+    that she can watch, but won't take too much care.: null
+    that she has a whole bunch of kittens.: null
+    that she has kittens that look like her.: null
+    that the silver will be predominate in the kittens.: null
+    that was a real,: null
+    that was just the ink,: null
+    that was kind of a group: null
+    that was kind of for them,: null
+    that was, good many, many years ago: null
+    that way you can get the feel of,: null
+    that went over real well,: null
+    that would be great,: null
+    that would be great.: null
+    that would screw up all the chemical cycles again: null
+    that's a beautiful place.: null
+    that's a, just a great place. But no Colora, not in Colorado: null
+    that's about all the sewing I did,: null
+    that's about it really.: null
+    that's about it there.: null
+    that's about it,: null
+    that's about it.: null
+    that's all I've done.: null
+    that's been fifteen years.: null
+    that's kind of nice.: null
+    that's kind of the way I am,: null
+    that's kind of what my wife says.: null
+    that's my mother on the other line,: null
+    that's nice and everything,: null
+    that's not really my favorite thing to do or anything, but I, I need to do it.: null
+    that's not true.: null
+    that's one of those sports I don't go for.: null
+    that's probably my problem there.: null
+    that's the next project that I'd like to learn to do.: null
+    that's usually the team I play on with the tournaments and stuff,: null
+    that's what I find in making the dolls and things, that it gives me something that I can create,: null
+    that's what I meant by salt that we, we did that like as a family, little ornaments and,: null
+    that's what got me really, really interested in it.: null
+    that's what it did report was a hundred and thirty relocating down to McKinney.: null
+    that's what really makes it look professional.: null
+    that's why I was in the down here in Plano also.: null
+    that's, he's got a job there: null
+    that's, that's a change, because there's nine of them that are younger than me.: null
+    that's, we have done that.: null
+    ? that, I guess, ranges anywhere from, carpentry work to, some types of furniture
+      and, I don't know what you would call them, knickknacks, I guess, stuff you
+      hang on the wall to put a mirror on
+    : null
+    that, at least: null
+    that, that's what I hate doing is the finishing stuff.: null
+    that, that's, that's the part that I don't like, too.: null
+    the Himie, we'll probably breed her a couple of times: null
+    the Persian is,: null
+    the biggest hobbies I have right now are my kids and whatever they are involved in.: null
+    the book is so detailed: null
+    the bottom fell out.: null
+    the first one to go.: null
+    the first year, the deer ate my garden,: null
+    the general topic is hobbies.: null
+    the hand's about the size of a cricket.: null
+    the hobbies that I pursue in my spare time, are crafts: null
+    the is probably the sweetest one.: null
+    the kids are always wanting to play in the water.: null
+    the kids enjoy going because there's usually a lot of other kids for them to play with: null
+    the lady said she couldn't believe that they know that I had done it in the colors, that they had decorated the nursery: null
+    the lake life appealed to me,: null
+    the minute marks are done, they're like hearts.: null
+    the one in Dallas is the one that got me to doing this: null
+    the ones in my apartment, half of which don't look real healthy,: null
+    the other day he was working on a hand that was shattered on a, a statue that's real small,: null
+    the other half are really not.: null
+    the other ones are very pretty.: null
+    the other two are short hairs.: null
+    the pansies looked terrible, but they came back later.: null
+    ? the patterns have gone up tremendously, too, the prices for them, you used to
+      could get, a pattern for two or three dollars, now, they're five, six, seven,
+      eight.
+    : null
+    the people at the unfinished store recommended it,: null
+    the pinks, there's like fortytwo different shades of pink.: null
+    the porch is screened in: null
+    the re, the heat sets in.: null
+    ? the reason why we play over there is because its where, since we are a Garland
+      resident, they gave us a special deal where you can get, ten rounds of golf
+      for a hundred dollars,
+    : null
+    the ribbons, they make them, they: null
+    the sport I like best probably is basketball.: null
+    the things I've tried to do just don't look very good ,: null
+    the wi, a wind storm come and knock it down.: null
+    the wife gets kind of aggravated about that,: null
+    the, the Bombay had a litter, last October: null
+    the, the call was probably for her.: null
+    the, the cheapest ones now are maybe, f, four or fiv, five dollars,: null
+    the, the cold weather can kill them: null
+    the, the cutting and the, all the,: null
+    the, the topic is hobbies .: null
+    the, there's a seam stitch: null
+    the, there, there are two knives: null
+    the, they s, it's sold in the hobby stores and nurseries.: null
+    then I decided I was going to do it,: null
+    then I went to crocheting,: null
+    then their sons do it.: null
+    then they get laid off for like twelve weeks in the winter.: null
+    then when I start a new project, I go through and see if I, if I,: null
+    then you start looking at it,: null
+    then, I get the opportunity to vacuum,: null
+    there again, it is just so hard to find time to get away: null
+    there are a lot of pine trees,: null
+    there are oth, are other things that a regular sewing machine does that it doesn't do. you can't top stitch with it.: null
+    there are some beautiful, just gorgeous patterns: null
+    there goes that motivation thing again .: null
+    there isn't too much rust on any vehicles down here.: null
+    there some people that are actually music majors.: null
+    there were so many different shadings and colors,: null
+    there's a hole in the middle so they fall into the bottom part of the chamber: null
+    there's a lot of people that, are band directors at schools, or have been,: null
+    there's a lot of, old time wealth there that,: null
+    there's just no time.: null
+    there's just tons of stuff everywhere: null
+    there's lots of pinks and greens.: null
+    there's not a spare moment.: null
+    there's not a whole a lot of time that I've got, for hobbies it seems like lately.: null
+    there's not a whole lot of mountains here in Texas: null
+    there's not that much call to, for Bombays.: null
+    there's some stuff that's really for, auto repair.: null
+    there's things that weren't as good,: null
+    there's this stuff called Wonder Under that you un, that you iron it on: null
+    there's two parts of Texas, East Texas and North Texas.: null
+    there's, some, some stuff that I want to do with Sierra Club and go down to Grand Canyon or something like that.: null
+    there's, there's a f, few things that you just can't do with it.: null
+    there's, there's benefits: null
+    there's, there's so many other things that, I, I have done, in the meantime, like I said, so many baby gifts.: null
+    these were,: null
+    they always died: null
+    they are always borrowing my tapes.: null
+    they are, they are good to plant in the winter time.: null
+    they can't get to them.: null
+    they come down here: null
+    they come in a lot of different colors.: null
+    they continue to grow.: null
+    they do great.: null
+    they do really good: null
+    they do walking tours too,: null
+    they don't have any children.: null
+    they finally started making zucchini,: null
+    they get up t, into twelve and fifteen and,: null
+    they go off and do other things during the summer.: null
+    they go off,: null
+    they had, some names, some companies that sold mustang parts,: null
+    they have a couple kids,: null
+    they have a couple of kids that are almost my kids age.: null
+    they have been,: null
+    they have breeders.: null
+    they have lots of tours where they get a bunch of people together and: null
+    they have nice personalities: null
+    they have real good kiddie areas, at both of the Wet and Wild's around here.: null
+    they have real short hair.: null
+    they have so much fun doing that.: null
+    they invited the kids and my husband and me to go with them: null
+    they just punch it.: null
+    they just shade everything.: null
+    they live in Duncanville: null
+    they love to dig.: null
+    they make it cheaper for us to buy .: null
+    they make it through probably winter and spring.: null
+    they may be the same kind of people you're talking about.: null
+    they play together,: null
+    they said, Bring some tapes with you.: null
+    they seem to like it okay.: null
+    they send them to you all ready alive.: null
+    they sold their home: null
+    they think they are really great fishermen: null
+    they went bankrupt: null
+    they were fun to have around: null
+    they were lovely,: null
+    they were mad at me for quite a while.: null
+    they were matching: null
+    they were suggesting, handcraft things which,: null
+    they weren't as interested in it as we were,: null
+    they won't make it through the summer because it gets too hot,: null
+    they'll bree, they'll breed them twice a year: null
+    they'll eat them.: null
+    they'll go ahead and, and, leaf out.: null
+    they'll sit in the nurseries here: null
+    they'll wear them .: null
+    they're a little bit angry at me .: null
+    they're all a handful.: null
+    they're kind of, they're pretty big,: null
+    they're like dolls,: null
+    they're not, they're not, they're not show cats.: null
+    they're on the rainy side,: null
+    they're plaques with, different kind of animals: null
+    they're pretty content now,: null
+    they're varied.: null
+    they're very inquisitive.: null
+    they're very thin,: null
+    they're, they're pretty expensive,: null
+    they're, they're registered: null
+    they're, they're usually two colored.: null
+    they're, they're, they're long and lanky and skinny.: null
+    they've never had, they've had layoffs recently,: null
+    they've, they've all been in Dallas.: null
+    they've, they've got twelve weeks to do something,: null
+    they, I make all kinds of things with it.: null
+    they, just rent skates and stuff for the kids.: null
+    they, they also have a garden shop: null
+    they, they rented,: null
+    they, they tell me Hell is much better than west Texas.: null
+    they, they turned out really cute.: null
+    they, they're making furniture and just, things like that during the winter: null
+    they, they've been sailing,: null
+    this guy was going nuts,: null
+    this is a friend's party: null
+    this is his first year,: null
+    this is, it's really nice,: null
+    this machine does it all in one step.: null
+    this year both,: null
+    those are really neat: null
+    those are really neat.: null
+    those are usually on the weekend,: null
+    those don't take much time at all.: null
+    those ought to be coming up around spring time .: null
+    those things just flat took over.: null
+    to another f, a, old Indian fort that's out there.: null
+    to have the quilting frame and then to actually do that, it's a tremendous amount of work.: null
+    twenty percent would be one thirty.: null
+    unless the kids are asleep I don't get, usually get much done either .: null
+    up here it's almost a pattern,: null
+    usually fall into one or two categories, true science fiction fantasy on the one hand highly technical.: null
+    usually have to do the pleats by hand.: null
+    usually once a week I will bake something,: null
+    various people in the communities want us to play for things,: null
+    watch the cats tear it up.: null
+    we also like to, ride bicycles.: null
+    we always had horses around,: null
+    we are in south Garland,: null
+    we are looking forward to that.: null
+    we are planning on going two or three times a week .: null
+    we are, we're originally from Virginia, this part of the country.: null
+    we both have our expertise side.: null
+    we bought it at an, unfinished, furniture place: null
+    we bought lots of equipment from her, supplies: null
+    we breed them and all that,: null
+    we built, put a kitchen in and, that kind of stuff, and painting and some wallpapering,: null
+    we can put potatoes in the ground in the middle of May.: null
+    we commute from Plano to Dallas: null
+    we cut out things, kind of, and color and, and, use markers and things like that.: null
+    we did some remodeling when we bought a house,: null
+    we did spend twenty years in Norman and Enid: null
+    we did, little conventions and, like dinner parties and things like that.: null
+    we didn't, we didn't really start it for the money,: null
+    we don't have any yet.: null
+    we don't have to keep talking about nothing anymore .: null
+    we figured if we're going to have them we might as well have some purebreds an.: null
+    we go out and play kick the soccer ball around or play throw the football: null
+    we go to, places out in,: null
+    we got to also tour big cities,: null
+    we got, pretty good size band.: null
+    we had a quilting frame in our basement,: null
+    we had so many wonderful days.: null
+    we had, an entertainment center we did last year.: null
+    we have a little Halloween talent show tonight,: null
+    we have a lot of,: null
+    we have a new child that will be a year old here next week,: null
+    we have a quilt on our bed that's,: null
+    we have a, a treadmill and, a bicycle and that kind of stuff,: null
+    we have camped with some friends who have young children: null
+    we have done a little bit of camping.: null
+    we have got our card .: null
+    we have had to start all over trying to plant grass.: null
+    we have some extremely good talent in there,: null
+    we have to be careful,: null
+    we have to get a particular color point, stud.: null
+    we haven't reached a real agreement on that yet.: null
+    we haven't really had any kind of real heat.: null
+    we kind of help out the people who are really not .: null
+    we kind of planning for the time eventually when, maybe I can quit work, while my kids, because, I, my kids are young.: null
+    we learn different crafts like that: null
+    we learn to do the, transfer pictures on the sweatshirts: null
+    we like movies,: null
+    we like the water sports too.: null
+    we like to go out ,: null
+    we like to, to, a lot of the times just walk, for the exercise.: null
+    we live, pretty close,: null
+    we live, we live really close to Lake Champlain, which is in the Champlain Valley,: null
+    we lived, we lived in South Dakota,: null
+    we made some really nice Christmas wreaths with, dried red flowers and dried white flowers and, eucalyptus.: null
+    we needed to get back,: null
+    we put hers in.: null
+    we recently purchased a new home,: null
+    we snow ski.: null
+    we stayed there for a while,: null
+    we sure do,: null
+    we thought, maybe when they're a little bit bigger: null
+    we try to get twenty minutes at least three for four times a week,: null
+    we used to go to Joe Allen's Barbecue,: null
+    we usually start them right in the house.: null
+    we went all,: null
+    we were right on the lake.: null
+    we were supposed to get married when I got out of college.: null
+    we will play either out there or at Firewheel.: null
+    we would go skiing and enjoy that.: null
+    we would meet every Thursday morning at our instructor's home, because she did our firing for us,: null
+    we'd finish the edges,: null
+    we'd stay in people's homes,: null
+    we'll, we'll end up keeping one out of each litter and then breeding those.: null
+    we're a little, we're about two weeks ahead of everyone else out on the outskirts: null
+    we're all skinny farts: null
+    we're go, we're going to buy a .: null
+    we're going to, we're going to shell out probably about a thousand bucks for one.: null
+    we're looking for a babysitter: null
+    we're on the colder side,: null
+    we're on the snowy side: null
+    we're riding bicycles: null
+    we're, we are on the dry side of the mountains.: null
+    we've , done a fair amount of that in our spare time, also .: null
+    we've been out twice in o, in this year so far.: null
+    we've been trying to start up a business and then trying to get my garden going.: null
+    we've gone to Sun Valley several times,: null
+    we've, we have been to Whistler in Canada, which is just a marvelous place,: null
+    we, I have, I come from a family of twelve children,: null
+    we, I, I can't really say that we have hobbies.: null
+    we, we have our, our band practice is on Monday night,: null
+    we, we have, some concerts during the year,: null
+    we, we ski.: null
+    we, we went quite often: null
+    we, we would, trim the seams and finish the edges.: null
+    what I'm planting or actually transplanting is a tree that's, trees that are already leafed out.: null
+    what I've noticed it's kept the cats out: null
+    what does it say, a song makes beautiful wedding or something,: null
+    what should have been the back all of a sudden was on the front.: null
+    what you've got is a registered pet.: null
+    when I bake it's usually to take out for something.: null
+    when I got married, I thought it was going to be fun .: null
+    when I have my spare time ,: null
+    when I have time I do like to sew,: null
+    when I like something, I usually try to figure out how to make money off of it.: null
+    when I sewed it up, the face of it looked like a mouse.: null
+    when I start something, I, I go into it a thousand percent: null
+    when I was in college I did,: null
+    when I was pregnant with my first daughter, I was really bored,: null
+    when I was real young I was for a couple,: null
+    when I washed them, although I took the precaution of turning them inside out: null
+    when I went to college I think everything in my closet, I had made.: null
+    when I'm up here, I really miss my younger brothers and sisters,: null
+    when my sister, when my sister had her first, child, my niece,: null
+    when someone comes in,: null
+    when things break around the house, I always try to fix them myself: null
+    when we broke things off,: null
+    when we broke things off, I quit crocheting it: null
+    when we got hired here, no, no, never any layoffs, never, never,: null
+    when you described it, it sounded like something, that would be around, I guess.: null
+    when you described it.: null
+    when you get it completely, the shell finished, you still have a lot of stuff to do inside,: null
+    whenever I go visit my parents, they're always saying, bring some of your tapes .: null
+    where my grandmother passed away, but } where aunts are they have these huge pecan trees,: null
+    where we are right now there are very few trees.: null
+    where you're getting into the delicate work.: null
+    whittling or ,: null
+    with little ones, I'd be kind of scared , to get anything that has teeth or claws.: null
+    work in the garden, work around the yard, of course,: null
+    yet I can't do, like, like, craft, on wood.: null
+    yet, I think about,: null
+    you can get real handy with the hot glue gun.: null
+    you can get the little curly hair: null
+    you can go to any, a flea market and stuff: null
+    you can leave them outside.: null
+    you can make fl, dried flower arrangements: null
+    you can use all kinds of different, textures of thread.: null
+    you can't do top stitching,: null
+    you can't see the stitching as much.: null
+    you could make the, the granny squares or whatever,: null
+    you do find people, into the crafts and the things that, various things for spare time,: null
+    you frame them and stuff,: null
+    you get into the Vogues,: null
+    you get used to it.: null
+    you have a little picture of them: null
+    you have their birth date on them,: null
+    you have to,: null
+    you iron that on the T shirt, you paint around it.: null
+    you just kind of,: null
+    you know one of the books that I did, that I was reading,: null
+    you look at those things: null
+    you make it in strips.: null
+    you put the mother fish in there: null
+    you said you did it in the High Sierras.: null
+    you said you do a lot of needlework: null
+    you said you work, in the gardens too.: null
+    you see your fathers do it,: null
+    you understand that this was a long time ago.: null
+    you weave intricate patterns and use different colors.: null
+    ? you will probably find after your children get bigger, like when they want things
+      like tricycles, toys, things that cost quite a lot in the store, you can find
+      that kind of stuff at garage sales for just a few dollars.
+    : null
+    you'll probably really, re, regain your enthusiasm for it: null
+    you're not cramped on these smaller objects.: null
+    you, you can either use three or four of the threads.: null
+    you, you have to use it in combination with a sewing machine.: null
+  Statement-opinion: !!set
+    A job in itself.: null
+    A lot of times you can do that.: null
+    As you know, I think it's more like the mess you make, isn't it?: null
+    Besides they're fun to grow.: null
+    Cats can deal with being inside all the time just fine.: null
+    Course that's like that, that, hooking that you were talking about.: null
+    Dogs, to me, dogs need a yard, even little dogs.: null
+    Especially if your spouse will get in there with you and get dirty,: null
+    Especially when they're not quite to the age of understanding that they're hurting,: null
+    Fiftyfive gallons, you'd hope it would never do that.: null
+    Fun for them.: null
+    Give you a little Christmas money, any way.: null
+    God this is much better than west Texas.: null
+    He wouldn't have enjoyed it anyway .: null
+    I can imagine, the longer and longer it goes,: null
+    I do not think it is as hard as knitting or: null
+    I don't consider it a hobby .: null
+    I don't think a cart damages the turf.: null
+    I guess I could use a card too.: null
+    I guess maybe we've co, covered the topic, pretty good.: null
+    I guess that's, that's one way to end a conversation.: null
+    I guess they're stoned on the stuff or something.: null
+    I guess we're be, recorded.: null
+    I guess you could consider that a hobby.: null
+    I guess you're kind of young,: null
+    I guess, I guess these are going to croak too.: null
+    I guess, if you wanted to, you could take classes and learn.: null
+    I imagine your life is full: null
+    I just think dogs need, need to be outside, though.: null
+    I know it's probably late for you,: null
+    I know you,: null
+    I really don't have any other.: null
+    I think I probably would consider that a hobby.: null
+    I think afghans and, and the crocheted little sweaters, and, are, are wonderful.: null
+    I think crossstitching is so pretty,: null
+    I think gluing alone, certainly if you wash it any amount of time, it: null
+    I think it is cause I don't get as tired .: null
+    I think it would be nice to just go out and pick some tomatoes off the porch.: null
+    I think it's very clever.: null
+    I think more the mice or other rodents.: null
+    I think some of it depends how long things stay in the mail, probably.: null
+    I think that might be true.: null
+    I think that still borders on hobby.: null
+    I think that will be a lot of fun.: null
+    I think that's better than having that party at home .: null
+    I think that's really interesting.: null
+    I think they're too far away from me,: null
+    I think we are suppose to talk for ten minutes: null
+    I think we did five minutes,: null
+    I think when babies,: null
+    I think you're very clever to, sew around the edges.: null
+    I think, I think we're okay.: null
+    I was going to say because,: null
+    I'm sure it must be relaxing to do things like that: null
+    I'm sure it's just with the, the, the, the way that things are so topsyturvy right now as soon as you dec, decide on a ,: null
+    I'm sure you'll get it done,: null
+    I'm sure you're familiar with that living,: null
+    I, I guess if you make money at it, it becomes a vocation .: null
+    I, I think that would be a good family thing: null
+    I, I wouldn't if I didn't have this car time ability probably: null
+    If you are doing a lot of things, sometimes you have conflicts,: null
+    If you can do things together, that really helps a lot.: null
+    If you get pleats and all kinds of,: null
+    If you, I think if you can do any handicraft, you can learn to crochet.: null
+    It gets boring.: null
+    It is kind of like when you are a kid and, and someone else's house was fun to clean,: null
+    It is not too hard.: null
+    It is not, does not sound like an easy one to finish.: null
+    It is, an even back then,: null
+    It may be a blessing in disguise.: null
+    It must be so nice for you, now that you're retired.: null
+    It seemed like people did them a lot.: null
+    It sounds like her life is full too.: null
+    It sounds like you're creative.: null
+    It sounds wonderful.: null
+    It sure does.: null
+    It was, it was relaxing, creative,: null
+    It'd be nice to have that.: null
+    It's a call.: null
+    It's better than, owning on them and making payments on them,: null
+    ? It's just like doing one handed as long as you learn how to, to weave the, the
+      yarn in between your fingers on your left hand.
+    : null
+    It's just the same old thing,: null
+    It's just too time consuming.: null
+    It's just, there's just so many people sewing now days.: null
+    It's like, it, it seems like it's easier just to go out and buy it already made .: null
+    It's so nice though when you have a nice yard full of flowers,: null
+    It's, funny that you said.: null
+    It's, it is a lot more difficult than it seems like it would be.: null
+    It, it does take more time.: null
+    It, it is just nice to get outdoors and do something.: null
+    Keep the kids busy.: null
+    Lessons are expensive though.: null
+    Not that hard.: null
+    Once they get old enough to talk then they no longer will wear them .: null
+    People don't realize it: null
+    Pretty good trip.: null
+    Probably the same time the, the other squash is though.: null
+    Reading is a little bit easier to work around.: null
+    Really great,: null
+    Seems like sometimes hobbies do that.: null
+    Sometimes I think that might not be a bad idea .: null
+    T shirt making about covers yours.: null
+    That sounds so interesting.: null
+    That takes a lot of time.: null
+    That will make the summer go by in a hurry.: null
+    That's funny.: null
+    That's great that he has a lot of hobbies and stuff.: null
+    That's not something you,: null
+    That's where a camcorder would come in handy.: null
+    That, that would be definitely something you'd want to keep.: null
+    There not as likely to as a dog might, I guess.: null
+    They are pretty easy.: null
+    They just need a yard.: null
+    They kind of take over and turn into work instead of: null
+    They want things like Himie Persians and Turkish Vans.: null
+    Those are pretty.: null
+    Those are real popular,: null
+    Turkish Vans, if you've never seen one, you wouldn't know that it was a pure bred.: null
+    Well you can teach them .: null
+    When they start getting rid of technicians,: null
+    When you are home: null
+    ? Which seems kind of reasonable because that means you don't have to take twenty
+      thirteen year olds with you, which seems a, a, just a tad more relaxing .
+    : null
+    You can't just breed them with anything.: null
+    You can't just tell them that anyway,: null
+    You could learn that, I'm sure: null
+    You definitely don't have time.: null
+    You get so involved in what you're reading.: null
+    You know you have to have something that kind of gets you on the right track of where you're going.: null
+    You like it,: null
+    You lost an investment: null
+    You would have: null
+    You wouldn't think that.: null
+    a lot of people don't do that either.: null
+    actually, the, the Plano, Dallas, Houston, Austin that whole area is, is actually quite, quite nice.: null
+    ? actually, what the positions that they found outside of the company were much,
+      much better than the ones that they currently had inside.
+    : null
+    always got to have those.: null
+    at least, because I back up to, a hillside where the, wild animals are, I think I can probably justify it.: null
+    clothes are getting so expensive now in, in the stores: null
+    especially making the seams and things like that it's, it's got such a professional finish on them.: null
+    even, even a cat, you never know when they might bite or scratch or something.: null
+    fiftyseven's not young,: null
+    first one, you know how that is.: null
+    gee I guess there really isn't too much to talk about on hobbies.: null
+    go, boy, this, this is kind of ugly .: null
+    going over that pass is just a real nightmare.: null
+    if I could have, if I could make it on the road, I'd like to play on a bluegrass band or something,: null
+    if I had a ,: null
+    if nobody, if nobody complains you're all right.: null
+    if somebody raises a stink about it you can always go before the association and argue your case anyway.: null
+    if you're from Iowa, you must be very artsy crafty.: null
+    it can certainly help your finances.: null
+    it could be working on cars could be your hobby really.: null
+    it doesn't really have to matter,: null
+    it gets to where it doesn't bother,: null
+    it is it is not going to do that much damage to the course, but apparently they think differently .: null
+    it is peaceful,: null
+    it is relaxing to do, once you find the time to do it.: null
+    it just may not of the original,: null
+    it just seems like there'd be so much time involved in it,: null
+    it keeps all the chemicals in balance.: null
+    it reaches a point where it doesn't seem to be very challenging, I think.: null
+    it really sounds like, a business more than a hobby.: null
+    it sure is fun to do that kind of thing because then you have got something to show for it.: null
+    it takes a lot of concentration.: null
+    it's a cherished commodity now days,: null
+    it's a good time for gardening.: null
+    it's a necessity.: null
+    it's g, it's nice to have it when you're done,: null
+    it's healthy, too.: null
+    it's just being able to lay out the material and measure it: null
+    it's just getting the time to do it .: null
+    it's kind of, become an issue you could say.: null
+    it's not a very good topic: null
+    it's not worth getting all mad and fighting and hollering at each other when it goes wrong.: null
+    it's real hard to work in the summers and holidays and weekends when you have four children and a husband,: null
+    it's really a, a blast.: null
+    it's really different because that's kind of the, that's the chalk hills down there,: null
+    it's relaxing.: null
+    it's so beau,: null
+    it's still such better quality that I think it's worth it.: null
+    it's such a lost art.: null
+    it's the hard work.: null
+    it's the wedding season, I guess.: null
+    it's, I think it's the greatest stuff in the world, though.: null
+    it, it is kind of a nice smell after a while.: null
+    it, it looks really po, potent stuff.: null
+    it, it really makes it look professional.: null
+    it, it's just finding the time for these things that you: null
+    just a crummy,: null
+    kind of gives you some space for yourself,: null
+    kind of your getaway place.: null
+    last year he was a little bit young for having one.: null
+    looks pretty.: null
+    m, most breeders are in it for the money,: null
+    maybe this evening anyway.: null
+    momentum is, driving force in our lives.: null
+    not only can it be fun,: null
+    not too many people want Bombays.: null
+    now it's a little more expensive to make it, because, y, you start paying the price for the patterns and the material,: null
+    obviously not of the original time schedule.: null
+    seems like there's just so many things to do down here,: null
+    sewing does take up, take an awful lot of time, takes an awful lot of time.: null
+    since I'm in an apartment, I just, I don't think an apartment is big enough for a dog.: null
+    somebody has to do it,: null
+    sounds like you have a lot of nice hobbies there.: null
+    sounds like you,: null
+    that always is helpful for starters.: null
+    that definitely takes over your time.: null
+    that does take some time.: null
+    that doesn't leave a lot of time for hobbies,: null
+    that is pretty impressive to have three books going.: null
+    that sounds interesting.: null
+    that sounds really good.: null
+    that takes all the work out of it.: null
+    that was great.: null
+    that's a good place,: null
+    that's a great thing to do, really.: null
+    that's a hobby in itself.: null
+    that's about it down here,: null
+    that's an interesting assortment.: null
+    that's fun.: null
+    that's interesting.: null
+    that's kind of interesting hobby.: null
+    that's the main .: null
+    that's the way life is, I guess.: null
+    that's, that's a big step,: null
+    that's, that's kind of strange that we got the same call.: null
+    the Lions are pretty good, they pro, a lot better team than the Cowboys were today.: null
+    the Serger really makes it look professional.: null
+    the best thing about it is that you can, try something: null
+    the one thing I guess at least in your favor is the, the fact that, that is more in the support of the manufacturing: null
+    the time goes by, before you realize anything is going on.: null
+    the, the quality is, is sometimes so poor that,: null
+    there's buildings and concrete and a lot of people: null
+    there's lots and lots of companies that have maybe not in the de, the defense area but manufacturing in general.: null
+    there's, there's pluses to everything,: null
+    they grab hold with both hands and then just jerk.: null
+    they have a way of dragging you back home.: null
+    they have some nice stuff down there.: null
+    they just, they just breed these, they breed them before they're ready,: null
+    they want, privacy fences.: null
+    they're just too nice.: null
+    they're probably easier than keeping dogs, though, aren't they.: null
+    they're probably hardy, harder to take care of: null
+    they're sort of Siamese in a way.: null
+    they, they do a lot of inbreeding too,: null
+    this is your opportunity to do whatever you want,: null
+    those are fun to do,: null
+    those are so neat.: null
+    those are wonderful aren't they.: null
+    those take a lot of time.: null
+    those things they take some time to make.: null
+    we thought even with all the cold weather weather we have had they have been blooming just fine.: null
+    we're getting to where,: null
+    what a great: null
+    what, I'm, what I think now is the reason is I kept the tank too clean: null
+    when I think of Texas, I think of nothing but, no trees and just grass .: null
+    when you die, it's like, when they die it's more like an investment.: null
+    with a child it's, kind of stra,: null
+    you can pick it up and take it wherever you go.: null
+    you can, use crafts to make wonderful things for children.: null
+    you do lots of stuff.: null
+    you don't get many hand made quilts anymore.: null
+    you don't have a lot of time.: null
+    you don't have to put up with all these wild critters coming into your property.: null
+    you end up with, kind of strange kittens.: null
+    you felt very creative.: null
+    you get rusty.: null
+    you got to have a pattern for the body: null
+    you have to decide what you enjoy the most.: null
+    you have to look real hard to see a lot of things besides concrete,: null
+    you just can't, can't give up on it,: null
+    you just use your right hand with the hook.: null
+    you kind of get absorbed in it: null
+    you must pay all attention to what you're doing.: null
+    you need to let the bacteria build up,: null
+    you need to, teach them how to play and take them out on the course with you .: null
+    you probably have to clean out the tank too.: null
+    you really don't.: null
+    you wish so badly that you could do them.: null
+    you've got a good attitude about it.: null
+  Wh-Question: !!set
+    And, what room?: null
+    How big is your band?: null
+    How did you ever get into that?: null
+    How long does it take you to make one?: null
+    How many cats do you have?: null
+    How many children do you have?: null
+    How many music boxes do you have?: null
+    How old are they?: null
+    Now where is this?: null
+    Wh, what kind of time frame is it, looking for the, different shifts up there?: null
+    What are some of your things you like to do?: null
+    What are your hobbies?: null
+    What are yours?: null
+    What design did you use?: null
+    What did you call that?: null
+    What did you, what kind of things did you do?: null
+    What do you do?: null
+    What do you like to do in your spare time?: null
+    What do you teach?: null
+    What else, did you,: null
+    What hobbies do you have?: null
+    What in the world do you do with your computer that takes so much time?: null
+    What is it.: null
+    What kind of cats are they?: null
+    What kind of music?: null
+    What kinds of things do you fix?: null
+    What kinds of things have you done?: null
+    What kinds of, sweat shirts and T shirts do you make?: null
+    What part of Ohio are you in?: null
+    What size do you have now?: null
+    What was the other thing?: null
+    What was this project?: null
+    What's the most expensive one you bought?: null
+    Where do you play golf in this area?: null
+    Where in Colorado?: null
+    Where'd you get the car?: null
+    do you, where did you first get your lessons from?: null
+    how did you get involved in that?: null
+    how did, how did you get, hooked up with the T I switchboard thing?: null
+    how do you isolate them?: null
+    how long have you lived in North Carolina?: null
+    how were you decorating the baskets?: null
+    how'd you learn to do that: null
+    what are some of the other features on this machine?: null
+    what are some other things you enjoy?: null
+    what are your hobbies?: null
+    what did you all do?: null
+    what do you, what kind of hobbies are you in?: null
+    what does he think of your, T shirts and,: null
+    what is her name?: null
+    what kind of crafts and hobbies do you have?: null
+    what kind of hobbies do I have?: null
+    what kind of hobbies do you have?: null
+    what kind of neat hobbies do you have?: null
+    what kind of things do you like to do in your spare time?: null
+    what kinds of decorations did you use with the bas,: null
+    what what kind of books do you read?: null
+    what's that?: null
+    why would it be illegal?: null
+  Yes-No-Question: !!set
+    Am I still employed by T I,: null
+    Any handicrafts?: null
+    Are we tonight?: null
+    Are you close to getting it done?: null
+    Are you familiar with what a Serger is, the Serger Sewing Machine?: null
+    Are you going to move your whole family over there then?: null
+    Are you still employed?: null
+    Aren't they cute?: null
+    Choirs and that kind of stuff?: null
+    Did you embroidery the pattern and then quilt it yourself,: null
+    Did you have training in singing when you were,: null
+    Did you have, your own business: null
+    Did you use a, did you use a Zar stain?: null
+    Did, did you need a loom,: null
+    Do they all play different songs: null
+    Do they survive longer if you plant them in the winter time?: null
+    Do you and your husband like to work in the yard?: null
+    Do you do any other crafts or anything besides your sewing?: null
+    Do you do barbecues?: null
+    Do you do needlepoint also and cross stitching?: null
+    Do you enjoy it?: null
+    Do you ever keep any of your stuff?: null
+    Do you ever,: null
+    Do you find you do most of your, your, crocheting or your knit work around Christmas time?: null
+    Do you have a lot of shade trees around your house: null
+    Do you have all kinds of different fish: null
+    Do you have any hobbies?: null
+    Do you have any others,: null
+    Do you have problems with them, the fish eating each other?: null
+    Do you have, a special flowers?: null
+    Do you know what my concern is?: null
+    Do you like reading as a hobby?: null
+    Do you like to cook?: null
+    Do you make sweaters and things or just blankets?: null
+    Do you paint or anything like that?: null
+    Do you sew at all?: null
+    Do you sing or knit or anything?: null
+    Do you work full time?: null
+    Do you, do you cook for a hobby: null
+    Do you, do you have any hobbies that, that you do things with your hands: null
+    Do you, do you ride or do you pull a cart when you play golf?: null
+    Do you, do you use patterns, a book of patterns,: null
+    Does he help out much: null
+    Does, does that make sense to you?: null
+    Does, does your whole family like to do it,: null
+    Exempt or ?: null
+    Ha, have you ever seen those bunnies: null
+    Have you been backpacking anyplace exciting?: null
+    Have you been crossstitching long?: null
+    Have you crocheted or knitted any baby clothes or baby blankets?: null
+    Have you ever had it, crack or break or leak.: null
+    Have you gone, to Fillmont with the Boy Scouts?: null
+    Have you par, participated in that in the past?: null
+    Have you tried any, growing any, fruits and vegetables or anything?: null
+    Have you, are you familiar with that?: null
+    I guess as far north as you are if you like gardening, you've still got a couple months to go, haven't you?: null
+    I guess that is your standard knitting, isn't it?: null
+    I guess vegetables are in, insi, in pots and stuff?: null
+    I hear you have kids, right?: null
+    I was going to say, do you have grand kids or anything to make dolls for.: null
+    I wonder if you can construe raising children as being a hobby?: null
+    I, I think it went to Lockheed, didn't it?: null
+    In cold frames or whatever the,: null
+    Is it going to be,: null
+    Is it, many other corporations in the area?: null
+    Is that for designs,: null
+    Is that silk screening, or,: null
+    Is that the stuff that koala bears eat in Australia or something?: null
+    Is this going to be your first?: null
+    Is this your first baby?: null
+    Isn't that odd.: null
+    Make your hobby into a business, that would be pretty good,: null
+    Now is that just to Colorado or to Colorado Springs?: null
+    Otherwise, they hold it over your head forever, right .: null
+    Pretty time consuming, isn't it?: null
+    Sulked for a while, .: null
+    That's pretty easy substituting isn't it?: null
+    That's your full time, hobby, right?: null
+    Was that in high school: null
+    Was, was the whole face done or just the numbers, and, and, } like minute marks?: null
+    Were you in a, were you the Girl Scouts, too: null
+    Will they make it through the summer sun?: null
+    You didn't?: null
+    You guys, are you guys getting snow?: null
+    You have to have a pretty good frame, don't you, to: null
+    You haven't sewn it back up, huh?: null
+    You just didn't say which Christmas, right .: null
+    You just get a book that tells you how to do it or what?: null
+    You sew the bodies and everything?: null
+    You think they're later in the year?: null
+    are we suppose to hear a beep or anything?: null
+    are you happy with what you are doing now?: null
+    are you in the defense?: null
+    are you on the T V then?: null
+    are you sewing for a whole family: null
+    did you like Oklahoma,: null
+    did you say you could knit?: null
+    do cats bother bulbs?: null
+    do they have yarn hair: null
+    do you consider yard work a hobby at all: null
+    do you do any kind of painting or anything?: null
+    do you do anything el,: null
+    do you do it just for yourself,: null
+    do you ever, just vacation someplace where you strictly backpack?: null
+    do you guys go camping or anything like that?: null
+    do you have Lowe's up there?: null
+    do you have any art, creative or artistic hobbies?: null
+    do you have any hobbies that you like to do?: null
+    do you have any other hobbies?: null
+    do you have kids and a husband,: null
+    do you have,: null
+    do you knit or crochet for sweaters or anything like that?: null
+    do you like those detective stories?: null
+    do you like to go to movies?: null
+    do you sell them?: null
+    do you tr, keep trying anyway?: null
+    do you work outside of the home?: null
+    does you husband,: null
+    does, does he ever, refinish furniture or anything like that?: null
+    had you been with T I long when you changed?: null
+    have you ever been there?: null
+    have you sang at any weddings yet?: null
+    have you started your garden yet?: null
+    how about we end this?: null
+    is it Hous, it Houston's humid?: null
+    is it one of those afghans that I've seen in the packages with the, with the large squares?: null
+    is that typical, to only breed them once?: null
+    is this mainly crossstitching?: null
+    is, is he working there then: null
+    it's getting,: null
+    it's pretty flat there?: null
+    it's that dry heat?: null
+    it, it takes a bit of a shift doesn't it.: null
+    smoking and all that stuff?: null
+    that just makes you sick almost, doesn't it?: null
+    they're bulbs for Spring or Fall?: null
+    was it small enough that you could just hold it?: null
+    what eucalyptus is?: null
+    what, what does a computer club do.: null
+    will, you, breed one of the litter, then next year?: null
+    would you like to be there?: null
+    you actually hand quilted it yourself?: null
+    you don't have a lot of tree coverage?: null
+    you don't have much spare time either?: null
+    you don't have too much time for hobbies?: null
+    you got any hobbies that you want to talk about?: null
+    you have a shop?: null
+    you have participated with that in the past?: null
+    you in the, computer operations or in the actual, manufacturing?: null
+    you just sew everything up, huh?: null
+    you make clothes for them and everything like that.: null
+    you really like,: null
+    you volunteer for the Boy Scouts,: null
+    you've always,: null
+    you, you haven't been back to Europe since then, huh?: null
+    your kids all ski?: null

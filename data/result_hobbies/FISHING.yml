@@ -1,0 +1,872 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    April to Sep, October or something like that?: null
+    Didn't like it?: null
+    I don't know if you've ever heard of it: null
+    They have mostly small mouth in them: null
+    You didn't get a big kick out of killing them like some people do?: null
+    You're not casting a weight on the end of the line?: null
+    You've been out to Buffalo Gap fishing.: null
+    it was just like the rivers and, the: null
+    you know how it is.: null
+    you like fresh water.: null
+    you're fishing downstream so it will carry some?: null
+    you're going to make one for yourself,: null
+  Dispreferred answers: !!set
+    I don't know how much you can learn.: null
+  Statement-non-opinion: !!set
+    A fuzzy little dog.: null
+    Almost got an owl once.: null
+    Almost, almost ever single day from when they started it.: null
+    As I say, the, the streams are, eight, ten, fifteen feet wide and so forth,: null
+    As you whip it, over your head,: null
+    Because they fight the best .: null
+    Carp is usually pretty much fun.: null
+    Certainly here they are.: null
+    Every once in a while there'll be striped bass.: null
+    Every once in a while we'd go out on a Saturday and just spend the day.: null
+    Everyone on the boat was catching snapper, snappers except guess who.: null
+    Fishing's a good way to do that,: null
+    Freshwater,: null
+    From the dock, from shore.: null
+    Great big snake,: null
+    He said, I don't think that's the different kinds of fishing they're talking about .: null
+    He understands the mechanics of pushing the button and throw, but not necessarily the direction it's going to go in.: null
+    He'd really spoiled me in that respect.: null
+    He's in computers.: null
+    Her dad has a cabin,: null
+    I also like Spanish mackerel.: null
+    I also use spinner baits and plastic worms.: null
+    I always intend to just stand on the bank and just kind of slip it,: null
+    I always used to go to my grandparents' in Oklahoma: null
+    I am hoping one of these days I'll have the opportunity to catch a big catfish like that on, a rod and reel: null
+    I called my father long distance just to describe the thing,: null
+    I can go out and go, deep sea fishing.: null
+    I can't remember what the name of the lake is,: null
+    I catch a lot of little old, I think they call them perch: null
+    I caught my first bass that was actually big enough to keep.: null
+    I caught the disease from my father,: null
+    I could almost just watch the wa,: null
+    I could never get the hang of it.: null
+    I couldn't remember what it was.: null
+    I did not even, I did not even,: null
+    I didn't catch anything,: null
+    I didn't know anybody who had a boat: null
+    I didn't know that.: null
+    I didn't learn to fish in a lake until I was into my twenties: null
+    I didn't realize that had happened,: null
+    I didn't used to be sold on plastic worms,: null
+    I do a lot of fishing for, bass.: null
+    I do enjoy doing it.: null
+    I do love to fish.: null
+    I don't actually like fish.: null
+    I don't do a lot of deep sea fishing,: null
+    I don't do a lot of it.: null
+    I don't fish too much in saltwater.: null
+    I don't have a boat,: null
+    I don't know that I could do that.: null
+    I don't know. All of our family is here: null
+    I don't like to go out on boats.: null
+    I don't put that corn meal on them.: null
+    I don't really get out as much as I, as I would like too.: null
+    I don't think I've ever tried cooking those, catfish quite that big.: null
+    I don't think he has time to fish either .: null
+    I don't, I don't get too much joy out of just sitting and watching.: null
+    I don't, I don't know about the lakes in central Pennsylvania.: null
+    I don't, I really don't want to share a boat with a snake.: null
+    I enjoy it though.: null
+    I fairly enjoyed at that time.: null
+    I fish for bass,: null
+    I fish to take home and cook .: null
+    I get a little bit of relaxation from it,: null
+    I got it that far,: null
+    I got my chicken and all my little net and everything,: null
+    I grew up in Nebraska and, grew up fish, cat fishing in the Little Blue River: null
+    I guess it was late May,: null
+    I guess the largest one I ever caught was probably eight or ten inches long,: null
+    I guess the weirdest thing I've ever caught is, in some of the inlets and the rivers around Delaware.: null
+    I had a rock to weight it down,: null
+    I had been so busy in my work in these last few years that I haven't had time to fish.: null
+    I had never seen anything,: null
+    I had, I had always been a, a sea fisher type: null
+    I hardly ever catch one,: null
+    I have a favorite hotel that extends out over the water: null
+    I have a friend who has a little infla, inflatable raft,: null
+    I have a lot of friends who like to go fishing.: null
+    I have a small aluminum boat here: null
+    I have a three and a half year old and a one and a half year old.: null
+    I have all sons, so I think I'm probably going to be fishing for a long time .: null
+    I have been, I was out on a party boat a few years ago,: null
+    I have caught one or two small sharks: null
+    I have never caught catfish.: null
+    I have no desire to share,: null
+    I have no problem going out in a boat,: null
+    I have some friends who work up there.: null
+    I have, probably a half a dozen different kinds of, fishing poles and, and fly rods and so forth,: null
+    I haven't been really in a long time.: null
+    I haven't eaten anything else,: null
+    I haven't fished in several years: null
+    I hope it is,: null
+    I inevitably, if I enter one of those, I never catch a thing.: null
+    I just freeze.: null
+    I just go out there and sit and watch other people do it.: null
+    I just have one son and he, he lives out of the state now, rather, in the eastern corner of it,: null
+    I just love the way it looks.: null
+    I just, I don't I think that I perhaps would let them have the boat or something,: null
+    I just, I, I, I don't see it.: null
+    I just, flour them, salt and pepper them and cook them.: null
+    I know they have bigger fish than that: null
+    I like it all except, I don't, I don't really care that much for the trout.: null
+    I like that place.: null
+    I like to fish: null
+    I like to fish for trout: null
+    I like to fish.: null
+    I like to go out and stand at the end of the dock and fish,: null
+    I live in Dallas.: null
+    I lived in Dallas.: null
+    I love shark steak,: null
+    I love to fish.: null
+    I moved here to, to State College, in nineteen fiftyfive: null
+    I netted it,: null
+    I never really got into that too much, because you have to get in the boat really to do anything,: null
+    I said, that's a quick release, right there.: null
+    I see a lot of people,: null
+    I seem them swimming by every once in a while.: null
+    I still, I am sort of a catfish man at heart.: null
+    I think I had rather have a catfish than I would a trout .: null
+    I think I'd be a little bit afraid of those.: null
+    I think I've been trout fishing once.: null
+    I think he's the only one that's, that's caught enough crappie a big enough crappie to eat.: null
+    I think it was about a pound and a half,: null
+    I think it was only three and a half pounds,: null
+    I think that, probably around here people fish for bass and crappie and catfish more than anything else.: null
+    I think the lakes are probably different in Michigan than they are in Texas.: null
+    I think when they refer to different kinds of fishing: null
+    I thought fish came out of the ocean: null
+    I thought it had a weight.: null
+    I thought, really, here, I'm really going to get one.: null
+    ? I thought, that, I wasn't going to be able to get it in, because, the one I
+      hooked just about ten minutes before, when I tried to raise it out of the water,
+      it fell off,
+    : null
+    I threw my line out: null
+    ? I told my husband last night when I had called and they had, told me that this
+      was a topic, I said, I can tell them how to fish with a minnow or how to fish
+      with a worm .
+    : null
+    I used to catch I've caught a few worthwhile snappers, red snappers and gray snappers and so forth.: null
+    I used to do that a little when I lived up in New York,: null
+    I used to do that with my dad.: null
+    I used, when I was, working in Florida, I used to do a lot of surf fishing: null
+    I usually ended snagging my, fishing partners or the trees along the bank .: null
+    I want to call it Salt Fork, or Lake Fork.: null
+    I want to say I did this,: null
+    I was fi, fished for another half hour or fortyfive minutes, caught a few white fish and so forth,: null
+    I was just wondering, we went to Galveston this, this summer, even with all the oil spills and everything,: null
+    I was raised on the Texas gulf coast,: null
+    I was so excited.: null
+    I was thinking it would be great to go over there to go fishing, and, and catch some bass.: null
+    I was with my daughter, a friend of hers, and, a friend of mine and his daughter.: null
+    I was, military,: null
+    I well never, ever go back.: null
+    I went fishing at, I don't know if you've ever heard of, Lake Worth.: null
+    I went to college at Tech,: null
+    I wish I could go fishing here because I don't really know much about the fishing here.: null
+    I wish I had a boat,: null
+    I won't have anything to do with.: null
+    I would be impressed .: null
+    I would go from one side of the boat to the other,: null
+    I would hate to think about catching fish or anything there: null
+    I would love to do that,: null
+    I would love to go over there.: null
+    I wouldn't want to eat them.: null
+    I'd love to go ca, catch the or whatever in the deep sea fishing.: null
+    I'd make some quick arrangements: null
+    I'll have to try that one of these days.: null
+    I'll never get over that.: null
+    I'm a fisher .: null
+    I'm from Midland.: null
+    I'm going to be retiring at the end of December,: null
+    I'm in an area called Center County, which is in the very center of the State of Pennsylvania,: null
+    I'm in an area where, we can, enjoy it year round,: null
+    I'm mainly a freshwater fisherman.: null
+    I'm not a catcher.: null
+    I'm not highly proficient,: null
+    I'm not so sure I'm good at it,: null
+    I'm not too welcome around,: null
+    I'm originally from the State of Virginia: null
+    I'm passing it on to my children.: null
+    I'm right here.: null
+    I'm sure it's not a fish,: null
+    I've I've been in that area: null
+    I've actually been, been out within the past couple of weeks.: null
+    I've been fishing in the, the ocean.: null
+    I've been up there .: null
+    I've been up there twice in the summer.: null
+    I've been up there.: null
+    I've caught up to about an eight pound carp on a little, a little pole with twenty pound test line.: null
+    I've done both kinds: null
+    I've done fishing like that: null
+    I've got some.: null
+    I've never caught that much,: null
+    I've never done that.: null
+    I've never even tried that.: null
+    I've never fly fished.: null
+    I've never tried taking a book with me.: null
+    I've never tried with, deep, sea water fishing: null
+    I've never used those.: null
+    I've only been up there once.: null
+    I've seen what comes out of the ocean,: null
+    I've told so many stories about the snakes: null
+    I've tried it: null
+    I've, I've caught them from, three or four inches long: null
+    I've, I've seen it,: null
+    I, I can't remember,: null
+    I, I cast a ways.: null
+    I, I don't blame you.: null
+    I, I don't know if it's been five minutes yet or not.: null
+    I, I don't think I'd want to even if you could if they're that ugly,: null
+    I, I get seasick,: null
+    I, I grew up fishing.: null
+    I, I had no idea what it was.: null
+    I, I hope, the next fishing season, that I can sort of get back in and, enjoy that.: null
+    I, I think he mentioned it again,: null
+    I, I used to fish, when I was real young, down in Galveston with my parents,: null
+    I, I've been to Port Aransas: null
+    I, I, I'm a fly fisherman.: null
+    I, I, the disease I caught was simply because, I, I was in the Norfolk Portsmouth area,: null
+    I, as I said, I am a fisher,: null
+    I, so really I haven't gone fishing for about two years now: null
+    If it's supposed to be one of the best bass fishing places. They hold tournaments there, and everything.: null
+    If we're doing good, we catch a catfish or two once in a while.: null
+    If you want to go on a boat alone, it's like two hundred dollars a day.: null
+    In fact, it snowed on us in, in, when was that?: null
+    In the summer.: null
+    It all depends on what I'm fishing for, and the time of day.: null
+    It goes back and forth.: null
+    It had real teeth, like human teeth,: null
+    It just, just a slow reel: null
+    It looks complicated to me.: null
+    It seems like the success ratio, the success rate here is not as good as on some of the better lakes there.: null
+    It takes us about three hours to get there.: null
+    It was probably four inches in diameter or something like that: null
+    It was u, it really, it didn't look like, it looked like it was something out of the dark ages that just never died.: null
+    It was, it was a, like twenty dollars for six hours of fishing on some big charter boat.: null
+    It weighs less than the line.: null
+    It's a fairly new lake in Texas.: null
+    It's a little fishing village that is,: null
+    It's a rhythm or something .: null
+    It's a salt water fish in fresh water, environment.: null
+    It's about an inch and a half long: null
+    It's about the same as Texas.: null
+    It's all put and take.: null
+    It's really ,: null
+    It, at times, gets incredibly hot here.: null
+    It, it looks like a grub.: null
+    Just cut their heads off and skin them: null
+    Just from the heat of it all.: null
+    Just little, just little fish eggs.: null
+    Kathy and Kevin Guy.: null
+    Lake Ontario is right near here.: null
+    Last time I went I actually was in Galveston trying to saltwater fish: null
+    Last year, we had a, just a wonderful trip up to Travers Lake. * Trapper's Lake in Colorado?: null
+    Maybe I'll just be so lucky.: null
+    Most of my fishing has been in the saltwater.: null
+    Most of the time, if we catch something, we'll take it home and eat it.: null
+    ? Most of the time, we just fished, in the river although there were a lot of
+      sand pits and things like that, that we could fish in.
+    : null
+    Mostly freshwater,: null
+    Mostly just the lakes around here,: null
+    Mostly trout in the mountains.: null
+    My brother went off the coast of Maine,: null
+    My dad has a lake cabin,: null
+    My grandfather used to do that: null
+    My husband would like to live there,: null
+    My inlaws live on a lake, a little bit east of Dallas, kind of in the Piney Woods,: null
+    My, my neighbor has gone before: null
+    Not anymore.: null
+    Now I never knew they were that, that big,: null
+    Of course what I used to like to do though is go snorkeling for scallops: null
+    Put them back .: null
+    She's real sweet.: null
+    Small island.: null
+    Sometimes fish eggs.: null
+    South Dakota didn't really have much for,: null
+    T I is up there,: null
+    Take a picnic lunch.: null
+    That was real fun.: null
+    That was what he considered fishing .: null
+    That's about the only kind I know how to do.: null
+    That's cold water around there.: null
+    That's like this dog fish,: null
+    That's one of the few things I've ever fished for is rainbow trout.: null
+    That's really interesting.: null
+    That's what I do a lot.: null
+    That's what I told the guy.: null
+    That's why I'm saying I love to go fishing because I've never caught anything really, really big.: null
+    That, that was a really enjoyable, thing for me to do.: null
+    The guy was standing there: null
+    The last time I went, bass fishing,: null
+    The ones around here are so big, that you can fish off the dock: null
+    The only problem is I just moved to Texas: null
+    The only thing you've got to watch is when that creek comes up.: null
+    The trout fishing is really, beautiful.: null
+    The water's kind of,: null
+    ? The weirdest fishing experience I ever had. People to this day are still trying
+      to figure out if I really caught what I think I caught.
+    : null
+    The, three and a half year old has just gotten to the point,: null
+    There's a possibility, but that was so long ago: null
+    They can't pull it in fast enough.: null
+    They fight hard.: null
+    They have a fish that's called an oyster cracker.: null
+    They just, they just look as though you do not want to do anything with them.: null
+    They love it,: null
+    They say it's a dog fish, from everything I've described,: null
+    They tend to use, I guess worms or some kind of lures sometimes,: null
+    They were talking about going over there, and, and some time in the spring,: null
+    They were throwing hell benders or, some other kind of treble hook lure: null
+    They'll go after that in a heartbeat also. Just anything that really shines or spins.: null
+    They've been inviting us to come up there in the summer.: null
+    This year, he's gotten to where he can.: null
+    To this day I don't want to get in the water,: null
+    We actu, we have the, those little, the, the, the Great Lakes,: null
+    We camped next to one, one time when we were there a couple of summers ago.: null
+    We did not know what to do about it.: null
+    We don't have,: null
+    We had a house in Port Aransas.: null
+    We have a lot of, couple of lakes in our area that are fil, just filled with good sized bass.: null
+    We have, some friends who live on the lake: null
+    We just dropped it down there: null
+    We tend to use just bait.: null
+    We went swimming one time, in the whole week that, we were there,: null
+    We were in Mesa Verde Park,: null
+    We were in, Rockport, which is close to Corpus: null
+    We were out in this silly tent with regular little sleeping bags, not knowing any better .: null
+    We're about three hours from the ocean.: null
+    We're both,: null
+    We're not that big into fishing,: null
+    We, I was the only one who did not catch,: null
+    We, saw a large snake right off the dock there at my inlaws' place last year.: null
+    We, skin them.: null
+    We, we were at a friend's, stock pond, we were out at their farm,: null
+    We, we weren't all related, just, thirty people off the shop in the boat there.: null
+    What we normally do is just, go ahead and clean it up, and then, put it in a bag and freeze it.: null
+    Whenever you have a, something that looks like something else: null
+    Which isn't technically fishing,: null
+    With the little thing on the end.: null
+    You bait the hook,: null
+    You can buy them.: null
+    You don't even have to have a good rod or anything. Just, just even a regular line: null
+    You fish upstream.: null
+    You know how that changes, the phase of the moon: null
+    You went to Galveston.: null
+    You, you want to l, make it land right on the shore and then drag like a plastic worm: null
+    a friend of mine: null
+    a lot of them ended up being close to the river,: null
+    a lure, a fly.: null
+    a, a catfish will really just tear into anything like that, like liver: null
+    according to them, you can catch, when the perch are running, you can catch them on just about anything.: null
+    actually catching fish to eat per se, you don't really do much of that right there.: null
+    actually there are quite a bit of lakes around me.: null
+    actually we were, snapper fishing.: null
+    all sorts of fun stuff like that.: null
+    all the white water and noise the,: null
+    all those people are here for the tournament,: null
+    all we were catching were catfish,: null
+    almost ever day.: null
+    although we, use to set some, trout lines out: null
+    and from the banks.: null
+    anything that was fresh water was muddy: null
+    as I say, I'm in Center County.: null
+    as I say, it's been several years,: null
+    at night you can go walking in the shallows, and gig flounder and things like that.: null
+    at times she enjoys it, at times not.: null
+    bait tends to work the best, just some blood bait.: null
+    because I have relatives who live in Houston,: null
+    because it's always been, in the, on a lake, and,: null
+    believe me you'll know the difference.: null
+    both times it was really pleasant.: null
+    but just huge, ugly things: null
+    catfish, yeah.: null
+    corn or salami or bread or anything,: null
+    crab, they don't bite like that,: null
+    down here I haven't fished much in Texas.: null
+    down here it's like two hundred dollars a day.: null
+    down here, I have a brother that likes to go over on the east, in East Texas, and do fishing.: null
+    during the Christmas holidays we'd go down to our house on the coast: null
+    each time they bring them in they'd have at least one,: null
+    early in the morning there'll be all the boats going out,: null
+    either as part of or separate from the, bill fishing tournaments they usually have: null
+    even a lake.: null
+    for me that's big.: null
+    ? from what I'm seeing and hearing and all, the, the big pattern that's really
+      looking forward for spring is the grub pattern.
+    : null
+    he caught fish.: null
+    he even, even he started baiting my hook ,: null
+    he has two ponds up there: null
+    he laughed when it fell off: null
+    he said it's one of the best bass fishing places.: null
+    he said that he has never gone anywhere before,: null
+    he started trying to cast it.: null
+    he was fast.: null
+    he was in a bad way.: null
+    he was just here this past weekend.: null
+    he'd maneuver us into a school of fish: null
+    he's division three.: null
+    he's fished all over the United States, in which they can catch the biggest bass that you've ever seen.: null
+    he's in school,: null
+    he, he said that it was just like that.: null
+    he, he was kind of getting there: null
+    here it went and it froze,: null
+    his daughter caught fish,: null
+    if I don't have a reel with a button on it, I tend to get so much backlash, it's not worth the trouble .: null
+    if I went to a restaurant that probably wouldn't be the first thing I would order if I had a choice of fish on the menu.: null
+    ? if the river every, flooded, then obviously they would dump some catfish and
+      bass and stuff into the into the ponds and the sand pits
+    : null
+    if you did it like you were just, saying, that's pretty much like rainbow trout.: null
+    if you left it on the bottom, there was a good chance that you'd catch catfish.: null
+    if you were there.: null
+    in no time something would hit it: null
+    in the summer time, they'll, give you a run for your money.: null
+    in this particular lake, we went out with some friends, once: null
+    it always smelled the entire time we were there.: null
+    it can't be a fish.: null
+    it gets f, foamy almost.: null
+    it had the rock in its mouth, not the chicken,: null
+    it has a huge strong mouth,: null
+    it is fun, what little I do.: null
+    it just wasn't working with my freshwater tackle.: null
+    it looked archaic.: null
+    it looked so bad: null
+    it made a loud, almost a croaking noise like a croaker does: null
+    it rained that night,: null
+    it really tastes pretty good.: null
+    it snowed on us.: null
+    it was brown with these little white dots: null
+    it was cold, and rain the whole time.: null
+    it was incredible the size of them,: null
+    it was just beautiful.: null
+    it was like the end of Ju. It was just before July fourth.: null
+    it was really your spring almost,: null
+    it was so big, that it might not would have hurt us,: null
+    it was the ugliest fish I've ever seen in my life.: null
+    it was twentyeight, twentynine degrees.: null
+    it was when I was a child.: null
+    it was, it scared me to death.: null
+    it was, it was really, really, really bad.: null
+    it wasn't hooked very well.: null
+    it will stay relatively well .: null
+    it's a fly, you call it a pattern.: null
+    it's a real small .: null
+    it's a real, it's a real enjoyable experience to go fishing there because we just, we pull up, bass after bass: null
+    it's been a little over a year now: null
+    it's driving me crazy: null
+    it's just pure and pristine.: null
+    it's kind of fun.: null
+    it's like if you drew a line from Austin straight down, it would be in that region.: null
+    it's like, maybe we ought to move just a touch.: null
+    it's mostly from the rivers and lakes.: null
+    it's the opposite when you're fishing from a boat.: null
+    it's what you do every day.: null
+    it's, it was sixteen inches long.: null
+    it's, it's full of carp I caught a carp on a, about, what size is that, I think it was a number two treble hook,: null
+    it's, it's so close to the dock that I think all I do is feed them a little bit: null
+    it's, it's, that's, a lot of fun.: null
+    it's, they do a lot of shark fishing in that, in the gulf: null
+    it, it was the strangest thing.: null
+    it, of course, it scared the women to death,: null
+    its, its mouth was full of hooks.: null
+    just put, his big thing last year was throwing it in the water and reeling it up .: null
+    just strung up,: null
+    just, usually worms, night crawlers.: null
+    let it sit on the bottom,: null
+    like what your talking about.: null
+    mainly I, I want to say I brought something home.: null
+    maybe division one right now.: null
+    most of my fishing is done at, area lakes around here, freshwater lakes: null
+    most of them are just the small, pan frying ones.: null
+    mostly lake fishing like rainbow trout and stuff because I used to live in Utah.: null
+    mostly we catch carp.: null
+    mostly, a, a little fresh water fish,: null
+    mountain streams and rivers.: null
+    my dad has a farm: null
+    my daughter caught fish,: null
+    my home is in, Pensacola, Florida: null
+    my uncle has a, a pond upstream: null
+    ? normally I like to, to go out fishing in a boat, and, rather than bank fishing,
+      and just to try and catch anything that's swimming, because I've had such problems
+      with trying to catch any type of fish, that, I just really enjoy doing the boat
+      type fishing.
+    : null
+    not be a very good conversationalist on fishing.: null
+    not exactly like,: null
+    now that we are down here, I think a lot of people do some, bass fishing and strip bass fishing: null
+    occasionally I'll catch an eel: null
+    occasionally we'd go out on a, full day trip, three or four other people: null
+    of course there's no hook,: null
+    of course, being raised on the water I'd never swim in it.: null
+    of course, depending on how big your bait was, would be depending on what you caught.: null
+    one of my favorite things was, we were forever catching crab and steaming them: null
+    ? one of these days, I will go over to, Lake Lewisville or, Ray Hubbard, Lake
+      Ray Hubbard and get some fishing in and get it out of my system for a while
+      .
+    : null
+    one of these days, I'm hoping they'll have some kind of medicine,: null
+    one time we were there,: null
+    our, our streams here are replanted with fish about every year: null
+    personally I like to catch large mouth bass: null
+    pretty close.: null
+    probably during, during perch season the perch will run in very large schools,: null
+    really, huge sharks: null
+    scared me to death.: null
+    seems to stick in my mind, five to seven dollars: null
+    she d, she's really a good fisher woman.: null
+    she has a lot of those, those little,: null
+    she told me that they will sometimes use corn or anything,: null
+    some fish steal it off the hook sometimes.: null
+    some of the young dread naughty boys in my family would fish for them all night: null
+    somebody takes it home and eats it then when there's just a couple people instead of a whole crowd.: null
+    something grabs and just runs with it.: null
+    sometimes I use corn,: null
+    sometimes they've had two on, one on every hook.: null
+    sometimes those are good to, do on a barbecue grill: null
+    that I was able to do, when I could go in and go down and actually pick them off the bottom.: null
+    that creek that had been fifty or sixty feet from our site of our tent was now about three feet away .: null
+    that has pretty well limited my fishing to fresh water: null
+    that part of it would probably work out .: null
+    that was a lot of fun.: null
+    that was kind of funny.: null
+    that way you can feel when they're hitting it,: null
+    that would be neat to,: null
+    that's a different kind of fishing off the pier, too.: null
+    that's a lot of fun.: null
+    that's how we do it too.: null
+    that's pretty much the same way here.: null
+    that's really about it.: null
+    that's the way my mother taught me to fry them: null
+    that's what I mean cause I am from Iowa.: null
+    that's what I said.: null
+    that, that's a pretty good fight.: null
+    the best thing for crappie is those little spinner baits and, and jigs.: null
+    the captain had, some kind of sonar in the boat: null
+    the catfish, there's, there's hundreds of them from like two to six pounds and, that,: null
+    the creek was just wild, just running.: null
+    the first thing I caught was a sand shark, which was probably a foot,: null
+    the first time I went surf fishing was in ,: null
+    the fish would be sitting at different levels.: null
+    the key is to always have your line tight.: null
+    the lake is beautiful,: null
+    the licenses weren't that expensive,: null
+    the little one, of course, is, could care less.: null
+    the men come out and said that's only a, a king snake, it won't really hurt you,: null
+    the next morning they would have them strung up across the: null
+    the ones I caught were never large enough to really do anything.: null
+    the only thing up here,: null
+    the other day I was fishing with bread,: null
+    the other little creatures would take care of what was left.: null
+    the rest of the time we stayed in the pool, because the water was so awful,: null
+    the rock itself: null
+    the skin just basically scrapes right off: null
+    the striped bass have accommodated themselves to the big fresh water lakes,: null
+    the trout fishing is supposed to be legendary.: null
+    the, I guess the creek, the mountains were really starting to melt,: null
+    the, the other thing that's real good is small,: null
+    the, the water was murky,: null
+    the, the, turtles try to eat up all my bait .: null
+    their tails would still hang on the bottom of the: null
+    then I felt something relatively heavy,: null
+    there are, there are a few lakes of course, close: null
+    there you fish mornings and evenings.: null
+    ? there's a certain period of time during the year they have all along the gulf
+      coast from, I guess from Galveston to Mayport they have, shark tournaments,
+    : null
+    there's a college across the street: null
+    there's a lake maybe two or three miles from here,: null
+    there's a lot of crappie in there now.: null
+    there's a lot of lakes around here.: null
+    there's a pretty good crowd there,: null
+    there's bumble bee patterns: null
+    there's not a whole lot of different kinds.: null
+    there's this one kind of cheese that you can put on the end of a hook: null
+    there's, there's so much water around: null
+    these are, real good, for, bass fishing and so forth.: null
+    these people own a little row boat,: null
+    they actually, use their teeth to open oysters.: null
+    they almost look neon.: null
+    they are probably fifteen, twenty acres maybe: null
+    they are really, good fighters: null
+    they are, definitely: null
+    they can, they're, they're certainly ugly.: null
+    they come in all si,: null
+    they do a lot of fishing there.: null
+    they do, of course,: null
+    they don't just run with your food.: null
+    they go fishing, up there.: null
+    they had all these canals up through this one little retirement area,: null
+    ? they had been fishing and let him use the pole while we wal, we all walked off
+      a healthy hundred yards or so and let him fish.
+    : null
+    they have a lot of bass tournaments.: null
+    they have a tail race over in Lake Lavon: null
+    they have like yellow, fuzz on a hook, that kind of comes out.: null
+    they have snakes over there,: null
+    they have the, Lake Texoma right next to them.: null
+    they like to fish.: null
+    they live in little shallow, little coves that I like to fish in,: null
+    they look just like baby catfish.: null
+    they really like that.: null
+    they troll it a little bit.: null
+    they wash, when they open up the dam and let out water, they wash down the fish: null
+    they'll be boating around: null
+    they'll clean your fish on a tip basis for you if you want.: null
+    they'll hit a, they'll hit a school of perches in the middle: null
+    they'll say, there's a big bass tournament this weekend,: null
+    they'll, they'll, they'll hit because they're just sort of surrounded, these large schools.: null
+    they're a little heavier: null
+    they're big fun.: null
+    they're bigger.: null
+    they're just real color, colorful: null
+    they're pretty exciting when they're, when they're running.: null
+    they're pure sil, all silver, something real shiny about that long.: null
+    they're really not,: null
+    they're sort of like, I want to say flies,: null
+    they, they just drop it in.: null
+    ? this is great, because it was, I think it was nineteen dollars for five hours
+      and twenty dollars for six hours or something.
+    : null
+    this is the ugliest,: null
+    this is, of course, X number of weeks or months before fishing season opens: null
+    this, this, this was for a, large,: null
+    three and a half pounds, and that was,: null
+    unless you have a boat you can't really get into the, where they call the good fishing holes,: null
+    up in, South Dakota on the, in the Missouri River there we've, tied into a few northern pike: null
+    usually you pull up, thirteen to fourteen inch bass.: null
+    very. very much there,: null
+    we catch a bunch of junk . Nothing, nothing to talk about for the most part,: null
+    we did a lot of fishing when we were up there.: null
+    we do have a awful lot of snakes in our lakes.: null
+    we do most of our fishing at night.: null
+    we don't ever catch enough to eat.: null
+    we figured we were up a long way off.: null
+    we go ahead and eat those.: null
+    we go there for the small lake, just outside of the Dallas Fort Worth area.: null
+    we go, and we fish,: null
+    we got him a little pole last year,: null
+    we got up the next day,: null
+    we had been fishing in a canal,: null
+    we have a lot of cotton mouth,: null
+    we have a lot of, beautiful fresh water streams that come through thi, this area.: null
+    we have a pretty large bass masters tournament actually takes place right on Lake Ontario every year.: null
+    we have a, qui, actually quite a lot of variety.: null
+    we have large mouth, small mouth, sort of musky, pike, stuff like that.: null
+    we have those.: null
+    we just, every time you tossed the line in, you pull up a five, six, seven inch minimum bass: null
+    we moved to, South Dakota: null
+    we still had a good time out,: null
+    we sure felt like it was hurting us, just being there, .: null
+    we thought maybe there are some crab in here,: null
+    we thought, wonder how far off we are?: null
+    we use to catch those little bullheads: null
+    we use worms and shiners, which is pretty much like minnows: null
+    we used to catch some, sand bass off Lake, there's a Roosevelt Bridge: null
+    we used to have a light at the top of the water.: null
+    we went fishing there last memorial day, *Memorial Day: null
+    we were pretty bored with that.: null
+    we would do a lot of fishing there too: null
+    we would go and just, drop two, a, a two or three rig, two or three hooked rig as well down off a boat.: null
+    we'd been fishing in the canals: null
+    we'll try to catch some crab.: null
+    we're in what's called the Finger Lake Region of New York: null
+    ? we're only just a few, not a few minutes, we're, forty five minutes to an hour
+      away from the eastern shore here in Maryland
+    : null
+    we've caught, fourteen, fifteen pound catfish: null
+    we've never caught enough to really have what you'd call a fish fry.: null
+    we've never entered a tournament or anything.: null
+    we, I was out in Florida with a friend a while ago: null
+    we, we have gotten out on, on trips before and just stopped and watched it because there was so much,: null
+    we, we were grouper fishing,: null
+    what they'll do is j,: null
+    what we'd do is let the line all the way to the bottom and crank up,: null
+    what you do is, you strip off, four, five, six little rolls, coils, of line into your hand.: null
+    whatever the fish is the specialist in that area, I, I enjoy fishing for it,: null
+    when I fish, it's more for sport than anything else.: null
+    when I get tired of them outwitting me, I fish for catfish: null
+    when I go on one of the large lakes that we have here that I enjoy fishing for, for trout from that,: null
+    when the water is cold, they are very slow moving fish,: null
+    when they do, you can just drop the lines in and just pull them in one at,: null
+    when they pull in, there's a snake instead of a fish,: null
+    when would go, we would go to Port Aransas or then, on down to Corpus or further,: null
+    when you were,: null
+    where there're lots of small lakes everywhere: null
+    you catch blues: null
+    you catch that white bass and crappie out of there.: null
+    you could pull them up two and three times in a row,: null
+    you do it again.: null
+    you don't have to really get, fish from a boat, because they're actually right there at the shore.: null
+    you had to find out what level, how many cranks they were off the bottom.: null
+    you just drop it in it just,: null
+    you just leave it at that level: null
+    you let it carry it downstream.: null
+    you reel it in,: null
+    you splash in: null
+    you throw it in,: null
+    you throw it out: null
+    you troll it: null
+    you whip the line.: null
+    ? you'd get to go out there for, five, for, for six hours and get a nice suntan
+      and bring along some lunch and, and fish all day.
+    : null
+    you'll, you'll be sort of boating around,: null
+    you're in to it just a little bit,: null
+    you're, how your line goes,: null
+    you've got to have,: null
+    you've got to work for a living.: null
+    you, you get one or two at a shot,: null
+    you, you stand on the edge and you, you cast out and you, you work, from your feet most of the time: null
+  Statement-opinion: !!set
+    Boy they d, they really don't want to come out of the water: null
+    Colorado is a beautiful place to live.: null
+    Fish in Colorado s, different than that.: null
+    Fishing is not just, just dragging fish out of the water.: null
+    I mean incredibly large sharks.: null
+    I think I know where, Lake Caddo, or something like that.: null
+    I think that would probably be a good way to catch catfish,: null
+    I think there's a lot of people that have, really, I guess that you'd call it really sport fishing,: null
+    I think they're good to eat.: null
+    I think we're probably close, though.: null
+    It most certainly is, so, so that, it, it was, it was certain things that were enjoyable about it,: null
+    It takes time.: null
+    It's not a treat: null
+    It's real enjoyable.: null
+    It's really nice .: null
+    It's, it's a total experience, getting out in nature and,: null
+    On a like that's not a bad size fish. *listen; transcript should probably read "lake" not "like": null
+    Swimming is for swimming,: null
+    That looks awful tiring .: null
+    That would be fun.: null
+    That would have been something.: null
+    That's one advantage you've certainly got on us.: null
+    That's where you swim.: null
+    That's why they call them swimming pools .: null
+    The peace and calmness is really relaxing.: null
+    There's so many different ways to catch fish.: null
+    You do not swim in the ocean.: null
+    all they're good for is the fight.: null
+    be careful you don't get stung.: null
+    it is, it's very, a very relaxing sport to be able to just be out on the water and looking around.: null
+    it seems more relaxing, there's more to look at.: null
+    it's a big problem.: null
+    it's a good thing to take a nice book and sit back and read and fish.: null
+    it's a lot of fun.: null
+    it's just so dreadfully expensive,: null
+    it, it is interesting to watch that water rise all of a sudden.: null
+    ? it, the lake it just seems, is, is completely filled with bass to the point
+      where, normally you go, y, y, go fishing for bass, you get a lot of sunfish,
+      or, or cat or whatever, and some other strange stuff. *listen
+    : null
+    long as you have a good time, that's the main point: null
+    maybe I can learn something.: null
+    seems like every time somebody's on the bank, all they want to do is throw it out just as far as they can: null
+    that sounds like fun.: null
+    that would be nice.: null
+    that's a good size fish .: null
+    that's a pretty big fish.: null
+    that, that's true,: null
+    there are people who catch.: null
+    there are people who fish,: null
+    there's are a lot of people that like to go fishing,: null
+    there's just so many other ways live down there.: null
+    there's something about listening to water run that's relaxing to the soul .: null
+    these aren't huge lakes from your point of view: null
+    they're really into it to try to win.: null
+    they're scary looking.: null
+    when you, when you have to look in their eyes and, hit them in the head or whatever, that's what you do with a catfish: null
+    you guys sure want to be out of range.: null
+    you sound like you're a good fisher woman, too.: null
+    '{F uh, I don''t, I think it''s lost a lot of it''s appeal since then, because of all the oil spills that they have had,': null
+  Wh-Question: !!set
+    Do you like, what do you like to go for?: null
+    What area of lakes do you like?: null
+    What division are you all in?: null
+    What division you all in?: null
+    What do you, what do you catch perch on?: null
+    What kind of fishing do you do?: null
+    What'd you do with them?: null
+    What's the largest fish you ever caught?: null
+    What's the season?: null
+    What, what kind of bait do you use to catch them?: null
+    Where are you from?: null
+    You moved there from where?: null
+    how do you, how do you,: null
+    what kind of fish do they have in your neck of the woods?: null
+    what kind of fish do you like the best to eat?: null
+    what kind of fishing do you do?: null
+    what kind of fishing do you enjoy?: null
+    what's a license cost?: null
+    when you did go fishing where did you go?: null
+  Yes-No-Question: !!set
+    A real light line, real light rig?: null
+    Are there many?: null
+    Are they good to eat?: null
+    Are they poisonous snakes?: null
+    Are you fly fishing: null
+    Can you eat them?: null
+    Did someone just come up with this design,: null
+    Did you ev,: null
+    Do they ever get on your hook?: null
+    Do they have a limit on sharks,: null
+    Do you fly fish, or are those streams too small?: null
+    Do you have a boat?: null
+    Do you have any kids that you take fishing?: null
+    Do you have any,: null
+    Do you have bass?: null
+    Do you have to,: null
+    Do you, do you, do you actually like the taste of f,: null
+    Have you ever fished off the pier?: null
+    Have you ever tried, deep sea fishing?: null
+    Have you fly fished?: null
+    In California?: null
+    Is it still there?: null
+    That's the same way here, isn't it?: null
+    Was it bad?: null
+    Wouldn't that be something?: null
+    You just like to sit down and watch it, right.: null
+    You're casting the weight of the line.: null
+    are there many lakes up there?: null
+    are you a fisher person, are you?: null
+    are you a freshwater or,: null
+    are you more of a sport fisherman?: null
+    are you there?: null
+    can you actually catch those: null
+    did you get to go fishing very often?: null
+    do you fish?: null
+    do you have any friends with ponds?: null
+    do you just, skin your catfish: null
+    do you live along, Houston,: null
+    do you wear waders when you fish?: null
+    do you, do you fish mainly for trophies: null
+    do you, eat the fish that you catch: null
+    from a boat or from shore?: null
+    have you had very many of these calls?: null
+    in Amarillo did you fish any ?: null
+    in the rivers and stuff?: null
+    is that like a, a sport fish,: null
+    is that mostly, fly fishing when you're doing that: null
+    like in, Iowa and Nebraska, those little bullheads, they look just like catfish,: null
+    mostly catfish: null
+    that school up there? *listenis there overlap?: null
+    the, what is it, the Flagship?: null
+    there's no limit.: null
+    what do you like, brookies or, rainbows: null
+    you fish upstream?: null
+    you like to eat them after you catch them?: null
+    you like to fish,: null
+    you mean size wise they're not very big?: null

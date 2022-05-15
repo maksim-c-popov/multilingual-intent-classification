@@ -1,0 +1,868 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    For eighteen?: null
+    I guess that's a good question?: null
+    more because of their personalities: null
+  Dispreferred answers: !!set
+    part of it was the personality and their sportsmanship.: null
+  Statement-non-opinion: !!set
+    A neat experience .: null
+    Actually I'm a spectator,: null
+    And as, and did some, instructions at the country club for a while.: null
+    Another part of it was I'd pick one out that was different than what my husband was rooting for: null
+    Any time they both played, he was just real excited when Tom was, shown on the television,: null
+    As a matter of fact a friend of mine asked me if I thought I'd be interested in golf.: null
+    As a matter of fact, so I don't have time to do much else, except for graduate work.: null
+    As far as watching golf, I can watch it on T V: null
+    At, Indiana University.: null
+    Course, I know I watch my thirteen year old play now,: null
+    Craig won in a playoff.: null
+    Either I'm not driving very well: null
+    Fact, ever time I'd start trying to correct something, it seemed like the score would *listen: null
+    For eighteen.: null
+    Fortunately, down where I live in Florida, there's some golf courses that are pretty reasonable if you know where to look.: null
+    God, I, a couple years ago I played two, three times a week and got lousy.: null
+    ? He could tell me exactly what day and what time of year and where the tournaments
+      were going to be held, and what the nature of the hole was and,
+    : null
+    He has got, a six handicap.: null
+    He has used a lot,: null
+    He would love it if I would go out and play with him,: null
+    He's replaced almost as many clubs as he has balls.: null
+    He's, he'll talk about the other guys he plays with doing that: null
+    He, he'll come home though, he'll shoot when he was shooting in the hundreds,: null
+    I actually live in Florida: null
+    I alternate.: null
+    I always managed to, to get near par anyway.: null
+    I am a golfer.: null
+    I am as a matter of fact.: null
+    I am not an athlete at all.: null
+    I am not an athlete.: null
+    I am not really deeply involved in any, following any of the sports.: null
+    I am very good at watching it on television.: null
+    I basically, I had a horrible slice or hook,: null
+    I became involved in following his career.: null
+    I believe so.: null
+    I belong to the country club there in El Reno when I lived there: null
+    I bought her a set of clubs four years ago.: null
+    I buy in, in Austin, Texas,: null
+    I can hit a great drives and think I'm going to do all awesome on this hole: null
+    ? I can imagine what kind of costs are involved if you're going to try to go pro,
+      because you spend hours and hours and hours
+    : null
+    I can play for free there: null
+    I can't do that: null
+    I can't even hit the ball .: null
+    I can't even play miniature golf well.: null
+    I can, I can just have better contact with the ball that way.: null
+    I come from a family of golfers.: null
+    I decided Andy Bean was good competition .: null
+    I decided this past year that I was going to get out and start playing a lot more: null
+    I didn't get it done.: null
+    I didn't get out this year,: null
+    I do enjoy it.: null
+    I do enjoy playing.: null
+    I do enjoy,: null
+    I do, actually, hit the ball better.: null
+    I don't actually play golf.: null
+    I don't consider myself a good one,: null
+    I don't do much with it since, most of theirs,: null
+    I don't either .: null
+    I don't even know if I checked that or not, to be perfectly honest. .: null
+    I don't get upset any more.: null
+    I don't have enough field.: null
+    I don't hit a driver off the tee.: null
+    I don't know if it's just because I like the game or I just like to, to see the warm weather.: null
+    I don't really know.: null
+    I don't ride: null
+    I don't, I don't know what changed that pattern.: null
+    I don't, I don't recall anymore.: null
+    I don't, don't get to play except on the weekend.: null
+    I either, teeing off I either slice it: null
+    I enjoy both watching it and playing it.: null
+    I enjoyed it tremendously,: null
+    I felt, had more energy to play it, too.: null
+    I figure that's my retirement game.: null
+    I finally get to the green: null
+    I finally got out,: null
+    I followed Andy Bean.: null
+    I forget which one it was.: null
+    I found as I've gotten a little older here, I worry less about my distance.: null
+    I get a little exercise there, too,: null
+    I get a pretty good little drive: null
+    I get a reimbursement every now and then and don't really: null
+    I get out there one way or the other.: null
+    I get to walk all around a little green field all day.: null
+    I go down to Austin,: null
+    I go to this Ducks Unlimited dinner,: null
+    I got into it and then back out of it,: null
+    I got to start all over again.: null
+    I got worse again: null
+    I guess , it's free for me .: null
+    I guess I laid off long enough to get rid of all my bad habits.: null
+    I guess I've always kind of liked golf.: null
+    I guess he's real laid back about it.: null
+    I guess they have those, driving ranges that are actually stacked one on top of the other.: null
+    I guess when I get back, I'm going to school in Florida: null
+    I guess, the first time I played golf has been probably about eight or ten years ago now, when I was in college.: null
+    I had a lot more control on it,: null
+    I had not been able to play: null
+    I had to check that and, and, talk about it.: null
+    I had to start playing because, he was, such an avid golfer.: null
+    I hang around this way,: null
+    I hav, I haven't played in about two years,: null
+    I have a brotherinlaw who is, an excollege coach and like a pro: null
+    I have a hard time inventing shots,: null
+    I have a part time job: null
+    I have a two through, two through wedge.: null
+    I have been doing this for awhile,: null
+    I have been playing now,: null
+    I have got to hit it.: null
+    I have got to try and get out there.: null
+    I have had clubs for twenty years,: null
+    I have just got to get this drive, really far,: null
+    I have never played in any tournament except just a scramble.: null
+    I have not played in a long time.: null
+    I have not played the course,: null
+    I have this nasty habit of of turning my head at the last second, or,: null
+    I have to that, especially, even more so, with a short iron than a long ir,: null
+    I have, I can gi, get it within four or five feet or something: null
+    I have, I have very litt, at the moment I have very little playing time.: null
+    I haven't gotten the chance lately though to play.: null
+    I haven't learned to hit the ball easy: null
+    I haven't played around here too much.: null
+    I hit a two iron awful lot.: null
+    I hook it ever single time: null
+    I just did not, I did not know: null
+    I just got to do it all at th, on the same hole,: null
+    I just love them.: null
+    I just moved into this small community: null
+    I just sort of figured, it's going to work.: null
+    I just sort of,: null
+    I just stopped playing.: null
+    I just took it up about three years ago: null
+    I just use a two wood off the fairway: null
+    I just, I need to slice this ball around here,: null
+    I keep, I keep rationalizing that I can do it,: null
+    I know I did.: null
+    I know ever year we buy,: null
+    I know that, that my husband,: null
+    I know that.: null
+    I like that too.: null
+    I like that.: null
+    I like to watch him.: null
+    I like to watch those skins games.: null
+    I like watching it on T V.: null
+    I like, I just like getting out, being in the outdoors,: null
+    I live in the Dallas area, but I go down to Austin and go with my good customer and friend of mine: null
+    I may have, actually, I may have just checked random things.: null
+    I myself, really have not seen a whole lot of point to the game of golf.: null
+    I naturally slice anyway,: null
+    I never really thought it was, would be that much fun to go to a big golf tournament and watch: null
+    I play at least three times a week.: null
+    I play golf: null
+    I play with a fellow that can knock a one iron,: null
+    I played in a tournament out there,: null
+    I put mine back in my bag this year, too,: null
+    I really did not know so I,: null
+    I really don't care.: null
+    I really enjoy it.: null
+    I really, I, I haven't really acquired an interest in it,: null
+    I sacrificed distance,: null
+    I said I don't know,: null
+    I said, Whoa.: null
+    I said, yeah,: null
+    I saw one of those on T V.: null
+    I see how close I can come to that.: null
+    I shot a net fiftynine.: null
+    I sometimes wonder why men like it so much because they get so frustrated: null
+    I st, then I sort of, went, went back to school and did not have time and this and that,: null
+    I still remember that watching myself and my son: null
+    I think I'm going to like golf the older I get,: null
+    I think it's actually, it's absolutely wonderful to see.: null
+    I think that's probably going to be one of the next investments, is get her, get her a set of clubs: null
+    I think this next year, I'm going to, I'm going to attempt to play more: null
+    I think, I think I played better golf when I was fifteen, John, than: null
+    I took out a few videos and watched them for a while,: null
+    I took, I took it as a P E course and then kind of left it alone for a while,: null
+    I try to play,: null
+    I use a three iron off the tee: null
+    I used to, when I worked at Kerr McGee, I used to play in their tournaments.: null
+    I usually play a couple of times a month.: null
+    I w, I got on to a team in high school but wasn't very good still.: null
+    I was able to go and see one of the rounds of that: null
+    I was down at about four or five quite awhile ago.: null
+    I was horrible,: null
+    ? I was raised by a man, my stepfather who, with a two handicap, he, he, he, he
+      could get down on his knees and hit the ball, further than most people could
+      hit it.
+    : null
+    I was slicing,: null
+    I wasn't in trouble every time I got down the fairway.: null
+    I watch my husband swing: null
+    I went and took some lessons,: null
+    I went out two weeks ago with the guys here.: null
+    I went to that.: null
+    I work at T I.: null
+    I work during the week all the time.: null
+    I worry about that.: null
+    I'd go up there with friends after school a couple of times every week: null
+    ? I'd like to, eventually I'd like to work up, if, if my wife does get interested,
+      and maybe get involved in a league in a, in a mixed, mixed doubles league, or
+      something like that.
+    : null
+    ? I'd say we probably have within fifteen miles, twenty golf communities built
+      around courses that are pretty well designed and then of course, Pine Hurst
+    : null
+    I'd started picking it up again a couple of years back: null
+    I'd started playing when I was in elementary school actually.: null
+    I'll get us there: null
+    I'll have to see if I can't get a chance: null
+    I'll show them we can play golf in the middle of winter when we can't do it back home.: null
+    I'm a fairly strong person: null
+    I'm a graduate student,: null
+    I'm a hunter and fisher anyway,: null
+    I'm a math computer science major right now.: null
+    I'm a player.: null
+    I'm a second hand spectator as a result of my first husband's, my late husband's, interest in golf.: null
+    I'm a student right now.: null
+    I'm always the one that got hit by the bat in baseball,: null
+    I'm always wanting to hit it hard: null
+    I'm familiar with it.: null
+    I'm fifty years old,: null
+    I'm getting better.: null
+    I'm going to do it right, and see if I can actually play this game or not.: null
+    I'm going to do the same thing.: null
+    I'm going to go take lessons and everything.: null
+    I'm going to have to golf at a time when the heat of the day does not cook me.: null
+    I'm going to have to golf in the evening: null
+    I'm going to try and get into one of the golf courses here.: null
+    I'm kind of a novice at it.: null
+    I'm kind of embarrassed I'm talking to a man, cause I'm sure that you are, you play a lot more than I do.: null
+    I'm not a serious golfer at all,: null
+    I'm not as good as I'd like to be: null
+    I'm not hitting long irons very well: null
+    I'm not putting well: null
+    I'm one of those rare lefthanded golfers.: null
+    I'm open to try anything,: null
+    I'm pretty bad: null
+    I'm pretty much addicted to golf,: null
+    I'm still using a three iron: null
+    I'm talking to the wrong guy.: null
+    I'm that and worse.: null
+    I'm the same way.: null
+    I'm trying to get back into it.: null
+    I'm usually around a hundred.: null
+    I'm very busy,: null
+    I'm, I'm good up to everything else putting and stuff like that: null
+    I'm, I'm usually in the eighties or nineties: null
+    I've been a hacker,: null
+    I've been doing so bad.: null
+    I've been playing, off and on when I can.: null
+    I've been to both of them: null
+    I've been watching quite a few videos.: null
+    I've got the same attitude.: null
+    I've got where now I can hit it in, in the air some of the time.: null
+    I've had a par and a birdie,: null
+    I've just never really gotten into that.: null
+    I've never been to a tournament.: null
+    I've only been playing about three years now.: null
+    I've really been enjoying it.: null
+    I've tried to get my wife,: null
+    I've walked up a few times on the golf course by myself with nobody else to play with,: null
+    ? I've, I've kind of formed the attitude that, if I could just, if I could pick
+      two or three shots out, out of my game every time and put them together on one
+      hole, then I do pretty good
+    : null
+    I, I don't have a, I don't really even have a game.: null
+    I, I hope I'm on the right track.: null
+    I, I know with our, our long winters I, I enjoy watching it.: null
+    I, I laid off my woods about three years ago: null
+    I, I play in, in lo, a lot of groups: null
+    I, I played, eighteen holes with some Japanese guys in, in Gainesville, as a matter of fact.: null
+    I, I played, just a tiny bit when I was real young: null
+    I, I really do,: null
+    I, I used a three wood rather than a driver.: null
+    I, I went after it: null
+    I, I wish I had more time to play: null
+    I, I worked on a golf course at, at one time: null
+    I, I'm a guy that plays,: null
+    I, I'm more, I think I get more enjoyment just couple friends going out.: null
+    I, I'm not good enough for that .: null
+    I, I've also found, too, I, I try to work out regularly: null
+    I, I've got my wife motivated about it,: null
+    I, I, I actually don't know,: null
+    I, I, I enjoy,: null
+    I, I, I get great distance hitting it, across the ground,: null
+    I, I, I get through the ball better.: null
+    I, I, I go home, I've gone home every year now since I've moved to Dallas to, to go pheasant hunting,: null
+    I, and I guess control my irons, better,: null
+    I, attend the Indiana University: null
+    I, consider myself a hacker.: null
+    I, had a chance,: null
+    I, have tried to go out and play golf.: null
+    I, haven't been out all year.: null
+    I, my, my tee off is not bad,: null
+    I, they keep score and, between themselves: null
+    I, watch them on T V a lot.: null
+    I, we have three teenage daughters.: null
+    I, when I used to golf out there I'd putt well but I, I wouldn't, chip well.: null
+    I, when I was younger, I played a little bit: null
+    I, you'd think you would: null
+    If he did something bad, he's liable to take that club and throw it as far as he can throw it.: null
+    If, when I'm in the nineties I'm feeling good.: null
+    It takes them two to get there and two to get it in: null
+    It took me a long time to learn to wait until the ball was in the air before I looked up.: null
+    It was on network T V a couple of times.: null
+    It wound up tossing the ball into the trees,: null
+    It's all over the news,: null
+    It's been probably five years since we've had any measurable snowfall.: null
+    It's going to start, when we change time back whenever that is: null
+    It's just like I, I don't watch the ball die,: null
+    It's like he's trying so hard, it's not that flowing movement.: null
+    It's probably up there to twenty now if I to start again.: null
+    It's, it's been a while now .: null
+    It, it's, it's a, it's a good game.: null
+    It, it, it's only been that way in the last five years.: null
+    Just walking around the hollow and making sure there's not really,: null
+    Maybe golf is a forgiving sport.: null
+    Miniature golf, there you go, putt, putt.: null
+    Miniature golf, there's my game.: null
+    ? My cha, my challenge of the game is just, if I can get off the first tee when
+      everyone's standing around watching you, I'd be ,
+    : null
+    My dad is a member of a golf club over in my home town: null
+    My husband and his buddies are not very good.: null
+    My husband likes golf also,: null
+    My husband's played for twentyfive.: null
+    My wife and I both do it, as a matter of fact.: null
+    Next year, next year I'm starting over from scratch.: null
+    Not a good one,: null
+    Now I'm T V watching.: null
+    Now it's, like I say, it's been a while for me, too.: null
+    Now my husband has a temper,: null
+    Now we get nothing.: null
+    Off, now, off the tee.: null
+    One of the two,: null
+    Or my favorite,: null
+    Right now it's three.: null
+    See how it's going to break or whatever.: null
+    She hasn't even swung them,: null
+    She's does a little fishing,: null
+    She's, she's up in the house and talked to my mother the whole time we were out hunting and stuff,: null
+    Shot a career low eightynine, my handicap is twenty nine.: null
+    Somebody's paying: null
+    Someday when I, I get where I live closer to the club and partially retired, maybe I'll, be able to play a little more: null
+    Something is coming through now: null
+    Sometimes in January it's not too comfortable to play.: null
+    Sometimes more,: null
+    That seems to have been a mistake,: null
+    That was their deal,: null
+    That's because he's probably doing what I do, worrying about,: null
+    That's my friends.: null
+    That's my thing. Around a hundred.: null
+    That's the way I look at it.: null
+    That's when I do my worst.: null
+    That, that's why I need my driving lessons.: null
+    The one thing that is also detrimental as far I'm concerned, my skin is very fair: null
+    They have a lot of them there at the club,: null
+    They have a really nice championship style course that: null
+    They make you die at the hole every time.: null
+    They play maybe once a month or less: null
+    They were amazed.: null
+    They were into it.: null
+    They were kind of, little upset.: null
+    Tom Kite was his fair haired boy.: null
+    Up in Minneapolis it's not too easy to play in the winter of course: null
+    Usually January and the first two weeks of February.: null
+    We belong to a country club a little ways outside of Dallas,: null
+    We both followed Lee Trevino into the Seniors.: null
+    We get a mixed league in,: null
+    We have a very good one called Locust Hill though.: null
+    We have very windy winters: null
+    We played out here a couple of times in the middle of the winter when my parents came down and what not.: null
+    We used to get four or five inches a year.: null
+    We're about fifty yards from the golf course: null
+    We've got tons up here: null
+    When I, when I go on vacation, my father and I,: null
+    You can get out there,: null
+    You can't do anything,: null
+    You hear about Japan.: null
+    You hear about it where they will take the orange ball out there: null
+    You think you do pretty good one day: null
+    a I got a little bit better,: null
+    a bunch of us were pretty avid golfers.: null
+    a friend of mine goes golfing a lot: null
+    a, and in Tulsa: null
+    about five or six years ago, my dad , who plays every now and then took me out with him: null
+    actually I take it kind of seriously: null
+    all of a sudden you go back out: null
+    all they did every day in their life was to play golf every,: null
+    and you sort of stink, like me,: null
+    as, as the friends start getting married and things like that, we've made a tradition of, having a, a Thursday,: null
+    at least I can get out and play a few hours of golf: null
+    because when it's going up a hill it's going to break in a direction.: null
+    checking the ground and, and so forth,: null
+    ? course, believe it or not by the end of the third day and the end of the, third
+      course, my score has gone from, a hundred and twenty down to about a hundred
+      and five.
+    : null
+    did, I really didn't find much improvement.: null
+    during the year, I don't play much golf: null
+    each shot I say, this is what I'm going to try to do: null
+    finally got, got into it when I was, while I was still in school: null
+    for a woman, it's really nice to play a par three course because,: null
+    for each hole they win they get the money: null
+    fortunately, I've been able to, to play some golf on a student budget which is: null
+    give her something to do that we both enjoy,: null
+    golf was one that I developed a working knowledge of a lot of the golfers,: null
+    have, have probably a Thursday night bachelor party and a Friday golf day before the wedding.: null
+    he doesn't seem to show it on the golf course.: null
+    he drags me out every now and then: null
+    he has a very good handicap and plays good golf: null
+    he has been playing since we have been married for twenty two years.: null
+    he just struggles,: null
+    he said, fine,: null
+    he said, we'll just take you over to the course,: null
+    he thought he was spectacular.: null
+    he was a good golfer.: null
+    he was really, enthusiastic about keeping up with the tournaments.: null
+    he'll tell me what a great day he had, and about this great shot he made and everything .: null
+    he's got the coordination, that God given coordination,: null
+    he's not too bad: null
+    he's, I guess he'd be a fanatic if he thought he could get away with it .: null
+    he's, he was a professional athlete,: null
+    he, he limits it pretty good.: null
+    he, he's a very good athlete: null
+    here it is, sixtyfive degrees,: null
+    his accuracy is what's so startling with it.: null
+    his swing, compared to the pros, is so, it's ridged.: null
+    hopefully we can, we can start in.: null
+    i, inevitably one facet of my game isn't working at one time or another.: null
+    if I could play there every time I want, it was, it was great.: null
+    ? if I get off the tee box and I, and I've, anything from a hundred fifty to two
+      hundred yard drive through a straight, I just want to get down and kiss the
+      ground, .
+    : null
+    if I play a lot of golf, I play six to eight times a year: null
+    if it works, it works.: null
+    if it's going over water or something one of them have to take the shot for me because I'm,: null
+    if you ever played,: null
+    if you know if it's up on a slope that you've got to hit it not kill it: null
+    ? if you pick a group of golfers and follow them around, it's just, watching them
+      the whole time instead of like on T V, you get to see them make a tee shot
+    : null
+    if you play regular, I think it makes a big difference.: null
+    if, if it takes one of us ten shots to get up to the green, so be it.: null
+    in fact, I don't even like to use a driver,: null
+    in the Carolinas it's, it's just, we've got a bunch of golf courses around here.: null
+    is it seems like I go home and play golf more than I do around here,: null
+    it ain't going to happen.: null
+    it just dies and rolls in.: null
+    it just seems like every couple of years I get back in there .: null
+    it runs from five o'clock to seven thirty: null
+    it was really wild.: null
+    it will start then,: null
+    it won't take her long.: null
+    it's , it is so much fun to: null
+    it's a good thing with me I slice it every single time.: null
+    it's a hunter's type affair: null
+    it's a pretty nice course.: null
+    it's been, it's been almost a year, I guess, since I've actually, swung a club for a purpose.: null
+    it's exceedingly well kept, apparently.: null
+    it's fifty percent.: null
+    it's hard for me.: null
+    it's incredible.: null
+    it's just terrible.: null
+    it's just, that, that initial tee .: null
+    it's like in the low forties right now.: null
+    it's not going to cost me an arm and a leg, really.: null
+    it's not my favorite,: null
+    it's really something else.: null
+    it's so frustrating,: null
+    it's something we can do together,: null
+    it's supposed to leave early in the week and then be back in the sixties.: null
+    it's the same way here.: null
+    it's, I just, I watch my husband: null
+    it's, it's a lot more exciting than actually w, than watching it on T V.: null
+    it's, it's like I said: null
+    it's, not only that,: null
+    it, it takes me awhile to get to the hole: null
+    it, it's an iron that he's really practiced with.: null
+    it, it, it rained through half the tournament, so people had to ,: null
+    it, it, it usually takes me about probably two, two or three to get it there: null
+    it, that makes a lot of difference to me.: null
+    just get so mad, he'd just wham that club up against a tree and break that rascal.: null
+    just recently I got married: null
+    k, kind of the same situation.: null
+    last week we were in the seventies.: null
+    lately it's been just about that.: null
+    man, it was, it was something else just to follow those guys around and actually watch them play.: null
+    maybe one or two putts.: null
+    maybe that's what I'll do when I have time later on,: null
+    me it takes me five to get there and five to get it in.: null
+    mine had a very short fuse.: null
+    most of the courses have a, two day advance tee time you have to call,: null
+    most of their meetings and all are during the week: null
+    my control is a little bit better there.: null
+    my husband and all the men, they love the real competitiveness of playing for money,: null
+    my husband is trying to get me into using a, {D you,: null
+    my husband is, is a very good golfer.: null
+    my husband's average ran in the mid seventies: null
+    my husband's pretty tolerant,: null
+    ? my mother who is now, my mother who is now seventyone , I can remember her being,
+      I believe a sixteen or a fourteen handicap,
+    : null
+    never yet have I met anybody on the golf course that wouldn't allow me to join their twosome or threesome.: null
+    never, never yet have I walked up,: null
+    nor do they give, instructions away.: null
+    now I guess, being in my forties, I just kind of mellowed out a little bit.: null
+    now that was very competitive.: null
+    now they're down into the hundreds: null
+    now when I come out here I just kind of let it go,: null
+    once I get up on the green I'm fine,: null
+    one of them is the University of Florida golf course: null
+    one, one of the guys mentioned to me at work one day if I played golf.: null
+    recently I picked it up, like you say, about a couple of years ago: null
+    same here, I'm a brown belt in Karate at this point in time.: null
+    same thing here.: null
+    she could care less about that.: null
+    she doesn't do much hunting,: null
+    she'd be outside,: null
+    since then, we've made it,: null
+    something would go wrong: null
+    sometimes it all comes together.: null
+    sort of like the non golfer golfer of the family.: null
+    subsequently when I do tire out from playing like twelve, fourteen holes, my, a lot of my energy's gone,: null
+    th, those are the comments I kept hearing from the pros,: null
+    that was really fun.: null
+    that was, that was the way to play,: null
+    that's about it.: null
+    that's about the same I guess as it is in Florida.: null
+    that's according to the hole: null
+    that's back in South Dakota where I grew up: null
+    that's how I picked up golf.: null
+    that's kind of the way I did it too: null
+    that's my favorite kind to play.: null
+    that's not my golf.: null
+    that's pretty, pretty good.: null
+    that's really neat.: null
+    that's something my stepfather never could teach me, just to relax and hit the ball,: null
+    that's the problem out here with the long layovers with the winter: null
+    that's the thing my kids like to do that with, on dates and stuff.: null
+    that's what I'm trying to get her ready for.: null
+    that's what they do here sometimes.: null
+    that, that tee shot, it,: null
+    that, that's, that's been my main, my main involvement,: null
+    the L P G A comes here every year: null
+    the T V golfers they do that.: null
+    the course is so well maintained: null
+    the friends I play with, they play all the time: null
+    the grounds keepers were absolutely wonderful about,: null
+    the hook goes to the left,: null
+    the one factor that really bothers me is the expense of playing golf.: null
+    ? the one iron is something I've been thinking because my driver's gone so badly
+      lately that I, I should pick one up and try to start.
+    : null
+    the only thing I do now is I occasionally go out to a driving range and hit a couple of balls and see what I can do.: null
+    the reason I like it so much is because I'm essentially playing against myself.: null
+    the slice goes to the right: null
+    there was a movie about a professional golfer: null
+    there we go.: null
+    therefore I enjoyed following those particular players.: null
+    they all hit in the low nineties,: null
+    they come back when they're putting,: null
+    they don't give those sessions away.: null
+    they don't like to play with me because I'm too slow for them,: null
+    they go off to some other hole: null
+    they had the P G A tournament up in Indianapolis last year: null
+    they have A B C D type tournaments: null
+    they have a traveling league,: null
+    they just, I just,: null
+    they keep saying it's just wonderful,: null
+    they kept saying, we hear, on, on television I,: null
+    they kicked our butt all the way to,: null
+    ? they range anywhere from about five bucks for your basic city type course up
+      to fifty, sixty dollars for a really, really nice course.
+    : null
+    they say the course is very, is, is, is pretty tough, pretty challenging.: null
+    they say the, the,: null
+    they still,: null
+    they think they're having a really good game .: null
+    they were just starting to learn,: null
+    they were shooting a hundred, hundred and twenty: null
+    ? they'd leave work and go to a golf course, or a little country club they belonged
+      to back in Richmond, Virginia and just, play nine holes of golf.
+    : null
+    they're freezing cold back there,: null
+    they're really good.: null
+    they, they golf in the high sixties low seventies: null
+    they, they have the club championships and everything with the women's slots as well,: null
+    they, they say I hit worm burners because I, I can't hit it up in the air.: null
+    this is a big golf area.: null
+    this is only my second day doing it: null
+    those are, it's hard for me to,: null
+    those fees to join a club.: null
+    to, to see their concentration and yet to see them, how friendly they are when they're, walk by you, and: null
+    turning your head is probably the most common thing for women,: null
+    unfortunately the house is taking up my time.: null
+    we , we have one down here in the summertime.: null
+    we always buy this weekend at a, at a country club in the hill country.: null
+    we both just, sort of, get these random checks in the mail: null
+    we bought a house.: null
+    we can usually play here year around.: null
+    we do as a matter of fact.: null
+    we don't get any snow anymore.: null
+    we got to play in Monterrey in California, right, along the Pacific Ocean, this past spring.: null
+    we had a P G A, a very big P G A, tour stop here, last year.: null
+    we had a lot of girls out there a couple of years ago,: null
+    we had the,: null
+    we have a very very,: null
+    we just had the tour championship here in Pine Hurst.: null
+    we just have a ball,: null
+    we just think, the next time has got to be better .: null
+    we play a par, a par three, nine hole course.: null
+    we play in a lot of couple's scramble tournaments.: null
+    we play in the summertime out here.: null
+    we play three days in a row, three different courses: null
+    we still have the Open here every year.: null
+    we will, we will, we will play,: null
+    we'll get out of the driving range and, and get some interest built up: null
+    we're out playing golf,: null
+    we've got some guys here that they are, four and five handicappers: null
+    we, I just started yesterday.: null
+    when I am doing that, and feeling loose and, that I swing better,: null
+    when I do swing it's an easier swing: null
+    when I go out and play golf it's usually like at a, at one of these par threes that,: null
+    when I got into the service I got into it: null
+    when I was,: null
+    when I'm, we are on vacation, I love to play. Just like you said.: null
+    when teeing off i, I'll go probably a hundred feet across the ground: null
+    when, when I first got back into it, I used to get mad because I knew I could do something: null
+    when, when the, when the L P G A came here: null
+    with practice, I would imagine you could groove that swing, too.: null
+    you almost have to relearn every spring to, to get back out.: null
+    you knew it: null
+    you quadruple bogey .: null
+    you'll hear thirty and think,: null
+    you're doing a whole lot better,: null
+    you've got to hit enough speed and the right angle that it's, it's,: null
+  Statement-opinion: !!set
+    After a short period, once you learn everything they've got to offer,: null
+    Any novice can pick up a club and learn how to hold one and learn how to do it and do it right.: null
+    Apparently they're very difficult to play with,: null
+    Go somewhere really nice, like Hawaii, and just: null
+    He is a character: null
+    He was pretty good,: null
+    I bet that would be .: null
+    I feel like anybody that's ever played golf can talk about it: null
+    I guess that's the best I ever got was lousy.: null
+    I guess they're pretty good .: null
+    I know the whole point is to get it in that little bitty hole,: null
+    I mean, it, they do, they do a generally okay job: null
+    I probably need to take some, some more lessons, more current: null
+    I think I'm doing all, all fine: null
+    I think I'm probably the same way.: null
+    I think it's critical, it's critical to have a good role model: null
+    I think that that is one of the sports that's a good healthy way to, to move into maturity: null
+    I think that's really a good thing to do.: null
+    I think the key is you just need to, you need to play more often than I play.: null
+    I think the, one of the things I enjoy the most is the beauty of the golf courses.: null
+    I think there is less flus, frustration factor there, too,: null
+    I think those are pretty exciting.: null
+    I thought I was really improving and the big break was going to come: null
+    I'll tell you what, if: null
+    I'm sure the people love golf up there like they do down here.: null
+    I'm, I'm not good .: null
+    I, I read recently here, they say, if you're playing, if you're scoring well, you should play more.: null
+    If you get, if you get down on the ground you really can.: null
+    If you want to play tennis, or: null
+    If you're good, you can really rake in the bucks.: null
+    If you're scoring poorly, you should spend more time on the practice g,: null
+    It doesn't appear to be .: null
+    It really is high.: null
+    It seems a lot of people are really,: null
+    It's a good game though.: null
+    It's hard to be a weekend golfer and improve your game.: null
+    It's nice to see those , guys.: null
+    It's not like riding a bicycle.: null
+    It's really nice.: null
+    It's very challenging: null
+    It's, it's a competitiveness against yourself.: null
+    It, it, it really works that way .: null
+    Lessons do help.: null
+    Membership in the clubs is expensive,: null
+    Miniature golf is great,: null
+    More than competitiveness against someone else.: null
+    People are just cra,: null
+    Something to stay active at: null
+    Spend more time on the,: null
+    That is pretty wild.: null
+    That seem to be the hardest: null
+    That's a good thing.: null
+    That's good.: null
+    That's something I could learn actually.: null
+    That's the way to get in some good practice without having to pay for it all the time .: null
+    The scrambles are fun.: null
+    There's so many,: null
+    They are always friendly.: null
+    They have such good style that,: null
+    They need to get a new photography method.: null
+    ? You can just get out there and lose yourself in it and forget everything else
+      in the world except what you're seeing out there.
+    : null
+    You can meet some really neat people.: null
+    You can play with your friends,: null
+    You can't play football at fiftyfive.: null
+    You do tend to,: null
+    You hit a little ball,: null
+    You must be very busy.: null
+    You really, on those, you really go out for fun.: null
+    Your shitty golf is probably the best golf I've ever seen.: null
+    a lot of people are just crazy about it.: null
+    a lot of seniors, a lot of elderly people don't even take up golf until they're, in their later years.: null
+    a million dollars or whatever is just: null
+    and other fees.: null
+    anything can be warped.: null
+    as far as influencing young people, I think that that is, that is one of the sports that you can carry into old age.: null
+    at least it, that doesn't, get in the way of golfing: null
+    at least you're just com,: null
+    either, either you have not played it, or, or you, you have played it: null
+    golf is just,: null
+    golf would give her the exercise,: null
+    he can play with his friends,: null
+    he wasn't bad.: null
+    he's interesting.: null
+    he's quite a character.: null
+    if you play with some consistency though, you can get it right back down.: null
+    if you shoot a hundred in golf,: null
+    if you'll take lessons, the first thing they put in your hand is an iron.: null
+    in the meantime, just enjoy what you're doing.: null
+    it is a good healthy, wholesome lifestyle,: null
+    it is, it's, it's a lot of fun, especially if you can find somebody that's, that's got the same level of interest.: null
+    it seems like that, that would be an okay life just to hang out: null
+    ? it seems like, you go to work every weekend. Play, maybe, one, two tournaments
+      a month. You come in about tenth, you'd still
+    : null
+    it will get better,: null
+    it would be fun to get that good at a: null
+    it'd be nice to be a pro golfer.: null
+    it's a great game: null
+    it's fun to go on vacations and things and go to golf courses.: null
+    it's just a, kind of a challenging game.: null
+    it's just the coming thing,: null
+    it's just unreal.: null
+    it's kind of boring.: null
+    it's like they don't have a muscle in their body.: null
+    it's pretty nice.: null
+    it's, it's a game that you don't,: null
+    it's, it's also something that husband and wife can participate in: null
+    it's, it's like a bullet going by.: null
+    it's, it's pretty nice and friendly out there: null
+    it, it sounds like we've got real similar situations.: null
+    it, it's unfortunate,: null
+    just ride around in the cart with him .: null
+    like bowling, you feel bad if you bowl a hundred.: null
+    like you said, it's, it's kind of boring: null
+    looking at it on T V, you're thinking, man, what a boring thing,: null
+    maybe if you can even talk about it, if you, if you have, watched it on T V.: null
+    once the guy hits the ball and they got to try to follow the ball: null
+    one thing that is a, is a drawback about it, I think, is the cost.: null
+    people don't want to play with somebody that they are going to beat every time,: null
+    requires special shoes,: null
+    requires special, special equipment.: null
+    seems to me like if they made the hole bigger it'd be easier.: null
+    that I, I guess that's what I need to do is, is get some kind of lessons or something.: null
+    that is out of control.: null
+    that is real good.: null
+    that's a good thing.: null
+    that's pretty good.: null
+    that's, that's a good idea.: null
+    that's, that's true of any sport,: null
+    that's, that's true, all too many times.: null
+    that's, that's wild though.: null
+    the ball will go straight: null
+    the equipment is very expensive,: null
+    there are just some things that we're good at and other things that we're not,: null
+    there are some really, really wonderful people in the game of golf who do give wonderful role models.: null
+    there is usually two or three days in the week that you can get out there and play,: null
+    they can still get good at it.: null
+    they don't mind if you make a mistake,: null
+    they don't mind saying, let me tea, tell you how to do that or teach you how to do that, or,: null
+    they want to play another course that's not, they're not a member of: null
+    those kinds of things happen, though,: null
+    those short irons, it's just, you want to look up: null
+    to play a really nice course, you've got to have a really big wallet ,: null
+    we, we probably are talking about golf because I did check it .: null
+    when you're too old to do anything else: null
+    you are always so anxious to see where it goes.: null
+    you can both enjoy the same sport and participate in separate circles.: null
+    you can gain a lot of ground doing that, too, if you, if,: null
+    you can go to the country club together.: null
+    you can't find that in all sports.: null
+    you chase it,: null
+    you don't have to be an expert in any aspect of it at all.: null
+    you don't have to be an expert to play,: null
+    you don't want to go out and get beat to death,: null
+    you get a lot of exercise that way.: null
+    you gets, you get in a rut if you do play a lot: null
+    you go find it,: null
+    you have enjoyed the day.: null
+    you hit it again and lose it again.: null
+    you just do your own thing and be relaxed and enjoy it .: null
+    you just keep going,: null
+    you know that's why,: null
+    you know you're stroke is just one of one or two or three: null
+    you need to,: null
+    you play with the same people, you, you aren't going to learn anything.: null
+    you really begin to develop an interest in it.: null
+    you say, Hey, this is not bad.: null
+    you sort of play every now and then.: null
+    you want to see it hit the green.: null
+    you'd really want to , really be liking your golf.: null
+    you've both been out and exercised,: null
+    you, you get a little taste of it: null
+    you, you need to play that often: null
+  Wh-Question: !!set
+    How do you feel about your game?: null
+    How much of a golfer are you?: null
+    What about the speed?: null
+    What are you going into?: null
+    What do you do for a living?: null
+    What is your handicap?: null
+    What, what, what are green fees run there?: null
+    Which, which university?: null
+    what do you do when you're putting?: null
+  Yes-No-Question: !!set
+    Are you a hacker?: null
+    Are you a player?: null
+    Are you sure you guys aren't having the bad weather?: null
+    Being down there, do you, get to see, the colonial or any of those?: null
+    Can you get a, a student discount type of thing: null
+    Can you really see it though?: null
+    Can you tell ho, no, can you tell how, how fast you're going to hit it?: null
+    Definitely not golf, right ?: null
+    Did you have to listen to long stories about, on the seventeenth hole I hit it and went this way: null
+    Do you ever watch those where they just play for a certain amou,: null
+    Do you have, long waits, to get on the course?: null
+    Do you play?: null
+    Does your club have a good woman's association?: null
+    Have you ever, have you ever tried a one iron?: null
+    I think golf, isn't it?: null
+    Is anybody?: null
+    It's sickening, isn't it?: null
+    That's some cold golf too, isn't it?: null
+    They tell you what our topic was?: null
+    am I supposed to ask questions about this whole procedure,: null
+    are you a, a, a golfer: null
+    are you in school?: null
+    at the University of Rochester?: null
+    do you get, get, reimbursed for the calls you make or the calls you talk on too?: null
+    do you play golf at all?: null
+    have you played recently?: null
+    is, that a sport you like to participate in?: null
+    those are, still not you favorite,: null
+    you can feel that?: null

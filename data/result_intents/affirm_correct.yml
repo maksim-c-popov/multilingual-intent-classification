@@ -1,0 +1,581 @@
+!!set
+affirmative: null
+agree: null
+agreed: null
+amazing: null
+amazing response: null
+amazing response to command: null
+amazing response to the command: null
+answer is confirmed: null
+answer is wonderful: null
+answer was confirmed: null
+answer was right: null
+command is confirmed: null
+command is great: null
+command was confirmed: null
+command was exact: null
+command was perfect: null
+confirmed: null
+correcly: null
+correct: null
+correct response: null
+correct response to command: null
+correct response to the command: null
+exact: null
+exact response: null
+exact response to command: null
+exact response to the command: null
+exactly: null
+excellent: null
+excellent response: null
+excellent response to command: null
+excellent response to the command: null
+fantastic: null
+fantastic response: null
+fantastic response to command: null
+fantastic response to the command: null
+get answer perfectly: null
+get answer right: null
+get command exactly: null
+get command perfectly: null
+get command right: null
+get it correcly: null
+get it right: null
+get that correcly: null
+get that exactly: null
+get that perfectly: null
+get that right: null
+get the answer perfectly: null
+get the command right: null
+get your understanding right: null
+good: null
+good response: null
+good response to command: null
+good response to the command: null
+got answer exactly: null
+got command right: null
+got it correcly: null
+got it exactly: null
+got it perfectly: null
+got that exactly: null
+got the answer exactly: null
+got the answer perfectly: null
+got the command correcly: null
+got your understanding perfectly: null
+got your understanding right: null
+great: null
+great response: null
+great response to command: null
+great response to the command: null
+i know that's right: null
+indeed: null
+it is confirmed: null
+it is true: null
+it was confirmed: null
+it was wonderful: null
+it's amazing: null
+it's confirmed: null
+it's correct: null
+it's exact: null
+it's excellent: null
+it's fantastic: null
+it's good: null
+it's great: null
+it's perfect: null
+it's right: null
+it's the truth: null
+it's true: null
+it's wonderful: null
+ok: null
+perfect: null
+perfect response: null
+perfect response to command: null
+perfect response to the command: null
+perfectly: null
+right: null
+right response: null
+right response to command: null
+right response to the command: null
+sounds good: null
+sounds great: null
+strongly agree: null
+strongly agreed: null
+that is confirmed: null
+that is correct: null
+that is excellent: null
+that is good: null
+that is right: null
+that is true: null
+that is very true: null
+that was confirmed: null
+that was excellent: null
+that was right: null
+that's amazing: null
+that's confirmed: null
+that's correct: null
+that's exact: null
+that's excellent: null
+that's fantastic: null
+that's good: null
+that's great: null
+that's perfect: null
+that's right: null
+that's so true: null
+that's true: null
+that's wonderful: null
+the answer is confirmed: null
+the answer was confirmed: null
+the answer was good: null
+the command is confirmed: null
+the command was confirmed: null
+the command was wonderful: null
+'true': null
+what you say is true: null
+wonderful: null
+wonderful response: null
+wonderful response to command: null
+wonderful response to the command: null
+yeah: null
+yeah affirmative: null
+yeah agree: null
+yeah agreed: null
+yeah amazing response: null
+yeah amazing response to the command: null
+yeah answer was correct: null
+yeah answer was great: null
+yeah confirmed: null
+yeah correcly: null
+yeah correct response: null
+yeah correct response to command: null
+yeah correct response to the command: null
+yeah exact: null
+yeah exact response: null
+yeah exact response to command: null
+yeah exact response to the command: null
+yeah exactly: null
+yeah excellent: null
+yeah excellent response: null
+yeah excellent response to the command: null
+yeah fantastic: null
+yeah fantastic response to command: null
+yeah fantastic response to the command: null
+yeah get answer right: null
+yeah get it perfectly: null
+yeah get that correcly: null
+yeah good response: null
+yeah good response to command: null
+yeah good response to the command: null
+yeah got that perfectly: null
+yeah got the answer exactly: null
+yeah great: null
+yeah great response: null
+yeah great response to command: null
+yeah it was confirmed: null
+yeah it's amazing: null
+yeah it's confirmed: null
+yeah it's exact: null
+yeah it's fantastic: null
+yeah it's good: null
+yeah it's great: null
+yeah it's perfect: null
+yeah perfect response: null
+yeah perfect response to command: null
+yeah perfect response to the command: null
+yeah perfectly: null
+yeah please: null
+yeah right: null
+yeah right response: null
+yeah right response to command: null
+yeah right response to the command: null
+yeah strongly agree: null
+yeah strongly agreed: null
+yeah that is confirmed: null
+yeah that is correct: null
+yeah that is perfect: null
+yeah that was confirmed: null
+yeah that was fantastic: null
+yeah that's amazing: null
+yeah that's confirmed: null
+yeah that's correct: null
+yeah that's fantastic: null
+yeah that's good: null
+yeah that's great: null
+yeah that's right: null
+yeah wonderful: null
+yeah wonderful response: null
+yeah wonderful response to command: null
+yeah wonderful response to the command: null
+yeah you did answer perfectly: null
+yeah you did command perfectly: null
+yeah you did it exactly: null
+yeah you did it perfectly: null
+yeah you did the command correcly: null
+yeah you get command exactly: null
+yeah you get it perfectly: null
+yeah you get the command right: null
+yeah you got the answer perfectly: null
+yeah you got your understanding perfectly: null
+yeah you have done it correcly: null
+yeah you have done your understanding right: null
+yeah you have got my instructions exactly: null
+yeah you have got my instructions perfectly: null
+yeah you have got my instructions right: null
+yeah you have got your understanding perfectly: null
+yeah you have gotten command perfectly: null
+yeah you have gotten my instructions correcly: null
+yeah you have gotten my instructions perfectly: null
+yeah you have understood my instructions perfectly: null
+yeah you have understood that right: null
+yeah you understood command correcly: null
+yeah you understood my instructions correcly: null
+yeah you understood my instructions exactly: null
+yeah you understood your understanding correcly: null
+yeah you've done it perfectly: null
+yeah you've done that exactly: null
+yeah you've done the command exactly: null
+yeah you've done your understanding exactly: null
+yeah you've got command perfectly: null
+yeah you've got my instructions correcly: null
+yeah you've got my instructions perfectly: null
+yeah you've got my instructions right: null
+yeah you've got that perfectly: null
+yeah you've got your understanding correcly: null
+yeah you've got your understanding perfectly: null
+yeah you've gotten command perfectly: null
+yeah you've gotten it right: null
+yeah you've gotten my instructions right: null
+yeah you've gotten your understanding perfectly: null
+yeah you've understood my instructions exactly: null
+yeah you've understood my instructions perfectly: null
+yeah you've understood my instructions right: null
+yeah your understanding is exact: null
+yeah your understanding is good: null
+yeah your understanding was confirmed: null
+yeap: null
+yeap affirmative: null
+yeap agree: null
+yeap agreed: null
+yeap amazing: null
+yeap amazing response to command: null
+yeap amazing response to the command: null
+yeap answer was confirmed: null
+yeap answer was good: null
+yeap command was confirmed: null
+yeap confirmed: null
+yeap correcly: null
+yeap correct response: null
+yeap correct response to command: null
+yeap correct response to the command: null
+yeap exact response: null
+yeap exact response to command: null
+yeap exactly: null
+yeap excellent: null
+yeap excellent response: null
+yeap excellent response to command: null
+yeap excellent response to the command: null
+yeap fantastic: null
+yeap fantastic response: null
+yeap fantastic response to command: null
+yeap fantastic response to the command: null
+yeap get it right: null
+yeap get that right: null
+yeap get the command exactly: null
+yeap get the command perfectly: null
+yeap good: null
+yeap good response: null
+yeap good response to command: null
+yeap good response to the command: null
+yeap got it perfectly: null
+yeap got that right: null
+yeap great: null
+yeap great response: null
+yeap it is confirmed: null
+yeap it was correct: null
+yeap it's confirmed: null
+yeap it's correct: null
+yeap it's excellent: null
+yeap it's good: null
+yeap perfect: null
+yeap perfect response: null
+yeap perfect response to the command: null
+yeap perfectly: null
+yeap please: null
+yeap right: null
+yeap right response: null
+yeap right response to the command: null
+yeap strongly agree: null
+yeap strongly agreed: null
+yeap that is confirmed: null
+yeap that is wonderful: null
+yeap that was confirmed: null
+yeap that was wonderful: null
+yeap that's confirmed: null
+yeap that's correct: null
+yeap that's exact: null
+yeap that's excellent: null
+yeap that's fantastic: null
+yeap that's right: null
+yeap that's wonderful: null
+yeap the command was amazing: null
+yeap the command was exact: null
+yeap wonderful: null
+yeap wonderful response to command: null
+yeap wonderful response to the command: null
+yeap you did it right: null
+yeap you did that perfectly: null
+yeap you did your understanding correcly: null
+yeap you get it correcly: null
+yeap you get that perfectly: null
+yeap you get your understanding exactly: null
+yeap you got answer perfectly: null
+yeap you got your understanding right: null
+yeap you have done answer exactly: null
+yeap you have done the command perfectly: null
+yeap you have done your understanding right: null
+yeap you have got my instructions correcly: null
+yeap you have got my instructions exactly: null
+yeap you have got my instructions perfectly: null
+yeap you have gotten my instructions perfectly: null
+yeap you have gotten the command perfectly: null
+yeap you have gotten your understanding right: null
+yeap you have understood answer exactly: null
+yeap you have understood it correcly: null
+yeap you have understood my instructions exactly: null
+yeap you have understood my instructions right: null
+yeap you have understood your understanding right: null
+yeap you understood my instructions correcly: null
+yeap you understood my instructions exactly: null
+yeap you've done command perfectly: null
+yeap you've done that right: null
+yeap you've got command correcly: null
+yeap you've got my instructions correcly: null
+yeap you've got your understanding right: null
+yeap you've gotten my instructions perfectly: null
+yeap you've gotten that correcly: null
+yeap you've gotten the command correcly: null
+yeap you've gotten your understanding perfectly: null
+yeap you've understood it correcly: null
+yeap you've understood my instructions correcly: null
+yeap you've understood my instructions exactly: null
+yeap you've understood my instructions perfectly: null
+yeap you've understood my instructions right: null
+yeap you've understood the answer right: null
+yeap your understanding is confirmed: null
+yeap your understanding was confirmed: null
+yep: null
+'yes': null
+yes affirmative: null
+yes agree: null
+yes agreed: null
+yes amazing response: null
+yes amazing response to command: null
+yes amazing response to the command: null
+yes answer was amazing: null
+yes answer was confirmed: null
+yes answer was great: null
+yes command is excellent: null
+yes command is great: null
+yes command was confirmed: null
+yes confirmed: null
+yes correcly: null
+yes correct: null
+yes correct response: null
+yes correct response to the command: null
+yes exact: null
+yes exact response: null
+yes exactly: null
+yes excellent response: null
+yes excellent response to the command: null
+yes fantastic: null
+yes fantastic response: null
+yes fantastic response to the command: null
+yes get the answer perfectly: null
+yes get your understanding right: null
+yes good response: null
+yes good response to command: null
+yes got that perfectly: null
+yes got your understanding correcly: null
+yes got your understanding exactly: null
+yes great response: null
+yes great response to command: null
+yes great response to the command: null
+yes it was confirmed: null
+yes it was perfect: null
+yes it's amazing: null
+yes it's confirmed: null
+yes it's correct: null
+yes it's excellent: null
+yes it's great: null
+yes it's perfect: null
+yes it's right: null
+yes perfect response: null
+yes perfect response to the command: null
+yes perfectly: null
+yes please: null
+yes right: null
+yes right response: null
+yes right response to the command: null
+yes strongly agree: null
+yes strongly agreed: null
+yes that is confirmed: null
+yes that is perfect: null
+yes that's amazing: null
+yes that's confirmed: null
+yes that's correct: null
+yes that's excellent: null
+yes that's fantastic: null
+yes that's good: null
+yes that's great: null
+yes that's right: null
+yes that's wonderful: null
+yes the command is confirmed: null
+yes the command was confirmed: null
+yes wonderful response: null
+yes wonderful response to command: null
+yes you did the command right: null
+yes you get it exactly: null
+yes you get your understanding perfectly: null
+yes you got answer correcly: null
+yes you got command exactly: null
+yes you got that exactly: null
+yes you got the command correcly: null
+yes you have done answer exactly: null
+yes you have done it exactly: null
+yes you have done it perfectly: null
+yes you have done that exactly: null
+yes you have done that perfectly: null
+yes you have done the command correcly: null
+yes you have done your understanding correcly: null
+yes you have got my instructions exactly: null
+yes you have got my instructions perfectly: null
+yes you have got the answer correcly: null
+yes you have gotten it exactly: null
+yes you have gotten your understanding perfectly: null
+yes you have understood command exactly: null
+yes you have understood my instructions perfectly: null
+yes you understood it correcly: null
+yes you understood my instructions correcly: null
+yes you understood my instructions exactly: null
+yes you understood my instructions right: null
+yes you've done command exactly: null
+yes you've done it perfectly: null
+yes you've done your understanding correcly: null
+yes you've done your understanding perfectly: null
+yes you've done your understanding right: null
+yes you've got command right: null
+yes you've got my instructions perfectly: null
+yes you've got the answer exactly: null
+yes you've got the command exactly: null
+yes you've got your understanding perfectly: null
+yes you've gotten my instructions correcly: null
+yes you've gotten my instructions exactly: null
+yes you've gotten my instructions perfectly: null
+yes you've understood my instructions exactly: null
+yes you've understood my instructions perfectly: null
+yes you've understood my instructions right: null
+yes you've understood that right: null
+yes your understanding is confirmed: null
+yes your understanding was confirmed: null
+yes your understanding was perfect: null
+you are correct: null
+you are right: null
+you are so right: null
+you did answer exactly: null
+you did command perfectly: null
+you did it correcly: null
+you did it exactly: null
+you did it perfectly: null
+you did that correcly: null
+you did that perfectly: null
+you did the answer right: null
+you did the command correcly: null
+you did the command perfectly: null
+you did your understanding exactly: null
+you did your understanding perfectly: null
+you did your understanding right: null
+you get it correcly: null
+you get it perfectly: null
+you get your understanding right: null
+you got answer exactly: null
+you got it correcly: null
+you got that perfectly: null
+you got that right: null
+you got the command perfectly: null
+you got the command right: null
+you have done answer perfectly: null
+you have done answer right: null
+you have done command correcly: null
+you have done command exactly: null
+you have done it correcly: null
+you have done it perfectly: null
+you have done it right: null
+you have done that perfectly: null
+you have done the command correcly: null
+you have done the command right: null
+you have done your understanding correcly: null
+you have done your understanding exactly: null
+you have done your understanding right: null
+you have got answer exactly: null
+you have got it correcly: null
+you have got it exactly: null
+you have got it right: null
+you have got my instructions correcly: null
+you have got my instructions perfectly: null
+you have got my instructions right: null
+you have got that exactly: null
+you have got the answer correcly: null
+you have got the answer exactly: null
+you have got the answer right: null
+you have gotten command perfectly: null
+you have gotten it right: null
+you have gotten my instructions correcly: null
+you have gotten my instructions perfectly: null
+you have gotten that exactly: null
+you have gotten that perfectly: null
+you have understood it perfectly: null
+you have understood my instructions correcly: null
+you have understood my instructions exactly: null
+you have understood my instructions perfectly: null
+you have understood my instructions right: null
+you understood command exactly: null
+you understood command perfectly: null
+you understood my instructions correcly: null
+you understood my instructions perfectly: null
+you understood my instructions right: null
+you understood the answer right: null
+you're absolutely right: null
+you're definitely right: null
+you're not wrong: null
+you're right about that: null
+you're telling the truth: null
+you've done answer right: null
+you've done command correcly: null
+you've done it perfectly: null
+you've done that exactly: null
+you've done that right: null
+you've done the command correcly: null
+you've done the command right: null
+you've done your understanding correcly: null
+you've done your understanding right: null
+you've got it correcly: null
+you've got my instructions correcly: null
+you've got my instructions exactly: null
+you've got my instructions right: null
+you've got the answer perfectly: null
+you've got the command exactly: null
+you've got the command right: null
+you've got your understanding correcly: null
+you've gotten answer correcly: null
+you've gotten it exactly: null
+you've gotten my instructions correcly: null
+you've gotten my instructions exactly: null
+you've gotten my instructions right: null
+you've gotten your understanding correcly: null
+you've understood command correcly: null
+you've understood command perfectly: null
+you've understood my instructions exactly: null
+you've understood that right: null
+you've understood the answer exactly: null
+your understanding is confirmed: null
+your understanding was confirmed: null
+your understanding was exact: null

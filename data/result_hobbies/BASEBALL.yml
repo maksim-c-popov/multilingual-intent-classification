@@ -1,0 +1,1396 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    I don't know how much of the World Series you caught last year,: null
+    I don't know if you read Skip Bayless, but: null
+    I guess they were, I guess they must have been scared after the,: null
+    I, I assume that means good for the Minnesota ,: null
+    Just massive rental.: null
+    No communication whatsoever.: null
+    Still carries a good lim, average?: null
+    Threw it away .: null
+    You hear what, you hear what, you hear what he did.: null
+    now I don't know how familiar you are with him: null
+    they want to see all the horror movies.: null
+    they're Brooklyn boys, I guess.: null
+    were you here, had you moved here yet when he did the exhibition at U T with his son.: null
+    working in the system.: null
+    you never see it.: null
+    you were pretty close.: null
+  Dispreferred answers: !!set
+    I heard tonight on the news that he is willing to come down.: null
+    and Ninja Turtles.: null
+  Statement-non-opinion: !!set
+    Alan and his had plans that night: null
+    As a matter of fact I read in the sports page this morning,: null
+    Bobby Ojeda didn't hurt: null
+    Bobby Ojeda.: null
+    Bu, Buechele was back just to visit.: null
+    Butler didn't hurt either.: null
+    Cornell is about, somewhere, about two and a half hours south of, south and east of us.: null
+    Cornell is in Ithaca.: null
+    Didn't know what happened.: null
+    Even if they play every day, that's over five months worth.: null
+    Glad it's not me making them.: null
+    God . I stay away from them.: null
+    God just really blesses him in ways like that,: null
+    God's sitting on my heart: null
+    Haven't taken it yet, though.: null
+    He either hits home run or strike out.: null
+    He likes it.: null
+    He probably has an income of thirtyfive thousand,: null
+    He ramming his wife's car,: null
+    He was being, he was put in the, the Restaurant Hall of Fame .: null
+    He'll be at least one more,: null
+    He's not a, the liability that he was, that he used to be.: null
+    His son pitched for U T: null
+    However, I haven't been to a baseball game in years,: null
+    Howse might be a different, situation,: null
+    I admire someone that can do that,: null
+    I adopted the Rangers,: null
+    I adopted the Royals,: null
+    I adopted the, the Houston Astros,: null
+    I always found a fan, of one the other,: null
+    I always give her a hard time whose toothbrush did you really use this morning .: null
+    I became a Rangers fan.: null
+    I can call myself a Brooklyn thug, although I'm really not.: null
+    I can tell you,: null
+    I can use a Met analogy here.: null
+    I can't figure out why.: null
+    I can't relate to football because I've never,: null
+    I can't, I, I, again, I can't make any predictions about them,: null
+    I could go on and on about that.: null
+    I couldn't believe that,: null
+    I couldn't do it.: null
+    I couldn't tell you who pitched,: null
+    I did that wrestling .: null
+    I did, too.: null
+    I didn't know that.: null
+    I didn't know,: null
+    I didn't really have one in South Dakota.: null
+    I didn't see it: null
+    I didn't think it was too long at all.: null
+    I do that to make myself go to sleep at night.: null
+    I don't even know if they're still New York Yankees,: null
+    I don't even know where I even put that paper .: null
+    I don't even remember his name either.: null
+    I don't even think they have but two old enough to play yet.: null
+    I don't feel so bad.: null
+    I don't get into, how many errors somebody has or things like that.: null
+    I don't have the patience to read .: null
+    I don't have, Jack standing behind me to tell me what to do .: null
+    I don't know what the noise was: null
+    I don't know,: null
+    I don't know, it's kind of odd they pick,: null
+    I don't like these guys that get up there and swing for the downs every time.: null
+    I don't miss a time picking up the morning paper: null
+    I don't really know about the A s.: null
+    I don't really know what it is,: null
+    I don't remember it if I have.: null
+    I don't understand football.: null
+    I don't understand why Encovilla got released.: null
+    I don't, I don't get into that too much,: null
+    I don't, I don't know why.: null
+    I enjoyed it.: null
+    I even know his name because he's on the news a lot,: null
+    I exactly where she is.: null
+    I felt kind of sorry for him.: null
+    I felt like it kind of got chopped off at the end,: null
+    I felt real bad about that,: null
+    I finally just got to where I go, okay, I'm Debbie Moore, may I ask who you are and what you are in my classroom for,: null
+    I follow them: null
+    I follow them like I follow the Mavericks and like I follow the Cowboys,: null
+    I get a woman's voice.: null
+    I go to Saint Louis from time to time: null
+    I go to the Orioles since they're here,: null
+    I go, okay, you just, you did , what you wanted to do,: null
+    I got a, book of his short stories,: null
+    I got, I called, got a call the other night about, fixing your automobile up,: null
+    I guess if I had to pick a favorite team, any more, as well as,: null
+    I guess the Giants or, might move away from San Francisco, it sounds like.: null
+    I guess they are different leagues.: null
+    I guess they were doing pretty good up to a point,: null
+    I had a friend from college that lives in,: null
+    I had been to more games at the A s than I have in the Giants: null
+    I had four daughters: null
+    I had my tubes tied: null
+    I had them walk out of my class and not say their name anything,: null
+    I hadn't either till last night, I was talking to this retired administrator from Cleveland, Ohio,: null
+    I hadn't either,: null
+    I have a few times.: null
+    I have a friend now that has seven.: null
+    I have a lot of different teams that I like to, to keep in touch with,: null
+    I have a, I had a friend in college from Strasbourg,: null
+    I have boys, eight and eleven: null
+    I have kept, my eye on the Rangers.: null
+    I have, I have a broken arm that I had since I was three.: null
+    I have, I have a tendency to, a, adopt teams when I wen, go to a tea, go to a town.: null
+    I haven't either,: null
+    I haven't ever talked that long.: null
+    ? I haven't followed it real closely at all. except like I said, last year when
+      the World Series rolled around, I did, I did follow that pretty religiously.
+    : null
+    I heard a joke on the radio yesterday that, in regard that he didn't design the patriot missile system,: null
+    I heard it on the radio.: null
+    I heard that there's, that you can bid on that stadium: null
+    I heard the audio portion on the radio in the car: null
+    I hope they can do good.: null
+    I hope to get up there.: null
+    I hope you know more about the subject of baseball: null
+    I just I have so many mixed emotions about all this.: null
+    I just don't under, I understand the big cities, like in New York or L A or somewhere because big cities: null
+    I just don't understand why they're not right up there on the top: null
+    I just don't understand,: null
+    I just hadn't gotten around to doing it,: null
+    I just haven't gotten around to doing it.: null
+    I just think the Giants have a good team.: null
+    I just was there,: null
+    I just watch them fall every year.: null
+    I just, moved down from South Dakota in July,: null
+    I keep saying we need to have one.: null
+    I kind of grew up rooting for Philadelphia.: null
+    ? I kind of wish that they had inter league play, like they do in all the other
+      sports so I could see some of the National League teams here once in a while.
+    : null
+    I know George Bush threw out the first pitch hitter: null
+    I know I'm always scared of that whenever I go to a game.: null
+    I know Manhattan's real expensive: null
+    I know a little bit about it.: null
+    I know a train went by,: null
+    I know for sure it was,: null
+    I know it was doggone cold up here.: null
+    I know which is worse.: null
+    I like just looking at the billboards.: null
+    I like minor league baseball, a lot.: null
+    I like the Boston Red Sox myself.: null
+    I like the Giants.: null
+    I like the,: null
+    I like this Sandy Johnson.: null
+    I like to go watch the Giants when they come to Houston some times.: null
+    I liked bowling as a, as a kind of a relaxing sport.: null
+    I liked to as a, as a method of, entertainment and I,: null
+    I lived in Chicago.: null
+    I lived in Houston for two and a half years: null
+    I lived in Kansas City for a couple years: null
+    I lived in the suburbs of Saint Louis,: null
+    I looked at my husband: null
+    I love Nolan Ryan.: null
+    I love going to watch a game in Arlington stadium.: null
+    I love, baseball teams,: null
+    I mean eightysix times two: null
+    I moved to Kansas City,: null
+    I ne, I hadn't actually known that.: null
+    I never even heard that there was a book tied in with that movie.: null
+    I never fou, I never quite found a New York fan.: null
+    I never had to watch the news not, not like some people half a day or anything.: null
+    I never used to really like watching football that much: null
+    I originally came from Saint Louis,: null
+    I played for about eighteen years, all the way through college, and then, kind of hung them up after college,: null
+    I prefer ba, football: null
+    I prefer to,: null
+    I pretty much pull for the Rangers though.: null
+    I probably didn't get into baseball until maybe, maybe three years ago really: null
+    I rarely go: null
+    I read, Dave Dreveki's book: null
+    I realize the difference,: null
+    I really can.: null
+    I really do.: null
+    I really don't.: null
+    I really got into them.: null
+    I really haven't been an active Ranger fan in several years.: null
+    I really wish they could see fit to get rid of Howse.: null
+    I really, I got a lot of, recognition from the, the bowling league, I guess.: null
+    I said if I ever had a son, he would not play football.: null
+    I said, I see at least two a week .: null
+    I said, I want to see a curriculum guide,: null
+    I said, what this is The Mansion at Turtle Creek }: null
+    I saw a game at Ned Skelton.: null
+    I saw all seven games of that,: null
+    I saw that.: null
+    I saw them,: null
+    I should have been to two: null
+    I still like the Giants, though, .: null
+    I still, basically, the, the,: null
+    I stood the, stood the injury wrestling,: null
+    I talked to a guy named Vinny last night about fixing your car,: null
+    I teach for Dallas.: null
+    I think I make something, because I think,: null
+    I think a train went by.: null
+    I think he won Cy year, two out of three years,: null
+    I think he's mentioned the Oakland A s a couple of times.: null
+    I think it probably was the, the train.: null
+    I think it was a little early part of the summer,: null
+    I think it was like a five year deal with,: null
+    I think it's still the New York Yankees,: null
+    I think it's the Bart man, the Simpsons .: null
+    I think that's right.: null
+    I think the A's were in it last year.: null
+    I think the key for, for L A this year is whether Oral Herschiser can come back.: null
+    I think the pitching's deep enough that it doesn't matter.: null
+    I think they both won their opener.: null
+    I think they have enough people who are, who are, who are still in their prime,: null
+    I think they only have four .: null
+    I think they're a good team. That just need that one, one little thing to push them over.: null
+    I think they're going to go all the way.: null
+    I think they're in for a odd year this year,: null
+    I think they're okay,: null
+    I think they're,: null
+    I think they, when Ryan struck out his five thousandth player, they squeezed about forty thousand people in there.: null
+    I think we finished second once or maybe even twice.: null
+    I think we've been in this spot,: null
+    I think, I've kind of become a Rangers fan over the last eleven years since I've been here.: null
+    I thought they were moving to New Jersey .: null
+    I thought, no,: null
+    I tried to call earlier,: null
+    I try to see whatever I can.: null
+    I turned out to be a White Sox fan.: null
+    I understand a little bit about the Texas Rangers.: null
+    I used to go watch the Toledo Mudhens.: null
+    I used to go, take my son,: null
+    I used to have a bet going about some of the players that had moved from here to Minnesota,: null
+    I used to love to play baseball when I was a kid.: null
+    I was a Pete Incaviglia fan: null
+    I was always throwing my arm out and,: null
+    I was amazed to hear that.: null
+    I was born and raised in, near Miami and, spent the: null
+    I was constantly throwing back to the pitcher and then down to second base and all and k, that kind of stuff.: null
+    I was from Illinois,: null
+    I was going to say, you played pro ball,: null
+    I was going to talk to you about that eightysix team .: null
+    I was just cleaning and throwing,: null
+    I was just looking at the news tonight,: null
+    I was kind of, didn't have much interest in the Twins,: null
+    I was like, yeah.: null
+    I was mostly an A s fan,: null
+    I was out there last Summer,: null
+    I was reading in the paper tonight that the Detroit Tigers are going to sign him.: null
+    I was reading the book,: null
+    ? I was routing for the Twins myself because, they, a couple of Ranger players
+      that I had watched when we first moved here, went to Minnesota,
+    : null
+    I was sure hopeful anyway.: null
+    I was talking to my roommate a couple of nights ago, right after that game,: null
+    I was, I decided, I like this author,: null
+    I was, I was kind of surprised that we were going to talk about baseball,: null
+    I watch, I, I watch their sports up there: null
+    I went and visited him,: null
+    I wish I could .: null
+    I would have to brush up on my bowling before I even tried to, win a lot of money for the junior achievement,: null
+    I would like so much for these Rangers to get their act together give, Nolan Ryan the support he needs.: null
+    I would to say the Rangers,: null
+    I would too,: null
+    I'd have to agree with that.: null
+    I'd kill him .: null
+    ? I'll have to admit I kind, I kind of went more to see, to see the other team
+      a lot of times than I did the, did the Rangers,
+    : null
+    I'll make a day game or something.: null
+    I'm a Giants fan: null
+    I'm a great sports enthusiast,: null
+    I'm a, I'm a Dodgers fan from way back.: null
+    I'm an officer in the Air Force,: null
+    I'm awful sorry he's not still.: null
+    I'm doing mine with Honeywell.: null
+    I'm from New Jersey originally.: null
+    I'm getting tired of them going into each year saying, Bobby Witt is the answer and Kevin Brown: null
+    I'm glad my husband's not like that either,: null
+    I'm glad my husband's not like that.: null
+    I'm going back at the end of next month.: null
+    I'm in Garland.: null
+    I'm just gullible enough that I think Bobby Valentine is, doing all right: null
+    I'm kind of hoping,: null
+    I'm not a big, I'm not a big, cold fan.: null
+    I'm not a diehard fan: null
+    I'm not exactly a real Twins fan from birth or anything.: null
+    I'm not fond of Grieves.: null
+    I'm not going to stand up, on my,: null
+    I'm not kidding you: null
+    I'm not real sure about th,: null
+    I'm not sure where all my pins came from,: null
+    I'm not to say that all folks from Brooklyn are thugs,: null
+    I'm only a little bit familiar with the Red Sox because I lived up in Boston for a while,: null
+    I'm only up here for school.: null
+    I'm real proud of them because they're aren't really, they don't do that at all.: null
+    I'm trying to get out.: null
+    I'm, I'm not sure that, that they're ready to get rid of, of, Tom Grieve yet,: null
+    I'm, I'm one of these people who's actually a die hard Mets fan,: null
+    I'm, I'm, I can understand baseball,: null
+    I've I've driven,: null
+    I've already been to one game,: null
+    I've always liked baseball.: null
+    I've been a Ranger fan since about seventyseven,: null
+    I've been following Spring training: null
+    I've been kind of , been intrigued with the Rangers, more so with, their management than anything else.: null
+    I've been one,: null
+    I've been really busy at work this past week: null
+    I've been to thirty or forty games each of the last few years.: null
+    I've been, I've lived here since seventyfour: null
+    I've got a friend that's living in San Francisco right now.: null
+    I've got quite a few.: null
+    I've had an opening day on Monday.: null
+    I've heard about the ferry as well.: null
+    I've heard, I've heard talk about that.: null
+    I've lived here, since, I was born and raised here,: null
+    I've never seen the Astros play.: null
+    I've never, shared that with them.: null
+    I've really been a Ranger fan for the longest time: null
+    I, I actually don't like the Dodgers,: null
+    I, I also lived eight years in Ohio before going to, going away to college,: null
+    I, I can relate to baseball because I used to play baseball.: null
+    I, I definitely do,: null
+    I, I do enjoy them.: null
+    I, I don't follow baseball that, that closely,: null
+    I, I don't know what Foley's is .: null
+    I, I don't mean older,: null
+    I, I don't think I've heard anything on the Rangers,: null
+    I, I enjoy the,: null
+    I, I guess I'm one of those people that if I really made a concentrated effort, I could really probably get into baseball.: null
+    I, I guess we're probably, maybe a hundred fifty miles south of Dallas.: null
+    I, I just like the Giants.: null
+    I, I know, the Super Bowl,: null
+    I, I like them a lot.: null
+    I, I never pursued it.: null
+    I, I prefer to watch,: null
+    I, I really haven't,: null
+    I, I still, I like to bowl,: null
+    I, I think he kind of follows the sports: null
+    I, I thought it was a mistake: null
+    I, I was a catcher: null
+    I, I was, I was also born in Brooklyn,: null
+    I, I would, I would gladly take the salary of most of the guys, I'll tell you.: null
+    I, I'd much rather go to a baseball game than to a football game.: null
+    I, I'm living in, just west of Baltimore, and Frederick, which is also just west of Baltimore, has a minor league team.: null
+    I, I, I don't even know, who has been winning in, as far as the, San Francisco Giants and the Oakland A s: null
+    I, I, I find it very strange.: null
+    I, I, I guess what bothers me is, is that when you go, you wait and wait and wait: null
+    I, I, I guess, any more: null
+    I, I, I was, I was also, I was in school at Boston at the time.: null
+    I, I, always been quite an athlete and doing different things: null
+    I, i, i, I don't, I'm not a, a big, pure power hitter anyway.: null
+    I, most of my friends have three or four kids: null
+    I, sort of gathered that in my, subliminal memory.: null
+    ? If you'll think back a few years to when the Mets were just all this sort of
+      young bunch of guys who really were raw talent but weren't very sort of, well
+      trained
+    : null
+    In fact, I've only been up here a few months: null
+    ? In other words, if, if in Spring cra, training they were looking at all their
+      kids, like a lot of them do, then it really doesn't give you any indication.
+    : null
+    It just might be the drive,: null
+    It looks like they'll be doing pretty well.: null
+    It only holds about,: null
+    It was just phenomenal.: null
+    It was never set right.: null
+    It was okay,: null
+    It was so funny to see,: null
+    It was so wonderful.: null
+    It's been a long time.: null
+    It's cheaper for one thing .: null
+    It's great.: null
+    It's just, it's just too disappointing.: null
+    It's kind of hard to do,: null
+    It's like a Macy's,: null
+    It's, it's kind of hard.: null
+    Ivan Rodriguez wasn't even born when, when, Nolan Ryan started pitching.: null
+    Last year we wanted to show my husband what a baseball game was because,: null
+    Look at the Twins going from worst to first.: null
+    Lots of really big,: null
+    Maybe it was November I'm thinking about.: null
+    Maybe that's what, that's what some teams need.: null
+    Me, too, because we go all the time,: null
+    My brother's like that: null
+    Nolan I think took himself out after a couple of innings or something, of the game: null
+    One is eight: null
+    Orlando, Florida.: null
+    Rangers have got a new guy this year,: null
+    Really, he really has become a, a very decent fielder.: null
+    Saberhagen has won, supposedly the Cy,: null
+    Saint Claude,: null
+    San Francisco will be hurting, anyhow.: null
+    She looks gorgeous,: null
+    Some place south, and warm,: null
+    That was almost unheard of for a pitcher to, to start out that strong.: null
+    That was the Super Bowl.: null
+    That was, that was the year they beat Houston in extra innings,: null
+    That would drive you up a wall.: null
+    That's a lot of baseball.: null
+    That's about my extent of, about baseball,: null
+    That's contrary to, popular belief, .: null
+    That's my kids turning on their music.: null
+    That's the only thing I found out tonight .: null
+    That's what we do, especially when it's bad weather, man, just,: null
+    That's when I've been.: null
+    That's, that's in, Texas stadium where the football players,: null
+    The GHOST OF SHOELESS JOE was the name of the book.: null
+    The Oakland A's, and I think it was, I don't think it was an all California baseball.: null
+    The Restaurant Hall of Fame inducted him tonight,: null
+    The Texas Rangers, they, they lost, I think.: null
+    The last one I saw was DANCES OF THE, WITH THE WOLVES, WOLVES.: null
+    The, those Cowboys have increased their prices again this year.: null
+    There are so many games in, in a year that they've got to have repeat customers.: null
+    There is not ever a in between for him.: null
+    There really wasn't a lot of difference.: null
+    There we go.: null
+    There were certain parts of town where it was illegal to drive.: null
+    There's several guys from our church try to go up there.: null
+    There's was Twins there, or,: null
+    They are my favorite team, too.: null
+    They could very easily, take that as a challenge. Which is the way most teams nat, naturally do.: null
+    They go, okay, then start one.: null
+    They got him from the Mets for Hubie Brooks.: null
+    They got real good pitching,: null
+    They have, they have several pitchers that had badly years last year: null
+    They live for one thing: null
+    They said the, that that he was horrible at, at batting with, with men on base.: null
+    They say as long as they draw up two million fans that: null
+    They usually pick their own.: null
+    They're not the highest paying ball team around.: null
+    They're so astronomical I can't even imagine: null
+    They're, they're, they're they, they have, I think they have the best facilities in the major leagues.: null
+    They, they got all,: null
+    This is how much I know about baseball.: null
+    To sign him again,: null
+    Toronto's only about two hours,: null
+    Toronto, I want to go see.: null
+    Wally Moon is the manager of them.: null
+    Wally Moon moon shots and all that.: null
+    ? We got free tickets because someone at our church, one of the deacons at church,
+      parks cars at The Mansion at Turtle Creek which is one of the, the places and
+      stuff.
+    : null
+    We got pre, we, we got into that a whole bunch.: null
+    We have been talking about this,: null
+    We just get right on the freeway and just go north.: null
+    We play R B I baseball on Nintendo: null
+    We saw, HEROES HAVE ALWAYS BEEN COWBOYS, tonight.: null
+    We usually order our tickets way in advance.: null
+    We, we try to go so often.: null
+    We, we usually try to get to opening day game.: null
+    We, we're both doctoral students: null
+    Well just about,: null
+    Went out into the bars,: null
+    What I saw on the news today, that: null
+    When we moved down, I was able to go to my first, baseball game, and: null
+    ? You and I should be so lucky to, to go out and swing a bat and get two thousand
+      dollars every time you swing the bat or something like that.
+    : null
+    You go in their bathroom: null
+    You got to make money.: null
+    You have to figure out why they're all doing that, I'm like, it's doesn't work, it's obvious it doesn't work because the,: null
+    You just don't have,: null
+    You know it's just, phenomenal .: null
+    a little bit from three, from thirty million dollars or thirtyfive mil,: null
+    a long time.: null
+    a lot of people said, you should have turned pro.: null
+    a lot of wisdom in it.: null
+    about that same time branches were falling off everywhere,: null
+    about, about the most baseball we get is T V we play it on Nintendo.: null
+    after that, if you asked me that I wouldn't have been able to tell you if that was football or baseball.: null
+    all I do is teach reading all day long,: null
+    all of a sudden something happens: null
+    all schools were closed for almost, for over, for a week.: null
+    all the girls were all dressed up: null
+    all their players are signed now.: null
+    anyway, someone gave an Iranian a tip of four Rangers tickets last year,: null
+    anyway, they could really only have four members on the team.: null
+    apparently the Rangers last year, won a lot of one run games.: null
+    as far as the Twins are concerned, it seems to be real good.: null
+    as far as the major league teams, I don't know, the Rangers have been,: null
+    as long as I let it heal, it never really bothered me: null
+    back to, maybe eighty, eightyfour or eightythree: null
+    barring traffic, it's four hundred hours,: null
+    baseball is still: null
+    because we usually get one.: null
+    boy, I saw it, I was up there on business, last June and watched a game in the sky dome.: null
+    by saying I like them, I like their chances.: null
+    coliseum, Wally Moon and all that.: null
+    decisions like that have to be made by someone .: null
+    do it while you can.: null
+    eve, every once in a while, I will keep in, in touch, with maybe, who's in the top five of hitting, or something like that: null
+    even the bench warmer, I would.: null
+    every day I'll have a newspaper at work,: null
+    every team that's, that's really good seems,: null
+    every year they always knock on the door early, and then just go into their skid about, the end of June.: null
+    everybody else that I've talked to has been right around here.: null
+    everybody hopes that, they go all the way around here.: null
+    everybody wants to do it: null
+    everybody was a Twins fan,: null
+    everything's pretty expensive: null
+    finally a guy gets up there and blasts a home run: null
+    for some people it's just,: null
+    fortunately the Red Sox, last time I saw the paper earlier this week, were in first place and doing quite well.: null
+    four hundred hours,: null
+    four hundred mil,: null
+    four hundred miles: null
+    from what I hear from everybody up there, they're not going to have a good year because they let too many people go.: null
+    had a lot of fun: null
+    having somebody get up and hit a solo home run does you, gives you run, obviously.: null
+    he brought me up from like a hundred and fifteen, I had my high game of two eightyseven.: null
+    he can, he can stri, he can swing a couple times,: null
+    he could go in the team the next day,: null
+    he decided that some wealthy man tipped this Iranian,: null
+    he describes it as, you sit there in a crowd,: null
+    he didn't want them,: null
+    he doesn't know how many years: null
+    he fits right in with Texas bunch of guys, with Detroit, bunch of guys that hit home runs and strike out a lot.: null
+    he gave them to Alan,: null
+    he goes no .: null
+    he goes to a lot of games,: null
+    he got to do it: null
+    he had his year this year,: null
+    he hits a home run: null
+    he just goes right down the tubes.: null
+    he just pitched his first, exhibition game a day or so ago,: null
+    he just signed on,: null
+    he just works a normal job.: null
+    he makes good money too doing that,: null
+    he must own the biggest chunk: null
+    ? he offered, to take me to one of the games because, apparently, he'd bought,
+      he and four other people from Honeywell had bought a seat, a row of seats for
+      the home games.
+    : null
+    he pitched five, five full innings.: null
+    he pitched for an exhibition game for the Rangers.: null
+    he said after about the first hour he started looking at his watch.: null
+    he said he's been saying one more, and it's been two and three, might be two and three more.: null
+    he said, I get a kick out of it,: null
+    he says, let me show you how to use your arm to your advantage.: null
+    he strikes out a lot,: null
+    he tries to go,: null
+    he was sort of in between Strasbourg,: null
+    he was, boy it sounds like your really up on this.: null
+    he wasn't in the book,: null
+    he's I thought he was the owner: null
+    he's a, a pretty decent pitcher.: null
+    he's been a legend for so many years,: null
+    he's doing the same thing I'm doing which is, basically, an internship.: null
+    he's done that for five years.: null
+    he's glued at the T V.: null
+    he's got one more year before he turns into a free agent.: null
+    he's not that far,: null
+    he's real happy there.: null
+    he's still kicking around.: null
+    he's their head chauffeur,: null
+    he, he can't field: null
+    he, he said he didn't think it should have gotten all those awards, he thought it was too long: null
+    hers was the first one I got, gotten: null
+    his son pitched for U T: null
+    honestly, I, I do my duty and watch the sports on,: null
+    hope I'm going to do it this year because, having a kid this fall,: null
+    hopefully, hopefully next week I'll get back to my normal routine.: null
+    how to train them so they're going to be a blessing: null
+    if I've been watching the French news,: null
+    if I, if I were in Detroit, I would start building the team around Fielder.: null
+    if ball I would have been afraid it would have knocked my face in,: null
+    if he fouls it up he can swing as much as he can.: null
+    if he strikes out a lot, so what.: null
+    if there's a game on, he's watching it.: null
+    if they were, playing the people that they're going to play, then that might be pretty good indication,: null
+    if you know where Lake Ontario is sort of.: null
+    if you talk to ten then they come ov, on and say, you've extended your limit,: null
+    if, if you, if you compare to go to a, a sport, a, a: null
+    in Dallas you don't even know who's in, in administration,: null
+    in South Dakota, the Minnesota Twins are the closest professional sports team to where I was living: null
+    in as much as sort of fan support helps.: null
+    in fact I've got family that still lives up there.: null
+    in fact, on the news tonight, Nolan Ryan was on there.: null
+    in my division they do,: null
+    in the major leagues, I guess there is a couple of different divisions: null
+    in the movie the guy was black,: null
+    in the past half a dozen years, all we've had is the,: null
+    interestingly enough you mentioned football, is like,: null
+    is there enough money,: null
+    is this funny, as they're parking the cars the valet service.: null
+    it had to be November anyway.: null
+    it looks like wow, they really hit that ball.: null
+    it one of those movies it's not going to be around long,: null
+    'it puts a whole in your money bag, *spelling: hole': null
+    it seemed to be,: null
+    it seems that, they can sign him tomorrow,: null
+    it takes about two hours, two and a half hours to get there.: null
+    it takes me a good seven hours to get to Shay Stadium.: null
+    it turns out my Mom said that he's part owner: null
+    it was a catcher.: null
+    it was a really cute little kid too.: null
+    it was actually wonderful because where I was they were half Met fans and, half Sox fans.: null
+    it was at least two months after I got up here.: null
+    it was in the high fifties today,: null
+    it was just exciting,: null
+    it was just kind of funny: null
+    it was kind of slow,: null
+    it was nice weather and stuff,: null
+    it was really funny, that he would tell me where to stand and how to hold my arm and, and how to, follow through with my,: null
+    it was the biggest thing that any one in this company had ever done,: null
+    it was, about movies, what have you seen at the movies lately and stuff like that.: null
+    it was, it was kind of pathetic,: null
+    it wasn't a real problem,: null
+    it went over ten minutes.: null
+    it will be a dollar movie in no time.: null
+    it's I should say on the west side,: null
+    it's a commitment: null
+    it's a statistic that has to do with winning and losing one run games.: null
+    it's a, it's a beautiful city.: null
+    it's called SHOELESS JOE.: null
+    it's essentially trivial statistics: null
+    it's getting nice.: null
+    it's going to go to the highest bidder .: null
+    it's going to have little shopping centers in it and little like a lake or something running through it.: null
+    it's just amazing,: null
+    it's just ten children at a time.: null
+    it's just there they are: null
+    it's like, they'll try something: null
+    it's pretty nice: null
+    it's still, it's some: null
+    it's suppose to be a huge stadium: null
+    it's the, it's, it's a reverse indicator.: null
+    it's true bowling: null
+    ? it's, it's not a great indication because there have been teams that have just,
+      come out and just won all kinds of games in Spring crani, training and then
+      gone on a, fourteen game losing streak in the first of the season
+    : null
+    it, it, it, it sits right at the limit,: null
+    keep forgetting how big states are out there sometimes.: null
+    last night on the news I heard that they said you could, you could bid on the stadium to have it named after you,: null
+    last year I just figured they was under a lot of pressure because of all the publicity and everything,: null
+    last year he made: null
+    last year he started having some nagging injuries,: null
+    late fifties, early sixties.: null
+    like I said, I'm in Minneapolis: null
+    like I'm loaded,: null
+    like the A s had, they had, they just had it all that one year.: null
+    lots of local fans, small stadium,: null
+    made it all the way through four years of college playing ball,: null
+    many, things like that,: null
+    maybe it was the other New York team which is the Yankees,: null
+    maybe they just need everybody to tell them they can't do it.: null
+    me and all my friends around here, since we don't have anywhere,: null
+    me, none of me and my friends are really, really like either one of those teams,: null
+    more and more these days I'm, I'll like a football game,: null
+    most of the time really we watch them on the video.: null
+    my Mom and Dad read all the time.: null
+    my brother was supposed to go to the opening game,: null
+    my brother's wife and my husband and I went.: null
+    my brother, my brother is impossible,: null
+    my cousin lives in Paris: null
+    my family, my dad was,: null
+    my favorite team is about the Rangers.: null
+    my favorite team was the White Sox.: null
+    my grandmother has been bowling for, gosh, maybe thirty, forty years.: null
+    my h, my husband teaches in Plano.: null
+    my husband's French: null
+    my love wasn't there for the game.: null
+    my roommate: null
+    my roommate went and saw them play on their season opener a couple of nights ago: null
+    my, my folks lived down in Beaumont,: null
+    nobody brings two children in these seats, because,: null
+    normally on my way into work I'll pick up a newspaper: null
+    not a real lot,: null
+    not my a lot, *sp? by: null
+    not really,: null
+    now I have a grandson that i, is gung ho for, football.: null
+    now I won't play football anymore because of the, the separated shoulder wrestling,: null
+    now my job's good,: null
+    now their sons are.: null
+    now they tell you what to teach and how long and, what day,: null
+    of all the sports that there are, that there is, I like baseball the best.: null
+    of course, I understand baseball decisions are all just,: null
+    of course, Texas Rangers being one of them,: null
+    of course, get a guy like Cecil Fielder,: null
+    of course, there's a few more, I think are good ball teams also.: null
+    of course, there's the minors.: null
+    ? on the campus of Lamar University they used to house the Beaumont Golden Gators
+      who were a double A team for the Padres, I think,
+    : null
+    one is eleven.: null
+    one of the men that was in our rel, on our league, noticed, my broken arm and the way my ball would do.: null
+    one of them broadcast every Twins game live,: null
+    ? one thing I don't understand is why a group, headed up by George Bush would
+      buy the Texas Rangers and not really get behind them
+    : null
+    only, Ryan didn't want too much publicity on it because he didn't want his son getting too nervous about this whole thing.: null
+    out that way,: null
+    outside of that, no.: null
+    people really get into it.: null
+    picking up Darrell Strawberry didn't hurt.: null
+    probably south, maybe Texas .: null
+    quite a, quite a bit.: null
+    rather they adopted me, I guess: null
+    real good as far as I can tell.: null
+    really proud of him though, the way he's,: null
+    right down the river,: null
+    right now we don't have a girls' league because I'm the one that's supposed to start one: null
+    right now we're actually having,: null
+    saw, saw the Cardinals and Cubs last year, and a bunch of teams the year before.: null
+    she does work with them: null
+    she just liked having kids: null
+    she still, she's got to be,: null
+    she was real interesting.: null
+    she was telling me all her problems,: null
+    she's gorgeous: null
+    she's lived there for off and on for twenty years.: null
+    since I live here so close to Arlington, that's the team that I've been kind of following.: null
+    so } we took two kids with us: null
+    some of the people in our church use birth control: null
+    some of them don't,: null
+    somebody basically,: null
+    somebody else lost,: null
+    somebody walks in the, a classroom: null
+    ? speaking of Bush, speaking of Bush, they that had a story where he went to visit
+      some little, elementary school students, and stuff.
+    : null
+    supposedly what I heard, he was not much of a team player anyway,: null
+    that doesn't mean get three other guys who hit, all they can do is hit home runs and strike out: null
+    that got him a bonus of twentyfive thousand which allowed him to pay cash for a full size van.: null
+    that guy , the short stop, is going to be good.: null
+    that new stadium's going to be real nice,: null
+    that of course means that when it comes to the American League my favorite team is the Red Sox: null
+    that was a lot of fun .: null
+    that was always a problem for me was just, just the constant throwing,: null
+    that was impression I got when I was there: null
+    that was interesting.: null
+    that was part of Skip Bayless' argument.: null
+    that was quite awhile ago: null
+    that was real good to talk about that.: null
+    that wasn't a question,: null
+    that'll be nice,: null
+    that's a good question.: null
+    that's about all the exposure I have to sports.: null
+    that's all there is to it,: null
+    that's all you hear about is, if, about Neal Bush I think is his name.: null
+    that's been real good.: null
+    that's just the home games: null
+    that's one difference.: null
+    that's one of the, entrances to the to get in and out of the city.: null
+    that's part of it,: null
+    that's pretty good I guess.: null
+    that's the only thing that I would, be to do.: null
+    that's what God's told them to do: null
+    that's what I did when I was growing up.: null
+    that's, that's something that we're looking forward to.: null
+    that's, that's, over five months worth.: null
+    that, may or may not happen.: null
+    that, that was incredible.: null
+    that, that's sort of close enough.: null
+    that, that's what they're called to do.: null
+    that, that, I think, tends to keep,: null
+    the Mets won.: null
+    the Redwings, which are: null
+    the Saint Louis Cardinals are one,: null
+    the big thing up here, of course, is the twins.: null
+    the game started at seven: null
+    the guy I was talking to never goes,: null
+    the guy's making millions,: null
+    the guy's twenty, twentyfive home rums, maybe thirty, eighty some R B Is.: null
+    the kids at talk about anything: null
+    the one I talked about the other night was good,: null
+    the other one was country.: null
+    the other thing was I'd never really let injuries stop me.: null
+    the owner tried to move them to Florida: null
+    the season started about a week and a half ago: null
+    the speech laboratory does some work with, T I,: null
+    the teams that were there last year were, somebody from California,: null
+    the thing is, there's like eightysix home games per year.: null
+    the topic was boring I thought.: null
+    the topics are interesting,: null
+    the, statistics are something like twentyone out of twentythree.: null
+    the, the best I've been up here so far, up, in up state New York: null
+    their biggest point of interest has been Nolan Ryan not the rest of the team lately,: null
+    then I started cleaning: null
+    then my father got us some tickets,: null
+    then playing football this fall,: null
+    there are some others out there that I don't believe deserve the money they're getting.: null
+    there sure are.: null
+    there used to be a, race track.: null
+    there was Braves in that chanting that they had.: null
+    there was, there was something wrong with him at the time,: null
+    there's a good book called WHAT THE BIBLE HAS TO SAY ABOUT CHILD TRAINING,: null
+    there's injuries in a lot of sport.: null
+    there's no, no way that you can ever use them all.: null
+    there's so many of them .: null
+    there's ten tooth brushes in there.: null
+    there's two fellows from, Brooklyn,: null
+    there's, there's a guy on, that was on show that I listen to going to work in the morning: null
+    there's, there's another point to that too.: null
+    there, there's no hold outs.: null
+    they are so good.: null
+    they are, they're these, cycle pitchers,: null
+    they beat Houston in extra innings,: null
+    they did pretty well.: null
+    they do that: null
+    they don't quote you the proverb out of it,: null
+    they don't say, they don't put on bad or anything which is good because it would be easy, I'm sure, for them to do that,: null
+    they don't, she doesn't shop at Foley's and stuff like that.: null
+    they don't, they don't allow you to sell it, don't allow them to sell it there.: null
+    they ended up sticking around in Arlington,: null
+    they feel like, that's why God: null
+    they find that, tha, tha, there's a connection between that and how they do in Spring training the following year.: null
+    they gave them to us,: null
+    they give him all kinds of money: null
+    they give you a list of things that you want,: null
+    they go, we don't have one.: null
+    they got that new stadium they are building.: null
+    they got the hitting to go along with it.: null
+    they had so many power lines down: null
+    they have the later ten game winning streak: null
+    they have twelve children.: null
+    they hit the long ball,: null
+    they just haven't been able to put anything together.: null
+    they just, they probably just need something to push them: null
+    they kind of fell on their face .: null
+    they play a lot, they play a lot longer season, too.: null
+    they put him in the lineup: null
+    they really seem to,: null
+    they run a whole of, of, subjects,: null
+    they showed a, a, a black guy that was go, was helping out,: null
+    they throw it out, and get something else,: null
+    they were ...: null
+    they were from Brooklyn .: null
+    they were saying something about this may be his last year with the Rangers though.: null
+    ? they were talking about trading him, if they're not able to sign him use the
+      money that it would take to sign the guy, to pay for pitchers what it, what
+      it, what they, what else they need.
+    : null
+    they were, toward the bottom of the league.: null
+    they won't be that far away,: null
+    they'll get a crowd of less than ten thousand sometimes,: null
+    they'll tell you they've written something down,: null
+    they're a, it's a small market: null
+    they're all eight and under,: null
+    they're all real young,: null
+    they're almo, almost starting to age a little bit here,: null
+    they're going to build a new stadium in Arlington, as a matter of fact, not even in Dallas,: null
+    they're going to try to make it a real community center out there.: null
+    they're just raised: null
+    they're never going to let liquor in there.: null
+    they're not all boys: null
+    they're not condemning you,: null
+    they're not going to be a curse to you when they're thirteen.: null
+    they're not going to be happy about it.: null
+    they're not sure they're going to be able to sign him again.: null
+    they're one of the best teams in spring training so far.: null
+    they're pretty balanced out all the way through.: null
+    they're saying this year, their predictions is that he's really going to come out of it and,: null
+    they're the big team in Rochester.: null
+    they're writing the whole time .: null
+    they're, they're, they're real balanced out.: null
+    they're, they, they have plans,: null
+    they've been, they've been young for a while,: null
+    they've got Ryan,: null
+    they've got it all figured out.: null
+    they've led the American league in batting, fielding and pitching,: null
+    they've never been able to do more than one of those in any, any given year.: null
+    they, they just live lean pretty much: null
+    they, they pitch one year bad, one year good, one beer bad, one year good.: null
+    they, they really hurting pitching wise.: null
+    they, they spent more money,: null
+    they, they were fun games to watch.: null
+    they, they were, they were pretty much without having to say, they were pretty much Mets fans .: null
+    they, they won that one seven to one,: null
+    they, they've got so much young, raw talent,: null
+    they, they've got, they've looked at I think twentythree teams,: null
+    this is my eleventh year.: null
+    this week I've been so busy I didn't even bother to stop .: null
+    three and a half weeks ago, we had an ice storm .: null
+    three hundred miles.: null
+    to be honest with you, I'm not from Minneapolis.: null
+    to get up there.: null
+    to put the ball,: null
+    tonight this woman called,: null
+    unfortunately they're not.: null
+    we can go to the Astros or the Rangers teams,: null
+    we did go to a baseball game last year.: null
+    we don't honor God with this portion: null
+    we ended up on first base right down there on the floor,: null
+    we ended up with them, right.: null
+    we go quite often,: null
+    we got to sit by first base: null
+    we had made a list of all these, baseball teams and the cities that they were from,: null
+    we have our own, our own triple A team here: null
+    we just threw everything together, ran over and got the tickets and walked: null
+    we made him try a hot dog, ,: null
+    we met in Paris.: null
+    we only had two radio stations,: null
+    we only have one child,: null
+    we started talking about gangs,: null
+    we talked about that one too.: null
+    we they called us at five: null
+    we used to like watching,: null
+    we used to tease about, my son: null
+    we went last year: null
+    we were actually in a state of emergency for two weeks.: null
+    we were thirty miles south of them,: null
+    we're about ten miles south of Lake Ontario.: null
+    we're expecting our first baby,: null
+    we're heavy into that too.: null
+    we're, we're pretty lucky because if I want to see a National League team, I can usually go up to Philadelphia.: null
+    we've been up in the, seventies, eighties, even up in the nineties a couple of weeks ago.: null
+    we, we've just got a freeway.: null
+    we, we, we make a point of going to a bunch of them every year because they're fun.: null
+    when I first started teaching, I remember I went to my: null
+    ? when I played baseball when I was growing up, I had trouble, just throwing the
+      ball because I wa, very, I was always very strong
+    : null
+    when I take a break, I'll take a look at the newspaper.: null
+    when I was young I could throw harder,: null
+    when he quits at being active, he will go into,: null
+    when he was in high school, he enjoyed going to baseball games.: null
+    when it happened he missed it,: null
+    when they chose baseball,: null
+    when, when he sort of went away, I started thinking, he was performing fairly well,: null
+    where they're going than I do beca,: null
+    with Detroit, they can get away with one guy like that.: null
+    yet they attract as many if not more than most, most, other cities,: null
+    you can talk for ten minutes: null
+    you can watch baseball on T V: null
+    you don't go to baseball games as much: null
+    you don't have to.: null
+    you don't know what they're there for, when they're coming, how long they're going to be,: null
+    you eat these lousy the hot dogs ,: null
+    you get a like that: null
+    you get pictures like we did.: null
+    you go to a rock concert,: null
+    you got, you got to do something when football ain't on.: null
+    you happen to look the other way during the time,: null
+    you hope they're telling you the truth.: null
+    you just can't do that: null
+    you just sit down: null
+    you never know where they are going what they'll report: null
+    you sit there: null
+    you sit there in a crowd,: null
+    you think everyone should have it.: null
+    you wait for the longest time really bored,: null
+    you'd be sh, I was shocked,: null
+    you're basically you sit there and wait for something exciting to happen: null
+    you're waiting and waiting and waiting: null
+    you're, you're like a boat ride from,: null
+    you've got a lot of federal money, too.: null
+    you, yo, if you, if you consider it, the season starts,: null
+    your cousin could have a baseball team with twelve kids .: null
+    '} at T I they have a sponsor, a junior league achievement': null
+  Statement-opinion: !!set
+    A game is a game,: null
+    A little disappointing the last few years.: null
+    A lot of the psychology stuff, the good stuff that's in psychology it just comes out of the BIBLE: null
+    And Valentine and Greave, they're about to get, they're about to get old.: null
+    Apparently I think his contract is up after the end of this year: null
+    As far as the Rangers are concerned, I think, I think they need some, definitely need some pitching.: null
+    Cincinnati.: null
+    Don't let him go away.: null
+    Especially if you get them for a couple of nights you don't have to watch them all in one ni, one time.: null
+    He really is an,: null
+    He really is gosh.: null
+    He's like a little bitty kid,: null
+    He's something else,: null
+    I don't care if you're President.: null
+    I don't even guess they've even thought about sending the schedules out yet.: null
+    I guess I'm one of the few people that also prefers baseball to football.: null
+    I guess it's too early.: null
+    I guess the, San Francisco Giants and the Oakland A s were the leading teams a couple of years ago.: null
+    I guess they paired two women together on this call for a reason which is something we can think about later: null
+    I guess you probably love him, too.: null
+    I guess, I guess when you start pitching real well, move them up. .: null
+    I imagine you can't escape it .: null
+    ? I just don't think, with that guy from Pittsburgh getting all that money, twentyseven
+      or twentynine million or whatever it was, I just don't think that they're going
+      to be able to sign Ruben Sierra
+    : null
+    I kind of think it was necessary,: null
+    I know Yankees have won a lot games .: null
+    I really think, I really think that, that they ought to,: null
+    I say, if the guy can't play, you don't blame that,: null
+    I tell you that would draw a crowd, wouldn't it.: null
+    I tell you, we need a winner in this town.: null
+    I think he deserves every penny of it.: null
+    I think it's a little bit late in the season for them to assign us: null
+    I think it's fun,: null
+    I think it's going to have a big effect if they don't on the other, Hispanic players.: null
+    I think it's more fun to play than it is to watch.: null
+    I think so.: null
+    I think stadiums work tend to keep people happy.: null
+    I think that helps a lot.: null
+    I think that they have a, a lower of injuries,: null
+    I think that's a, a great addition.: null
+    I think that's all that they have.: null
+    I think that's one of the most, enjoyable things about being up here.: null
+    I think that's really what's been hurting, the, Rangers.: null
+    I think that's the key, in he, his last year: null
+    I think that, I think that's part of what, baseball needs more of.: null
+    I think that, that a player ought to hit a home run if he's got the pitch to do it,: null
+    I think that, with, so much controversy over Ruben Sierra not signing and asking us for so much money, it's, I think: null
+    I think the Pirates will go.: null
+    I think the Royals will do okay.: null
+    I think the entire baseball,: null
+    I think the odds are cut down.: null
+    I think the, they happen more in football.: null
+    ? I think they just want to stay mediocre and draw their two million fans out
+      there and then be happy with it and not have to pay the bucks to get a contender
+      in here.
+    : null
+    I think they should, pay him what his salary is going to be, and let him,: null
+    I think they're doing better.: null
+    I think they, I think they need them all.: null
+    I think this is absolutely ridiculous.: null
+    I think this town would go crazy if they ever got a, even a playoff team.: null
+    I think we can address every topic,: null
+    I think we were all pretty much, Astros fans, in the National League Championship Series: null
+    I think with their new stadium, they should go and let,: null
+    I think you're probably right, that they, that they need some, some changes in, pitching coach, maybe: null
+    I think you, you don't know all that much more than I do about baseball .: null
+    I think, I think the Rangers need to go: null
+    I think, what caught so many of our attentions last year was that Nolan Ryan,: null
+    I want to see them win, because damn it, they, the fans deserve it.: null
+    I'd rather see the ball hit around and have the people,: null
+    I'm not real sure that they should pay him that much money.: null
+    I, I know they can get hurt in baseball too.: null
+    I, I really love,: null
+    ? I, I think going to the ball park just really makes it. Because then you watch
+      it on T V you feel like you're more a part of it too.
+    : null
+    ? I, I think that there's coming to a point real soon when ticket prices are going
+      to be to the point where the average fan can't go
+    : null
+    I, I would say that baseball tends to be one of the less,: null
+    I, I, I would, I would think baseball probably feeds on a number of people that can go out there, several times a,: null
+    In other words if you've got a player on your team who's helping your team, then keep him there.: null
+    It kind of goes into about all aspects of society I think up here.: null
+    It looks like our Cowboys are coming back: null
+    It really doesn't,: null
+    It sure would.: null
+    It's a lot more fun when your not fighting a crowd.: null
+    It's about to get,: null
+    It's an interesting, an interesting concept of, of how they do it.: null
+    It's going to be depending on where the, what they do with Ruben Sierra: null
+    It's good when you go to Tom Thumb though: null
+    It's just going to effect on the, the team,: null
+    It's real aggravating,: null
+    It's so stupid because they let you take it in there,: null
+    It's, it's not, it's not too cool for kids.: null
+    It, it really kind of depends on, on, what they were, what they were looking for.: null
+    Like Oakland A's and the Giants: null
+    Most of the time.: null
+    Not lately though .: null
+    Of course, you have to get there early if you want to get anything,: null
+    One of the advantages of not having pitchers who are: null
+    People are pretty excited about it.: null
+    Some of them are not too happy about it: null
+    That was a good movie, too.: null
+    That was a, that was a series to remember, for sure.: null
+    That was fun.: null
+    That's a whole different sport.: null
+    That's probably because of the roads.: null
+    That's really stupid.: null
+    That's so stupid that you all have two teams.: null
+    That's something you dream about.: null
+    That's typical bureaucracy though.: null
+    That's, that's probably the pattern for the future of stadiums, I think.: null
+    That's, that's, I think it's going to be any where you go: null
+    The bat is a very heavy object, can do a lot of damage: null
+    The only problem is it's not large enough.: null
+    These guys have been pampered.: null
+    They can't afford not to,: null
+    They could do very well,: null
+    They need to have some, some young guys that can take the lead: null
+    They really are.: null
+    They're doing the right thing, though,: null
+    They're letting their farm system, build up and stuff like that: null
+    This is America,: null
+    Those are, those are, I think those are more fun than major league games sometimes.: null
+    Those games are fun to watch.: null
+    We are substantially north of New York enough that,: null
+    We just can't seem to,: null
+    When it starts costing you fifty or a hundred dollars to go to a game: null
+    Which means that if you have a good year winning one ru, one run games that the following year, you'll have a bad year.: null
+    You do these fun things, in other kinds of ways: null
+    You don't expect them to be, much of anything but thugs.: null
+    You just have to spend it if it's necessary.: null
+    You probably can't afford to eat if you have more than .: null
+    ? a guy, a pro athlete can go out there in the afternoon and probably make five
+      thousand dollars just by doing a personal appearance at a
+    : null
+    a lot times people think, I'm not blessed: null
+    a lot women at Foley's: null
+    all he has to do is hit the ball,: null
+    all he has to do is one, hit it once.: null
+    all of a sudden he becomes a hero.: null
+    anyway, it is interesting.: null
+    as far as predictions and stuff, I really think the Rangers may come out real strong this year.: null
+    at least, at least that will be exciting: null
+    at the same time, I don't know, it's pretty far to throw that far .: null
+    baseball is their, is their life up there like football is down here I think.: null
+    baseball's baseball.: null
+    being told what to do is worse.: null
+    certainly if you look at them compared to, let's say, eight years ago or something, they're: null
+    even in baseball you can,: null
+    every team with the Indians been doing that now.: null
+    every year they get thrown out.: null
+    everything's on the west side.: null
+    goll, how humiliating for a man to do that, any man.: null
+    he ought to be able to perform,: null
+    he really is.: null
+    he really wasn't worth the baggage,: null
+    he seemed to know what he was doing: null
+    he sure is.: null
+    he's just a, a, a little boy with a lot of money.: null
+    he's still doing great: null
+    he's supposed to be able to do that.: null
+    he's very much due for a good year.: null
+    he's, he certainly is a good example, for the kids.: null
+    he's, he's such a nice man.: null
+    heck, that's a lot cheaper then,: null
+    hit it to him,: null
+    if I owned the team. I think you'd like them to do well: null
+    if he doesn't, then his market value will go down: null
+    if he produces next year, they may have to end up paying him anyway,: null
+    if it's a perfect shot, go for it,: null
+    if you can't do it with men on base, there's something definitely wrong,: null
+    if you had to, if you had to bet on who would be in the World Series, it would be really tough.: null
+    if you have young, young children, they, they get a kick out of it.: null
+    if you offer them money, I'm sure they'll,: null
+    if you're a fan you got to stay with the team any way, you: null
+    in, in psychology doesn't address it.: null
+    isn't it funny how baseball's getting less than football players would.: null
+    it does so fast ,: null
+    it ends with the World Series which usually takes place, I believe, in December or January.: null
+    it is, it's incredible.: null
+    ? it seems that what you really need to do to win though, is to have a team that
+      has reasonable talent and has some people that have, have, have real breakthrough
+      years.
+    : null
+    it should be an interesting year.: null
+    it should, uhhuh.: null
+    it sure should.: null
+    it was a great deal for him: null
+    it was int, it certainly was an exciting Series, anyway.: null
+    it was just more for my money.: null
+    it's a different kind: null
+    it's a good idea,: null
+    it's a long way away.: null
+    it's a lot of losers .: null
+    it's almost four hundred,: null
+    it's always, it's always wondered me why, they act as though this area is not, a big metropolitan area,: null
+    it's good because they, they try new things,: null
+    it's good to have,: null
+    it's hard to say.: null
+    it's just going to be a shame for, our area.: null
+    ? it's just incredible to think that there's, there are players who are the sons
+      of ball players that used to play against Nolan
+    : null
+    it's just worse in the bigger cities than it is in the smaller ones,: null
+    it's kind of like Babe Ruth.: null
+    it's like I said spending money doesn't guarantee you, winning a pennant.: null
+    it's nice at night.: null
+    ? it's really kind of, kind of late to, to start, be trying to trade for somebody,
+      especially with the salary cap that the Rangers have.
+    : null
+    it's so crowded up there.: null
+    it's so much more exciting watching a ball come at you,: null
+    it's strangely enough, it's almost like the law of averages catches you on the following year.: null
+    ? it's sure aggravating when you go out and bust your butt working, your day job
+      and you can work your day job the rest of your life and not bring home as much
+      money as they bring home in one game.
+    : null
+    it's time to, to either, put out or shut up.: null
+    it's too bad that, it has to be a fortytwo year old guy to, to lead the, the Rangers,: null
+    it's, it's pretty pervasive.: null
+    it's, it's, it's, it's a heck of a drive.: null
+    it's, it, it, it's a little bit like any other sport,: null
+    it, it's an interesting concept, though, when you look at, of, of how baseball, how apparently,: null
+    kids are just as much of a blessing material things: null
+    last year I was kind of thinking he sure did get in a slump.: null
+    like I say, if they can, if they can get that one element that they were missing, I think the Giants can do it.: null
+    man, that's getting old,: null
+    maybe that has, has good tidings for their, for their season coming up.: null
+    nobody has got them yet.: null
+    of course, it was fun for you .: null
+    once you do that, you lose everything,: null
+    real Met fans don't like the Yankees: null
+    real Yankee fans don't like the Mets for some reason.: null
+    so this book it just really all these things and how to train the child: null
+    some people we think of blessings as nice furniture and things like that,: null
+    sometimes the smaller ones are just as bad.: null
+    sometimes when I, if you go out there during the day, you just fry under the sun.: null
+    ? th, I think the best thing that you can do is go with, the players that are,
+      that have the talent to do the best years. And, that they hadn't had these,
+      gigantic, career years yet and,
+    : null
+    that could be your, fifteen minutes of fame.: null
+    that makes a really big difference.: null
+    that must have been hard on him because he's just a person: null
+    ? that probably gives the readers a good shot for you this year or next year,
+      I think, if, I think, the young talent really just has to build itself up.
+    : null
+    that should help.: null
+    that was a great deal for him.: null
+    that's a lot of money.: null
+    that's about, ten too many.: null
+    that's all the game is.: null
+    that's one of the things that I think Saint Louis has done,: null
+    that's the name of the game, too.: null
+    that's the way to do it.: null
+    that, I think that's maybe part of it that, that the,: null
+    that, they really are.: null
+    the Rangers have a, have a pitching problem: null
+    the Rangers really, knocked the socks off of them, which you would expect: null
+    the depth of knowledge is quite different.: null
+    the kind of cruel,: null
+    the politics, the politics gets worse in the small towns sometimes.: null
+    the question is how do you forecast that,: null
+    the question of losing big, big money that what, did, did, did Steinbrenner actually make money on the,: null
+    the strike outs were a big problem for him,: null
+    the things that work in psychology other the years that they've proven to work, they just come out of the BIBLE: null
+    the way I, the way I see it, is,: null
+    the, then they can have them play against each other.: null
+    their, their ticket prices are, kin, I guess as high as anybody else's: null
+    there are a lot of Ranger fans around.: null
+    there's definitely a lot more hitting .: null
+    these two were definitely thugs,: null
+    they are going with their farm system.: null
+    they can pick him up for, for a lot less than,: null
+    they don't have as much money.: null
+    they don't have the offense to, to get out, or to have the, the more runs,: null
+    they may be even be, better this year.: null
+    they must play every day then.: null
+    they need the pitching.: null
+    they really do.: null
+    they really don't have an excess of catchers: null
+    they say that from that space needle up in Toronto you can see the lights of Rochester on a clear night.: null
+    they sure could.: null
+    they try every year: null
+    they were pretty much thugs,: null
+    they weren't scared very much, .: null
+    they won the series byebye sort of a sneaky route, against Boston: null
+    they're a good ball team.: null
+    they're cheap: null
+    they're the ones that probably are paying the highest.: null
+    they're trying.: null
+    they've got the hitting,: null
+    think, the, he, that must have been on President Bush to bounce the first pitch off the ground,: null
+    this last year, I'm not sure that they said that they had that many people having career years.: null
+    training, training is different than anything else: null
+    unfortunately the Rangers don't spread it around quite as big as some of the other teams do.: null
+    when you get two strikes on you, you have a tend, you should, shorten your swing a little bit,: null
+    when you go to the ball park, it's really not all that far: null
+    whether or not they can fix that or not is going to be an interesting question.: null
+    which means the Rangers are going to have a terrible year,: null
+    whoever built the city was an idiot, in my opinion,: null
+    you blame the team, for putting him in,: null
+    you can't live in Dallas without,: null
+    you don't have to spend the big money, as far as I'm concerned to, to win.: null
+    you don't know which is,: null
+    you get tired of that.: null
+    you have to just keep up with everything in the off season.: null
+    you like to have someone like that you could point to say, see what a fine man, that, he is.: null
+    you never know.: null
+    you think we'd, someday get an owner in here that could afford to buy the, the, the players we need.: null
+    ? you, you've got to be able to get the two and three run home runs, to, to be
+      able to, score enough runs to be able to win in these, in this day and age,
+    : null
+    '} you didn''t believe me about her kids *listen: this and utt2 as one utt': null
+  Wh-Question: !!set
+    How did you find out about it?: null
+    How far is Houston?: null
+    How long you taught, taught in Dallas schools?: null
+    What is the prognosis for, this year?: null
+    What would you serve, if you were having a dinner party?: null
+    Where is he from in France?: null
+    Who is the, is the author?: null
+    gee, how can you draw a conclusion from it,: null
+    how are the Cardinals?: null
+    how do they afford to even have the kids,: null
+    how far is it across the lake to Canada?: null
+    how long are we suppose to talk for?: null
+    how old are your kids?: null
+    how way back,: null
+    well how do you think the Royals are going to do?: null
+    what are the Mets going to do this year without Strawberry?: null
+    what baseball team are you familiar with?: null
+    what do you think is going to happen this year to the teams?: null
+    what do you, what do you think of Incaviglia's loss.: null
+    what kind of weather are you having right now?: null
+    what's he teach?: null
+    what's your favorite baseball team, Rita?: null
+    when are the Rangers going to come through th,: null
+    where are you?: null
+    where do you think they're headed,: null
+    where, where is Cornell University.: null
+  Yes-No-Question: !!set
+    Are you an Orioles fan?: null
+    Are you on, you on any leagues now?: null
+    Are you still there?: null
+    Are you there?: null
+    Because of the ice?: null
+    Boy, you are a baseball fan, aren't you.: null
+    Did she, did she, did you all not talk about the topic at all?: null
+    Did you see that, where he, the guy asked him for proof of who he was,: null
+    Did you, did you sustain any permanent, injury with that?: null
+    Do you ever go see the Rangers?: null
+    Do you read?: null
+    Do you still keep up with them, or someth,: null
+    Do, do you drive there,: null
+    Have you seen SILENCE OF THE LAMBS?: null
+    Have you taken it?: null
+    He lives in Cleveland?: null
+    I heard some noise on the line.: null
+    I suppose I'm supposed to say the Rangers, right .: null
+    Is that a tough system to be in?: null
+    Is that right?: null
+    Is that the stadium?: null
+    Is that what I,: null
+    Is there going to be a ticket increase this year, price, do you know.: null
+    It did last we, year, didn't it?: null
+    Not a Cubbies fan,: null
+    Rochester is right on the shores, isn't it?: null
+    Ryan against Ryan,: null
+    Teaching? .: null
+    Twelve children?: null
+    Was it Nolan against,: null
+    Was it like the movie?: null
+    Were any of them twins?: null
+    Would you, would you agree with that?: null
+    Wouldn't it be something to have a World Series between Da, the Rangers and the Astros.: null
+    Y, did you actually live in Saint Louis?: null
+    Ye, everybody does, right.: null
+    You saw FIELD OF DREAMS, right, a long time ago?: null
+    You think they'll sign Ruben?: null
+    You, you, you watch those games?: null
+    a lot more games, right?: null
+    are they going to beat, are they going to beat Oakland?: null
+    didn't Kansas City put up quite a bit of money for their: null
+    didn't he just sign a twelve year contract with the Rangers?: null
+    do you have any favorite teams?: null
+    do you keep up with the statistical stuff?: null
+    do you know anything about Ruben Sierra's,: null
+    do you know anything about that new stadium,: null
+    do you pick the topic or does the computer?: null
+    do you think we covered baseball?: null
+    don't you think there's a, there, there are older fans there.: null
+    hasn't it changed a lot over the years?: null
+    have you ever played baseball?: null
+    have you seen a game up there?: null
+    have you seen all those pictures that they're going to put out there?: null
+    have you taken any incoming calls?: null
+    he's a bull, isn't he?: null
+    is Rochester,: null
+    is she still there?: null
+    is that a good indicator?: null
+    is that sound familiar?: null
+    is the million dollar question here?: null
+    it's kind of a different situation because you're probably living in an apartment, right?: null
+    it, I think it's one or the other, isn't it.: null
+    men know how to do that, right?: null
+    no Texas Rangers?: null
+    they're not, are they.: null
+    was it November?: null
+    we might actually get to go to a World Series,: null
+    what I mean?: null
+    what was, wait about the liquor?: null
+    wouldn't that be something.: null
+    you are involved with T I s, speech, recognition?: null
+    you didn't really have a lot of choice, did you.: null
+    you don't like Howse,: null
+    you found that out tonight?: null
+    you go back to New York after school?: null
+    your going to be able to buy your,: null

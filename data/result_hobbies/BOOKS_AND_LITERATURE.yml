@@ -1,0 +1,1991 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    I don't know if you've ever heard of it,: null
+    I don't know if you've ever read that: null
+    I don't know if your on city water,: null
+    I wonder if she's written anything really recently, if she's got anything printed, in print.: null
+    Judith Krantz?: null
+    Supposedly scooped up by the triangle.: null
+    That's, that must be a wonderful feeling to be in that profession and be able to make a contribution like that.: null
+    With everything: null
+    it's one of his first books, THE STAND.: null
+    that's the one.: null
+    the one that wrote, WUTHERING HEIGHTS.: null
+    you probably read BACK TO EDEN or something,: null
+    you, you can probably hear him.: null
+  Dispreferred answers: !!set
+    a bunch of stuff, I guess, fair number of novels, but mostly shorter ones.: null
+    sometimes it's a struggle.: null
+    sometimes it's rewarding,: null
+  Statement-non-opinion: !!set
+    A WRINKLE IN TIME is one: null
+    A drinking water business,: null
+    A lot of people that work for me that can't even spell or read,: null
+    ? A real fun boo, bunch of books that I read, the beginning of last year were,
+      the author of JONATHAN, JONATHAN LIVINGSTON SEA, SEAGULL
+    : null
+    A, A ROSE FAMILY by Faulkner. That's one of my favorites.: null
+    About ten years younger,: null
+    ? And a book called JOB CUES, GENDER CUES, which explains, how certain professions
+      and vocations get, flip flopped from one gender predominance to the other,
+    : null
+    And then make movies out of some of them.: null
+    And then, whether, they're a foreign author or whatever, or if it's their style or, or just understanding the material.: null
+    And, my God, } all this Civil War pride.: null
+    And, or how to, how to do something books, for reference.: null
+    Arlington's going to build a stadium, a bigger one.: null
+    As a matter of fact that was a very minor part that kind of become like an afterthought.: null
+    At least not by that name.: null
+    B L Y, I believe it is.: null
+    BATTLE CRY OF FREEDOM starts off, in the eighteen forties,: null
+    Because I, I think I was, I think I read it in college,: null
+    Box seats run from, like eight dollars to twelve dollars.: null
+    Boy, he just sits down eight hours a day.: null
+    Can't put them down.: null
+    Candice Bergen was in the movie.: null
+    Center for Advanced Study of the Behavioral Sciences therefore,: null
+    Christian books written by people about, to help you out and stuff: null
+    Christian literature.: null
+    Closed up and moved down to McKinney.: null
+    DEAD, DEAD ZONE.: null
+    Dean, Kratz, or Kranz: null
+    Dirk Pearson and,: null
+    Donald Trump.: null
+    Even if I'm, doing something like an afghan, if I'm close to the end, sometimes I'll , do the same thing.: null
+    Except for tornados .: null
+    Explained , *listen; could be br: null
+    ? Flight Nineteen was one of the, was a, a collection of a flight of five Navy
+      adventures at the end of World War Two. Right after World War Two,
+    : null
+    For me it would be interesting to find out what life was, l, like, in that period.: null
+    For some reason that scared me more than anything.: null
+    Frank E Peretti,: null
+    Good, that's great to hear.: null
+    H, hop on the Interstate,: null
+    He is an English author who writes some mystery.: null
+    He was high roller for about ten years,: null
+    He was, essentially like you said, a tycoon.: null
+    He was, he is well into his forties,: null
+    He writes, spy novels, THE EYE OF THE NEEDLE: null
+    He wrote TROUT FISHING IN AMERICA.: null
+    He wrote books that were, pretty short and pretty easy to read, written at a third grade level or whatever.: null
+    He wrote under the name of Bachman.: null
+    He's a basketball fan because he, he plays for the high school he goes to: null
+    He's just probably been one of the most,: null
+    He's reading a Dick Vitelle book right now because he's a real big Dick Vitelle fan.: null
+    He's the man out of San Antonio.: null
+    He's with the Bible church.: null
+    He's written a lot of books.: null
+    He's, he's dead now,: null
+    He, he also wrote PEOPLE OF THE LIE.: null
+    Him and his wife are getting divorced,: null
+    His concepts are so different than what I would have ever dreamed of.: null
+    His latest book, and I can't recall the name of it, is just excellent,: null
+    How he started out as just a salesman and now he's, multimillionaire and that type of thing,: null
+    I , I have a,: null
+    I , that was actually a couple of years ago,: null
+    I also get, of course, lots of references to neat stuff to read about.: null
+    I also like romantic novels.: null
+    I also love sports.: null
+    ? I also read a lot of books about music because I'm interested in that and fair
+      number of stuff about science and also philosophy things.
+    : null
+    I also reading, the, thi,: null
+    I alternate between Danielle Steele is one of my very favorites: null
+    I always come away with,: null
+    I always get books like,: null
+    I always like those.: null
+    I am a superficial buff.: null
+    I am again, I am a fix it person.: null
+    I am kind of a hobbyist: null
+    I am kind of a, a chore person.: null
+    I am not into soap, soaps and all that stuff.: null
+    I am not much into magazines.: null
+    I am one of those crazy people that reads the directions.: null
+    ? I am reading historical, not a novel, but historical book now about the, Russia
+      before, the czar, not before the czar, during the czar's time and what it was
+      like and everything.
+    : null
+    I am sort of rereading it.: null
+    I am trying to get away from just reading novels all the time.: null
+    I am, I do computer work: null
+    I am, not into novels at all really, oth, other than historical things.: null
+    I b, I belong to Quality Paperback Book Club.: null
+    I bought a couple of books about how to buy a house and what to look for,: null
+    I bought that for my husband .: null
+    I buy some of the, not selfimprovement books, but, selfhelp books: null
+    I ca, I get, I can sell them at a cheaper price.: null
+    I can buy the cookies in a larger quantity than they can,: null
+    I can get a deal from the, from the ma, from the supplier,: null
+    I can imagine.: null
+    I can not remember the name of it,: null
+    I can't even really remember.: null
+    I can't even remember the guy's name.: null
+    I can't see his name .: null
+    I can't think of his name.: null
+    I can't think of that,: null
+    I can't think of what his name is right, right off the bat, though.: null
+    I check a lot of books out to learn how.: null
+    I couldn't believe, I, I could not believe that it took me so long to read such a good book.: null
+    I couldn't deal with that.: null
+    I couldn't get through.: null
+    I definitely have gotten a lot out of his lately .: null
+    I did canning, all those kind of things.: null
+    I did not even know, I still do not know what the whole deal was with that.: null
+    I did read one chapter of that .: null
+    I did, had my own garden: null
+    I did, too.: null
+    I didn't buy them when my kids were little.: null
+    I didn't enjoy it necessarily: null
+    I didn't enjoy those as much,: null
+    I didn't get into, involved in that one as well.: null
+    I didn't get much satisfaction trying to discuss it with her.: null
+    I didn't mind doing that at all .: null
+    I didn't want to put it down .: null
+    I distributed them: null
+    I do crafts too,: null
+    I do enjoy reading that: null
+    I do enjoy those quite a bit.: null
+    ? I do like reading books like that I just, I have a hard time, a lot of the books
+      are real new age oriented like Mother Earth
+    : null
+    I do more work kind of related reading than, just for enjoyment.: null
+    I do not get too into it.: null
+    I do not go into the details.: null
+    I do not read everything on,: null
+    I do not remember the man's name,: null
+    I do read SPORTS ILLUSTRATED: null
+    I do read them.: null
+    I do skim over it.: null
+    I do take some vitamins on the side: null
+    I don't do as much reading, like I say, as I would like to.: null
+    I don't have any children: null
+    I don't have the foggiest notion what it's about,: null
+    I don't have time really as much as I would like to, to get into that kind of thing.: null
+    I don't know if I consider very many of them good .: null
+    I don't know if I have a favorite: null
+    I don't know if I want to take that responsibility or not,: null
+    ? I don't know if I would call it a collection of Vietnam war stories or if I'd
+      call it a collection of Vietnam love stories.
+    : null
+    I don't know if I'd call it science fiction or fantasy.: null
+    I don't know if it's just because they didn't come from my era or what,: null
+    I don't know if they play,: null
+    I don't know if you are familiar with that at all: null
+    I don't know that I read anything strictly labeled self improvement.: null
+    I don't know the infor, I don't know that much about it,: null
+    I don't know what the chains are down there. Maybe in the mall family book store, something like that.: null
+    I don't label it as such.: null
+    I don't like to get one of her books: null
+    I don't read a lot of nonfiction,: null
+    I don't read all that much for enjoyment.: null
+    I don't read any PARENTS magazines either.: null
+    I don't read as much as I would like to either.: null
+    I don't read the Bible as much as I should: null
+    I don't read the new ones,: null
+    I don't really like the, six hundred page long Stephen King novels and all that.: null
+    I don't really read the selfimprovement books or things like that.: null
+    I don't remember it.: null
+    I don't take a subscription or anything like that.: null
+    I don't think I can pronounce it either,: null
+    I don't think so,: null
+    I don't want anything too real anymore.: null
+    I don't, I don't read a whole,: null
+    ? I end up sometimes reading the things that are written here all the way through,
+      sometimes just a few chapters because that's as far as they get .
+    : null
+    I enjoy reading books about: null
+    I feel good about it,: null
+    I find it's real hard,: null
+    I find though, that if, when I find an author,: null
+    I finished one,: null
+    I found that real interesting.: null
+    I get a charge out of, TEXAS HIGHWAY,: null
+    I get in to, even when I don't like the sport so much, I get interested in the history of sports franchises ,: null
+    I get memos all the time across my desk: null
+    I glance at it.: null
+    I go out there almost as much as the Orioles: null
+    I got BATTLE CRY OF FREEDOM,: null
+    I got involved in, Beginning Experience Weekends,: null
+    I got it, right,: null
+    I got myself involved in a sales job,: null
+    I got that for her,: null
+    I got them out of the library and decided I'd read some more in them.: null
+    ? I guess I also have been reading, a lot of things on, quality improvement and
+      that type of thing because that's what I'm involved in a lot at work.
+    : null
+    I guess I haven't.: null
+    I guess I like a variety of things, lots of fiction, type books.: null
+    I guess I've got so many books like that that I need to read: null
+    I guess he got a young girlfriend who,: null
+    I guess they're, they're a type of mystery.: null
+    I guess, the last book I've read,: null
+    I ha, have a lot of books in my home that I can read from the classics,: null
+    I had a call the other day from Birmingham, Michigan: null
+    I had a friend that read a book on that: null
+    I had a hole in my roof: null
+    I had a starter that friend of mine made,: null
+    I had a, a friend of mine has a book by her right now called FOODS THAT HEAL.: null
+    I had a, had a subscription to that last year,: null
+    ? I had never really been into science fiction that much until, somebody gave
+      me MIST OF AVALON probably about five or six years ago.
+    : null
+    I had no idea that he was like that.: null
+    I had probably lived the last eleven years in Massachusetts: null
+    I had thirtythree hundred dollars damage done on my car,: null
+    I had this I had a binge of bo,: null
+    I hadn't read that one.: null
+    I have Bible storybooks: null
+    I have a classic which I have to work on, basically,: null
+    I have a few health food stores that I send it to.: null
+    I have a hard time finishing books.: null
+    I have a list too: null
+    I have a lot of craft books that I have too and, magazines.: null
+    I have a lot of those.: null
+    I have a lot of, computer books that: null
+    I have a real heart for people involved in cults: null
+    I have a real, heart for them,: null
+    I have always loved reading.: null
+    I have an interest in art,: null
+    I have book shelves: null
+    I have enough of that in my own life.: null
+    I have forgotten what the question was exactly.: null
+    I have gone back: null
+    I have got a lot of books that I, I intend to read,: null
+    I have got three kids .: null
+    I have grandchildren now,: null
+    I have had it a couple years,: null
+    I have heard of that.: null
+    I have just now gotten around to reading it.: null
+    I have never been able to make it through any of Michener's work.: null
+    I have never gotten to it .: null
+    I have never read a lot of Faulkner.: null
+    I have not been able to yet, for one reason or another.: null
+    I have not gotten them in a long time.: null
+    I have not gotten them in years,: null
+    I have not read that, although,: null
+    I have not seen as many of hers.: null
+    I have not seen it.: null
+    I have not.: null
+    I have one novel that's called FIRST LIGHT,: null
+    I have one now I, I can not remember the name of it } that I, that I got is: null
+    I have only been more interested because of things are doing so bad and everything.: null
+    I have read some of that.: null
+    I have read, mostly novels.: null
+    I have some books on, on health that I read all the time.: null
+    I have them all out: null
+    I have two native Texan children too.: null
+    I have, I have a son that just turned sixteen,: null
+    I have, I have everything he's ever almost everything he's ever done.: null
+    I have, someone suggested that I read it.: null
+    I haven't been back to Des Moines in a long time.: null
+    I haven't been doing a whole lot of reading for enjoyment lately.: null
+    I haven't found a lot of, fiction books that I really like: null
+    I haven't gotten around to that.: null
+    I haven't heard of anybody that's read it, either.: null
+    I haven't lived there for l,: null
+    I haven't read a book for enjoyment since, I guess, around Christmas.: null
+    I haven't read any,: null
+    I haven't read too many.: null
+    I haven't really found any romance type stuff I like to read.: null
+    I haven't seen the movie, or n, read the book: null
+    I haven't, I haven't had a chance to read a lot lately either.: null
+    I haven't, wasn't really aware that she had written anything for, adults.: null
+    I heard they sold .: null
+    I hope it doesn't hurt me: null
+    I hope to, set an example for ours that, that reading is, can, it can be your best friend,: null
+    I just chunk off like water off your back, some of it,: null
+    I just don't have much time for enjoyment reading .: null
+    I just don't see that.: null
+    I just don't.: null
+    I just enjoy, the newspaper magazine.: null
+    I just finished a book on Novelle Netware,: null
+    I just finished reading that for enjoyment.: null
+    I just finished, just, I just finished one last night. A great book.: null
+    I just go to the library because I just, they're expensive,: null
+    I just got married last year: null
+    I just hang up.: null
+    I just heard about it the other night.: null
+    I just kind of, I just have all the books out,: null
+    I just read for escape.: null
+    I just read one about Grace Kelley.: null
+    I just realized I had never read it growing up.: null
+    I just really enjoy the,: null
+    I just really, really liked the way he writes.: null
+    I just recently quit.: null
+    I just remember Sting was in it.: null
+    I just sleep better or something.: null
+    I just took this Amish bread out of the oven,: null
+    I just turned around and looked at my brief, at my briefcase, my, bookcase up here: null
+    I just, I got about a hundred pages through it and realized I had a thousand more,: null
+    I just, I really have been going to the library and getting my ten books out: null
+    I just, that, even when I read it now, it still makes me cry, the ending of it.: null
+    I keep getting stacks of books I need to read,: null
+    I keep telling my husband that,: null
+    I kind of got burnt out on Steven King, though.: null
+    I kind of like to read different stuff: null
+    I knew as soon as I heard your voice,: null
+    I know I heard Bush say that, we are bottoming out seem to be.: null
+    I know her.: null
+    I know him,: null
+    I know it's, it's really hard for me.: null
+    I know my, my husband's uncle owns di, some acreage in, a, Eastland, Texas, which is in West Texas,: null
+    I know people have read all those books: null
+    I know people just collect them like they are,: null
+    I know the whole situation is bad up here,: null
+    I know what you mean, really.: null
+    I know, the Bri, some of the British people laugh at us because we're so enthralled with their royalty.: null
+    I let papers, newspapers stack up and magazines stack up, if I don't really set aside a time to look or read them.: null
+    I like Ann Landers .: null
+    I like GOOD HOUSEKEEPING and stuff like that.: null
+    I like Jeffrey Archer.: null
+    I like PEOPLE, those things that are about real people.: null
+    I like Steinbeck a lot.: null
+    I like all kinds of books.: null
+    I like all kinds,: null
+    I like biographies of people's lives,: null
+    I like far out facts or whatever.: null
+    I like getting the paper and reading the want ads: null
+    I like historical, books, TIME magazine, newspaper, how, how to do it type things,: null
+    I like it because there's a little bit of everything in it.: null
+    I like it that way though.: null
+    I like photography, magazines.: null
+    I like reading late at night right before I go to bed sometimes: null
+    I like reading those to her: null
+    I like that because it's a, it's real easy to, follow for her,: null
+    I like that kind of stuff.: null
+    I like that.: null
+    I like the classics too.: null
+    I like those a lot.: null
+    I like to be able to eat really healthy,: null
+    I like to check books out like that: null
+    I like to do,: null
+    I like to quilt,: null
+    I like to read ,: null
+    I like to read a lot of non fiction history when: null
+    I like to read a novel every now and then,: null
+    ? I like to read books on improve, like family, marriage, things that are written
+      by Christian authors or, doctors about family and, how to improve your home
+      and all that kind of thing.
+    : null
+    I like to read period.: null
+    I like to read stuff like that.: null
+    I like to read,: null
+    I like to read, Bi,: null
+    I like to read, I like to read some self help books: null
+    I like to, I like to,: null
+    I like to, can and do food preservation,: null
+    I like, I like READERS DIGEST, believe it or not.: null
+    I like, I like it if it is fun.: null
+    I like, I like mysteries.: null
+    I like, I like to read: null
+    I like, like you said, real life,: null
+    I like, {F oh,: null
+    I liked IT as well.: null
+    I liked, I also liked, CUJO.: null
+    I live just south of the Interstate.: null
+    I love Danielle Steele: null
+    I love Pierce Anthony novels.: null
+    I love Scott Peck and his ROAD LESS TRAVELED.: null
+    I love old, good old,: null
+    I love reading about animals.: null
+    I love that book, though.: null
+    I love the Mud Hens .: null
+    I love the name: null
+    I love the weather down here.: null
+    I love to read about real people.: null
+    I love to read his, his, children's books just ,: null
+    I love to read.: null
+    I loved THE SHINING.: null
+    I loved that novel.: null
+    I mainly look at the pictures and stuff,: null
+    I mean he's doing all right, probably .: null
+    I might check,: null
+    I must have a list of, two hundred, three hundred books that I want to read.: null
+    I must have fifty or sixty books by him .: null
+    I need to have more information about people.: null
+    I need to probably make a phone call or two .: null
+    I never can remember what it is.: null
+    I never have gotten into any of the romantic novels or any of that kind of stuff.: null
+    I never heard that one.: null
+    I never seem to have the time to do: null
+    I never thought about that,: null
+    I occasionally, if no one's looking: null
+    I only had a subscription once,: null
+    I park for free up at, at Memorial Stadium because I know where I can do it for free .: null
+    ? I particularly like Dick Francis books, and just some of the, the authors that
+      are, for mysteries, just, just, purely for entertainment,
+    : null
+    I prefer to read,: null
+    I probably get, thirty to fifty pages a day read.: null
+    I probably have missed the last few since I've been back in school.: null
+    I re, received, several books for Christmas: null
+    I read DIANETICS once, once I got past all the gibberish on it.: null
+    I read a book recently called IRON JOHN.: null
+    I read a book that I have, should have read when I was probably in high school.: null
+    I read a lot for school,: null
+    I read a lot of bicycling magazines.: null
+    I read a lot of books in the area of, psychology and selfhelp type, materials.: null
+    I read a lot of books on that: null
+    I read a lot of history and, a few novels, occasional mystery stories, just,: null
+    I read a lot of non fiction books, too.: null
+    I read a lot of science fiction.: null
+    I read a lot,: null
+    I read a, a novel that used the names of like Princess Di and Prince Phillip coming over here to be entertained and all,: null
+    I read all kinds of things for, helping people survive a divorce.: null
+    I read an awful lot of, periodicals and, almost what you call reference books.: null
+    I read everything, I guess,: null
+    I read for a living.: null
+    I read for pleasure some also.: null
+    I read it and really liked it: null
+    I read it so less: null
+    I read one about Bob Hope that I liked.: null
+    I read quite a bit, probably don't read as much as I would like to.: null
+    I read that half where she was in her later years,: null
+    I read that,: null
+    I read that, too.: null
+    I read the Bible.: null
+    I read the GRANT TAKES COMMAND,: null
+    I read the book from that.: null
+    I read the engineering magazines,: null
+    ? I read the whole damn book while I was home hauling out, tengallon buckets of,
+      of water and waiting for the roof to collapse and,
+    : null
+    I read to escape,: null
+    I read to my daughter a lot, too.: null
+    I read usually that kind of stuff.: null
+    I read, HOW TO GET THE JOB THAT YOU WANTED: null
+    I read, I like, mysteries,: null
+    I read, JANE EYRE.: null
+    I read, a lot of Steven King, Dean R Koontz,: null
+    I read, one book a friend recommended to me.: null
+    I realize these things,: null
+    I really didn't like it at all.: null
+    I really do: null
+    I really do enjoy his.: null
+    I really do enjoy it.: null
+    I really enjoy that because it's kind of a, a getaway type thing.: null
+    I really enjoy that team.: null
+    I really have enjoyed exploring children's literature because there's so much more, new things out that,: null
+    I really have to be in the mood.: null
+    I really just started.: null
+    I really just thought about it now: null
+    I really should because there's so many selfimprovement books out right now that would, would be, benefit me greatly,: null
+    I remember that was the book.: null
+    I s, I saw one of those episodes on P B S.: null
+    I saved that issue,: null
+    I saw him probably seven years ago,: null
+    I saw the movie: null
+    I saw the movie,: null
+    I say, engineers, we, we are the few people in the world: null
+    I see ARMAGEDDON up there.: null
+    I see a lot of kids with, with various problems.: null
+    I sometimes get hooked into it,: null
+    I spend a lot of time looking through those, not necessarily reading them but,: null
+    I started reading, and got about sixty pages into it: null
+    I started reading.: null
+    I stayed up one night, I think until two: null
+    I still even then I was so, so disgusted with it I, I tried to read, I don't remember which other one it was,: null
+    I talked to a guy on the phone on this the other day: null
+    I talked with, I talked with people from Richardson and Plano: null
+    I teach school,: null
+    I tell you I haven't read a book in a long time.: null
+    I tend to get a little bit of ways in a book: null
+    I tend to go, go back,: null
+    I tend to read a lot of the baseball books: null
+    I tend to, for reading just day to day, know, } I have a particular book I'm looking for: null
+    I then read, was it BATTLE CRY OF FREEDOM,: null
+    I think I did read Tom Wolfe and VANITY,: null
+    I think I have heard about that.: null
+    I think I know who you're talking about.: null
+    I think I read HAWAII,: null
+    I think I would always think that no matter what I did: null
+    I think I've read all four of them: null
+    I think I've seen his books: null
+    I think his name was Bachman.: null
+    I think it was BATTLE CRY OF FREEDOM.: null
+    I think it was Romain Drive or Romain Street or something, there in Los Angeles,: null
+    I think it was a romantic novel by Danielle Steel or one of those.: null
+    I think it was a, it was an adult book.: null
+    I think it was because I read, Dickens' A TALE OF TWO CITIES,: null
+    I think it was by her, now that you mention it, because someone had given it to me,: null
+    I think it was on the bestseller list, though: null
+    I think it was, some actress reading it.: null
+    I think it's gone up to fo, four dollars this year.: null
+    I think so .: null
+    I think that's the most animated and imaginative.: null
+    I think the first one is called JENNY or something like that, because that was her name.: null
+    I think the last biography that I read, I'm not, I think it was, it was, on Lady Randolph Churchill,: null
+    I think the last novel I read I read, I guess, in conjunction with my wife over vacation last year.: null
+    I think the last one I read like that was Scott Thurow's: null
+    I think the, most expensive seats in Memorial are eleven bucks.: null
+    I think they've all developed kind of an interest in reading also.: null
+    I think this is because the kids are getting to me,: null
+    I think this is two years ago,: null
+    I think this stuff was probably grown in who knows what, kind of environment: null
+    I thought I'll just try this,: null
+    I thought it was great.: null
+    I thought it was real interesting.: null
+    I thought just purely for entertainment, I might enjoy that.: null
+    I thought that each one of his books were good.: null
+    I thought, I can't do this.: null
+    I thought, Kathy's, it's Kathy .: null
+    I thought, okay.: null
+    I thought, this will be great,: null
+    I took a novel with me, and read it at Thanksgiving time,: null
+    I try to avoid the,: null
+    I try to go into one of the self improvement books.: null
+    I try to read when I first wake up in the morning and then before I go to sleep.: null
+    I understand that there's a fifth.: null
+    I used to like to read about royalty a lot.: null
+    I used to live in Iowa too,: null
+    I used to love those old, good, good old books.: null
+    I used to read a lot of, novels,: null
+    I used to read just, mainly fic, fiction,: null
+    I usually read that from cover to cover.: null
+    I usually remember those a long time later.: null
+    I want, I want happy, fantasy: null
+    I was always,: null
+    I was amazed,: null
+    I was in Toledo last summer.: null
+    I was listening to something on the radio: null
+    I was living in Bermuda at the time with my husband,: null
+    I was mostly interested in the baseball stuff.: null
+    I was pretty impressed.: null
+    I was reading classical works that I hadn't read before.: null
+    I was real disappointed in that.: null
+    I was thinking: null
+    I was thinking about,: null
+    I was tickled to see that some publisher is, reprinting the, the James Thurber books for children. THE,: null
+    I was trying to think of,: null
+    I was trying to think, there's another Scott book that I've got that I had read.: null
+    I was waiting for the whole house to collapse,: null
+    I was, was very much impressed with the way her plot was put together so,: null
+    I wasn't too .: null
+    I watch so little T V, I did not even know what the deal was with this,: null
+    I went to visit my daughter in Florida: null
+    I will buy car magazines,: null
+    I will, encourage you that you do get t, a little more time to yourself later on .: null
+    I wish I could do that .: null
+    I wish I had in, in some senses: null
+    I wish I was more the other way.: null
+    I work two jobs and: null
+    I worked at T I for a little while.: null
+    I would I would like to, too,: null
+    I would have to say that, some of the ones that consistently put out good materials,: null
+    I would like to read those: null
+    I wouldn't even know, to go look for that author or that book.: null
+    I wouldn't want to sit down and just read it cover to cover, but flip through just for, just to get a good laugh.: null
+    I'd hope so.: null
+    I'd read some Dickens before,: null
+    I'd, I didn't see it: null
+    I'll get, get stuff out of that.: null
+    I'll have to tell my son about that.: null
+    I'll read some, classic, too.: null
+    I'll sit up and read just to refresh, to keep active on it,: null
+    I'll stay up until two or three o'clock in the morning, because I'm so engrossed in it: null
+    I'll, I'll skip everything just to get back to the book .: null
+    I'll, I'm not really into it,: null
+    I'm a Christian: null
+    I'm a Ranger fan simply because I live here.: null
+    I'm a Tom Clancy fan.: null
+    I'm a big baseball fan too.: null
+    I'm a dog lover.: null
+    I'm a former T Ier.: null
+    I'm a marriage and family counselor: null
+    I'm a real big fan of hers: null
+    I'm a therapist for Rossa.: null
+    I'm constantly reading.: null
+    I'm criticizing her,: null
+    ? I'm doing some reviews of books, just to, what, to sort of recommend to wh,
+      whether or not a fullscale review should be done for the journal,
+    : null
+    I'm fascinated by that.: null
+    I'm from New Mexico: null
+    I'm from North Carolina .: null
+    I'm from Pennsylvania.: null
+    I'm glad that they're staying in Arlington.: null
+    I'm glad you put it that way.: null
+    I'm going to bring my Mormon neighbors some Amish bread today: null
+    I'm going to have to,: null
+    I'm in a book club: null
+    I'm just finishing another one up on, statistical sampling,: null
+    I'm just going to have to put it,: null
+    I'm kind of a doubting Thomas: null
+    I'm kind of glad they're staying there. Because it's right in the middle of Fort WorthDallas,: null
+    I'm like you,: null
+    I'm married to a native Texan: null
+    I'm not a fan of Nancy Reagan ,: null
+    I'm not doing very well: null
+    I'm not from here.: null
+    I'm not going to be able to do that downtown .: null
+    I'm not into quilting: null
+    I'm not much of a fan of Nancy Reagan,: null
+    I'm not really expecting to get anything out of it,: null
+    I'm not saying they read all the right things: null
+    I'm not that focused on something.: null
+    I'm not, a planner which I wish I was.: null
+    I'm originally from Ohio,: null
+    I'm reading THE LION AND THE WIND right now.: null
+    I'm supposed to decide whether I think this man might be a worthy person to be a, in that position on the board: null
+    I'm sure he'd like it.: null
+    I'm trying to get fami, more familiarized with that because I refer clients and different groups: null
+    I'm trying to think the last actual book I read that wasn't,: null
+    I'm trying, to, to, furnish a home: null
+    I'm very familiar with the area.: null
+    I'm writing it down.: null
+    I'm, I have just started reading a book.: null
+    ? I'm, I was just thinking when they told me the topic, I should just, I should
+      read the, titles of the five books that are sitting on my desk right now that
+      I'm in the middle of.
+    : null
+    I'm, I'm a single mom,: null
+    I'm, I'm kind of a nut when it comes to stuff like that.: null
+    I'm, I'm mostly a baseball fan.: null
+    I'm, a, I'm a big baseball fan,: null
+    I've always followed the Tigers. Because, I was,: null
+    I've always kind of enjoyed it.: null
+    I've always wanted to go back and read some of my literature texts from college: null
+    ? I've been doing very little reading, except I, I did finally dip into a couple
+      of biographies. all of sort of literary figures of this century.
+    : null
+    I've been here for like twelve years now,: null
+    I've been looking at, but looking at books on, antiques and paintings and, interior decoration hints: null
+    I've been looking for, the other half of it and read the,: null
+    I've been moderately successful,: null
+    I've been there about three years.: null
+    I've been trying to, do that,: null
+    I've been up here about three.: null
+    I've done that to every pair my three year old has.: null
+    I've gone to the point where my husband, my husband travels, I get out two or three books.: null
+    I've got a Bible that, has a little bit of a, a glossary in the back: null
+    I've got a stack next to my bed .: null
+    I've got a, a, small company on the side that I, that I do things with,: null
+    I've got a, small distributorship,: null
+    I've got all the different alcoholics, what they call the blue, the blue book, the big book,: null
+    I've got one called ONE THOUSAND PRACTICAL PARENTING TIPS,: null
+    I've got the same problem .: null
+    I've got to go, stop and go traffic and everything.: null
+    I've got, I've got a HISTORY OF KINGSLEY, IOWA.: null
+    I've had similar problems.: null
+    I've had them like that before, too.: null
+    I've heard about him.: null
+    I've heard of him.: null
+    I've heard of that one.: null
+    I've heard that she's done real, her books are really interesting,: null
+    I've met him several times.: null
+    I've never read a whole one of hers, I don't think.: null
+    I've never read any of his.: null
+    I've never read anything by him.: null
+    I've only been in Texas three years.: null
+    I've read a great deal of old things.: null
+    I've read a lot of his, too.: null
+    I've read that one too.: null
+    I've read that one, too.: null
+    I've read two books , that were, nonfiction lately: null
+    ? I've tried to devote more time to them and trying to get them interested in,
+      in reading more and, and spending more time at the library
+    : null
+    I've, I've read a lot of things, since I got involved in the water business back in eightythree,: null
+    I've, I've really, I really have found his books enjoyable .: null
+    I've, I've seen them on T V,: null
+    I've, I've, I miss it, because I really find it a very relaxing hobby too.: null
+    I've, actually I am reading a couple of different books,: null
+    I, I am debating whether or not I want to go see the movie read the book.: null
+    I, I been praying that God would put a desire to read the Bible in my heart: null
+    I, I bought that one,: null
+    I, I can't even think.: null
+    I, I certainly can't say that I understand a lot of it.: null
+    I, I didn't know what to expect, except I had heard that, that Jane Austen was such a wonderful novelist,: null
+    I, I do get,: null
+    I, I do like to read some biographies,: null
+    I, I do the same thing.: null
+    I, I don't have time to read in,: null
+    I, I don't particularly read, biographies or autobiographies.: null
+    ? I, I don't prefer to read a lot of the things like you might find at, at a Target
+      or a supermarket or something where they have a bunch of books out, paperback
+      type books.
+    : null
+    I, I don't really have the time to read the whole thing,: null
+    I, I don't really, I pro, probably should.: null
+    I, I enjoy it.: null
+    I, I get distracted, and, or have to start on another one,: null
+    I, I glance at all newspapers.: null
+    I, I guess I just have not read anyth,: null
+    I, I had a major in English and linguistics,: null
+    I, I just, I'm just not really interested in reading about other people's lives to that degree.: null
+    I, I keep lists,: null
+    I, I know that when I, when I get his book I'm, I'm usually going to enjoy it.: null
+    I, I like that,: null
+    I, I like that.: null
+    I, I like to, read about people who have been a successful,: null
+    I, I look up at the clock and say, my word,: null
+    I, I loved, I loved Abilene too.: null
+    I, I read a lot of that.: null
+    I, I read all those things that,: null
+    I, I read one, like maybe once a year.: null
+    I, I read to them a lot.: null
+    I, I really enjoyed that book a lot.: null
+    I, I really enjoyed, all the little things that you find out about Texas.: null
+    I, I really like books that, that you can get into: null
+    I, I really tend to like biographies a lot, not necessarily always heavy ones: null
+    I, I remember seeing a new book by her: null
+    I, I right away looked at when it was copyrighted.: null
+    ? I, I set a goal for myself to read a book a month this year which is about eleven
+      more books than I would have read last year,
+    : null
+    I, I skip over some of that.: null
+    I, I think it's around here somewhere,: null
+    I, I thoroughly enjoyed that.: null
+    I, I tried to make calls two different days: null
+    I, I try to keep a book going all the time.: null
+    I, I used to read a lot more than I do now.: null
+    I, I was I thought to myself, what other things are out there that are, that are classics,: null
+    I, I would love to, to be able to read more because I, I enjoy it so much.: null
+    I, I would read all those kinds of things.: null
+    I, I wouldn't want to go out and buy it the hard back copy of it.: null
+    I, I'd pull out the classics once in a while for my kids,: null
+    I, I'll get books on history and stuff like that that look interesting.: null
+    I, I'm interested in a lot of that,: null
+    I, I'm more of a fiction and nonfiction reader that, n, n, not of that nature though.: null
+    I, I'm more true,: null
+    I, I'm off in all directions.: null
+    I, I'm trying to think of, Isaac Asimov, ROBOT series.: null
+    I, I'm, we haven't got children yet,: null
+    I, I've got a copy of THE ROAD LESS TRAVELLED: null
+    I, I've never read anything of his,: null
+    I, I've read, several good books lately.: null
+    I, I, I do like the Orioles also.: null
+    I, I, I like to read the, the children's books,: null
+    I, I, I would, I don't want to change that part of me.: null
+    I, I, I, I tend to read only out of a couple, groups.: null
+    I, as I say, I was pretty much ashamed that I hadn't read something before then.: null
+    I, frequently purchase and read, books, mainly on water color because that's my big interest at the moment.: null
+    ? I, have attended some seminars that had some tapes that went with them, but,
+      I guess not so much books although they sometimes have manuals and things,
+    : null
+    I, if I have a minute that's what I, I do.: null
+    I, in fact, I'm a sports fan, period.: null
+    I, of course, I don't ever get around to reading them .: null
+    I, sell a, healthy cookie on the side.: null
+    I, we used to go there all the time.: null
+    I, when I was younger I read about every king and queen that lived, I think, in Europe.: null
+    ISLAND OF THE BLUE DOLPHINS is another: null
+    If I start into something and I really enjoy what I'm reading,: null
+    ? If he casually just walked into it and, put down a Stephen King book and I picked
+      up one of them I might be a little more interested.
+    : null
+    If someone says, do you want to do this tonight, and I got a mountain of things to do, it's okay, we do it.: null
+    If they don't,: null
+    If they, if they had it, I don't even know that I'd probably read it even if it was at the library though.: null
+    If you park in the lot across the street from the stadium, it's four bucks.: null
+    In fact, I'd rather read sometimes than watch T V.: null
+    In quality, especially now days, that's almost everything that comes across the, the, the airways .: null
+    In the last he's been on the road a lot.: null
+    Iowa and Nebraska.: null
+    It always make my wife mad.: null
+    It came, it was on the top of the list,: null
+    It seems like it's all the ,: null
+    It seems like we have a lot of these that have been in ,: null
+    ? It talks about, who the customer is and being customer oriented, which falls
+      in line with the T I culture here at Texas Instruments.
+    : null
+    It was a lot of fun because they used these real names,: null
+    It was a nonfiction book is a fiction book: null
+    It was a science fiction, Dean Cole, or something like that.: null
+    It was a, last name's ,: null
+    It was like John Feinstein or something like that: null
+    It was, about a, a Chinese lady and her generations down, her, what happened to her family through the years: null
+    It was, during Teddy Roosevelt's time.: null
+    It was, it was written back in the early eighties.: null
+    It was, she was actually somewhat of a business partner of his, did very well.: null
+    It's a Christian treatment organization: null
+    It's a book called LIFE EXTENSIONS.: null
+    It's a lot about spiritual warfare and some things like that.: null
+    It's about one of my favorite movies.: null
+    It's all about: null
+    It's almost, more fun than going to a major league game.: null
+    It's getting,: null
+    It's interesting that you said that.: null
+    It's it's English,: null
+    It's just that if you're ever, ever really want to just be scared out of your wits,: null
+    It's just, I was just thinking, at, at Rossa: null
+    It's kind of like a historical compendium,: null
+    It's not good at all.: null
+    It's not quite so serious,: null
+    It's probably one you'd find in a Christian book store.: null
+    It's something like, A JOURNEY IN, IN YOUR INNER,: null
+    It's that real,: null
+    It's the first time I've made a phone call on it.: null
+    It's up to you, in other words, whatever happens in your life.: null
+    It's, a book about, the Bermuda Triangle,: null
+    It's, kind of unusual book.: null
+    It's, something we're really irritated about around here.: null
+    It, it didn't help me that much .: null
+    It, it's very, a typical for my reading though but a great book, one called, THE THINGS THEY CARRIED by Tim O'Brien.: null
+    It, it, it's, it's hard for me to find time, also, to read.: null
+    It, it, it, it took me a while to really get into it.: null
+    Ivana Trump,: null
+    Judith Krantz.: null
+    Just beautifully written.: null
+    Just chilling.: null
+    Just like, I want to read that and I write it down.: null
+    LIFE EXTENSIONS.: null
+    Like I say, haven't done it in, in such a long time.: null
+    Like what makes a firefly light,: null
+    M, my motherinlaw's a real fan of hers.: null
+    Main thing, I like Pierce Anthony.: null
+    Mainly I read the Bible these days.: null
+    Margaret Truman Daniels writes a lot those.: null
+    Max Lucado.: null
+    Maybe it's because they take so much in.: null
+    Maybe they're just too involved for the average person to go and sit through them,: null
+    Mostly, something, I like true life,: null
+    My aunt got me hooked on those .: null
+    My husband and I had, took a book out of the library about gardening, too, and started a garden, a fall garden.: null
+    My husband is always, talked about th, Texas being a, rebel state.: null
+    My husband reads a lot of the,: null
+    My mom always wants me to open a health food store: null
+    My wife has been working for T I.: null
+    NIGHT STAND,: null
+    Nathaniel Hawthorne is pretty scary himself.: null
+    One of the ones that I've read recently that I've read several of his books: null
+    One's on vitamins that are good for you and that kind of thing,: null
+    Otherwise, I like to read children's books, and things like that.: null
+    P E R E T T I.: null
+    'Paroe, *spelling: Perot': null
+    Patrick Stewart was in that.: null
+    Plus I've got a, drinking water system business that I've had on the side for years that I've done.: null
+    Richard Bachman.: null
+    Right now some of the things I'm working with are kids that are dealing with sexual abuse,: null
+    Seems like it was THE SPY WENT DANCING, or something like that.: null
+    She thought it was riveting,: null
+    Some of it really: null
+    Somebody who,: null
+    Someone just recently said something really neat about that.: null
+    Sometimes more than others.: null
+    Strange book. Beautifully written.: null
+    Superficial,: null
+    Surprised me.: null
+    THE ROAD LESS TRAVELLED was probably one of my favorites.: null
+    THIS PRESENT DARKNESS and, I forget the t, the other,: null
+    Teddy Roosevelt sent troops over and really portrays him as a, kind of a crazy man,: null
+    That one about the Gypsies, or that,: null
+    That was my thing for a while.: null
+    That was one of the books I read this year,: null
+    That was part of that trilogy that,: null
+    That was when I was about, ten years younger: null
+    That was, that was my favorite.: null
+    That what I've been reading lately a lot of.: null
+    That's about what it takes me to get to Memorial.: null
+    That's one I liked.: null
+    That's really changed my reading habits, because I used to read so much, especially when I was in school.: null
+    That's something moves that slow .: null
+    That's what I liked, too, is the weather.: null
+    That's what it was,: null
+    That's why I like to watch that MASTERPIECE THEATRE on channel thirteen,: null
+    That's, that was one of my favorite subjects in school was,: null
+    That's, that's a little steeper.: null
+    That's, that's about the hardest thing is, who's related to who .: null
+    That's, that's what I'd always heard,: null
+    That, that books influence,: null
+    That, that long thing.: null
+    That, that was too realistic and really, mind, a real eye opener,: null
+    The first issue doesn't come out until next year,: null
+    The gorillas and stuff.: null
+    The ticket, the ch, the cheapest ticket you can normally get is like six fifty to seven fifty.: null
+    The, the last book I picked up was a book by Judy Bloom,: null
+    Then I won't tell you.: null
+    There may be some schools you could read about and learn.: null
+    There was a time when I was really into the home things,: null
+    There was, I understand there was a really good basketball b, book called, A SEASON ON THE BRINK.: null
+    There's a, a couple called,: null
+    There's also a book called THE LIFE EXTANS, EXTENSION COMPANION,: null
+    There's the Iowa Cubs,: null
+    These things take awhile to move up,: null
+    They don't exist anymore,: null
+    They eat a lot of it,: null
+    They have wonderful pi, photographs and just amazing photographs that: null
+    They just sold it.: null
+    They were real just books for fun.: null
+    They're, they're building this new sta, they built the new stadium downtown.: null
+    They, they,: null
+    This guy's smart: null
+    This one is on Johann Sebastian Bach,: null
+    To me, half the time it's more fascinating than some of these made up stories .: null
+    Usually, I, I'm going to the book store for a particular reason,: null
+    We had an engineer in there every ten minutes.: null
+    We, we have these classes we attend, management classes: null
+    We, we, I like it there.: null
+    Went to a, to a Mud Hens double header .: null
+    When I find an author I really like, I try to read everything they write.: null
+    When my children wer, were younger, of course,: null
+    When you wrote it out in long hand you were a,: null
+    Whenever they , they made that into a movie, I was thinking my gosh if they show that,: null
+    Wonder if it was by one of those famous writers,: null
+    You always look for things with,: null
+    You could just visualize everything.: null
+    You still can see well.: null
+    You were a confidential assistant to the,: null
+    You would have lots of conversations between people: null
+    You're my customer, I'm your customer, sort of thing.: null
+    You, you're a baseball fan,: null
+    a guy who was there as a, foot soldier.: null
+    a little bit.: null
+    a lot of people had their cars totaled just from hail.: null
+    a lot of silly little questions.: null
+    a lot of the books I've been reading have to do with helping them get through those issues.: null
+    ? a lot of the reading that I, I do has to do with, how can I, do better at, at
+      my smalltime business important issues such as a,
+    : null
+    a lot of times I do just read magazines and stuff like that for, because I don't have a lot of time,: null
+    a lot time is spent doing things as far as the yard work or housework or,: null
+    a sequel to it.: null
+    about twenty.: null
+    after I, I graduated, I read some of the old classics that I just bluffed my way through: null
+    all my relatives my m,: null
+    all the rest of his organs were all greatly, all tested out greatly below his actual age.: null
+    all the tourists come there.: null
+    always trying to understand people: null
+    and Colorado Springs.: null
+    ? another one of my projects this summer is, is, it's helping a professor, compile
+      a bunch of translations of, of various poems for a book that he's writing,
+    : null
+    as far as improving myself, I haven't read any lately.: null
+    as far as real novels, I haven't gotten into Shakespeare or any of that type of thing.: null
+    as you probably well know, all of us are our own customer.: null
+    at Christmas break I read, SARUM by, a fellow named Rutherford.: null
+    at the age of thirtytwo, I think it was, his, heart was that of a fourteen year old: null
+    back when I was in school I had to have information about that person or, preparing some kind of lesson: null
+    baseball here though is the cheapest game in town. Because the Cowboys,: null
+    baseball's cheap,: null
+    because of that I work with adolescents specifically,: null
+    ? before he started out on his experiments he had a battery of tests done on his
+      body to determine the age of each one of his organs
+    : null
+    before you know it, it's time to get up and go to work.: null
+    ? being an engineer in facilities I do read a lot of, a lot of, building magazines
+      and, and, and plant engineering magazines and, read up on different ways to
+      do things and energy management type of magazines
+    : null
+    being an engineer, all those books that would bore everybody else, how to do things.: null
+    both of those I've enjoyed real well.: null
+    by the way, my name's Bill.: null
+    city water has chlorine in it,: null
+    course I am an engineer: null
+    do you know how to use them in your life or to influence,: null
+    down there at Sabine Pass, I can't think of the guy's name: null
+    during the school year, I just don't have time to read.: null
+    e, even though I admire someone who isn't,: null
+    even having read the book, and I've read that book probably three times,: null
+    even like reading some new age things, things that I don't quite believe in,: null
+    even stuff about, not like ghost stories, but real encounters with ghosts and: null
+    even, even then he, he had a very good case for the fact they probably just got lost and they ditched in the water.: null
+    eventually *one utt or two with a.29?: null
+    ? every now and then I'm loaned a tape I can stick in the, in the car cassette
+      set on the way home to make the drive more enjoyable, talking about, better
+      outlooks on things and the philosophy of, of Pat Hagerty and these kind of,
+      mind stimulating philosophy type.
+    : null
+    every time I come in, I will punch up,: null
+    every year he had the same tests run,: null
+    except it broke my heart.: null
+    for her young people, her books. *one utt?: null
+    for some reason it seems to interest me, people that make a big comeback: null
+    gee, I just I like to read gardening books and things like that. Just to tell me what to do with my garden: null
+    gosh, I do not, I do not really have a list,: null
+    had a, big warehouse kind of thing, which had offices: null
+    he considered himself to be, a, a true Vietnam soldier.: null
+    he did before we had kids ,: null
+    he did, HE, HE, HEALING THE SHAME THAT BINDS YOU,: null
+    he did, mention Beginning Experience Weekends as one of the, one of the places.: null
+    he does a lot of movie adaptations and things like that.: null
+    he embarked on this, vitamin treatment: null
+    he grew up and lived through a concentration camp: null
+    he had a young girlfriend.: null
+    he had some accomplices that were kind of suspect,: null
+    he has some under, another name.: null
+    he is now, essentially bankrupt,: null
+    he is tycoon or something.: null
+    he keeps saying, no.: null
+    he likes to run down the street with it: null
+    he owns a lot of acreage that's been farmed properly,: null
+    he reads everything he gets, he gets his, get his hands on.: null
+    he really has.: null
+    he really, this man really shed some light on, some,: null
+    he said, Mom, you need to read it after I get finished.: null
+    he says, He's so interesting, Mom.: null
+    he started out with one called THE FAMILY, which does the family systems and people's roles in the family.: null
+    he supposedly got this, this, s, story, this, was contacted by this guy who had these, these memos he wanted to sell,: null
+    he was a D A.: null
+    he was a, burglar, had been breaking there awhile and,: null
+    he was an, an assistant district attorney in Chicago at, and while he was writing the book,: null
+    he was really a pretty amazing writer.: null
+    he was telling me about it.: null
+    he was, used to be a reporter for, I think, the NEW YORK TIMES, or the WASHINGTON POST, one of the two,: null
+    he wrote the, BOURNE ULTIMATUM.: null
+    he wrote this book back in the seventies,: null
+    he wrote, he wrote the ILLUSION, and A BRIDGE OVER TI, A BRIDGE TO FOREVER.: null
+    he wrote, sort of debunking many of the, the stories about the, Bermuda Triangle.: null
+    he's a exlawyer: null
+    he's all the charac, all the,: null
+    he's got a, quite a collection of those.: null
+    he's not quite as good as, Michener or some of, some of the other historical writers.: null
+    he's probably about forty years old now,: null
+    he's reading it,: null
+    he's really enjoying that.: null
+    he's written some children's books as well: null
+    he's, he came out with the second one.: null
+    he, he did this job well,: null
+    he, he mentions, he, he goes through and brings out points from the Navy's findings and so forth.: null
+    he, he talks about, he talks about a lot of different topics: null
+    he, he was thinking many,: null
+    he, he was, a great collector of everything,: null
+    he, he writes the same thing, though.: null
+    he, he's a lawyer who no longer practices,: null
+    he, he's also written a lot of children,: null
+    he, he, he did not, he did not throw anything away: null
+    here I, I'm dealing with,: null
+    here on my shelf I have a book called JOURNEYS OUT OF THE BODY.: null
+    here's one called GHOST TOWNS AND MINING CAMPS OF NEW MEXICO: null
+    his business is going down the tubes so bad,: null
+    his last name ends in a Z, I know that.: null
+    his whole idea is, we can build a better world if people get involved in good community building projects.: null
+    hot dogs start at a dollar fifty .: null
+    how they deal with life itself .: null
+    how you have to, be aggressive and, really want something for yourself and that type of stuff.: null
+    if I had a book of my choice, I like books, I go to the library a lot: null
+    if I read a biography, it's mostly because maybe I have to,: null
+    if I want to get a fantasy and: null
+    if I'm really interested in what I'm reading, hours can go by: null
+    if it opens .: null
+    if it's not a heavy biography,: null
+    ? if you ever get a chance to go over to Vicksburg, the battleground at Vicksburg,
+      there's an area there where there was, some Texas, groups
+    : null
+    ? if, if I have long periods of time, like Christmas vacation, or, when I know
+      I'm not going to be doing anything for a while,
+    : null
+    if, if I read straight out of the Bible to her she'd never understand any of it.: null
+    in fact I believe it was: null
+    in fact I was just reading, a magazine now. An automobile magazine.: null
+    in fact this morning, I was almost late for work because I'm almost at the end of this book: null
+    in m, in my spare time with a two and a half and a three and a half year old ,: null
+    in the beginning when it was on, on route coming out: null
+    in the book, even,: null
+    in the meantime we pray over our food because I'm always looking down my plate: null
+    in the summer, I try to read a lot.: null
+    it also teaches them spiritual warfare: null
+    it came out a couple of years ago: null
+    it came together in this book,: null
+    it causes the, ,: null
+    it does not have a real story, or any plot,: null
+    it gets a little bit of everything.: null
+    it had so much violence in it: null
+    it had such a bad press,: null
+    it happened.: null
+    it helps explain who people are.: null
+    it is a collection of, of memos, supposedly written by Howard Hughes,: null
+    it is easier to do when I do some chores,: null
+    it is not a story,: null
+    it is supposed to be a mystery.: null
+    it just encouraged me to read it.: null
+    it just takes a very long time: null
+    it just, I don't really care much for T V at all.: null
+    it seems like I always, I never go to the fiction section,: null
+    it seems like she doesn't write as often as, like Danielle Steele and those silly things.: null
+    it seems to me like Susan Howatch does not write as often.: null
+    it should be a grizzly bear because: null
+    it sure is,: null
+    ? it takes me almost the same amount of time to go to Frederick, but as it does
+      to go to the, the ballpark in Me, in, Baltimore.
+    : null
+    it turns out that, Foster actually, ghost wrote it for him.: null
+    it used to be three dollars.: null
+    it wa, it was good.: null
+    it was a lot of fun.: null
+    it was a, a princess from a long, long, time ago,: null
+    it was absolutely excellent.: null
+    it was all this, this, divorced woman syndrome: null
+    it was almost like a, a preAIDS scare kind of thing.: null
+    it was for, by American business: null
+    it was just terrible.: null
+    it was kind of fun.: null
+    it was like, I want to read something else for a while .: null
+    it was of the people from there that said that.: null
+    it was one of the best I read,: null
+    it was raining all night,: null
+    it was real good,: null
+    it was really a lot of fun.: null
+    it was so frightening: null
+    it was some time ago.: null
+    ? it was sort of nondescript for a, for the size of the company which, inside
+      was basically a store house of a bunch of stuff he collected,
+    : null
+    it was tapes and things that they had about him, too.: null
+    it was the last,: null
+    ? it was very descriptive of, of people with money back then and, affluents in
+      England, that, were associated to the king and all.
+    : null
+    it was, PRIDE AND PREJUDICE,: null
+    it was, it was called, SMART WOMEN, I think.: null
+    it was, it was one of the few books that: null
+    it was, one of those generation novels,: null
+    it wasn't JANE EYRE.: null
+    it would have been devastated,: null
+    it would have devastated them if they would have taken it away.: null
+    it'll go up.: null
+    it'll, it'll come to me,: null
+    it's a book about,: null
+    it's a brand new book.: null
+    it's a couple.: null
+    it's a guy.: null
+    it's a lot cheaper .: null
+    it's a lot of things coming up here lately about her, possibilities of he, of where she ,: null
+    it's a story of all the politics and, lobbying and just basically state by state events,: null
+    it's a very interesting book.: null
+    it's a very layman's, approach towards managing different types of people.: null
+    it's a, a, a biography,: null
+    it's a, an old, another old book that I happen to have.: null
+    it's a, it's kind of a journal of, of the history of ideas that's, that's starting to be published, from U T D.: null
+    it's amazing that the, the legislation they have, for food that doesn't apply to water,: null
+    it's been really fun,: null
+    it's called PIERCING, it's called THIS PRESENT DARKNESS.: null
+    it's fascinating because I had always, been raised on this, Proclamation with the Civil War.: null
+    it's for school,: null
+    it's free parking: null
+    it's funny, because I've read some from like nineteen twentythree and nineteen fortyfive and things like that: null
+    it's going to be good.: null
+    it's hard for me.: null
+    it's high too.: null
+    it's higher than the Rangers.: null
+    it's in the bleachers, way out in the, in center field,: null
+    it's in two parts.: null
+    it's just a lot of fun.: null
+    it's just great.: null
+    it's kind of hard to keep, at it,: null
+    it's kind of the whole concept of global peace, and communities: null
+    it's kinds of neat.: null
+    it's like I drive west: null
+    it's like eight hundred pages .: null
+    it's multiple translations of single works: null
+    it's nine thirty here.: null
+    it's not a story of the Civil War,: null
+    it's not eaten up with a lot of, stuff: null
+    it's not real developed,: null
+    it's not someone else,: null
+    it's not the same English they speak today.: null
+    it's one that we use in our work.: null
+    it's real enjoyable.: null
+    it's really fast paced and intense.: null
+    it's really neat because these are brand new books: null
+    it's really surprising how many people graduate from high school,: null
+    it's so long,: null
+    it's sort of the his, the historical fiction about, the Salisbury area in, in England.: null
+    it's still nice.: null
+    it's takes us maybe, thirtyfive to forty minutes to get there from Plano, which is not too bad at all.: null
+    it's the history of,: null
+    it's three or four times deeper than it needed to be,: null
+    it's usually about a family of, archaeologists: null
+    it's, it was his first book.: null
+    it's, it's about, it's a real good book that a guy, wrote who was, a research librarian,: null
+    it's, it's always going to make you have a good cry: null
+    it's, it's always good for good tears.: null
+    it's, it's hard for me to: null
+    it's, it's hard for me to do a lot of,: null
+    it, it had real good tips: null
+    it, it was out in the, in the stores as being by George Lucas.: null
+    it, it's kind of short because we don't, woe don't have a lot of time,: null
+    just hurry up and go through without putting down,: null
+    just light reading that are,: null
+    just like s, some, one quote that he had was that he thought the America's emblem was stupid because it was an eagle,: null
+    kind of off the wall.: null
+    lately, I've been, on the whole, very practical,: null
+    like I said, I do not keep up on all that.: null
+    like by Steinbeck.: null
+    like, I like, Richard Broudigan a lot.: null
+    lot of them related to, business and financial matters since that's what I do for a living.: null
+    mainly I am a front page person.: null
+    maybe I am into some things occasionally that I don't think of in terms of self improvement.: null
+    maybe I will.: null
+    maybe that turns people off,: null
+    mini series and so forth,: null
+    minor league,: null
+    most of my books are, I guess what you'd call self improvement type of books.: null
+    most of my family's in Indiana.: null
+    most of the stuff is on, literary criticism and philosophy,: null
+    mostly I read things to do with raising kids,: null
+    mostly I read,: null
+    mostly canning just for fun to go pick the things and just to have fun doing it and to give them as gifts and stuff,: null
+    my children and I, I started a thing where I read a book with them before they went: null
+    my daughter has PRECIOUS MOMENTS collection: null
+    my interests switch around dramatically.: null
+    my little sister was blind and going to school,: null
+    my mother always gave me hers: null
+    my oldest daughter had to read LOST HORIZONS for her English class,: null
+    my sister's living in Illinois right now,: null
+    my sisterinlaw lives in Chicago,: null
+    my son does,: null
+    my stuff re, revolv, revolves around, one hun, one thou, let's see,: null
+    my wife talks with other people,: null
+    my wife's from Galveston,: null
+    my work is my hobby .: null
+    my work, is just kind of compiling,: null
+    my, mother sent me, bookl, boxes full of different books.: null
+    normally we don't publish, things under our own ,: null
+    not in the area I worked in .: null
+    not more of a radio buff: null
+    ? not only am, am I re, reading it to decide whether or not it should be reviewed,
+      but also, because the board of advisers for this, journal doesn't have, right
+      now doesn't have a really respected name, who's a, a scholar on, on music,
+    : null
+    not to say I wouldn't,: null
+    now I have two little kids,: null
+    now I, lik, like a said, I've read a lot of self, self help books.: null
+    now finally the littlest one is oldest to, to sit, and watch the pictures instead of grabbing it and trying,: null
+    now he's had the, the first, the first one and the third one put into a ten session, P B S series.: null
+    now it's practically all women.: null
+    of course, Sally, isn't a very big woman,: null
+    of course, being a woman, I like romance novels and stuff like that a whole lot.: null
+    of course, was it all books and things: null
+    once you st,: null
+    one book that she wrote that's good for both men and women is FINE THINGS,: null
+    one in, real interesting book I read recently was, when I was looking for a job,: null
+    one wa, is, a story,: null
+    one was nonfiction and one was fiction,: null
+    or codependency, or, fifty thousand things like John Bradshaw's books on, THE FAMILY and: null
+    others, , I really do have to work at them.: null
+    our supervisor, subtly bought all of us a book called WHAT EVERY SUPERVISOR SHOULD KNOW.: null
+    our, our, cantaloupes and, and, peppers and tomatoes are on right now,: null
+    outside of those kind of things, you know, the other thing that I've really gotten into reading,: null
+    over there on the Texas border you had a lot of, of groups heading for Mexico: null
+    part of eightyfour to eightysix I should say.: null
+    probably the best one that I, I know of and I work with all the time is called SEARCH FOR SIGNIFICANCE: null
+    purely just for enjoyment,: null
+    right now I'm occasionally reading on a book about, the Mardi Gras in New Orleans and its history.: null
+    ? right now I'm reading, Judith Viorst's book called NECESSARY LOSSES, where she
+      talks about different losses that we've had in our lives that we have to get
+      past if we're going to mature and
+    : null
+    right now, my list of books to be read have to do with, the art of selling.: null
+    she came through a, a spell kind of thing and ended up in a pig, sty,: null
+    she didn't understand them,: null
+    she had, before it actually got big, she sent me this book saying, you might like this,: null
+    she has been writing for adults also,: null
+    she has millions of them.: null
+    she isn't at all.: null
+    she just would get them real cheap and stuff and send them over.: null
+    she knows so much more of them than I do,: null
+    she loved doing that.: null
+    she really enjoys those.: null
+    she took a horse shoe and, and turned it, turned it into an S,: null
+    she was not fully blind, just legally blind.: null
+    she was telling me to take zinc,: null
+    she would have to come home at night, cut out different,: null
+    she would have to cut out different colors,: null
+    she's more famous for that,: null
+    she, she's not, didn't enjoy it much,: null
+    since I got somebody from Arlington, Virginia one day .: null
+    since I'm, a therapist and all, I've done recently a lot of research into some of the twelve step groups.: null
+    ? since the re, since the economy is doing so bad, I never have read the, financial
+      pages more often than now, And trying to analyze and look for some good news
+      in, in there,
+    : null
+    so far I've only read two books: null
+    some authors I can just, basically drink in,: null
+    ? some of the books I've read lately have to do with crafty type things where
+      I've, where I've, learned things that I'm going to do for my children for Christmas
+    : null
+    some of the ones that have just received the awards this year, I haven't read,: null
+    some of them we learned from a book: null
+    some of those books are real tough to get into,: null
+    some people are really irritated about.: null
+    some, w, symptoms, medical symptoms, when, how do you know when to take your child to the doctor or not,: null
+    somebody had given me one of these dinky do, crappy women's novels set in the Civil War, John Jakes ,: null
+    somebody said, God, this would have been even long ago because I was in Boston: null
+    ? sometimes I get bogged down in the, in the ideology that motivates a lot of
+      health food and motivates a lot of vitamin taking,
+    : null
+    sometimes I just can't wait that long,: null
+    sometimes biogr,: null
+    starts out when they're small and continues through generations: null
+    supposedly this guy had, had been breaking there for awhi,: null
+    th, that's why I like to read SPORTS ILLUSTRATED so much: null
+    th, they were kind of expensive.: null
+    that didn't go s, over,: null
+    that has a little bit to do with some of the things that I read .: null
+    that is like I said. I I do not watch much T V any more either.: null
+    that is pretty much for right now,: null
+    that is the best book to go through, those NATIONAL: null
+    that is what I have heard.: null
+    that is when it really got big.: null
+    that one was good.: null
+    that seems like all of his books have kind of come from that,: null
+    that was PRESUMED INNOCENT.: null
+    that was actually after the war was over: null
+    that was another one.: null
+    that was excellent.: null
+    that was helpful to us.: null
+    that was on T V.: null
+    that was pretty good.: null
+    that was real good.: null
+    that was their main, main money making,: null
+    that was very helpful to me as far as books.: null
+    that's a good one.: null
+    that's about it, because otherwise I'm reading so much for school.: null
+    that's about, archaeology: null
+    that's an alternate means of dealing with ,: null
+    that's been another one that I've thought was real helpful. other than that, my reading centers on PADDINGTON BEAR,: null
+    that's computer stuff.: null
+    that's exactly what I was going to say.: null
+    that's good.: null
+    that's interesting.: null
+    that's it's really and truly: null
+    that's just where my heart is: null
+    that's right now, right now pretty much what I'm doing as far as,: null
+    that's that.: null
+    that's the last thing I, I've read,: null
+    that's the one I was thinking of.: null
+    that's the other problem I have.: null
+    that's what I do too.: null
+    that's what made me want to read the book.: null
+    that's when I had the subscription.: null
+    that's where my folks all came from.: null
+    that's, that's a bummer.: null
+    ? the SHADOW OF BLOOMING GROVE and TWO THOUSAND AND TEN and GRANT TAKES COMMAND
+      and THE WAR IN THE YEAR , SPACE that was the one I was trying to wade through
+      was SPACE, James Michener. Didn't get very far on that.
+    : null
+    the book is, is chilling.: null
+    the cat, the, the character that is so horrible is another human being.: null
+    the fiction one, was about a boy in, during the time of Adolf Hitler: null
+    the food here is outrageous.: null
+    the hot dogs are a dollar: null
+    the last Civil War battle was fought at Val Verde,: null
+    the last book, matter of fact I read was, AT AMERICA'S SERVICE by Carl .: null
+    the last couple of processed foods,: null
+    ? the last, I'm embarrassed to say the last, honest to gosh, cover to cover book
+      that I read, I tried to read, one of the, the Michener, LONE STAR or the, the
+      TEXAS HISTORY BOOK.
+    : null
+    the new author that came out with, the one that, Harrison Ford starred in.: null
+    the novel didn't do that much for me.: null
+    the novels, yeah.: null
+    the only Birmingham I could think of was Alabama.: null
+    the other book I am trying to think, was in the last year: null
+    the other one was quite enjoyable.: null
+    the other stuff is interesting: null
+    the people that she came to were just farm people: null
+    ? the rea, reason I was, picked it back up was in light of all the, when they
+      found the, the airplanes on the, in the Atlantic, thinking they were Flight
+      Nineteen.
+    : null
+    ? the sisterinlaw in Chicago usually sends me for my birthday or, or Christmas
+      or something will send me another, another good book
+    : null
+    the sloth, it fascinates me.: null
+    the stadium's right off the Interstate .: null
+    the translations are all so different from one another.: null
+    the very last chapter, I haven't figured out why that one was last, } is how to manage engineers .: null
+    the water comes out at thirtytwo degrees,: null
+    the, the copyright is nineteen ninetyone,: null
+    the, the novelization of STAR WARS was list,: null
+    their water comes out,: null
+    then I have books that I read just purely for enjoyment,: null
+    then on the other extreme I like to read, I guess ho, I don't know, horror, Steven King type books.: null
+    there are a couple of Newberry Award winners.: null
+    there is an Arlington,: null
+    there was a murder.: null
+    there was a, I saw a book kicking around on the history of the A B A, which,: null
+    there was one called THE PIG PRINCESS,: null
+    there's Six Flags right by the stadium, there's a Wet 'n Wild: null
+    there's THE HISTORY OF YOAKUM COUNTY, TEXAS there.: null
+    there's a balance in it sometimes I read stuff like that: null
+    there's a book called LIFE EXTENSIONS,: null
+    there's a subtitle to it,: null
+    there's an author that's in, that's in, Arizona, who used to be in Dallas.: null
+    there's another guy.: null
+    there's everything in it.: null
+    there's one about an Indian girl,: null
+    there's one science fiction writer named, Allen Dean Foster.: null
+    therefore, my, my reading pleasures are quite wide.: null
+    they always sell well.: null
+    they call it T News and all that.: null
+    they did give it, do it justice.: null
+    they didn't get across the river there: null
+    they didn't sleep all night.: null
+    they didn't understand her,: null
+    they do read. where a lot of people don't have any interest in it at all,: null
+    they dr, they drilled a well, I don't know how many feet: null
+    they drilled this well: null
+    they give you books: null
+    they go from hardback to paperback: null
+    they had a centennial here awhile back.: null
+    they had an abridged version of it on tape.: null
+    they have a minor league team.: null
+    they have a,: null
+    they have not made a movie of the week of it yet.: null
+    they have the Iowa Oaks.: null
+    they just love to sit and read.: null
+    they live in Grand Prairie,: null
+    they live kind of in a, the planes go right over from D F W,: null
+    they really did,: null
+    they tend to come out with a new book every couple of weeks: null
+    they used to have a,: null
+    they usually have some good articles in it.: null
+    they were all married and grown: null
+    they were cut off at the pass more or less, at Eagle Pass.: null
+    they were really, helpful, because I didn't know how to do this one stitching,: null
+    they were some groups of it, the Vicksburg,: null
+    they were still very heavy and philosophical, also very funny.: null
+    they were, they were lost: null
+    they were, they were ones that had supposedly been stolen from the, corporate headquarters in, in Los Angeles.: null
+    ? they would be things on how to be successful and sort of talking to yourself.
+      ge, getting your, yourself in gear to, sort of pull yourself up by your boot
+      straps and do what you really want to do.
+    : null
+    they would have collapsed.: null
+    they're all novels.: null
+    they're all spiritually,: null
+    they're just things,: null
+    they're saying how there's going to be a lot more parking for the stadium.: null
+    they're such,: null
+    ? they, they broke in one, one night and found a bunch of memos that were, supposedly
+      from, from Hughes to, to his main, main a, assistant back, in the fifties and
+      si, I guess, in the sixties,
+    : null
+    they, they have storms here: null
+    they, they mentioned that one.: null
+    they, they were fun.: null
+    they, they, they do read them.: null
+    things are misspelled: null
+    third one that he came out with is now called HOMECOMING .: null
+    this is not on the subject,: null
+    this is only my third call.: null
+    this is when they were having their revolution: null
+    this, this is more of a play or something that, that it was from, that, that I saw: null
+    those hedges when they started moving.: null
+    three bu, bu, four bucks now to get in.: null
+    to go into Baltimore, it it's fewer miles,: null
+    to me it's worthwhile in the end.: null
+    to tell you the truth, I've been going to college for the last four years: null
+    try and do what's, what I can do out of it that's practical,: null
+    unless maybe they lived a long, long time ago.: null
+    usually I try to, to find something long that,: null
+    usually when I am through with one, I will go in and, look, look through,: null
+    usually, I just, if I find a good book, I will sit, for two days until it is finished. If it's that good,: null
+    wait, the war wasn't until the eightee,: null
+    was a prisoner of war or something for like ten years.: null
+    we are not talking about that,: null
+    we get blackeyed peas off of it and stuff: null
+    we have got a book that says, HOW DO THEY DO THAT?: null
+    we just bought a new house,: null
+    we just started,: null
+    we learned that, some of the gardening skills we had were before,: null
+    we read a lot,: null
+    ? we started doing, large quantities of chlorination of water starting around,
+      where we experimented with it in nineteen oh three and nineteen thirteen most
+      of the major cities had chlorinated water.
+    : null
+    we used to go, go to their games all the time.: null
+    we usually sit there unless somebody gives us tickets, box seats: null
+    we were down there, from eightysix to, eightyfive to eightysix,: null
+    we're getting a new stadium next year: null
+    we're going to restore the earth.: null
+    we're going to, they're going to stay there. Which is fine, because Arlington's got a lot of things to offer.: null
+    we're having a terrible time with the recession.: null
+    we, we take books every once in a while in our Sunday school class and go through them.: null
+    what I do is I usually have two books at one time.: null
+    whatever one it was it was such a blockbuster seller.: null
+    whatever, this is one aspect of it.: null
+    when I do I just, just love it.: null
+    when I do get to sit down and, and read, I like to read the Bible: null
+    when I find,: null
+    when I read it, I should have realized that because, it had Foster's style written all over it .: null
+    when Jennie had to read it at Gettysburg: null
+    when it came out, all I heard was just, how bad it was, that I didn't even want to get it.: null
+    when she ever there is something, I say, have you read the directions?: null
+    where, where, for instance, a Baudelaire poem that was written,: null
+    with correcting papers and, and I, two o, kids of my own, I just don't have time.: null
+    with the other part of this thing was, how do you feel that this influences family.: null
+    working a lot of hours at work: null
+    wouldn't you think he would,: null
+    yesterday I talked with someone with, from Pennsylvania,: null
+    you can get a good seat for,: null
+    you can take your vitamins: null
+    you can't be an English major unless you like reading things from the past,: null
+    you don't read a lot of fiction, you said.: null
+    you have to do it.: null
+    you just kind of have to read and understand what is going on.: null
+    you kind of learn something as well as en, enjoy yourself.: null
+    you know it's going it turn out good: null
+    you mentioned Sunday school Ladonna.: null
+    you see, you see a lot of small colleges doing things,: null
+    you're going to be happy in the end .: null
+    you're just drawn into his, his horror,: null
+    you're such a reader, I know that: null
+    you, the t, t, grizzly and stuff like that.: null
+    '} I''m drawing a blank.': null
+  Statement-opinion: !!set
+    A lot of people just don't have time to read nowadays.: null
+    A review on it.: null
+    ? All the other areas which would, I think at that time would have included West
+      Virginia and, may have been Kentucky, a few states, that were not part of the
+      South but still had slaves.
+    : null
+    At least they kept the business part of it.: null
+    Donald Trump and had it all.: null
+    Even if you took speed reading.: null
+    God still somehow makes us all be able to still live.: null
+    God's going to restore it when he wants to: null
+    He is really interesting.: null
+    I am sure there is something out there, ,: null
+    I bet that used to be mostly men who were secretaries of any type for business.: null
+    I bet that's why we have some friends that eat only,: null
+    I didn't think it was so great.: null
+    I do not really know if, any one person knows,: null
+    I don't think.: null
+    I guess because he was so rich,: null
+    I guess it's in honor of his hundredth,: null
+    I guess they still do,: null
+    I guess we're supposed to start talking.: null
+    I guess we've covered the topic pretty thoroughly.: null
+    I guess you read SPORTS ILLUSTRATED: null
+    I hadn't thought about that in that respect,: null
+    I just have found everything I've read of his to be fabulous,: null
+    I just haven't done it yet because it seems to monstrous to do with a book,: null
+    I know that, the further we go from Adam the worse the food is for you,: null
+    I know there's not any food that you can get,: null
+    I know things are pretty booming down there.: null
+    I know you do, being an engineer.: null
+    I really, I really get mad at myself when I do, because I r, I realize fully there's no really redeeming value for,: null
+    I think Dallas has enough to offer that they don't have to hog everything .: null
+    I think God's in charge: null
+    I think I'm under my quota a little bit.: null
+    I think Jesus is the only one that can make this earth be restored to what it should be,: null
+    I think State Farm went bankrupt.: null
+    I think even mentally when you can do some,: null
+    ? I think if somebody would say hey, read these ten books because these are selfimprovements,
+      I would probably be turned off to them.
+    : null
+    ? I think it is good to, to read books and, and, because even if it's, like you
+      say, it's light reading, you are still getting some, mental exercise .
+    : null
+    I think it's a miracle we're all still alive after so many generations,: null
+    I think it's important,: null
+    I think it's just focusing in on the issue and walking your talk: null
+    I think once you're set in your ways, you're set in your ways.: null
+    I think she does a lot of research, too.: null
+    I think that that's why reading is so important,: null
+    I think that there's a lot of books out now that are kind of garbage books.: null
+    I think that's good because you do have to use your mind and imagine up the circumstances and things.: null
+    I think that's incredibly .: null
+    I think that's probably a, sort of a thing to do: null
+    I think that's unbelievable.: null
+    I think that, we, we,: null
+    I think the newsmen, enjoyed, writing about him on his way down,: null
+    I think the,: null
+    I think they did a pretty good job,: null
+    I think we have, too.: null
+    I think we've accomplished five minutes: null
+    I think you get out of the habit, like you say,: null
+    I think, I think to think that is almost,: null
+    I thought that was going to be some,: null
+    I would imagine helping them feel good about themselves: null
+    I would think he would .: null
+    I'd say another, which is a local writer here in Plano, is,: null
+    I'm not sure I could take too much of Stephen King.: null
+    I'm sure it's fast or something.: null
+    I'm, I'm sure you do.: null
+    I've been taking enough zinc, to kill a horse probably: null
+    I've read some of it.: null
+    I, I feel like it's important for young children to read too.: null
+    I, I guess that is a, tha, that is a source of reading.: null
+    I, I seem to remember that, little byline on a lot of things I've read.: null
+    I, I think that would be,: null
+    I, personally, I like mostly: null
+    I, the reason why I was thinking about looking at it is because it's supposed to,: null
+    It does tend to, to,: null
+    It is, it is real hard to, to follow and understand,: null
+    It is, it is, it is, interesting, with the computer to read the computer news and,: null
+    It sounds like Iowa or something.: null
+    It sounds really good.: null
+    ? It was made to placate some of the northern support but not completely alienate
+      all the southern support because, it was, if you read it, it only emancipated
+      those who were in areas, in rebellion against the United States.
+    : null
+    It's because they can't read.: null
+    It's funny how many names have been used, all over the country.: null
+    It's handy.: null
+    It's not like, most television where you, you just, you can sit there and not even pay attention very much but,: null
+    It's pretty, pretty neat.: null
+    It's real exciting.: null
+    It's scary though I'm telling you.: null
+    It's terrible,: null
+    It's that's simple.: null
+    It's toxic.: null
+    It, it does have a good, simple,: null
+    Later you're,: null
+    Max consistently writes good books.: null
+    None of the Yankees wanted to listen to their kind of luted grammar .: null
+    Of course, it is so weird,: null
+    Once you can get into the language,: null
+    Or, with Hitchcock or something where you're, you're, you're either expecting something or w,: null
+    Pro, probably you read a book review or something.: null
+    See I was raised in the Midwest which,: null
+    She writes the same thing.: null
+    She's just a,: null
+    Sometimes it's awful hard,: null
+    Sounds like something she would write.: null
+    Texas participation in the Civil War was, minor at,: null
+    Th, they, make conclusions in them that may or: null
+    That book, NATIONAL GEOGRAPHIC is really a fascinating book,: null
+    That does cut into your,: null
+    That has got to be hard to go from really rich: null
+    That is an intriguing type of book to be reading and trying to keep up on things like that.: null
+    That is for sure.: null
+    That kind of was, kind of a pop psychology time for wh, when a lot of books like that were coming out, I think.: null
+    That sounds so familiar.: null
+    That was a real good one.: null
+    That was good, I think.: null
+    That's a little, little heavy for me.: null
+    That's fairly interesting.: null
+    That's funny,: null
+    The problem is that I've, that I've read books that,: null
+    There are some times when you have got ten or fifteen or even an hour off .: null
+    There's another one he wrote that even sounds better,: null
+    They are good: null
+    They didn't emancipate them.: null
+    They might as well have not even been there.: null
+    They're great.: null
+    They're so big: null
+    This is hilarious .: null
+    Those are mind expanding books .: null
+    Those are, interesting.: null
+    Tom Wolfe is so perceptive,: null
+    When you are that rich, you always get into the paper, whatever, if you have a family problem, whatever.: null
+    Which is about the developmental level that, you need to be at to read those things,: null
+    Wonderful touch tone telephone there.: null
+    ? Yeah, we, we have, I think we, we name drop it a little too much and, and don't
+      fully understand what, what it is we're saying.
+    : null
+    You're developing your imagination.: null
+    You're more fun though,: null
+    after you get into them, they're really good.: null
+    again you can read it in, in a lot less than ten minutes.: null
+    all that kind of rolls in together there,: null
+    all your, y, the only really thing you are having to use is connecting the things that they give you,: null
+    as you say it's, it's sometimes it's difficult to, to know if it's,: null
+    because it attracts really a, a lot people's interest.: null
+    besides, if corn didn't grow there,: null
+    brings it to life.: null
+    especially it's hard to keep your interest: null
+    even if it's the country that they're from or anything like that.: null
+    even if they're not enjoyable, they bring you a, some kind of, of learning,: null
+    even if you haven't got a, a f, a human friend around, you can pi, pick up a book and, and,: null
+    even today where people are so illiterate and they go off to school and really nothing happens, they don't learn anything.: null
+    gosh it's, it's getting pathetic now .: null
+    ? he held off, just he and a handful of guys managed to hold off the whole Union
+      navy for a while from coming up the Sabine River which was of no consequence
+      but still is an interesting story.
+    : null
+    he just brings stuff alive,: null
+    he was kind of an arro, arrogant guy,: null
+    he's a great man.: null
+    he's so prolific.: null
+    her books are just incredible.: null
+    here again it's, it's casual reading: null
+    hers are so involved,: null
+    his adaptations are usually really good.: null
+    hopefully, we will recover here,: null
+    if you look at the history of hear attacks, heart attacks were nonexistent prior to nineteen twenty, *typo hear heart: null
+    if you were trying to follow any type of, plot, it, it total,: null
+    if you've read one, I mean it's,: null
+    in their schooling, they, they got more of the classics than I did,: null
+    it answers everything.: null
+    it is good reading: null
+    it is just weird.: null
+    it is self improvement from the standpoint of probably relaxing,: null
+    it makes you think about things.: null
+    it really was,: null
+    it seems as though if you really want to set a t, side time to read the Bible and you work and: null
+    it seems like you can get lost in a book,: null
+    it seems like, older people have much better,: null
+    it was a political move.: null
+    it was all from taking the right vitamins and things that, that give you the strength,: null
+    it would be like another GONE WITH THE WIND, I guess: null
+    it'll go up.: null
+    it's a, it's a little, it's a little hard: null
+    it's ber, basically mindless.: null
+    it's entertaining: null
+    it's good for us,: null
+    it's grown on good soil hardly anymore,: null
+    it's hopeless to think that man can do anything with the,: null
+    it's just tough to get through that first two hundred pages or so.: null
+    it's like school,: null
+    ? it's nice to work with people , who are not required to use your services, and
+      so therefore, are grateful and not arguing y, with you about them.
+    : null
+    it's out, it's outrageous: null
+    it's pretty interesting work: null
+    it's pretty tough to keep up with.: null
+    ? it's probably, real close to what, everyone is thinking, now that, they just
+      got turned around and could not find their way back.
+    : null
+    it's really excellent fast reading: null
+    it's really good public relations for small schools,: null
+    it's really quite interesting.: null
+    it's supposed to have a lot of unflattering things in it.: null
+    it's totally different concept to us.: null
+    ? it's usually, the television that we see nowadays seems like that it's, it's,
+      it doesn't even have some of the underlying, things to it, that maybe the old
+      movies and things had, the underlying themes and stuff that maybe you had to
+      kind of figure out.
+    : null
+    it's, it is, it is real interesting,: null
+    it's, it's fun to, to do that.: null
+    it's, it's funny he,: null
+    it's, it's hard sometimes.: null
+    it's, it's so easy to get caught up on reading just for your work, or, self improvement,: null
+    it's, it's ver, it's interesting,: null
+    it's, it's, absolutely, it's great the way that it's broken out and you can, set up little trips and day trips and things.: null
+    it's, you're, you're taking words and developing a picture in your mind.: null
+    maybe I have a problem .: null
+    most of the time they don't with, when, follow books very well when they make them into movies .: null
+    my god, they fought and won the whole thing.: null
+    no one will ever really know,: null
+    not everything: null
+    not too many people have read that one: null
+    of course, doing Isometric exercises, together they both exercised about five minutes a day,: null
+    of course, they're all just a little spookier than the movies,: null
+    one of its great slogans is if you're not serving the customer, you better be serving someone who is.: null
+    our movie stars.: null
+    pretty much we have different interests, I think, in reading,: null
+    she can, she can turn them out overnight, I swear.: null
+    she couldn't possibly turn them out like some of these popular: null
+    she really was good.: null
+    she's got some fabulous workbooks out and a whole series of tapes and,: null
+    she's, she appeared to me to be very petite: null
+    some of the stuff is pretty boring.: null
+    some of those get very philosophical: null
+    ? something's excellent about them, whether it's the way they were written or
+      whether it was the material they were written, that was written about.
+    : null
+    sometimes the more you get the more you want too,: null
+    ? th, the problem that I've had in the past with, my children growing up and moving
+      out of the house and, and still having three left at home,
+    : null
+    that is Bush saying that .: null
+    that made a nice ugly sound.: null
+    that makes real sense, that that's, when it was written.: null
+    that one just sounded gossipy.: null
+    that sounds like a fascinating job.: null
+    that to me is just ridiculous,: null
+    that was a pretty scary movie, too.: null
+    that was not enjoyment .: null
+    that was really, really good,: null
+    that's all in self improvement to stay focused on who the customer is: null
+    that's always a challenge.: null
+    that's good fun reading.: null
+    that's good too.: null
+    that's interesting.: null
+    that's just kind of part of it.: null
+    that's like them being enthralled with our football and so forth,: null
+    that's the way it was, I'm sure back then.: null
+    that's, self improvement,: null
+    that's, that's alwa, that's kind of a hobby: null
+    that, television, it gives you everything.: null
+    that, that has been fun to do do that {D you,: null
+    that, that's difficult because one person might write one book extremely well and some other ones might not write as well.: null
+    the Mavericks are t,: null
+    ? the basics premise is that if water was a food it would be, they wouldn't be
+      able to sell it to you through your pipes because it's toxic . chlorine,
+    : null
+    the farmers thought, we got chemicals, we're putting chemicals on the field,: null
+    the movie was a joke compared to,: null
+    the movie was nothing compared to the book.: null
+    the only, the only way that they had any part in it was after worth as to, who's going to be going there.: null
+    the period of time was fascinating.: null
+    the photographers just got: null
+    the style was very conversational.: null
+    the, the books are kind of, imposing to say the least.: null
+    then, she's going to come out well rounded.: null
+    there's a surprising number that are still around that aren't, that don't have those,: null
+    there's been a lot of publicity lately about that new Nancy Reagan book out by, Kitty Kelly, the unauthorized biography.: null
+    there's never going to be enough hours in the day.: null
+    there's some,: null
+    there's such cute things,: null
+    there, there are some, there are some interesting things in the paper,: null
+    they an, they are pretty down to earth about what you can take and, and what you can't take: null
+    they are very interesting.: null
+    they can be in any setting,: null
+    they do kind of follow or,: null
+    they don't consider water a food: null
+    they give you everything else.: null
+    they go through them so fast,: null
+    they had an interesting time there.: null
+    they just happen to put them in a futuristic setting,: null
+    they just went from generation,: null
+    they just, they're just so suspenseful.: null
+    they know that,: null
+    they probably were out of print all of, already when my kids were small.: null
+    they weren't a state: null
+    they're at a bad stage anyway,: null
+    they're good,: null
+    they're great.: null
+    they're the same silly things,: null
+    they're, quite, they're hard to set down because it's so interesting: null
+    they've proven that.: null
+    those are good old: null
+    those are really helpful I think in helping,: null
+    those are self improvements.: null
+    to have to deal with sexual abuse: null
+    very easily.: null
+    we can talk about anything we want.: null
+    ? when you develop your imagination, that can take you into a lot of other areas,
+      because you've developed, your, your, your mind in, in seeing things,
+    : null
+    when you use real people like that, I think: null
+    when you're recording you can't re, remem,: null
+    with a family and everything, there is just so much going on that I, I am more of a r,: null
+    yet their saying we're putting such low doses in there, that,: null
+    you always cry.: null
+    you can talk to them when they're out running around with friends .: null
+    you can, you can page through it in,: null
+    you could almost label everything quality in some sense or other: null
+    you don't read many sports books: null
+    you have so many out there that, that you, you never get a chance to read.: null
+    you have to kind of set yourself,: null
+    you have to plod through it: null
+    you have to work at it.: null
+    you kind of forget the fun of reading .: null
+    you kind of get relaxed,: null
+    you know who I'm talking about .: null
+    you probably,: null
+    you really can't.: null
+    you're, you're aware of that kind of thing .: null
+    '} you sound like you have a family too.': null
+  Wh-Question: !!set
+    How did you get involved?: null
+    How many people do you supervise?: null
+    Now what's that?: null
+    What do you read?: null
+    What do you think is,: null
+    What is his name?: null
+    What is that, one that is on T V?: null
+    What is your favorite?: null
+    What kind of books do you like best?: null
+    What kind of books do you like to read?: null
+    What kind of books?: null
+    What kind of business is it?: null
+    What kind of things have you read?: null
+    What the, what the hell for?: null
+    What was the last book you read?: null
+    What's his name again?: null
+    What's the name of it again?: null
+    What, how crazy?: null
+    What, what kind of,: null
+    Which, what book have you read that is along those lines,: null
+    Who wrote that?: null
+    Why Kingsley, Iowa?: null
+    does she, how often does she come out with them.: null
+    how about who,: null
+    how much are the box seats there?: null
+    how old is your daughter.: null
+    how, how much is an Oriole game?: null
+    tell me what kind of books have you read?: null
+    tell me, what books have you read lately? .: null
+    the question was, what kind of books do you read for entertainment, I guess,: null
+    translations, what do you mean, translations of, of,: null
+    what are your favorite children's books?: null
+    what are your favorite,: null
+    what do you read?: null
+    what is a book on your list,: null
+    what kind of books do you enjoy reading?: null
+    what kind of books do you like to read,: null
+    what kind of books do you read?: null
+    what kind of counseling do you do,: null
+    what would you recommend?: null
+    what's the latest one you've read?: null
+    who is your, whose your favorite religious author?: null
+  Yes-No-Question: !!set
+    A, a Freddy Kruger type,: null
+    And Colorado Springs?: null
+    Any particular writer?: null
+    Are you an engineer for T I?: null
+    Are you interested in that at all?: null
+    By, somebody who was there: null
+    Did you read that one?: null
+    Did, did it have something to mention about, sort of, cultural rituals of, of manhood?: null
+    Do you enjoy reading anything like that?: null
+    Do you have a family?: null
+    Do you know anyone that's read it?: null
+    Do you know offhand?: null
+    Do you know who it was about?: null
+    Do you like Ken ?: null
+    Do you like it?: null
+    Do you like to read mysteries.: null
+    Do you like your job?: null
+    Do you read,: null
+    Even better than JAWS and some of that?: null
+    Have you been involved on the Switchboard long?: null
+    Have you ever read any of Frank E Peretti's?: null
+    Have you ever read anything by Susan Howatch?: null
+    Have you ever read, or heard of the book THIS PRESENT DARKNESS?: null
+    Have you read that?: null
+    Have you read, THE SILENCE OF THE LAMBS?: null
+    Have you seen that by Bly?: null
+    Have you, are you a Civil War buff at all?: null
+    He was just having an affair on his wife?: null
+    How about items like, THE ONE MINUTE MANAGER, which used to be a big,: null
+    I don't think they've ever made a movie, do you?: null
+    I guess the guy that's on the new STAR TREK series was in that thing, .: null
+    I know at T I they have most of the stuff on the printout, don't they? on the computer where you can read the daily: null
+    I was going to say, not fun kind, right?: null
+    I've often wondered why, haven't you?: null
+    Is it IRON JOHN?: null
+    Is that a big, thick book?: null
+    Is that right?: null
+    Isn't she fabulous?: null
+    Max Lucado?: null
+    On that same topic, have you ever read anything about, the Amelia Earhart story, whatever happened with her?: null
+    PRESUMED INNOCENT?: null
+    That was a movie too, wasn't it?: null
+    There was a lot more to it than that, weren't there?: null
+    WUTHERING HEIGHTS?: null
+    Were you here during the hailstorm two years ago?: null
+    Weren't you guys,: null
+    What, like those, magazines you get through the mail?: null
+    Would that be healthier do, to do that, to drill your own fresh water well like that?: null
+    'You''re not right? *spelling: rigid': null
+    Your name is Lynn?: null
+    any other comments.: null
+    are you a BIBLE fan, too?: null
+    are you reading these in the form of just like printed manuscripts,: null
+    as far as dealing with divorce?: null
+    did it say anything about newspapers?: null
+    did you ever read the,: null
+    did you like it?: null
+    do they have a mail kind of campaign that they send to professionals in the,: null
+    do you find th, do you find you have much chance to read for, for just pleasure or mostly for business?: null
+    do you have a favorite subject to read, whether it be science fiction or, or history: null
+    do you like scary things?: null
+    does he get some royalties from that, hopefully?: null
+    have you, gotten into SCARLETT yet?: null
+    how they found out that, ancient man, per, performed, brain surgery successfully?: null
+    is that NIGHT,: null
+    is, is that just the only type of reading you've been doing,: null
+    is, is, is that,: null
+    isn't much there, was there?: null
+    it's mostly all novels?: null
+    read any good books lately? .: null
+    should we stay on the topic of books?: null
+    that is all it was?: null
+    we started recording already?: null
+    you know what I'm saying?: null
+    you like science things?: null
+    you pressed one?: null
+    you're probably, a Baltimore fan, right, an Oriole fan?: null

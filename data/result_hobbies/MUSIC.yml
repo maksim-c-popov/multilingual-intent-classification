@@ -1,0 +1,2520 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    I don't know if you saw the tour posters of the Rolling Stones when they last toured,: null
+    I don't know if you've heard Neurotic Collection.: null
+    I heard that was hard to get tickets to.: null
+    I imagine that she puts on a pretty good show.: null
+    I was wondering if your, if your spouse,: null
+    Like Garth Brooks.: null
+    Like Paul Simon.: null
+    Like, Queen's Reich, if you ever heard of them.: null
+    Not hard rock.: null
+    Not like the eagle.: null
+    Reba MacIntyre.: null
+    Seventies and like that stuff.: null
+    Smiley Burnette, I don't know if you were old enough to remember him him.: null
+    So your, you don't play pretty well a full concert band music most of the time then.: null
+    When it was really just starting.: null
+    When you say that you grew up, in the sixties I take it that was the, teenage type years: null
+    You don't like Puccini?: null
+    You grew up with his children, too, then?: null
+    You have one that often.: null
+    You say have your four year old taking lessons already?: null
+    You're going to Commerce?: null
+    got the bumper sticker, too?: null
+    if you have other people in your family who are also musical.: null
+    it played by itself?: null
+    so you listen to kind of church music, gospel?: null
+    sounds like you've got a houseful.: null
+    then it becomes a kind of music of, of its own, so to speak,: null
+    they're the really heavy,: null
+    you didn't have oboe or something with it?: null
+    you do have to buy your music.: null
+    you don't like country?: null
+    you have never heard of the Christian music that I listen to probably.: null
+    you went to school then in,: null
+    you're in the marching band and stuff in high school.: null
+    you've heard the Richardson Symphony?: null
+    you, you must back up and play some of the music twice.: null
+  Dispreferred answers: !!set
+    I could pick country music. *answered as if to a qw: null
+    I've heard a little bit of it.: null
+    Se late sixties, seventies,: null
+    except for Vietnam.: null
+    it's not really sight reading when you've done it, again and again and again,: null
+    not all country.: null
+    they're in the suburbs of Dallas, in Richardson and Plano.: null
+  Statement-non-opinion: !!set
+    A long time out, all through college and everything I was in the choirs.: null
+    A lot of them are.: null
+    A lot of times you'll hear songs that they're not original,: null
+    About the only thing I can remember after the song is over is the refrain.: null
+    Al Jarreau, he's somebody I like.: null
+    All very very kinds.: null
+    Although now I kind of enjoy hearing the rock and roll, I guess it makes me think I'm young again .: null
+    And I still can to this date.: null
+    And besides that I kind of learned I wasn't really that good .: null
+    And your mother's saying, and although, the money that we spent for those piano lessons: null
+    Anyway, this is happened in nineteen eightythree.: null
+    As I've gotten older, I've started listening more to the words of music: null
+    Baltimore will play more, what might be considered m, a little bit more progressive?: null
+    Baroque and romantic.: null
+    Because about the best I can normally hope for is about fifty: null
+    Bo, Bo, Bohemian Rhapsody.: null
+    Bonnie Rait, I like her a lot.: null
+    But after one semester of that, I said n, no,: null
+    But, then, again, I was also in, uh, the marching band.: null
+    Cause she, she plays both secular and Christian: null
+    Changed directions.: null
+    Chicago had some things,: null
+    Chicago has a lot of good stations,: null
+    Chris didn't want to go,: null
+    Cinderella is, is hard rock, heavy metal.: null
+    Country western, I'm not quite as big on that.: null
+    Course I like, also string instruments,: null
+    Course, my mom thought I was,: null
+    East Texas is recruiting for,: null
+    Even some of that I like okay: null
+    Everything happened during the sixties,: null
+    Forgot about that.: null
+    Garth Brooks is outselling Guns and Roses: null
+    Garth Brooks is probably the only country album we have,: null
+    Getting use to it .: null
+    Glen Bell plays.: null
+    Glen teaches here too.: null
+    Greatful Dead, Crosby, Stills and Nash.: null
+    He can make a lot of noise when he's, so inclined.: null
+    He does a good job.: null
+    He does that, musically, listens: null
+    He doesn't play anything,: null
+    He got a bonus record,: null
+    He has come back a couple of times.: null
+    He likes jazz: null
+    He likes to sing those in church.: null
+    He plays at our Church a lot.: null
+    He plays the,: null
+    ? He said he used to sit on Saturday mornings and watch cartoons just to hear
+      the music, that they were using behind them because they used, especially Disney
+      used a lot of classical music, behind the cartoons
+    : null
+    He sings in the choir: null
+    He sings that.: null
+    He teaches a lot in Plano at high schools: null
+    He used, WILD THING.: null
+    He was, played in the old western movies.: null
+    He'd buy all the sound tracts he could get his hands on *typo tracks: null
+    He's a delayed child.: null
+    He's a little boy .: null
+    He's from, West Virginia.: null
+    He's more into the New Wave music,: null
+    He's my personal favorite.: null
+    He's only about, I guess he's about two and a half in his real understanding of things.: null
+    He's really country himself: null
+    He's, he's from Canada.: null
+    He, he's, he, the only thing he's shown interest in wanting to play is the drums: null
+    Hebert Laws a flute player,: null
+    His middle name is Chris, or Christopher for: null
+    Ho, Hotel California and that era.: null
+    Hopefully .: null
+    Hundreds of thousands of people is what it seemed like.: null
+    I actually went to the University of Texas at one time thinking that I would, c, be a musician.: null
+    I agree, with the general rule, I, I wouldn't choose rap either.: null
+    I almost, almost, bankrupted myself out of college as a freshman when I got into the Columbia Record Club many years ago.: null
+    I also dislike, some classical music,: null
+    I also like jazz.: null
+    I also like the, the, the classic rock stations,: null
+    I also play a little bit of saxophone, flute and piano: null
+    I always think it's a nice break from the traditional organ or piano.: null
+    I am always making music of one kind or another.: null
+    I am basically a Church musician.: null
+    I am more into rock and roll myself.: null
+    I asked him if I could play it, because I was first clarinet,: null
+    I asked him if I could play the bass clarinet,: null
+    I became attached to that style of, urban, urban country if there is such a thing,: null
+    I bought some at Christmas time for friends of mine that have C D players.: null
+    I c, I can relate to it, I suppose .: null
+    I c, I, I can still read music if I'm lucky: null
+    I can do without it for a while.: null
+    I can even take the: null
+    I can imagine, if you're driving cross country,: null
+    I can listen to any music I want to .: null
+    I can record off other cassettes.: null
+    I can record some things from her and, get cassettes and record off other ones or off the radio if I want to: null
+    I can remember this, the song.: null
+    I can take all kinds of music pretty much: null
+    I can't deal with opera at all.: null
+    I can't even, I can't like that.: null
+    I can't imagine,: null
+    I can't remember how far in advance we reserved,: null
+    I can't remember what they call it,: null
+    I can't remember who the artist was on that.: null
+    I can't say that I like a lot of the modern, the very, very: null
+    I can't stand him.: null
+    I can't think ever her name either.: null
+    I can't think of her name.: null
+    I can't think of it.: null
+    I can't, I don't know what that's about.: null
+    I can't, name the names of them off hand: null
+    I can, I can barely watch anymore because, they have this heavy metal stuff on there: null
+    I cannot carry a tune in a basket.: null
+    I continue to do that.: null
+    I could never do that .: null
+    I could sit back down and play a few things,: null
+    I could, I know which ones come next,: null
+    I did it last year,: null
+    I did, like I say, tend to go back to albums and: null
+    I did, too,: null
+    I didn't go then.: null
+    I didn't have my number yet,: null
+    I didn't know that.: null
+    I didn't play, play jazz flute or anything like that,: null
+    ? I didn't really start getting into music until I went to college because, my
+      parents didn't really have music in the house.
+    : null
+    I didn't recognize the name.: null
+    I didn't sing in a choral group, until after I was, married,: null
+    I didn't want to push her too early, either, but, kind of had a mixed feelings about that scene.: null
+    I didn't, I never really noticed the difference when I moved to this area?: null
+    I do a Church in Plano.: null
+    I do belong to a Musical Heritage Society.: null
+    I do know if they want me to or not,: null
+    I do know that some communities have,: null
+    ? I do think there is probably an influence there, because I noticed that even
+      though popular music, the, the wilder stuff, was around when my older children
+      were, were, adolescents, early adolescents, when they first start listening
+      to music on their own
+    : null
+    I do, I switch the stations a lot because I don't have a cassette player in my car.: null
+    I don't care for rap music either.: null
+    I don't care for that at all.: null
+    I don't care for the older, the dog left me stuff.: null
+    I don't do that anymore either .: null
+    I don't enjoy rap too much, either.: null
+    I don't enjoy that at all: null
+    I don't even know their names.: null
+    I don't even know who did which ones,: null
+    I don't even really know who she is, .: null
+    I don't ever listen to the radio: null
+    I don't go out on a limb and buy something new very often unless I've heard it.: null
+    I don't go to East Texas.: null
+    I don't have a whole lot of dislikes.: null
+    I don't have one: null
+    I don't have that, I don't have that , experience to share .: null
+    I don't have to worry about, what's current and what's not because I haven't been current with music for a long time.: null
+    I don't know a lot about classical music so far as, any background in music,: null
+    I don't know a lot of the, musicians' names or the singers' names,: null
+    I don't know any folk music at all.: null
+    I don't know exactly what's hot down in Texas.: null
+    I don't know how: null
+    I don't know how else to explain.: null
+    I don't know if any of mine will be interested in it: null
+    I don't know if she's any farther ahead than those kids who started when they were eight: null
+    I don't know if you follow Broadway, much,: null
+    I don't know what that is,: null
+    I don't know which is chicken and egg in that situation.: null
+    I don't know,: null
+    I don't know. We just have an awful lot of engagements,: null
+    I don't like: null
+    I don't like it: null
+    I don't like listening at high volumes.: null
+    I don't like listening to it.: null
+    I don't like that music.: null
+    I don't like that,: null
+    I don't like that.: null
+    I don't like the country music that's like my wife left me, my dog: null
+    I don't like the new stuff.: null
+    I don't like to listen to it all the time, but, some of the time, anyway.: null
+    I don't listen to the radio at all.: null
+    I don't mind music that's difficult to listen to,: null
+    I don't play an instrument.: null
+    I don't play any.: null
+    I don't really care for Cinderella .: null
+    I don't really care for that too much, I guess.: null
+    I don't really care to listen to it any more for some reason.: null
+    I don't really have a favorite type.: null
+    I don't really know what too many of the most popular songs are unless, they're in the, the news or something .: null
+    I don't really switch around to new things very often.: null
+    I don't sing aloud,: null
+    I don't too much,: null
+    I don't want to be a lawyer: null
+    I don't want to work full time,: null
+    I don't watch T V much at all.: null
+    I don't, I don't care for the sound of the high notes.: null
+    I don't, I don't know if he's really serious about it yet or not ,: null
+    I don't, I have not seen him playing anywhere lately,: null
+    I don't, I like some country.: null
+    I don't, you don't, I don't know enough about it because I just listen,: null
+    I either like the song: null
+    I en, I enjoy the music,: null
+    I enjoy classical guitar and classical piano,: null
+    I enjoy classical too.: null
+    I enjoy that.: null
+    I enjoy, a lot of the, the modern forms,: null
+    I even have a, a tape of Lady Smith Blackman Bazo: null
+    I even like classical music.: null
+    I feel like I've learned a lot about the piano.: null
+    I figure all our C Ds that we have what I really like .: null
+    I figure that that will make me biased: null
+    I find it to be a good out: null
+    I find it very interesting that some television shows that I enjoy I particularly like the music.: null
+    ? I find myself, listening to a lot of, either old timer or New England, dance
+      bands as well as, just more popular folk music and new artists coming up.
+    : null
+    I forgot about jazz .: null
+    I found that I really like CHINA BEACH: null
+    I get a little bit more time.: null
+    ? I get real tickled when I listen to some of these old Beatle, music, the orchestration
+      of it and that it's so popular still
+    : null
+    I get to go to at least four or five concerts a year .: null
+    I got a degree from T W U,: null
+    I got a lot of bills .: null
+    I got it right on the tip of my tongue and can't say it, Helen something.: null
+    I got married, during the Christmas season: null
+    I got out of the habit of listening to the radio,: null
+    I got real involved in many things: null
+    I got right to where I was figuring out where all the keys were on the piano: null
+    I got to the point where I wasn't really reading music, I was memorizing music,: null
+    I got too busy in high school to really keep up with it between homework and ...: null
+    I graduated high school in seventyeight,: null
+    I grew up in a small town in, in southern Oklahoma: null
+    I grew up listening to that stuff.: null
+    I grew up next door to, the Richardson Symphony Orchestra leader: null
+    I grew up on blue grass music.: null
+    I grew up with Hank Snow, and and Hank Williams and all of those old country and western songs.: null
+    I grew up with a lot of his music, and, and what not.: null
+    I grew up with country and western,: null
+    ? I grew up with the Beatles and the Rolling Stones and the whole pot culture
+      during that time and went through that phase and kind of stayed with it I guess
+      for several years after I graduated from college and, and thereafter
+    : null
+    I grew up, in the, the sixties,: null
+    I guess I don't care much for rock and roll any more.: null
+    I guess I don't really care to listen to rap that much except for once in a while some of the funny: null
+    ? I guess I enjoy, I enjoy jazz, listening to jazz sometime although I don't feel
+      like I have a good, g, good understanding of it, or a good, a good feel for
+      maybe what's good jazz and what's not,
+    : null
+    I guess I got away from what I consider to be the pot, sounding music.: null
+    I guess I like: null
+    I guess I like a wide range. everything from, from Baroque through at least some modern music.: null
+    I guess I'm just too busy doing other things that it's too much trouble to get up and go decide what I want to listen to,: null
+    I guess I'm real old fashioned in my musical tastes.: null
+    I guess I've been, con, kind of considering it.: null
+    I guess I've had a smattering: null
+    I guess I, I have listened in on some of the stuff and not really realized it that I do like some of that.: null
+    I guess I, I like the blues a lot: null
+    I guess if I had to pick, it would be pop, I would think,: null
+    ? I guess one of the things was that influenced me was that I, I've worked in
+      radio stations as a D J for all my college years trying to support my way through
+      there,
+    : null
+    I guess probably my favorite all time country and western song or singer is, probably Eddy Arnold.: null
+    I guess that they, because they hadn't originally gotten, permission,: null
+    I guess the closest I've ever come to participating in music is singing in the choir.: null
+    I guess they must be.: null
+    I guess we'll start listening,: null
+    I guess we're: null
+    I guess we're supposed to talk about music.: null
+    I guess, I don't know either,: null
+    I guess, I don't, I don't like hard rock.: null
+    I had go, heard good things about the, Music Heritage Society,: null
+    I had just gotten,: null
+    I had never listened to it bef, till then,: null
+    I have a couple of his tapes.: null
+    I have a couple that my husband really hates: null
+    I have a four year old who, who has started to play the piano.: null
+    I have a lot of friends that like country music .: null
+    I have a pretty good mathematical concept for what's involved,: null
+    I have a sister who's sixteen years older,: null
+    I have a, a tape collection that I like to listen to, cassette tapes: null
+    I have a, pretty wide taste, in music, ranging from progressive rock to jazz to, lot of different forms of, music.: null
+    I have always played classical music, or classical style,: null
+    I have an eight and a half year old daughter who's taking piano lessons and started out at the age of just turning five: null
+    I have been to a concert a couple of times of hers.: null
+    I have connections but, but not particularly deep ones to the Vietnamese war type situations,: null
+    I have friends that like that.: null
+    I have him take from a friend of mine who teaches Suzuki.: null
+    I have kind of gone back to, more of a county, flavor in music.: null
+    I have never been to a Dallas Opera: null
+    I have no interest in that,: null
+    ? I have so many albums and cassettes I feel like, gosh, I'm going to have to
+      go out and buy a C D player and then start collecting C D s,
+    : null
+    I have some Spiro Gyro tapes.: null
+    I have some dulcimer music.: null
+    I have some, some rock and some jazz and a couple, maybe one or two country and western. Some, Garth Brooks,: null
+    I have teen age children,: null
+    I have to listen to it, and: null
+    I have to say my favorite type of music would probably be, classical music.: null
+    I have two string instruments in my house. instrument players,: null
+    I have, I have we,: null
+    I have, returned about every four or five years to thinking that I would like to do something about it.: null
+    I haven't been listing,: null
+    I haven't done that in a long time.: null
+    I haven't done,: null
+    I haven't even been keeping track.: null
+    I haven't even priced them.: null
+    I haven't gotten around to doing it yet.: null
+    I haven't heard her.: null
+    I haven't paid much attention to most of the current music.: null
+    I haven't paid, haven't been paying attention to the, to the clock.: null
+    I haven't really gone out,: null
+    I haven't really looked into it very much.: null
+    I heard Glen Bell taught at Plano as well.: null
+    I heard that the other day on the radio: null
+    I heard that.: null
+    ? I inevitably discover that I have no innate music talent relative to composition
+      and that I struggle and really can't quite understand what is that other people
+      take for granted,
+    : null
+    I just didn't know that much about music: null
+    I just didn't want them to be exposed to a lot of things,: null
+    I just do not ca,: null
+    I just don't, I just don't like: null
+    I just don't, don't bother to do it very much anymore.: null
+    I just get kind of tired of all that.: null
+    I just got a whole mess of music,: null
+    I just got it today.: null
+    I just got mine paid off .: null
+    I just graduated from college in May,: null
+    I just like Willie Nelson I guess because he's such a character.: null
+    I just like them.: null
+    I just love that song.: null
+    I just mostly buy along the same lines all the time.: null
+    I just never have.: null
+    I just never really thought about it: null
+    I just refuse to listen to that at all.: null
+    I just started, I started back a year and a half ago.: null
+    I just sub at the school,: null
+    I just thought that they done broke up and: null
+    I just thought they just all sort of rhymed,: null
+    I just wiped, did the floor,: null
+    I just, I can just drift off into some other world just listening to that for hours if I ever have the time to do that,: null
+    I just, I heard a piece: null
+    I just, I just don't care for him,: null
+    I just, I just know,: null
+    I just, I love that,: null
+    I just, picked,: null
+    I keep forgetting, what, what she named him.: null
+    I keep thinking, I thought that all the math and music people are supposed to go hand in hand: null
+    I kind of hesitate: null
+    I kind of know him.: null
+    I kind of like, I like groups like the Statler Brothers.: null
+    I know a little bit about music,: null
+    I know a lot of the old songs.: null
+    I know for myself that, for the most part, I don't know which artist is which,: null
+    I know him,: null
+    ? I know one thing that has colored my music choice is when we had children, I
+      really started to think about what kind of television programs I was watching,
+    : null
+    I know that there are, if you're interested in choral singing,: null
+    I know what I like to listen to as far as classical music.: null
+    I know what I like when it's, when I like a sound. A certain kind of sound,: null
+    I know what I like,: null
+    I know what you mean.: null
+    I know what's hot down here with me,: null
+    I know when my children were younger, we found a lot of really nice tapes that they, that they liked.: null
+    I know who your talking about.: null
+    I know, I know what the eagle is.: null
+    I laughed again.: null
+    I like A C D C's okay.: null
+    I like Bach.: null
+    I like Baroque music,: null
+    I like Breeze,: null
+    I like Chicago: null
+    I like Chuck Mangione .: null
+    I like Gordon Lightfoot,: null
+    I like Moody Blues.: null
+    I like Randy Travis: null
+    I like Rossini better than Puccini.: null
+    I like Simply Red,: null
+    I like Tchaikovsky.: null
+    I like a lot of classical music,: null
+    I like a lot,: null
+    I like basically almost every form of music and type of music.: null
+    I like classical: null
+    I like classical music also.: null
+    I like classical music just because of the,: null
+    I like classical music.: null
+    I like classical,: null
+    I like country and western .: null
+    I like country music, of course: null
+    I like easy listening, just kind of,: null
+    I like everything from hard core country to Wagner, and Mahler: null
+    I like everything.: null
+    I like full body music, with the, with brass and winds, woodwinds, instruments,: null
+    I like her too.: null
+    I like her.: null
+    I like his,: null
+    I like instrumental things.: null
+    I like jazz music: null
+    I like just about any kind except country and western.: null
+    I like more comic licks.: null
+    I like more of the real new ones,: null
+    I like most of them except for country music.: null
+    I like new age stuff.: null
+    I like people like Neil Diamond and all, all the folks that you're not supposed to like,: null
+    I like rock and roll.: null
+    I like some classical music: null
+    I like some country music.: null
+    I like some of their songs.: null
+    I like sound tracks a lot.: null
+    I like that type of stuff.: null
+    I like that.: null
+    I like the Moody Blues.: null
+    I like the funny, satire,: null
+    I like the group.: null
+    I like the low notes better than the high notes.: null
+    I like the pop music.: null
+    I like them, too.: null
+    I like them.: null
+    I like those.: null
+    I like to hear him sing.: null
+    I like to listen to all different kinds of music.: null
+    I like to listen to piano music a whole lot,: null
+    I like to listen to some of that.: null
+    I like to listen to tapes, of music or,: null
+    I like to watch rock and roll videos and any kind of videos.: null
+    I like trumpet and organ together.: null
+    I like watching that kind of thing.: null
+    I like, Bach and,: null
+    I like, Chuck Mangione,: null
+    I like, I like different things about each one of them.: null
+    I like, I like groups like that.: null
+    I like, I like the Garth Brooks album a lot.: null
+    I like, I like the old Rolling Stones.: null
+    I like, I'm like you I like the older stuff, too,: null
+    I like, a lot of different types of music.: null
+    ? I like, a lot of the, of course the classics, everything back from Bach and,
+      and Beethoven and Chopin and, just in general everything.
+    : null
+    I like, classical,: null
+    I like, course I, I like classical music.: null
+    I like, is it the New Age music, with, the,: null
+    I like, like I said, pretty varied, music.: null
+    I like, the rap, the two types of rap I like, I enjoy to listen to, and one is the, the rap that is just funny,: null
+    I liked that a lot.: null
+    I liked the sound of the harpsichord.: null
+    I liked, Aerosmith and: null
+    I likewise sang in high school and in college in choirs,: null
+    I listen cause on Friday nights they have the, they have what they call Saturday Night Alive: null
+    I listen to Christian music a lot because there's a Christian music station here in in our city.: null
+    I listen to a song,: null
+    I listen to heavy metal or classic rock.: null
+    I listen to it quite a bit.: null
+    I listen to it that way,: null
+    I listen to some country and western: null
+    I listen to that too.: null
+    I listen to,: null
+    I listen to, specific,: null
+    I listen to, the Christian radio station when I'm in the car.: null
+    I listen, I listen to a wide variety of music.: null
+    I live in the, Washington, D C area, Maryland.: null
+    I look at him: null
+    I love baroque music,: null
+    I love music.: null
+    I love them.: null
+    I love those, too.: null
+    I love to just lay back on the couch and, and turn a good, good instrumental on and just close my eyes and listen.: null
+    I love to listen to it, love to sing, and I, my kids, when I was little and, they were little: null
+    I love, I, li, I especially like instrumentals.: null
+    I mean it's pleasant, music.: null
+    I mean there is not any kind of trumpet parts,: null
+    I mean, like I said, that, that's pretty varied.: null
+    I might as well listen to the radio while I'm driving to work.: null
+    I mostly like classical and jazz.: null
+    I mostly listen to popular music.: null
+    I must say, though, I listen to Amy Grant.: null
+    I never I had to work for him: null
+    I never get it.: null
+    I never had known anyone to play one before.: null
+    I never have .: null
+    I never have figured out how he won, entertainer of the year for about,: null
+    I never have the discipline to stay with it,: null
+    I never learned,: null
+    I never liked any of the heavy metal: null
+    I never realized you couldn't record onto C,: null
+    I never really had listened to it till I, I got married,: null
+    I never really learned the music or anything.: null
+    I never really listened to it because I, I prefer to have more, I guess, an established pattern of music to listen to.: null
+    I never really thought about that much,: null
+    I never thought of that.: null
+    I never would want to work for him.: null
+    I particularly like TOUR OF DUTY: null
+    I play a couple of instruments.: null
+    I play guitar: null
+    I play in a slightly smaller one called the Lockhaven: null
+    I play in the Altoona Symphony,: null
+    I play in three different symphony orchestras.: null
+    I play the flute: null
+    I play the piano: null
+    I play the trumpet.: null
+    I play, I play the violin in, in a string quartet that often plays at weddings.: null
+    I play, the violin: null
+    I played a little bit of piano.: null
+    I played chic, uh, concertos and other stuff: null
+    I played classical flute,: null
+    I played flute for,: null
+    I played in the, in the jazz combo all four years.: null
+    I played it,: null
+    I played piano all through, I guess from the time I was fi, five until I graduated from college,: null
+    I played that all through high school.: null
+    I played the accordion for seven years: null
+    I played the accordion until I got into about sixth or seventh grade,: null
+    I played the clarinet for seven years also.: null
+    I played the clarinet,: null
+    I played the drums,: null
+    I played the trumpet.: null
+    I played violin in the orchestra for several years: null
+    I pretty much have a, a wide range of, what I like,: null
+    I pretty, I'll listen to anything basically, except I don't like the real hard metal rock.: null
+    I primarily listen to classical music when I have my druthers, partly because I find it more soothing.: null
+    I pumped it up.: null
+    I really can't get into that: null
+    I really didn't have the chance or the money to go see them.: null
+    I really didn't notice at all.: null
+    I really don't go to very many concerts.: null
+    I really enjoy the oldies,: null
+    I really enjoy, especially the sixties ...: null
+    I really enjoyed it.: null
+    I really like Vivaldi.: null
+    I really like those,: null
+    I really love to listen to her,: null
+    I really think we've tried to tone down: null
+    I remember I saw him in a huge stadium in, Philadelphia.: null
+    I remember mother and dad always turned on the Grand Ole Opera.: null
+    I remember my older sister.: null
+    I remember that being, here a few years ago.: null
+    I remember, I saw him in a concert, when I was,: null
+    I run a municipal band: null
+    I said I think I'll go back to school and see about being a legal assistant.: null
+    I said Queen's Reich,: null
+    I said so do I,: null
+    I said that, I could believe in it in certain instances, but I would be, I'd find it hard to levy that against somebody.: null
+    I said, I guess that's true.: null
+    I said, Oh no, here we are .: null
+    I said, then when, when it's born you can hold it: null
+    I said, they're playing one of their ten: null
+    I sang in a couple of, community choirs, and then waited for a while,: null
+    I saw Peter Townsend on T V last night,: null
+    I saw it when it opened.: null
+    I saw some promise, with, with a lot of the new wave, when it, when it came out,: null
+    I saw two, two road shows of LES MIS,: null
+    I say, you were singing at this time, and with these people,: null
+    I sometimes conduct.: null
+    I sort of watch their technique, too, and, and see if it corresponds up to what she's learning.: null
+    I spend about half my time playing music or preparing for it somewhere.: null
+    I still find some of the same tapes, I, some of the same songs from those tapes I enjoy.: null
+    I sure don't: null
+    I switch quite often.: null
+    I talk to people all over, Texas, of the state,: null
+    I teach, like what is traditionally taught,: null
+    ? I tell my husband to sing to my stomach, because they say that babies can hear
+      quite a lot while they're still in the womb,
+    : null
+    I tend to listen to some of the older songs that were popular back when I was paying attention.: null
+    I tend to listen to the classical music, on the radio a lot.: null
+    I think I know what it is.: null
+    I think I know who you're ta, I know who you're talking about,: null
+    I think I like a lot, I like a little bit of a lot of different types of music.: null
+    I think I like,: null
+    I think I was in the fifth grade: null
+    I think I'd stick back with my Beethoven and my Bach and my Mozart .: null
+    I think I've heard SUMMER OF SIXTYNINE.: null
+    I think even Electric Light Orchestra had some, some real, influences by classical music: null
+    I think he did.: null
+    I think he teaches at Brookhaven.: null
+    I think he's dead now,: null
+    I think he's the only one that gets paid.: null
+    I think it was done by maybe the Platters or something.: null
+    I think it was in high school.: null
+    I think it was like five of them or something: null
+    I think it's Elijah .: null
+    I think it's, it's a fifties, sixties, and seventies station that I listen to.: null
+    I think just because they all sort of sound, they sound l, a lot like r, Simply Red.: null
+    I think she'd like to,: null
+    I think so.: null
+    ? I think that one of these days maybe she'll get involved in classical music,
+      too, because that's usually what happens if you, unless you get into rock, which
+      isn't her voice style.
+    : null
+    I think that starts in sixth grade.: null
+    I think that was a cov,: null
+    I think that was just through experiencing contacting college and the fact that I found it, it very relaxing for me.: null
+    I think that's really good because they're learning to like all different kinds: null
+    I think that's, that's one reason why I have enjoyed my choir so much, is that not only do we sing wonderful music,: null
+    I think that, got deep seated into me.: null
+    I think the title of it was just Downtown,: null
+    I think there's about seventy.: null
+    I think they have ten in the summer, one, one week after the other.: null
+    I think they're Monday nights: null
+    I thought maybe you lived in Dallas, because that's the complaint I make to my husband about the radio station too.: null
+    I thought of that, too, that if I wait, it'll get a lot less expensive,: null
+    I thought that I would put that,: null
+    I thought that they .: null
+    I thought, my gosh,: null
+    I thought, my gosh, .: null
+    I thought, no wonder: null
+    I tolerate Vivaldi.: null
+    I took guitar lessons, I think, for one or two years,: null
+    I took lessons for thirteen years,: null
+    I took them up here to Collectors Rector, Records and was able to get a little money for them: null
+    I tried out for choir when I was, think, in the seventh grade: null
+    I try to enjoy all of it.: null
+    I understand that.: null
+    I understand what you're saying.: null
+    I used to a long time ago: null
+    I used to like it all right,: null
+    I used to love M T V.: null
+    I used to work with a fellow who had,: null
+    I usually get to the point where I can play some of my favorite themes: null
+    I vowed then that I was not going to listen to that radio station any more, if that D J can make such a unedu,: null
+    I want to do it: null
+    I wanted to be a high school band director.: null
+    I was a piano teacher for a while while my husband was in graduate school,: null
+    I was an investigator: null
+    I was born in fifty: null
+    I was born in sixtythree .: null
+    I was exposed to a lot of music when I was younger.: null
+    I was going to say, y, y, you got as far as the, uh, chop sticks, huh.: null
+    I was in Europe.: null
+    I was in, chamber music groups and stuff,: null
+    I was influenced by all different kinds of music: null
+    I was just sitting here while she was trying to find, a, a, another caller, {F uh,: null
+    I was listening to a particular radio station: null
+    I was more in the late seven,: null
+    I was never able to, to master all that.: null
+    I was never that brave: null
+    I was never, I was born in nineteen hundred sixtynine.: null
+    I was one of the forced ones .: null
+    I was picked for another murder trial before: null
+    I was really familiar with a lot, with a lot of, of the A O R type music.: null
+    I was really tired of, the Michael Bolton.: null
+    I was rocking them, singing to them.: null
+    I was summonsed down to the courthouse last week.: null
+    I was tailing the woman that was killed.: null
+    I was the one that did the least poorly,: null
+    I was trying to think about some of my favorite people that I liked in music: null
+    I was, I was a real good piano player,: null
+    I was, I was really into the album oriented music, even then,: null
+    I wasn't sure what kind of music.: null
+    I wasn't sure when to start her.: null
+    I went and saw, I think it was, SUGAR BABIES,: null
+    I went to see that,: null
+    I went to their concert last year when they were here.: null
+    I went to, I go to college,: null
+    I wish I could: null
+    I wish we got that what,: null
+    I won't be chosen.: null
+    I worked for awhile.: null
+    I would love to be able to go see LES MISERABLES.: null
+    I would love to be able to go see those.: null
+    I would love to go see that, and CATS: null
+    I would probably go with,: null
+    I would say about ten or fifteen years ago I,: null
+    I wouldn't have admitted it when I was in high school: null
+    I wouldn't, I wouldn't say that I, I completely like heavy metal.: null
+    I wrote that down on my questionnaire that he'd told me that,: null
+    I'd learn it too.: null
+    I'd love to,: null
+    I'd never heard them before until I went in a music store: null
+    I'll bet we've done, we've done at least five minutes.: null
+    I'll do something with the piano,: null
+    I'll even listen to country.: null
+    I'll listen to some of the rock stations.: null
+    I'll turn that on while I'm in the shower and while I'm getting ready because there's really not much else I can do: null
+    I'm always asking where, where in the state, the person is from if they're in Texas.: null
+    I'm always behind.: null
+    I'm always, meaning?: null
+    I'm from the era where, we had all the rock and roll.: null
+    I'm getting well versed in, in kiddy music .: null
+    I'm going right now .: null
+    I'm going to school, for legal assistant: null
+    I'm going to stick with the cassettes and, and, until, until they,: null
+    I'm in Flower Mound.: null
+    I'm in Plano,: null
+    I'm in one community band here,: null
+    I'm into, some industrial music that's, a, a bit even harder than that.: null
+    I'm just a couple years older than you,: null
+    I'm ki, I've kind of developed a, a short hatred for, for pop.: null
+    I'm kind of in a different category here.: null
+    I'm kind of like you, maybe one of these days I'll get around to it,: null
+    I'm kind of the say way,: null
+    I'm kind of thinking that's maybe,: null
+    I'm kind of, just playing with it,: null
+    I'm like, I, I don't want to listen to this.: null
+    I'm more into, older rock, like the psychedelic era, like,: null
+    I'm more, old rock and roll, some new, newer, heavy metal rock and roll type: null
+    I'm not a music,: null
+    I'm not all that familiar with her work.: null
+    I'm not particularly schooled in it.: null
+    I'm not planning on doing that for a while.: null
+    I'm not quite sure why that is: null
+    I'm not sch, schooled in it: null
+    I'm not sure how long we've talked.: null
+    I'm not sure where,: null
+    I'm not sure which composers or which: null
+    I'm not, I'm not very good at remembering the,: null
+    I'm pretty busy too.: null
+    I'm pretty diversified, too.: null
+    I'm pretty much the same way,: null
+    I'm pretty much the same way.: null
+    I'm pushing that on my daughter because I want to play in our city band, not the symphony, with just the city band: null
+    I'm really interested in legal, in the legal environment,: null
+    I'm satisfied to just have what I've been used to, not have to think about the great financial: null
+    I'm starting to realize that.: null
+    I'm the same way .: null
+    I'm thirty,: null
+    I'm through.: null
+    I'm used to pieces: null
+    I'm wondering if you, if you have ever done anything like that,: null
+    I'm, I'm from Chicago,: null
+    I'm, I'm not, I'm never really up to date on all that stuff.: null
+    I'm, I've never played an instrument in my life,: null
+    I'm, hear the, the rock music, not the hard rock, but the, Michael Bolton type stuff.: null
+    I'm, just retiring from Penn State University: null
+    I'm, part of that whole deal: null
+    I'm, twentyeight .: null
+    I'm, with you though,: null
+    I've always wanted too,: null
+    I've always wished my parents had forced me to learn the piano or something,: null
+    I've been in school: null
+    I've been listening to that a lot lately.: null
+    I've been listening to, some, some advertisements for MADAM BUTTERFLY,: null
+    I've been pretty busy.: null
+    I've been working at, Penn State: null
+    ? I've developed a real love for, classical music in, probably junior high and
+      high school because my band instructor was, heavy into classical type music.
+    : null
+    I've got a piano,: null
+    I've got a small jam box in my bathroom.: null
+    I've got a, I've got a, I've got a two year old who's now getting,: null
+    I've got a, on my stereo I've got a, a, turntable, and then I've got a dual cassette: null
+    I've got teenagers,: null
+    I've had some classical vocal training.: null
+    I've heard of Striper.: null
+    I've heard the name.: null
+    I've just been real busy with, with lots of other things.: null
+    I've learned a lot about playing the piano.: null
+    I've never actually seen her in concert.: null
+    I've never bought any of his music.: null
+    I've never heard of that.: null
+    I've never liked disco.: null
+    I've never really looked at one very closely,: null
+    I've picked up a little bit along the way that I probably wouldn't have if I'd stayed up north,: null
+    I've played fl, flute, flute and piano,: null
+    I've seen picture of them: null
+    I've, I graduated back in seventynine,: null
+    I've, I've become I guess more of a country fan over the years.: null
+    I've, I've done, I've done that at church too.: null
+    I've, I've kind of shied away from some of the new stuff because I just don't understand it.: null
+    I've, I've never seen a Gene Autry movie,: null
+    I've, I've probably heard him,: null
+    I, I always think that I'll be able to do it: null
+    I, I basically have a wide range of musical likes.: null
+    I, I bu, we buy cassette tapes,: null
+    I, I can identify them.: null
+    I, I can't identify them either.: null
+    I, I can't say he's real crazy about elevator music, as he calls it.: null
+    I, I can't,: null
+    I, I definitely, I really enjoy the fifties, the sixties and a lot, some of the seventies: null
+    I, I didn't like,: null
+    I, I do play the piano, .: null
+    I, I do, I do listen to a lot of,: null
+    I, I don't care for it at all, that Texas twang or whatever you want to call it.: null
+    I, I don't care for rock, at all.: null
+    I, I don't care,: null
+    I, I don't have interest of losing my ears,: null
+    I, I don't really have a favorite,: null
+    I, I don't really have anything against rap music.: null
+    I, I don't really know how to go about it without having a degree: null
+    I, I don't remember how many people,: null
+    I, I don't think I've ever met a type of music I don't like except for, maybe, heavy metal and that.: null
+    I, I don't, I don't know all that much myself,: null
+    I, I don't, I don't like acid rock either.: null
+    I, I don't, I don't, actually, we don't listen to any elevator music at my house.: null
+    I, I enjoy orchestral classical music: null
+    I, I enjoy,: null
+    I, I even like Guns and Roses, some of their stuff.: null
+    I, I grew up in a small town: null
+    I, I guess, the old country and western music you,: null
+    I, I have strong objections to that.: null
+    I, I have totally, totally a tin ear: null
+    I, I have, I have,: null
+    ? I, I haven't gotten into that too much because, I, if I don't know the story
+      line and, I don't speak the language, then I have difficult time, comprehending
+      what's going on.
+    : null
+    I, I just sub at the school,: null
+    I, I kind of decided to wait until it, it was around a while.: null
+    I, I know Chris .: null
+    I, I know my husband, he, plays an instrument: null
+    I, I like all kinds .: null
+    I, I like everything basically.: null
+    I, I like it.: null
+    I, I like mostly the older groups I think.: null
+    I, I like some of his songs, though.: null
+    I, I like some of it,: null
+    I, I like the low instruments better, too.: null
+    I, I like the, early seventies, late sixties rock.: null
+    I, I like to listen to, what you might call pop, easy listening: null
+    I, I like, to listen to music.: null
+    I, I listen to K V I L.: null
+    I, I listened: null
+    I, I lived in Pittsburgh before Baltimore,: null
+    I, I loved,: null
+    I, I never found out what a lot of the seventies music had too.: null
+    I, I never, I didn't want to say too much for fear he would think it was wrong and wouldn't do it anymore .: null
+    I, I play guitar and, and early years played saxophone.: null
+    ? I, I play the, volunteer to play the piano at the children's Christmas program
+      for the whole grade school, which is K through six
+    : null
+    I, I played the baritone horn: null
+    I, I really don't,: null
+    I, I really haven't listened to that .: null
+    I, I remember seeing the video of it on M T V,: null
+    I, I started when I was in, uh, third grade,: null
+    I, I tell you, I do like,: null
+    I, I tend to be one of those people who switches stations a lot because I don't like commercials.: null
+    I, I think we'll probably get one, one of his albums, because we do kind of like it,: null
+    I, I think we're started now.: null
+    I, I think, when you say heavy metal, I'm, I'm thinking about like Cinderella,: null
+    I, I told them I'd be available during this time,: null
+    I, I used to go out and dance a lot: null
+    I, I used to just listen to the rock stations: null
+    I, I used to play the piano,: null
+    I, I went to school and got a degree: null
+    I, I work the same way .: null
+    I, I would like to buy more classical tapes and stuff,: null
+    I, I wouldn't buy it.: null
+    I, I'd just love to be able to go to a party or something and sit down at the piano and bang out music: null
+    I, I'm getting now to the age where I don't like the new stuff that's coming an,: null
+    I, I'm not attracted to that at all,: null
+    I, I'm really particular about the type of music that I listen to.: null
+    I, I'm very, I'm very varied as well.: null
+    I, I've enjoyed the times when I have listened to it.: null
+    I, I've gone through different periods of life, in music from pop to classical.: null
+    I, I've heard, I've heard that that is a really,: null
+    I, I've never cared for Hank,: null
+    I, I've, THIRTY SOMETHING I'm particularly interested,: null
+    I, I, I appreciate his too,: null
+    I, I, I come from a musical background,: null
+    I, I, I commute back and forth between Baltimore and a rural town called Salisbury,: null
+    I, I, I like music that is, that I feel: null
+    I, I, I really enjoy listening to his music.: null
+    I, I, I've liked a lot of the new music.: null
+    I, I, spent my junior year, sophomore and junior year in, in college when I,: null
+    I, I, we go to antique stores a lot: null
+    I, actually, when I'm home alone, which isn't too often, but, our Public Radio Station has wonderful classical music.: null
+    I, in college I took, four years of classical guitar,: null
+    I, like jazz, especially the blues,: null
+    I, listen to it all the time in, in my car,: null
+    I, my friend is, is very generous in, in letting us have my children, do the Suzuki method: null
+    I, some of the songs I still find going over in my head over and over again because they were really, very memorable: null
+    I, unfortunately, found myself listening to a lot of nursery rhyme music here lately,: null
+    If I can't understand the words I don't want to listen to it.: null
+    If you get someone who's very good at selecting, it's okay,: null
+    If you have the chance,: null
+    In fact I I sing with a Texas baroque ensemble.: null
+    In fact he is playing this Sunday at our Church.: null
+    ? In fact my brother and sister both, they were, thirteen, sixteen years older
+      than I, they went through the, parent thing where you've got to practice or
+      you're not going out to play thing,
+    : null
+    In fact, it's easier for me to say, the types of music that I don't like are opera and, screaming heavy metal.: null
+    In fact, it's interesting to me that so many of the songs,: null
+    In fact, there are people that basically just follow them around, from city to city: null
+    In fact, they even do that for operas sung, sung in English, because it is hard to understand the words sometimes.: null
+    In fact, we have,: null
+    In, in Germany.: null
+    It didn't have what, I guess what I was looking for at the time country tells more of a, a story.: null
+    It does indeed.: null
+    It is a time consumer.: null
+    It is pretty good.: null
+    It is, it's got, basically an easy, rhythm and, and tone.: null
+    It just seemed the same.: null
+    It kind of reminds me of my roots of growing up: null
+    It makes, you can say classy: null
+    It may be country,: null
+    It starts with an E.: null
+    It talks about, race relations and police relations: null
+    It was funny,: null
+    It was good.: null
+    It was in J F K Stadium, if I can remember.: null
+    It was kind of like, remember when personal calculators first came out,: null
+    It was particularly well,: null
+    It was real nice.: null
+    It was really nice so ,: null
+    It was something easily forgotten.: null
+    It was the Plano Repertory Theatre.: null
+    It went well,: null
+    It's a brass instrument.: null
+    It's a husband and wife team that we've known for years: null
+    It's a little, it's a little too country for me,: null
+    It's a, I, I especially like it as an outlet when the T V goes off,: null
+    It's been really kind of interesting.: null
+    It's classic: null
+    ? It's cute, though, because my children, when they get in the car, and I have,
+      the button pushed for that, they always switch it to something else .
+    : null
+    It's his house seat.: null
+    It's just my favorite.: null
+    It's like a small, a really small, not a tuba, but I th,: null
+    It's like brash metal, which all they do is they have this guitar and they just bang at the guitar,: null
+    It's mostly just the tunes.: null
+    It's not where it's, it hurts your ears to hear it.: null
+    It's pretty good,: null
+    It's really an excellent, excellent C D.: null
+    It's, it's daughter, it's his daughter that,: null
+    It's, it's sort of like C N N,: null
+    It's, it's, it's sort of constant.: null
+    It, it's about twenty of his greatest hits on it.: null
+    Jimi Hendrix was the original.: null
+    John Nelson.: null
+    Just because there's a friend up there,: null
+    Just by itself,: null
+    Just like V C R's, too .: null
+    Just, just ever so often: null
+    Lately, with the new music that has come out, some of the really good, music: null
+    Like my husband is not musical at all,: null
+    Like the Dallas opera here normally does, I guess.: null
+    Like the old Hank Williams.: null
+    Lot of them are former music teachers or currently teaching.: null
+    MADAM BUTTERFLY was,: null
+    Madonna could start playing folk music: null
+    Mi, Michael Bolton really got on my nerves because he,: null
+    Michael Crawford was in PHANTOM OF THE OPERA on Broadway.: null
+    Miles Davis worked with Robbie Shoncar,: null
+    Most of them I don't know their names of the song,: null
+    Mostly the trumpet music baroque and, ,: null
+    My boss listens to that.: null
+    My brother doesn't even like that kind of stuff,: null
+    My dad is a big blue grass fan,: null
+    My father likes, country western music.: null
+    My husband and I love to go to the musicals downtown, though.: null
+    My husband is,: null
+    My husband likes Sandy Patty songs.: null
+    My inlaws listen to the kind of music I hate .: null
+    My mom likes Doris Day,: null
+    My mother had: null
+    My parents were very musical.: null
+    My son is, twentyeight,: null
+    My sons are kind of into Broadway.: null
+    My tastes now run I guess to a upbeat, Simon,: null
+    My, my little boy has gotten so into it that: null
+    No more for me.: null
+    Not really,: null
+    Not, not, the bouncy,: null
+    Now I do like folk song.: null
+    Now I, I will turn on,: null
+    Of course that's what I played,: null
+    Of course, Garth Brooks lives about,: null
+    On fact, my, my grandmother does that a lot,: null
+    One is thirteen and one is eleven.: null
+    One of them, turned into a violist,: null
+    ? One of things I especially like now in music regardless of what kind it is,
+      are those that call on those classical, roots, I guess, Barry Manilow comes
+      to mind for some reason there's, there's not a whole lot of his stuff that I'm
+      real crazy about,
+    : null
+    One plays the cello: null
+    Only for about three months.: null
+    Paul Simon.: null
+    Queen was real popular when I was growing up.: null
+    Reba McIntire is a little too country for me.: null
+    Rick, Bogarts played: null
+    Right now I'm busy chasing my kids.: null
+    She always had those, these old Doris Day records and stuff like that, though.: null
+    She bought that the same night we bought the Nat King Cole and the Garth Brooks.: null
+    She does have to really work at it,: null
+    She likes it.: null
+    She played the clarinet: null
+    She said, I like the original version better.: null
+    She's not rock: null
+    She, she did ,: null
+    So I listen to the radio,: null
+    Som, sometimes I do.: null
+    Some of it kind of falls in the rap category I guess,: null
+    Someone at work is trying to get me to join that one, because they need clarinet players: null
+    Someone else noticed it: null
+    Something happening to me at Christmas time that, that verified to me that I will al,: null
+    Sometimes I'll turn on the classical music,: null
+    Th, THIS LOVE CUTS LIKE A KNIFE.: null
+    Tha, that's just what, just what you had,: null
+    That can help people like me.: null
+    That is excellent.: null
+    That's amazing because: null
+    That's certainly where her roots are.: null
+    That's exactly me.: null
+    That's kind of the way I am.: null
+    That's like me.: null
+    That's their signal.: null
+    That's under his control,: null
+    That's, that's what some people call really heavy metal.: null
+    That, that doesn't appeal to, my ears.: null
+    The Christ United Methodist Church in Plano .: null
+    The acid rock or the heavy metal.: null
+    The disco years, that's what they're calling them,: null
+    The, the best of every type of music.: null
+    The, the kind of country I like is kind of the older country music.: null
+    Then there is a trumpet player at North Texas, the, the teacher, the main teacher.: null
+    There are certain kinds I like and certain kinds I don't.: null
+    There's, one particular, there several stations in this area that play, classical music all the time,: null
+    There's, some of the really totally country stuff, I don't really particularly like: null
+    There, there's a guy,: null
+    They are mostly, mostly Mozart.: null
+    They can hear the unconscious music signal behind it,: null
+    They go to conductors,: null
+    They had summonsed eight hundred people,: null
+    They have been touring,: null
+    They have choir that they go to, music: null
+    They have the same kind of station down here,: null
+    They keep on dying: null
+    They said the music's great,: null
+    They're not going to recruit me anymore,: null
+    They're still: null
+    They're still together.: null
+    They, they, my, my older son is at Columbia in New York City,: null
+    This guy had supposedly, strangled this woman and stuffed cotton toweling down her throat and up her nose .: null
+    Though I, I couldn't tell you anything about them other than when my wife says, This is Bach,: null
+    Twentyeight.: null
+    Uh, you know, whatever: null
+    Um, well, I could play, uh, the wood chuck song.: null
+    Usually in the fifties.: null
+    We all go back to parents' houses on the weekends, and what not: null
+    We all went to high school together: null
+    We are, we were really quite pleased with it.: null
+    We didn't have any bass clarinet players: null
+    We generally have a concert every other week: null
+    We have about four concerts per year indoors: null
+    We have, couple of hundred kids in the band,: null
+    We listen to ninetyseven point nine: null
+    We live in a fairly small town,: null
+    We stayed till about one thirty: null
+    We were in Colorado recently: null
+    We'll start listening to children's music .: null
+    We're going to go to Commerce and see a friend.: null
+    We're in Sherman.: null
+    We're kind of, I was kind of in the middle of supper,: null
+    We're on our way.: null
+    We're real close to Dallas.: null
+    We're talking about what they, what they call hard rock.: null
+    We're, we're going to one here in a couple of weeks.: null
+    We've been sort of opera fans for a few years now.: null
+    We've talked our five minutes though.: null
+    Well, I listen to like ninetyseven point one, you know, more,: null
+    Well, course, see, I listen to K V I L for the contests.: null
+    When he first made sounds that you could detect they were in the scale, the music scale.: null
+    Which was real nice.: null
+    Willie Nelson.: null
+    Yeah, so am I.: null
+    You can't drive a car without bumper sticker: null
+    You have to find whether they're guilty beyond a reasonable doubt: null
+    You hear a, you hear a Paula Abdul song: null
+    You just turn there,: null
+    You listen to the music and then learn to play it by lear, by hearing the intervals and things like that.: null
+    You might have to audition,: null
+    You're older than I am .: null
+    a C D is a lot more expensive than a cassette ever was, too,: null
+    a good example would be,: null
+    a good, another good example was I heard Miles Davis,: null
+    a little bit.: null
+    a lot of people they go, they're better than the Beatles,: null
+    ? a lot of the stuff you hear coming from South Africa now, and from West Africa,
+      that's considered world music, because it's not particularly using certain types
+      of folk styles.
+    : null
+    ? a lot of the, a lot of where they, where they make music that they adapt to
+      a, to another kind of, to another type of listener.
+    : null
+    a lot of the, lot of the songs have some lyrics that,: null
+    a lot of the, music I don't know about, as far as the titles,: null
+    about everything.: null
+    about four hundred showed up,: null
+    about the only new music I hear is somebody else that I know: null
+    actually I just went to see the Greatful Dead about, I guess about a week ago.: null
+    actually one of my favorite instruments is a harpsichord.: null
+    actually, I did,: null
+    actually, I used to play in the Richardson Symphony,: null
+    ? all I have to do is hear that song and I get strongly evoked memories of, of
+      difficult times in school being behind on work,
+    : null
+    all my brothers and sisters listen to them, even the ones that like the heavy metal: null
+    all these rocks, rock stations call it classic soft rock, .: null
+    ? although this was a computer company, he had his, P H D in musical, I guess
+      it was in composition, from University of North Texas,
+    : null
+    an artist is there: null
+    and I played it for maybe three months .: null
+    and I sing in the choir today: null
+    and I still enjoy the marching band: null
+    and I still enjoy, uh, singing in the choir: null
+    and I've, I still play the piano as of today.: null
+    and for three months .: null
+    and that's about when I quit.: null
+    and that's his station, so I call it the jeezer music.: null
+    and they wouldn't let me in.: null
+    and we got pretty bored quick .: null
+    and you know they're going to call you up.: null
+    any time I got bored .: null
+    arrangement to,: null
+    as I look back now I realize it was very formative for me,: null
+    as far as country music is, I've never really, listened to it.: null
+    as far as instruments, I can go from piano to the saxophone.: null
+    as far as opera goes, I'm, I think most fond of Verdi.: null
+    as far as the rap goes, I think there are a few artists that appeal to me: null
+    ? as soon as you go down to Salisbury, this town that's, two and a half hours
+      away in the suburbs or whatever, in a real rural Balt, Maryland,
+    : null
+    at that time, it was is a changing time for the whole music scene, I guess: null
+    at the same night we bought that Nat King Cole album, we bought Garth Brooks' album, No Fences.: null
+    ? at the time that I was a teenager, a late teenager I guess, I can't remember
+      the year, SMOKE GETS IN YOUR EYES became popular.
+    : null
+    at this point we're going to kind of wait, I think just more for the financial reasons of it anyway: null
+    back a long time ago, when the rap music first came out: null
+    back then when I was a kid, there wasn't that much T V,: null
+    basically I can tell you that I like just about every music there is except for, real hard, hard rock,: null
+    basically because that's where I worked.: null
+    basically they read in the newspaper that there were open auditions.: null
+    both my sons play string instruments.: null
+    both of them, I had as much fascination of the background music, I think going on as I did to the theme of the shows,: null
+    but I enjoy it, though.: null
+    but at least I do sing in it .: null
+    but that's who I go for .: null
+    but the same type of thing.: null
+    but, see, I played the piano: null
+    clarinet is my primary instrument,: null
+    come to think of it, I think that was a cover version of, a John Lee Hooker song, or something,: null
+    consequently we wind up, wound up playing a lot of classical music there: null
+    definitely,: null
+    disco was pretty much dead by then.: null
+    disco wasn't really my time.: null
+    do you know who Chuck Mangione is?: null
+    down in Texas, little, listen to a little country every now and then.: null
+    enjoy it, but not for profession, no.: null
+    especially my dad, likes a lot of classical music: null
+    especially with something where you have to f, you have to find it beyond a reasonable doubt.: null
+    ? essentially I was one of the nerdy types in high school really which meant that
+      I, for one reason or another I didn't pay much attention to music,
+    : null
+    even every once in a while I put it on myself,: null
+    even my eleven year old boy loves to listen to it.: null
+    ? even when I was a teenager I didn't really like the music of that period so
+      much because I found I liked, a little bit more melodious music than what was
+      often the popular,
+    : null
+    even when I was pregnant, of course I listened to that,: null
+    ever since I've been out of college, I guess over the last several years, I listen to the stereo less and less.: null
+    every now and then country and western.: null
+    every single Sunday night we play at the library to have a little: null
+    everything I listen to is what I buy, not whatever they play on the radio: null
+    except heavy metal: null
+    for example, I used to like old Phil Collins.: null
+    for example, let's say you're taking an original Brazilian form of music and, with a certain style,: null
+    for example, let's see, Bad Company,: null
+    for example, they have, what,: null
+    for instance, Frank Zappa has done a fair amount of orchestral composition: null
+    ? for my playing the piano when I was depressed and didn't have anything else
+      to do and there was no one to play with I could always go play with the piano,
+      you know.
+    : null
+    gosh it's so hard because, everybody is wanting to go on and get the sentence done,: null
+    h, he hasn't really gotten into, that yet.: null
+    had a real raspy voice,: null
+    he came out with the Invisible Touch, with, Genesis: null
+    he came out with, for example, his, his record No Jacket Required.: null
+    he can go if they get sixteen dollar tickets: null
+    he can play, which is kind of interesting.: null
+    he can't hear me.: null
+    he can't learn like that.: null
+    he didn't have anyone to play it.: null
+    he does have some things.: null
+    he does it,: null
+    he doesn't even like that type of stuff.: null
+    he goes out of his way to play marching band music,: null
+    he grew up in the late fifties: null
+    he had skipped bail: null
+    he had, they had a, nickelodeon, of course, in the restaurant,: null
+    he has a jazz band that my older daughter was in,: null
+    he has a lot of all different kinds of music,: null
+    he has played.: null
+    he introduced my brother and I both, to a lot of it.: null
+    he is, he's a home boy .: null
+    he just became a grandfather.: null
+    he likes a little bit of every kind.: null
+    he likes that.: null
+    he likes to do special music and stuff at church.: null
+    he played in the band when he was in college and in high school: null
+    he plays in the Fort Worth Symphony and Fort Worth mostly.: null
+    he plays piano.: null
+    he plays pretty regularly.: null
+    he plays that and, and a little bit of piano: null
+    he plays wonderfully.: null
+    he really likes Shenandoah.: null
+    he said he's lost most of his hearing: null
+    he said it was a great seat.: null
+    he said it was the best thing he'd ever seen: null
+    he said that this woman this socialite in Plano had hired four guys to kill her husband: null
+    he said, I can make a lot of money just singing alone,: null
+    he said, Sure,: null
+    he sure is,: null
+    he thinks that would be good for the kids .: null
+    he went and bought one of the low priced student tickets,: null
+    he went to New York with them,: null
+    he went to New York,: null
+    he's a jazz flute player: null
+    he's a jazz performer,: null
+    he's always liked it: null
+    he's been to see PHANTOM, and LES MISERABLES and bunch of other things up there,: null
+    he's coming to Dallas on the twentyninth,: null
+    he's going to testify for the State against her so he'll have his sentence reduced.: null
+    he's identified the, the people that have written certain songs,: null
+    he's not old enough yet to get into the band yet.: null
+    he's playing with Robbie Shoncar,: null
+    he's probably about fiftythree years old now,: null
+    he's up there moving around and smiling like he's happy: null
+    he's, he's about ready to retire, another year: null
+    he, he got off right away.: null
+    he, he is real fun to listen to.: null
+    he, he likes some of the new groups like Shenandoah,: null
+    he, he since then has, has amended that, and paid them his royalties every time the, the song goes on: null
+    he, he's been to, they've been to see it several times.: null
+    he, he's real unusual in that,: null
+    heard this, these, we heard this fiddler: null
+    his children are very musical,: null
+    his mother is very musical,: null
+    his, his home town is about, fifteen minutes away: null
+    his, my brother plays,: null
+    however, I, I do, I do like a lot of different forms of music: null
+    i, it's interesting because you were, you were saying that you liked classical music: null
+    i, it, it just isn't chance taking enough for me.: null
+    if I get involved in one of those things, I end up spending all my money on: null
+    if I really like the song, eventually I'll figure out who it was.: null
+    if I work real hard I can still barely read the music,: null
+    if it is performed correctly or if it's done right, or if the version is done right, I like it ,: null
+    if some, some group just isn't going to play any more, they'll just give us their music, and that type of thing.: null
+    if that's what, if that's what the punishment is in that, in that instance, then you're always going to say, not gui,: null
+    if you like the artist, you buy the album.: null
+    if you recall how it goes downtown,: null
+    if you're trying to hold out, there's so much pressure on you: null
+    if you, if you don't believe, if this was a capital crime and, and you don't believe in: null
+    if, if it's not, then I won't.: null
+    if, when the Doors movie came out, Doors was really on the radio there,: null
+    in Oklahoma we say Garth Brooks .: null
+    in Salisbury, you woul, that's all you would hear was, This is the Doors!,: null
+    ? in a, in a innate music sense there just seems to be something missing there
+      which is always frustrating for me since I have pretty high math aptitude
+    : null
+    in concert band I played the bass clarinet.: null
+    in fact I think both of them have performed here.: null
+    in fact most of my C D s are classical music.: null
+    in fact they have, they have a continuous news station, which is nice if you're driving and you want to h,: null
+    in fact we have a album ...: null
+    in fact, I had a harpsichord played at my wedding.: null
+    in fact, one of my favorite things to do now is sit down and listen to Chopin, that is played on, piano.: null
+    in fact, that's about the only musical thing that I still do: null
+    in fact, whenever she won her big Grammy: null
+    in fourth grade I started the clarinet,: null
+    in other words: null
+    in seventyeight, rock was starting to get really heavy,: null
+    in the winter we do more concert stuff: null
+    inevitably I am swept away by the, the pressure of other types of things,: null
+    is that kind of music ,: null
+    is the turns out I was the only one who really had an interest in it and never got to,: null
+    is what I really listen to most of the time.: null
+    it actually doesn't matter who shows up,: null
+    it alternates quite a lot.: null
+    it becomes a kind of music of its own.: null
+    it doesn't have, all the brass and everything.: null
+    it doesn't,: null
+    it doesn't.: null
+    it gives me an out.: null
+    it is excellent.: null
+    it is one of my favorite periods.: null
+    it is, high quality grade music,: null
+    it just didn't work out to do that now.: null
+    it just opened in New York this spring,: null
+    ? it kind of makes me listen a little closer to, to the piano when I hear it at
+      other places, or when I, see some, see and hear someone playing.
+    : null
+    it made a big difference in my life not to have a radio that was easy access,: null
+    it makes an elegant wedding to have: null
+    it makes, it makes it nice.: null
+    it matters what instruments they brought,: null
+    it may have, it may have been somebody else, because I think, I think that even Jimi Hendrix did it,: null
+    it might be classical,: null
+    it might be rock,: null
+    it really changed my lifestyle and kept me from just having a, easy access to current music,: null
+    it really gets on my nerves because they play so many commercials: null
+    it seems like almost a opposite,: null
+    it sure is,: null
+    ? it was a change, from your traditional, normal, stuff, and since it was Christmas
+      time and, and, we had the church decorated with Christmas hollies and poinsettias
+      and, stuff like that
+    : null
+    it was a living, it was a living person that I'm, I'm thinking of that,: null
+    it was about,: null
+    it was country music,: null
+    it was for a murder trial.: null
+    it was incredible, the parallel, between it and rap.: null
+    it was just like,: null
+    it was just so wonderful.: null
+    it was just, he said that, that just about what you said, that he just liked all kinds of music.: null
+    it was out, out at the State Fair Music Hall: null
+    it was real nice,: null
+    it was real nice.: null
+    it was really funny .: null
+    it was really old.: null
+    it was somewhat melodious,: null
+    it was sort of a funny thing.: null
+    it was, mostly all Irish tunes,: null
+    it wasn't part of what I knew,: null
+    it will always be there.: null
+    it's a cross between a tuba and, and an, and, a horn.: null
+    it's a euphonium.: null
+    it's a little too, ronky tonk or something.: null
+    it's a lot of work to see that she's prepared: null
+    it's a similar thing.: null
+    it's always a mystery,: null
+    it's been fun,: null
+    it's been fun.: null
+    it's been good for our family.: null
+    it's been two or three years ago now,: null
+    it's got a, a whole bunch of people singing.: null
+    it's hard to explain .: null
+    it's it is instrumental.: null
+    it's just a real basic class,: null
+    it's just difficult for me to believe that anybody's ever going to make a, a record of the rap songs of the eighties.: null
+    it's just one of those things I'm just going to wait and see if he's interested: null
+    it's kind of boring standing there, putting on makeup, so I'll turn the radio on: null
+    it's kind of fun to listen to the: null
+    it's kind of hard to choose sometimes.: null
+    it's kind of like a small, small tuba but it's not the kind that sits up on your shoulder.: null
+    it's like Elijah, or something like that.: null
+    it's like, nothing happened during the seventies.: null
+    it's mainly, it's mainly just the, the light rock type stuff.: null
+    it's making that, that connection especially with the mechanical parts of it.: null
+    it's more of a, I think it's very much more of a social group than anything else,: null
+    it's ninth, nine through twelve: null
+    it's not always classical as, the official, word might go,: null
+    it's not as, it's not like, Chicago where it's got that much instrument to it.: null
+    it's not, it's, it's nice,: null
+    it's pretty good.: null
+    it's pretty varied.: null
+    it's really cute.: null
+    it's really weird stuff, he likes,: null
+    it's sitting here mostly taking up space,: null
+    it's so funny, because you can take an instrument and forget what it really sounds like when it plays by itself.: null
+    it's something that interests me, combined with, with the classical tastes I had mentioned.: null
+    it's the end is, really depressing.: null
+    it's the music,: null
+    it's the po, the music I enjoy the most.: null
+    it's the same stuff.: null
+    it's the same way with,: null
+    it's tough, I think I would just stick with the classics. Only because, I like music just for music's sake: null
+    it's, business technology.: null
+    it's, it's got men and women: null
+    it's, it's got people singing: null
+    it's, it's got people singing,: null
+    it's, it's got to have a point to it.: null
+    it's, it's pretty, fairly well easily to something to fall into.: null
+    it, it can't be the rock or anything like that: null
+    it, it, it'll, if it stands the test of time, we'll see.: null
+    jazz can get on my nerves after a while.: null
+    just a little bit .: null
+    just about any kind of music except acid rock ,: null
+    just about any kind of music.: null
+    just by itself.: null
+    just nothing basically .: null
+    just, different backgrounds.: null
+    keys and things are something to me that remain a mystery no matter how many times I bang on them.: null
+    kind of pop, you know, rock.: null
+    knowing from what my daughter has gone through, she's, she learned a lot: null
+    last year or the year before, I can't remember,: null
+    life just took different turns here: null
+    like Depressed Mode,: null
+    like I say the acid rock,: null
+    like you, I don't know a whole lot about it,: null
+    like, like Hank Williams.: null
+    lot of stuff that actually has, ended up becoming popular like, Nirvana and,: null
+    lot of the stuff I was listening to in my teens like the Clash and, and the Sex Pistols and: null
+    lots of different kinds I guess.: null
+    lots of times,: null
+    ma, maybe it wasn't that one.: null
+    machines will eat them,: null
+    many of the people in the group are very professional in the sense that they, just real talented: null
+    maybe one of these days, I'll,: null
+    me and my brother both took the classes: null
+    mid to late seventies, between seventyfive and,: null
+    more like, rock, like Led Zepplin type .: null
+    most of my cassettes,: null
+    most rap I don't like.: null
+    most, most likely I would be listen to, jazz or classical music.: null
+    mostly folk music.: null
+    mostly it, it just tells a story about life.: null
+    mostly oldies.: null
+    much of the music that was popular at that time, has come back.: null
+    my band is sponsored through what they call Parks and Recreation.: null
+    my classical music tends to be confined to the seventeen hundreds, early eighteen hundred music.: null
+    my daughter just fell.: null
+    my daughter takes piano lessons, too.: null
+    my daughter's quite involved and all that sort of thing.: null
+    my early popular music interests were in Simon and Garfunkel, whom I saw perform when I was in college: null
+    ? my family now knows if they come into my study and, I happen to have had a tough
+      day at work and maybe I'm trying to get a project done, at school, and I'm humming
+      or whistling in a sort of mad crazy way the tune to Downtown they know to just
+      stay away,
+    : null
+    my favorite type of music is classical music,: null
+    my favorite,: null
+    my fiancee doesn't really like it.: null
+    my husband and I love to go to the musicals when they come into town: null
+    my husband and my other son, who's eleven just got through singing in a musical here, in, in the community at Music Man.: null
+    my husband is telling me we have to hit the road .: null
+    my husband likes, country music real well: null
+    my husband played Harold Hill from the Music Man: null
+    my husband says I'm getting old .: null
+    my husband's real big into music, too,: null
+    my kids are now: null
+    my little girl will start French horn next year,: null
+    my mom always liked that kind of stuff.: null
+    my mother got a piano: null
+    my next son plays the drums,: null
+    my older daughter plays the saxophone,: null
+    ? my oldest is getting to the point where he likes certain types of music and
+      favorite songs and when they come on we have to turn the radio up full blast
+    : null
+    my parents are,: null
+    my parents had me take piano lessons for eight years,: null
+    my parents still do.: null
+    my roommate signed me up.: null
+    my sister, my younger sister has a, she does have a C D player that she got for Christmas: null
+    my son and his friend were in a lottery to get tickets to it,: null
+    my son played one of the children in a band.: null
+    my son played the sax and drums, my daughter the piano, organ and French horn.: null
+    my son plays the clarinet in his band at school,: null
+    my son will be in next year: null
+    my teenagers are all gone.: null
+    my third son just started baritone this year,: null
+    my trumpet teacher used to play in the Fort Worth Opera.: null
+    my whole family is somewhat musical, and not from training, but just because we sing in our choir: null
+    my wife and I these days are especially into opera.: null
+    my wife bought an album of Hank Williams' greatest hits.: null
+    my wife played flute in high school.: null
+    my wife, enjoys it.: null
+    my younger son listens to some of that kind of stuff.: null
+    my youngest is almost sixteen.: null
+    my, my husband and I are taking a computer class at our junior college .: null
+    my, my oldest is eight: null
+    my, my oldest is only nine.: null
+    my, my parents still, really like country,: null
+    my, my, my,: null
+    naturally that isn't their taste: null
+    neither of them stayed with it .: null
+    nobody cared to name it .: null
+    not all the time.: null
+    not because there's much else .: null
+    not many things you can play that'll, people will sit there and sing along to: null
+    not that kind of music .: null
+    not, I do, the world a favor: null
+    now I don't have a piano in my apartment or anything.: null
+    now I grew up in the late fifties and early sixties,: null
+    now I know another reason why I'm not going to get a C D player for a while.: null
+    now I listen to it whenever she does.: null
+    now I've, for about the last eight years I've sung in a church choir here,: null
+    now he is in Massachusetts.: null
+    now my children have, have sometimes,: null
+    now my, my four year old, four and a half year old daughter is, is trying to imitate her older sister and wanting to play: null
+    now that I do have one, I just don't automatically turn it on: null
+    now you can get one for two or three dollars.: null
+    now, I hate Phil Collins,: null
+    occasionally, when she can't get those people, we use just E flat trumpets, with valves: null
+    of course, it was something she had to keep relearning if she ever got away from it.: null
+    of course, now they're getting, they also have a jazz section,: null
+    on any given night there's not seventy: null
+    one of the,: null
+    one of them said, everything is great,: null
+    one thing is, we have a summer ser, summer series,: null
+    one thing that's helped us a lot is that, you, you can buy a lot of these operas now on video casse, video tape: null
+    one time I remember, this was back when, even,: null
+    only I, I should, should have been.: null
+    only the Fort Worth Opera .: null
+    other bands consider it really hard rock.: null
+    other than that, I like pretty much everything.: null
+    ? other than that, I've, I really don't, I don't listen to the radio or even to
+      my albums or cassettes or anything very often anymore.
+    : null
+    over time I became very interested in, in baroque classical: null
+    people always bring refreshments for after rehearsal and: null
+    people have picked up on it.: null
+    pretty much a lot of people would know about it, and, and know some of the different things about it: null
+    pretty much anything.: null
+    probably about first grade,: null
+    probably not.: null
+    probably the favorite instrument would be, the violin.: null
+    quite honestly, I, I have some little children: null
+    real long legs,: null
+    really weird names, The Dead Milkman,: null
+    really, heavy metal, wo, is considered, the words heavy metal: null
+    right now I'm just a homemaker,: null
+    right now my nine year old is taking piano,: null
+    right now, I think.: null
+    seeing as how I'm a musician , I like all kinds of music.: null
+    several years ago a radio broke in my car: null
+    she actually does some very nice chording just naturally.: null
+    she gave it to me.: null
+    she has since taken off with another lawyer who had been, getting cocaine from his client and then selling it,: null
+    she laughed: null
+    she played bass clarinet during concert band.: null
+    she said, It's very similar,: null
+    she said, when I was a teenager, that had been,: null
+    she slipped.: null
+    she thinks its pretty funny how often I know all of the words to songs that she's listening to,: null
+    she wanted, she just seemed to enjoy it so much: null
+    she's got black hair,: null
+    she's got the, the cassette, so she can record off cassettes onto C D s.: null
+    she's gotten some, she's been on the top ten, I guess, or whatever.: null
+    she's not a gifted pianist in the sense that she's going to excel just naturally.: null
+    she's playing the piano.: null
+    she's, we've, started her on piano: null
+    she, she gets the wrong note every now and then.: null
+    should I say seven.: null
+    since I've started back into school now, I haven't really done that much.: null
+    so because of that, I can't read music as well as I used to,: null
+    some of the punk, when I was in high school, that was, one of the big things, was punk music,: null
+    some of the, some of the rock stations now are the, I guess the top forty stations or whatever.: null
+    some of their older s, stuff was, quite enjoyable to me.: null
+    some of them are.: null
+    some of these groups now like Slaughter .: null
+    some of those old ones, of course, Bob Wills, Miss Texas Playboys: null
+    some years before, she said, that was a version of, a song then.: null
+    some, I don't even, I recognize the, the melodies, and whatnot,: null
+    somebody played it .: null
+    somebody tried to call me last night: null
+    something like that,: null
+    sometimes I enjoy listening to, fiddle music.: null
+    sometimes I'll listen to jazz,: null
+    sometimes it makes you feel good to sit down and play it.: null
+    sometimes they kind of get on a, a, a binge,: null
+    stuff like that.: null
+    ? taking those, those qualities, and then applying, in the styles, that are really,
+      that are extremely enjoyable, and then taking,
+    : null
+    talking about that so far as Christian life, too,: null
+    that fills a stage and keeps us busy,: null
+    that is not, there is, things written for Doc Severenson and, a few other people.: null
+    that kind I kind of like.: null
+    that they take tours and things like that: null
+    that type of country western is: null
+    that was a real interesting time: null
+    that was about the same time I was taking piano.: null
+    that was my teenage years.: null
+    that was really fun.: null
+    that was the instrument both of my children started on,: null
+    that was the one with Mickey Rooney: null
+    that was, that was neat for, for me to hear that somebody is,: null
+    that worked out very nicely.: null
+    that'll be good.: null
+    that's about all I can feel apt to discuss with you since I just know,: null
+    that's about how I am on popular music.: null
+    that's about it.: null
+    that's all you had to listen to was the,: null
+    ? that's amazing how I used to, when I was in college, I used to have the stereo
+      on all the time or I had on M T V or something,
+    : null
+    that's been, it's been fun,: null
+    that's exactly the same thing my exwife did .: null
+    that's how it works.: null
+    that's just,: null
+    that's kind of my volunteer thing,: null
+    that's not by my choice.: null
+    that's one of things I felt like I missed in life: null
+    that's one thing I like about the, some of the folk music scenes,: null
+    that's probably my alltime favorite.: null
+    that's really what I like better,: null
+    that's the same with me, same with me.: null
+    that's the way I am, too,: null
+    that's usually what's hot around here: null
+    that's what I know,: null
+    that's what I mean,: null
+    that's what he grew up listening to.: null
+    that's when, that's when they took, toured.: null
+    that's where I got my,: null
+    that's where my two, my two listening enjoyments are,: null
+    that's why we have to work real hard when we get a concert together.: null
+    that's, Puccini, I think,: null
+    that's, that's about my opinion of that .: null
+    that's, that's the other guy I was thinking of was Garth Brooks.: null
+    that's, that's what gets me mad.: null
+    that's, that's what they do.: null
+    that's, those are, that's my favorite type.: null
+    that, that would be inconvenient because I have a cassette player in my car.: null
+    the Moody Blues,: null
+    the acting was particularly nice, I thought,: null
+    the album oriented like the, James Taylor,: null
+    the best example the cream of the crop, I guess you could say,: null
+    the difference in the radio with popular music,: null
+    the difference, I guess, between hard rock and heavy metal is that the lyrics also.: null
+    the friend David went,: null
+    the guitar is set really low,: null
+    the last country music,: null
+    the last one we did was in a large, mall close here,: null
+    the last time they went up, a friend of his wanted to go,: null
+    the more popular music I don't care for, usually.: null
+    the music sort of made the whole time very rich with sound.: null
+    the new one's in this thirties: null
+    the old, old stuff that came out, I think it was, Hank Williams,: null
+    the one D J said, who the heck is Bonnie Rait and why does she deserve five Grammies?: null
+    the one that's accused was the one that actually did it.: null
+    the one thing I do object to about rap music is, is when it becomes militant,: null
+    the only, we only had one radio station: null
+    the other one is, the boy is, guitar and, and percussion,: null
+    the other one plays the viola.: null
+    the places we've gone they sing in the original languages.: null
+    the price of cassettes has gone down: null
+    the pro, problem that I found, in this area is that the, there, there is inconsistency in the quality: null
+    the rest of them are just parts .: null
+    the seventies I don't know what they're called,: null
+    the seventies got nothing.: null
+    the subject of music .: null
+    the trial won't take place until June.: null
+    the two of them have played natural trumpets .: null
+    ? the whole thing about cover versions a lot of times. I've heard some songs that,
+      that I just thought were horrendous cover versions of,
+    : null
+    the, Dallas opera now has, super titles on, on all their performances I think.: null
+    the, I just like the melodies more: null
+    the, the eighties are called, the progressive years, or the, or, the technology years,: null
+    the, the piece of music, the piece of music was about, I think about forty or fifty years old.: null
+    their concert schedule isn't as heavy,: null
+    then I got interested in a lot of other things: null
+    then I have a friend at school that has a boyfriend that's a lawyer: null
+    then I must say they all kind of like a variety of music, which is nice,: null
+    then he buys the pieces that have that person.: null
+    then she keeps repeating it, practice makes perfect,: null
+    then there's the, Dolly Parton, Hollywood sound.: null
+    there are a lot, there are so many different songs,: null
+    there are some, types of heavy metal that I really like,: null
+    there usually,: null
+    there was a Peter Frampton song,: null
+    there was an Agape music group,: null
+    there was twenty students from high school that went,: null
+    there's a couple of nice, small coffee houses up in New Jersey.: null
+    there's a lot.: null
+    there's another band around here.: null
+    there's certain types of country western I can't handle: null
+    there's one gal that's in the, Plano Community Orchestra.: null
+    there's one in particular that is on both A M and F M so I can listen to it without, worrying.: null
+    there's one that's, a little girl singing Practice Makes Perfect.: null
+    there's probably something else that might make you.: null
+    there's some joy in it also.: null
+    there's such a wide selection,: null
+    there, there's a Conway Twitty twang,: null
+    these are a bunch of old recordings.: null
+    they actually have them perform the music,: null
+    they also have a, more contemporary and American: null
+    they also, they also, go to the different composers, or the different, I guess,: null
+    they always say that the seventies was the lowest point in, in progression, ever in history.: null
+    they both loved the movie, right?: null
+    they ca, play college level music in junior high,: null
+    they did it again, about two or three years ago,: null
+    they do their, they do a lot of original recordings themselves.: null
+    they end up playing a lot of the high notes,: null
+    they finally extradited him: null
+    they get worse and worse, too.: null
+    they got tickets for the opening night.: null
+    ? they had a band with him that, had a harpist and another flute and then a guy
+      that played the bagpipes plus the, tin whistle,
+    : null
+    they had us fill out a long questionnaire.: null
+    they have more in the summer,: null
+    they have on Saturday night, Friday night and Saturday night: null
+    they have subtitles,: null
+    they have that type of music,: null
+    they hit each other with their shoulders,: null
+    they just bump into each other,: null
+    they just had the baby's christening: null
+    they just have different words: null
+    they just talk about, life in general.: null
+    they keep on replacing them: null
+    they know have them on compact disc or: null
+    they play the same sort of thing over and over again, without really necessarily quality.: null
+    they record it.: null
+    they said it was, it was great, it was great.: null
+    they say it's going to last about two to three weeks.: null
+    they seem to have a really bad time with keyboard players.: null
+    they sold the piano,: null
+    they start dancing around,: null
+    they usually do a lot of satire: null
+    they want to play things that, push them to do.: null
+    they went and tried out: null
+    they went out and bought us a piano: null
+    they went to it,: null
+    they were both excellent.: null
+    they were really, really expensive: null
+    they were, half have been professionals from, a lot of them are from, faculty at Penn State here.: null
+    they will kno,: null
+    they will, record the music at that time.: null
+    they're going to call the ones that they're interested in from the questionnaire two to three at a time: null
+    they're having a lot of recruiting this week in all the different areas.: null
+    they're like, for example, A C D C.: null
+    they're they are still on tour.: null
+    they're, called Odessa.: null
+    they're, none of them are recent, right.: null
+    they're, they're like late forties, early fifties,: null
+    they're, they're still around,: null
+    they're, they're trying to make it somewhat more modern.: null
+    they're, they've been doing a lot of that in the area.: null
+    they've gone to a few of the concerts and so on of Christian musicians that come to our youth group at our church.: null
+    they've got a ne, new C D out,: null
+    they, they do, they do copy versions, they do cover versions of, of, standards, I guess you could call it.: null
+    they, they don't talk about that,: null
+    they, they gave him the seat that normally belongs to John Bel John .: null
+    they, they give an, an English translation on a, on a screen up above the stage.: null
+    they, they like, they like the Oak Ridge Boys and the Statler Brothers,: null
+    they, they might weed you out some other way.: null
+    they, they played all the Irish jigs and so forth,: null
+    things like that I like to listen to.: null
+    think about like the Twin Peaks and stuff like that: null
+    this guy in front of me said, I can't believe I was summonsed.: null
+    this is Hank Williams: null
+    ? this same child, really listened to more, ballady or, pleasant sort of songs
+      rather than, and even classical, rather than the real hard rock stuff that so
+      many other kids listen to.
+    : null
+    those go back quite a way .: null
+    those, two guys who wrote LES MIS wrote a new show call MISS SAIGON .: null
+    very often the artist will have a d, an album: null
+    vowed that someone in the family was going to learn,: null
+    warped real easy.: null
+    was about fortyfive miles away: null
+    we all had to take lessons,: null
+    we bought his, we bought his tape: null
+    we can borrow music from any of the area colleges: null
+    we can have music in the classroom,: null
+    we do all kinds of music at my Church: null
+    we do an awful lot of,: null
+    we do get an awful lot of music,: null
+    we do get some money from the city: null
+    we do like the ,: null
+    we do that every Sunday night: null
+    we don't charge for any of our performances,: null
+    we don't have a C D yet, do you?: null
+    we don't, now we don't listen to much country,: null
+    we enjoy watching the country and the Grammies and stuff: null
+    we get a lot of donations.: null
+    we got Simply Red.: null
+    we got a big group going down to hear him sing a bunch of, Andrew Lloyd Webber's music.: null
+    we have a home computer,: null
+    we have quite a collection of those,: null
+    we have to watch that.: null
+    we have, all his records so far,: null
+    we have, four records of his.: null
+    we haven't either,: null
+    we hire lots of instrumentalists off and on for, different things.: null
+    we hire, we hire an orchestra at least twice a year and then different instrumentalists off and on through out the year.: null
+    we just got a disk the other day that was a, disk of Nat, Nat King Cole's greatest hits: null
+    we just really like music.: null
+    we played Christmas about an hour out in this mall.: null
+    we played, old fashioned Christmas carols instead of normal wedding marches and what not,: null
+    we rehearse once a week.: null
+    we sure don't.: null
+    we try to make contact with them periodically to see what's going on and stuff, too,: null
+    we used to go and listen to them all the time: null
+    we used to have, Ralph Dutchen.: null
+    we used to listen to it full blast .: null
+    we went, wow: null
+    we're expecting a baby in July.: null
+    we're in Garland.: null
+    ? we're just having to turn a lot of people down, because, we don't want to do
+      things like have a concert back to back or even two days in a row.
+    : null
+    we're just not too far apart,: null
+    we're kind of waiting to, now,: null
+    we're kind of,: null
+    we're learning a lot,: null
+    we're still in contact with each other.: null
+    we've been talking for seven minutes,: null
+    we've got about five of those.: null
+    we've got friends that are in the music business that go around Dallas,: null
+    we've gotten to know each other quite well, in, on a, a social level,: null
+    we've had a lot of stuff, friends and, and things to do with music that constant,: null
+    we've heard them and, liked, liked it real well, of course .: null
+    we, are a group of, musicians that just kind of have, formed out of a desire to sing: null
+    we, we like the, the idea of having great extra quality,: null
+    we, we watch those award shows too,: null
+    we, we're very similarly aged,: null
+    well they'll,: null
+    what I got the most exposure to: null
+    what gets me even more is the attitude of people who are really into classical music,: null
+    what happened was that Phil Collins said, hey I can make money, a lot of money doing this,: null
+    what happens is everybody gets totally into the music: null
+    what happens is, the old, whe,: null
+    what you do is, you also try to get up on stage and jump down on top of all these other people.: null
+    what, she's losing her sight or whatever.: null
+    what, what Merle Haggard: null
+    whatsever's on the radio is, is usually okay with me,: null
+    ? when I do play, and begin to reacquire skills I inevitably fall in love with
+      country western music which tends to be in some ways easy to play for a, for
+      a new piano player.
+    : null
+    when I heard his album, I heard it and it was just incredible.: null
+    when I listen to music most of the time that's what I listen to.: null
+    when I went more rural, that, it really changed.: null
+    when I would go into his,: null
+    when he played DANNY BOY it just almost brought,: null
+    when it came to my turn the folks said no we're not going through that again,: null
+    when it was just starting,: null
+    when my friend played something on the piano and he played it, with his right hand,: null
+    when our first child was, an infant, of course, when I was around the house, I played that music, too.: null
+    when they buy a tape or something, sometimes that's fun because it's different and something I've not always heard,: null
+    when they hear it, it, it's a really, it's another form of music, and,: null
+    when they would come and change the records the guys would, the guy would give her the old records: null
+    whenever one of them dies off they get a replacement .: null
+    who's a very good, he's a very good arranger.: null
+    world music is,: null
+    world music takes the forms that have really been,: null
+    yet, I, I have a much younger sister who listens to a lot of rap music: null
+    you always thought about, suicide. And killing people and stuff like that.: null
+    you can enjoy it in the, theater.: null
+    you can just see the things that they're trying to show with music.: null
+    you can just sit,: null
+    ? you can't record on them and so they won't be as functional as a cassette player,
+      where if you heard something, you could record it,
+    : null
+    you can't sing along either: null
+    ? you could know about, you could know about the crime, but not necessarily be
+      taken off the jury, not be accepted for j, the jury.
+    : null
+    you definitely get to try before you buy.: null
+    you don't have to wait till the hour mark.: null
+    you don't know Hebert Laws,: null
+    you don't play, an instrument: null
+    you get the latest news and everything.: null
+    you get to know: null
+    you get your little Sousa book: null
+    you go into the coffee house: null
+    you have to get cable to get those stations anyhow.: null
+    you hear much of the same music, perhaps a new version of it,: null
+    you hear the muted trumpet.: null
+    you hear this guitar,: null
+    you just flip through it, and that sort of thing.: null
+    you knock people down,: null
+    you know how you put the headphones on and listen to it: null
+    you know those little booklets that come along with it: null
+    you learn to.: null
+    you look at the note on the page: null
+    you play what's on the piano,: null
+    you see seventyeights,: null
+    you try to make it a little bit more listenable for, let's say another audience, let's say a North American.: null
+    you turn on your T V: null
+    you watch them at home,: null
+    you were saying you had classical training.: null
+    you're, you're not going to want to have him have that cri, that punishment.: null
+    you've got to come up with a decision.: null
+    you, you don't hear everything all the time,: null
+    you, you figure out what's going on after a while,: null
+    '} I was reading': null
+  Statement-opinion: !!set
+    All their faces were just all shriveled,: null
+    Bad Cam, Company's not bad,: null
+    Both of them are.: null
+    But it's not enough to put you to sleep .: null
+    C D s won't be nearly as handy.: null
+    Clint Black, he's pretty good,: null
+    Concert tours for country and western sings is, it's, it's quite, quite odd,: null
+    Dolly Parton, she's kind of,: null
+    Even, even Hank: null
+    French horn is absolutely wonderful instrument.: null
+    He is wonderful.: null
+    He was the sidekick of Gene Autry I believe: null
+    He was very good.: null
+    He's pretty, kind of jazz inspired but: null
+    Him just standing there.: null
+    I bet you were out there with your bell bottomed pants,: null
+    I can tell we're, we're together here .: null
+    I can, I can believe that.: null
+    I could see why you went, I could see why you were kind of sheltered: null
+    ? I could, go down to a bar that's about three minutes from my house and hear
+      people doing covers better than him not making nearly as much money.
+    : null
+    I don't know the way it vibrates,: null
+    I don't know, I, I don't know that that's, I don't think that's a good thing at all,: null
+    ? I feel that, that, that music should take chances in one way or another and
+      that, if you've heard a piece, a hundred, a hundred times,
+    : null
+    I get kind,: null
+    I guess I can just humor them, . At this point.: null
+    I guess I didn't really consider that heavy metal.: null
+    I guess our age is showing when, we, we think that.: null
+    I guess that covers it.: null
+    I guess there was even a, a bit of ruckus caused by the M C Hammer, who's really,: null
+    I guess you could say it's similar as far as: null
+    I guess, one of these days when I get a new car, maybe, I guess all of them will probably have C D s players by then,: null
+    I haven't really been up to date on a lot of music.: null
+    I like, things to hear, what they call world music. Which is, using all these natural forms of music: null
+    I think I, I might like dancing to it: null
+    I think everybody took piano lessons: null
+    I think his name in, in the movie was Froggy: null
+    ? I think if you would listen to it a little, you would discover that it has a
+      lot of roots from the, both from the classics and from some of the rock and
+      roll of the era that, that we both lived through.
+    : null
+    I think it was better back then to,: null
+    I think it's because he's always heard music in our home all the, since he was a baby.: null
+    I think it's just incredible.: null
+    ? I think it's kind of absurd, the fact that, they don't really, they don't really
+      give, the original artist, or the original composer,
+    : null
+    I think life is just music,: null
+    I think my parents have have, some of his records.: null
+    I think piano is always good background,: null
+    I think some of them, the artists are even, hitting the pop charts.: null
+    I think that probably what did it for him was the fact that he was a good stage performer.: null
+    I think that they don't use, elec,: null
+    I think that's great.: null
+    I think that's pretty much, bull.: null
+    I think there's music all around anyway.: null
+    ? I think with, in a way one could talk about Simon and Garfunkel that way because
+      they do tend, to have a dramatic or story approach to their music, usually tend
+      to have some good or bad moral to it.
+    : null
+    I think, I think they're a bit over exposed .: null
+    I think, if somebody else were to play that, they wouldn't, they, nobody, everybody would think, that's lousy,: null
+    I thought it was hideous.: null
+    I'm impressed.: null
+    I'm sure it is.: null
+    I'm sure that it, for you, it would have been great to be able to accompany yourself,: null
+    I'm sure that, that so, that sold a lot for him.: null
+    I'm sure there's a lot of that down there.: null
+    I'm surprised you didn't go to, to any pa, parties or anything where they were playing a lot of music or stuff: null
+    I'm, I'm sure you could find old players for them: null
+    I, I don't, I don't think Gun,: null
+    I, I find that the classical music is very good for the kids too, it doesn't disturb them: null
+    I, I guess music comes into that whole aspect of listening.: null
+    I, I know, whenever they talk about, country music, it's about, it seems sad to me.: null
+    I, I must admit that's, they're fantastic,: null
+    I, I think a good one was,: null
+    I, I think that the piano background is very, useful,: null
+    I, I think, I, I know who that is,: null
+    I, I, I think most artists are in to make a few bucks.: null
+    I, he, he is really good.: null
+    If, it's, it's interesting.: null
+    In order to continue to, to grow and: null
+    It always sounds like,: null
+    It is a nice combination.: null
+    It is real relaxing.: null
+    It is wonderful.: null
+    It just seems like there's no, no real point.: null
+    It really does.: null
+    It seemed to be influenced by a lot of different music.: null
+    It seems like a lot of Churches are hiring more musicians now than they use to.: null
+    It seems like every week they pick ten: null
+    It seems to be so popular these days.: null
+    It's almost,: null
+    It's always about some guy losing some girl and then, playing the guitar and singing about it.: null
+    It's becoming not necessarily good music, just popular music,: null
+    It's funny, depending on where you live,: null
+    It's funny.: null
+    It's good to cover all the bases there.: null
+    It's just very wonderful. Soothing, and, lot of symphonies: null
+    It's just, it's, it's way to hectic and too confusing.: null
+    It's kind of sad that I've let that slip away.: null
+    It's loud and repetitious without having a great deal of meaning.: null
+    It's not too hard,: null
+    It's, it's okay,: null
+    It's, it's, course country: null
+    Kenny Rogers, he's kind of country western verge,: null
+    Madonna can do anything: null
+    Most Churches have the,: null
+    Now, it's the other way around.: null
+    Of course, there's not a whole lot of market for seventyeight R P M records.: null
+    Of course, they, just don't have the quality of records nowadays either because,: null
+    Ooh, you took on a,: null
+    R E M makes me laugh because they've gone from a college radio progressive group to being, ultra mainstream at this point,: null
+    R E M really hasn't changed.: null
+    She's got so much energy .: null
+    She's real good. She's real good.: null
+    She's something, though.: null
+    Some of it is kind of: null
+    Some of it's okay,: null
+    Some of them are just really rough.: null
+    That is fabulous.: null
+    That often is the case,: null
+    That was good,: null
+    That would be good.: null
+    That'll be a musician.: null
+    That's a lot.: null
+    That's all you really need for a lot of, lot of pop.: null
+    That's good.: null
+    That's kind: null
+    That's pretty good.: null
+    That's really hard I think, because, especially if you start them: null
+    That's the most fascinating thing .: null
+    That's, that's a little bit to,: null
+    That's, that's,: null
+    That, I think that's always a good instrument for anybody who sings or does, some other kind of instrument,: null
+    That, that would be, that would be nice .: null
+    That, whenever they say it two or three times.: null
+    The thing about country western that I don't enjoy is is, doesn't seem to be any imagination behind it: null
+    The, the new stuff's kind of more like, today's rock and roll, which I,: null
+    There's a big variation among the country,: null
+    They are just so out of it.: null
+    They are, the two of them are mainly pretty much the, they have cornered the market on trumpet.: null
+    They came up with some pretty weird stuff after that.: null
+    They destroyed it.: null
+    They don't really,: null
+    They just play a certain number of chords: null
+    They're just kind of sweet sometimes.: null
+    They're just so relaxing.: null
+    They're nice that way.: null
+    They're producing, similar music: null
+    They're, they're not so, they're not so sad country all the time.: null
+    Way, way more than I can stand down here.: null
+    Which some of the songs on K V I L can.: null
+    You are busy.: null
+    You can only laugh .: null
+    You could kill somebody with them .: null
+    You hear the same, same tune over and over again: null
+    You're, you're about like I am .: null
+    You, you'd, you'd think there would be.: null
+    Yuck looking,: null
+    a lot of it is, has a lot to say, some of it has a lot to say, the music does, the lyrics do,: null
+    a lot of them,: null
+    also they get better quality: null
+    and they have their faced all contorted,: null
+    as far as a musical art form, I just don't see a whole lot of art to it .: null
+    at least to my mind, Guns and Roses doesn't have too much of a message, too much to say.: null
+    back to, I guess we'd better get back to music, though.: null
+    because she did it, it's supposed to be good,: null
+    blues are okay.: null
+    but I think everybody can.: null
+    folk music would be huge just because Madonna does it,: null
+    for a while there, music seemed to really ha, popular music seemed to have, not a lot of point to it.: null
+    has kind of the same sound over and over,: null
+    he has a nice smooth voice.: null
+    he looks like he's having a good time.: null
+    he picked the right songs: null
+    he was a phenomenon,: null
+    he's a pretty nice guy.: null
+    he's just, he's wonderful.: null
+    he's that good of an instructor,: null
+    he's, definitely one of the, one of the top of that era.: null
+    heavy metal, it's noisy.: null
+    if it survives, then it'll just probably be one or two songs that sort of, listen what we listened to .: null
+    if you can play tunes that people can sing along to it'd be, it'd be kind of fun, I think.: null
+    if you don't, if you don't read the paper, you sort of fall behind if you're in,: null
+    if you go two or three years without having that,: null
+    if you, if you hear a lot of old gospel, especially the black gospel.: null
+    it can get expensive: null
+    it comes to the point where it's your name, not what you do: null
+    it doesn't,: null
+    it gets kind of old,: null
+    it has grown from there.: null
+    it has such a different sound to it, anyway.: null
+    it is just,: null
+    it just didn't vegetate your mind like television does .: null
+    it just just looked like they,: null
+    it just, it just doesn't do anything.: null
+    it looked like leather day at the geriatric,: null
+    it must be fun to be able to play it: null
+    it seems like you get a lot of original music that way.: null
+    it was great.: null
+    it was just fabulous.: null
+    it was on his way of going downhill,: null
+    it was tremendous.: null
+    it was, it was, I guess it was pretty bad times.: null
+    it would be considered good because it's Madonna,: null
+    it would not get performed by any, municipally funded, philharmonic,: null
+    it's getting, getting pretty big everywhere, as I see it.: null
+    it's good music: null
+    it's just that, the, the sixties music's got a lot to say.: null
+    it's just who does it,: null
+    it's just, it's just, talking in a beat,: null
+    it's kind of funny the way we listened to the stuff,: null
+    it's kind of haunting, on, on some of the notes .: null
+    it's kind of odd,: null
+    it's like they don't want to talk about that,: null
+    it's like, it doesn't have to be good,: null
+    it's nice when you have a piece that, that is so, so peaceful,: null
+    it's not r, terribly demanding.: null
+    it's not really that they've changed their musical style so much as the stream changed.: null
+    it's pretty good,: null
+    it's really good.: null
+    it's very hard: null
+    it's very nice,: null
+    it's, a lot of people l, saying that, bands in that position, sold out.: null
+    it's, it's a different perspective on everything, too.: null
+    it's, it's kind of strange that it's getting as big as it is.: null
+    it's, it's pretty neat music: null
+    it's, it's very interesting.: null
+    it's, it's, it's not, it's not music,: null
+    it's, it, sometimes it will skip.: null
+    it's, music is kind of going an odd direction nowadays, I think.: null
+    it, it's mostly relaxing: null
+    it, it's the movie is so well made,: null
+    it, it's, it's, it really expresses some of the opinions of, of the people who enjoy the music: null
+    it, it, it, it, it has pieces that are uplifting,: null
+    late, late sixties, early seventies, they were: null
+    let's just put it that way,: null
+    lot of the classics are really,: null
+    maybe if you did like Hank Williams and Garth, maybe you would enjoy Tra, Randy Travis.: null
+    maybe it is cause he is playing in Fort Worth .: null
+    maybe it'll comfort her, when she's fussy and stuff.: null
+    maybe twenty years from now they'll look at it as classic rock and roll which I really like: null
+    maybe you wouldn't like Randy Travis.: null
+    most of it is not all that exciting in that it is terribly repetitious.: null
+    music is kind of in a weird, it's in a very weird position right now.: null
+    music is wrapped around now.: null
+    ne, neither are tapes.: null
+    now rock and roll seems tame compared to the New Age and all that stuff.: null
+    now that there's just a million rap groups: null
+    now there, there's some wonderful Christian music when you can find good stations.: null
+    now you can even get books on tape,: null
+    ? our generation was, so in tuned to music of that time that we identify goodness
+      or badness with, things now with the music that's behinds them.
+    : null
+    our junior high band is just wonderful.: null
+    parents always do.: null
+    people always say, Wow! Th, the meanings of those words.: null
+    really that's not world music.: null
+    seems like it was on a Friday,: null
+    seems to be the hot one of, of today.: null
+    some of it is, some of it actually gets into some serious discussions of problems in our, in: null
+    some of it sounds more like pop music.: null
+    some of it,: null
+    some people sing,: null
+    sometimes it's hard to, to know exactly when,: null
+    sounds, it sounds so much different: null
+    th, there's too much T V now: null
+    that does, that's something you don't, doesn't even sound good loud really.: null
+    that had good music in it.: null
+    that is a huge organization,: null
+    that is not,: null
+    that probably wouldn't be a problem,: null
+    that sounds really cute.: null
+    that was good,: null
+    that would be gr, great if they weren't too worn out,: null
+    that would cost a fortune,: null
+    that's , that's what the, point we've reached,: null
+    that's a good example to look for in history.: null
+    that's a good thing to do.: null
+    that's for sure.: null
+    that's good though,: null
+    that's interesting music,: null
+    that's kind of the way I feel about rock and roll sometimes, too, I guess.: null
+    that's more, even more commercialized for of: null
+    that's not music ,: null
+    that's not music .: null
+    that's not,: null
+    that's pretty close.: null
+    that's really, yeah that's, I bet that was nice.: null
+    that's, that's nice to do, that is.: null
+    that, it, it's really neat,: null
+    that, that was a real good one.: null
+    that, that was great.: null
+    that, that whole record was pretty good.: null
+    the best bet, any, anymo, these days are compact disk,: null
+    the big key is that, I think you've already stated, that all music is rooted in the classics: null
+    the comparison made between New Kids On The Block with the Beatles . It was just,: null
+    the cover version, I think, I thought, was absolutely, it was pitiful.: null
+    the drummer plays a certain beat,: null
+    the first of Amy Grant before: null
+    the kids just love him.: null
+    the music in that was fantastic.: null
+    the music that goes with it just picks you up,: null
+    the old, old country,: null
+    the older stuff is the best of it.: null
+    the ones you buy,: null
+    ? the other thing I don't like about it is they have a tendency to play the instrumental
+      so loud that you can't understand what the lyrics are
+    : null
+    the problem is most of the record players now will not play them because,: null
+    the radio is, more exciting,: null
+    the type of music, at least to me, it's, sounds like it's only sounds good at a high volumes: null
+    the, one country and western song sounds like every other,: null
+    the, the musicians don't get to really get into their music.: null
+    the, the, basic point of heavy metal w, which seems to be music to annoy you,: null
+    then we got, we got some same things: null
+    then, of course you like him.: null
+    there are some of the few organizations that have the funds to, do big big works .: null
+    there have been some nice folk songs over the years that, kind of still hang around.: null
+    there was no reason for him to really come into, great stardom or anything.: null
+    there was nothing,: null
+    there's so much available: null
+    there's some wonderful Christian, children's tapes.: null
+    they come on the stage: null
+    they don't actually look as rough as the Rolling Stones.: null
+    they don't even know they are there.: null
+    they don't have anything really important you want to hear.: null
+    they get close, ten, eleven or something,: null
+    they get pretty good: null
+    they go, I don't want to do this anymore: null
+    they just play them over and over,: null
+    they just, don't name it.: null
+    they just, they're not meant to last,: null
+    they learn to have more features and things and: null
+    they look pretty rough.: null
+    they play the same songs over and over,: null
+    they really are.: null
+    they started getting a little more,: null
+    they started going downhill like everybody else.: null
+    they use electronic and acoustic interchangeably,: null
+    they're good.: null
+    they're interesting to listen to.: null
+    they're just so thin and,: null
+    they're not in it to say anything or give a message: null
+    they're not the, the typical country where they're just, my wife left me, my dog left me, .: null
+    they're trying to make it too much of a crossover thing,: null
+    they're very harmonic: null
+    they've all got, the real screechy electric guitars now.: null
+    this stuff,: null
+    those should be good albums.: null
+    those things are practically indestructible .: null
+    those, those are really nice.: null
+    ugh, I didn't like that either.: null
+    variety is good.: null
+    was, became more mainstream, top forty.: null
+    we both have a secret background that says somehow or another we just knew we were piano players and never got a chance,: null
+    we have a, a marvelous band instructor,: null
+    we probably have an in, interesting perspective on the music on the times,: null
+    we strayed a lot from music.: null
+    we'll have to keep up with that then.: null
+    we're on totally different wavelengths.: null
+    western even I've gotten a little bit used to because it's not like it used to be.: null
+    what I like the most about him, is, } he always, he looks like he's having fun.: null
+    what, what Paul Simon's doing, I think is, is, is great because he's, I think, I think that using,: null
+    when you hear the cover it's like, God, what are they doing.: null
+    when you listen to it, it's: null
+    you can control it.: null
+    you can hear it wherever you want: null
+    you can't dance to it,: null
+    you can't do anything to it .: null
+    you can't just listen to it, to, especially a lot of the deeper stuff,: null
+    you can't understand what they're saying on some of those songs: null
+    ? you don't, because it doesn't have words, you don't feel like, there's anything
+      you have to remember, as far as singing a song or something like that or interpreting
+      what they mean
+    : null
+    you got a little ways to go, too .: null
+    you have a country and western song: null
+    you have to figure out what to buy,: null
+    you must live in this area.: null
+    you never hear the, you never hear the news basically on the radio.: null
+    you never know where the talent is going to show up, I guess, sometimes.: null
+    you never would think that they, that they can actually play together: null
+    you sure do.: null
+    you will, you can really pick it up.: null
+    you're like: null
+    you've got half a string quartet there.: null
+    you, you listen a lot,: null
+    you, you, you don't always quite get it right,: null
+  Wh-Question: !!set
+    How many people in your band?: null
+    How old are you?: null
+    How, how old are they?: null
+    If you had to pick one, what would you choose?: null
+    Like what, what kind of oldies?: null
+    So, how long did you play?: null
+    Wh, what's the old country music like?: null
+    Wha, what day, what day was that on,: null
+    What about the blues or something like that?: null
+    What are your m, music interests?: null
+    What d, what is that?: null
+    What did they name him?: null
+    What do you mean by world music?: null
+    What do you play?: null
+    What do you teach, what grade?: null
+    What instrument does he play?: null
+    What is that?: null
+    What kind do I like?: null
+    What kind of music do you enjoy?: null
+    What kind of music do you like?: null
+    What kind of progressive stuff?: null
+    What kind of rock music do you listen to?: null
+    What kind of singing do you like to do?: null
+    What kind of things are you, do you like in classical?: null
+    What type of music do you like in the classical area,: null
+    What, what do you do?: null
+    What, what kind of heavy metal are we talking about?: null
+    When did you first take your, first piano lesson?: null
+    Where do you get all this music,: null
+    Where you from?: null
+    Whereabouts?: null
+    Which Church is it?: null
+    Which album, which of his albums do you think is the best?: null
+    Who are the trumpet players?: null
+    Who was your trumpet teacher?: null
+    Why, why did you check music?: null
+    how old are you?: null
+    music do you like?: null
+    now what d, kind of music do you listen to?: null
+    what about, classic rock type stations.: null
+    what era do you, era do you like the most?: null
+    what is your favorite kind of music?: null
+    what kind of music do you like to sing?: null
+    what kind of music do you like?: null
+    what kind of music do you not like?: null
+    what kind of music is, does what: null
+    what kind of music you into?: null
+    what type, Simply Red,: null
+    what types of music do you like to listen to?: null
+    what's his name, plays the trumpet.: null
+    what's that real, not real old,: null
+    what, what are you doing?: null
+    what, what particularly, particularly what kind of music do you like?: null
+    where are you?: null
+    where do you live?: null
+    where, where does this happen, Laurie,: null
+    whereabouts in,: null
+    who do you have her, or him, take it from?: null
+    who do you like? .: null
+    who's the other big guy?: null
+  Yes-No-Question: !!set
+    Are you going to go see the Elixir of Love?: null
+    Are you going to go to East Texas for that?: null
+    Are you just saying you, you sight read every concert?: null
+    Are you married at all?: null
+    Are, are you involved in music?: null
+    Are, d, are you, do you play the piano,: null
+    Country music?: null
+    D, do, do you get cable?: null
+    Did you ever, did you ever just bang on it or do anything with it at all.: null
+    Did you like them?: null
+    Did, did you do that in, Texas, or somewhere else?: null
+    Did, did you go to college?: null
+    Do any of your, you, in your group get paid for any of this?: null
+    Do you belong to that?: null
+    Do you come by it naturally?: null
+    Do you consider her country?: null
+    Do you ever go to the Dallas Opera?: null
+    Do you have a family?: null
+    Do you have a favorite instrument?: null
+    Do you have a particular composer that you like or,: null
+    Do you have any other kind of music that you like?: null
+    Do you like Kenny G?: null
+    Do you like Randy Travis?: null
+    Do you like any bluegrass?: null
+    Do you like opera?: null
+    Do you like rap music?: null
+    Do you like rap?: null
+    Do you like, like V, Van Halen or anything like that?: null
+    Do you like, like someone recent? Like Enya?: null
+    Do you like, rock and those kind of things: null
+    Do you listen to much live music, like concerts or things there?: null
+    Do you listen to that really heavy metal stuff: null
+    Do you remember that, that song.: null
+    Do you sing at choir at your church?: null
+    Do you, are you musical,: null
+    Don't they have a,: null
+    For East Texas or something?: null
+    For colleges?: null
+    Hank Williams Junior?: null
+    Have you ever been to the, to, to the Dallas Symphony?: null
+    Have you ever head of her.: null
+    Have you ever heard of Kim?: null
+    Have you seen it yet?: null
+    Have you, do you listen,: null
+    He is still teaching at Brookhaven,: null
+    How about, Pink Floyd?: null
+    I was going to say do you know any other country singers that you would, the women, do you like the ,: null
+    Is he still around here?: null
+    Is it disco,: null
+    Is it just instrumental?: null
+    Is that the eagle?: null
+    Is that the kind of music that you like?: null
+    Is that the only, musical,: null
+    Is there not?: null
+    Isn't that a,: null
+    It is a small world isn't it?: null
+    Like the fifties oldies, or older oldies?: null
+    Now does, does the school in, in your, in your city,: null
+    Of the Stones?: null
+    Oldies or what?: null
+    Richard Jung Julio recorded an album at the same time as ,: null
+    That's the kind you like you mean?: null
+    Was it a boy or a girl?: null
+    Was it on the radio every week?: null
+    Was it really good?: null
+    Was your, were your parents that musical?: null
+    Well, what else can we d, uh, talk about,: null
+    Were they religious?: null
+    Were you in the band?: null
+    Who, who sponsors you basically, the city?: null
+    You don't like Patsy Cline.: null
+    You don't like Patsy Cline?: null
+    anything new you like coming out now, other than folk music, some I might know of.: null
+    are they trying to ,: null
+    are you a musician at all?: null
+    are you a musician yourself?: null
+    are you a professional musician?: null
+    are you a soprano, alto, or,: null
+    are you into that that rock music, all that druggy stuff and all that: null
+    are you, are, are, have you, have you been singing a long time: null
+    are, do you have a family?: null
+    aren't they done with?: null
+    as a piano teacher, do you have any feelings for kids who come from a Suzuki method,: null
+    ? as far as the cou, what they now call country western, it doesn't sound like
+      the old country music at all, does it? *two utts??
+    : null
+    but I mean, can you play anything on it, other than wood chuck song?: null
+    can't you get records through that or something, recordings?: null
+    did you happen to see last night the special on Channel Two with James Galway?: null
+    did, did you go see that new Doors movie?: null
+    do you go see a lot of musicals?: null
+    do you go to the operas that they sing English or go to the ones that they sing other languages?: null
+    do you go to, do you go to listen to much live music?: null
+    do you have any plans to, do anything with your music in the near future: null
+    do you have children?: null
+    do you just buy along the same artist?: null
+    do you know John Qumenato?: null
+    do you know any,: null
+    do you know something?: null
+    do you know who he is?: null
+    do you like classic rock, or modern rock, or which kind?: null
+    do you like romantic music?: null
+    do you play any instrument yourself?: null
+    do you play any instruments?: null
+    do you play any musical instruments or anything.: null
+    do you sing in, in a choir or a choral group?: null
+    do you, ha, can you recall.: null
+    do, don't any of those ever come to Pittsburgh?: null
+    does it, does it offer, band, or some of the instruments?: null
+    have you ever been to any of them concerts that you like?: null
+    have you ever done any, if,: null
+    have you ever heard of George Winston,: null
+    have you had any former Suzuki students?: null
+    have you heard of Nat, heard of Nat King Cole?: null
+    have you heard of them?: null
+    have you heard of, of Carmen?: null
+    have you seen any concerts lately?: null
+    he, he, he's from Ireland isn't he?: null
+    how about the Rolling Stones?: null
+    if you had to pick a, a type of music that you like, would you be able to? *functions as a qw: null
+    is she kind of country?: null
+    is this in Dallas?: null
+    is your husband a singer?: null
+    it was last, last, last year wasn't it.: null
+    not a seventies baby.: null
+    now, now we're supposed to talk about music?: null
+    ? since you seem to like, Italian music, have you ever, gotten into Gabrielli
+      or anybody there in that era, the, period right before, actually before Vivaldi,
+      I guess?
+    : null
+    small world,: null
+    they are on up there in age, aren't they?: null
+    they're doing this in school, or what?: null
+    this is the man that was in front of you?: null
+    those things were big and thick weren't they?: null
+    was, was it five,: null
+    well d, d, do you play any musical instruments or,: null
+    you got any more?: null
+    you keep buying the same artists until you don't like an album, then you stop?: null
+    you know what I mean?: null
+    you know whom I'm talking about?: null
+    you like classical music?: null

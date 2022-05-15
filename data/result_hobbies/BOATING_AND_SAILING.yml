@@ -1,0 +1,392 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    You do skiing and stuff: null
+    that's south of here?: null
+    your wife's folks still live in Colorado?: null
+  Dispreferred answers: !!set
+    actually, I, I've known how to sail pretty much my whole life.: null
+    he, he's from Detroit: null
+  Statement-non-opinion: !!set
+    A sailboat at least doesn't have an engine to mess up,: null
+    Been here all my life.: null
+    Colorado Springs.: null
+    Cypress Cr, Creek Springs.: null
+    Cypress Springs,: null
+    Dallas is south.: null
+    Didn't go very far,: null
+    East of here.: null
+    First best day is the day you get and the day you get rid of it: null
+    He's got a good,: null
+    Houston's north.: null
+    Hundred miles due east of here.: null
+    I build transformers.: null
+    I did fish out of it occasionally,: null
+    I didn't know that.: null
+    I didn't see any boats there, though.: null
+    I do, quite a bit of sailing.: null
+    I don't either.: null
+    I don't have anybody to teach me either.: null
+    I enjoyed that.: null
+    I felt like I got my money's worth out of mine .: null
+    I found the motor boating was real fun.: null
+    I get back down in there: null
+    I got all ready to go: null
+    ? I grew up in an area that, was just a few feet from a rather large lake, and
+      a few more miles from that was a even larger lake
+    : null
+    I guess I was seven or eight years old: null
+    I guess it's,: null
+    I had a hundred, hundred sixty horse, Murcruiser in it.: null
+    I had a little sail,: null
+    ? I had bought it used and kept it, , I don't know, ten years and got within,
+      three hundred dollars of what, when I sold it, of what I'd paid for it and had
+      it all those years,
+    : null
+    I had more of that in my childhood days than I have now .: null
+    I hadn't done any in a l, lately,: null
+    I hadn't quite figured out,: null
+    I haven't cr, managed to get a hold on that, craft yet,: null
+    I haven't, I haven't personally done that,: null
+    I heard, that's the second happiest day of your life , .: null
+    I just can't risk it right now being a head of the family and the breadwinner and all that.: null
+    I just don't know if I'd have the time to use it.: null
+    I just got back from a weekend.: null
+    I just heard that.: null
+    I just like, fourteen foot Sunfish.: null
+    I know, my wife and I were first married here: null
+    I like to fish.: null
+    I love them .: null
+    I loved having a boat.: null
+    I loved having it.: null
+    I might just donate my little one to the scout troop and let them,: null
+    ? I moved over a, a few feet in the water and got out of his little realm where
+      he was living underneath the dock and, managed to get up.
+    : null
+    I never seen so many boats in all my life.: null
+    I own a sailboat that I: null
+    I own an insurance agency, a managing general, a wholesaler of insurance,: null
+    I reached back there and s, pushed him away and got out of the water a, a while: null
+    I really did enjoy that.: null
+    I remember learning how to ski,: null
+    I think it held probably,: null
+    ? I think of all the time, now that my kids are gone and away and married and
+      going to college or whatever, that I put in there, I just could not imagine
+      a boat because I know it's a lot of maintenance.
+    : null
+    I think that was the last time we were really involved,: null
+    I think, the thing I liked the best was, we spent about a summer: null
+    I told everybody what happened: null
+    I took sailing lessons when I was about six: null
+    I used to ha, have a friend that owned, his daddy owned a boat shop.: null
+    I used to sail about every day.: null
+    I used to, kind of be that way myself when I lived in, north western Florida in the panhandle,: null
+    I visited my cousin a couple of years ago, my wife and I: null
+    I was down in the water and, and set to go: null
+    I was in Florida ,: null
+    I was kind of into it for a while there.: null
+    I worked for a camp for a number of years.: null
+    I'd get the boat out on the, Saturday,: null
+    I'd have to go load it up the next day.: null
+    I'd kind of like, someday, to maybe end up on a pair of skis that, that doesn't have a,: null
+    I'd like to do some sailing.: null
+    I'd say, I'm going to leave the boat out, because, we'll probably do this again tomorrow .: null
+    I'd want to be with a skilled sailor .: null
+    I'd work, go to work,: null
+    I'll be if he didn't do it again.: null
+    I'm a scout leader, though,: null
+    I'm envious,: null
+    I'm kind of into it.: null
+    I'm not too much of a fisherman.: null
+    I'm up in Minneapolis now,: null
+    I'm, I'm out with,: null
+    I'm, kind of a sailor.: null
+    I've always thought, I bet that would be more fun.: null
+    I've been to Oklahoma,: null
+    I've never been to Texas.: null
+    I've never moved up to a really big class of sailboat.: null
+    I've never tried.: null
+    I've never wanted to bad enough to make any effort to do it,: null
+    I've sailed some.: null
+    I've seen some nice, nice sailboats.: null
+    I've, I've, done about all I dare do on skis. skiing on one and jumping around here and there: null
+    I, I do enjoy the lake,: null
+    I, I don't know that I ever learned to drive it or anything,: null
+    I, I have, I had a boat last summer that I took out, a catamaran that I do, did a lot of sailing on and stuff.: null
+    I, I work with a guy right now that, races catamarans in the summertime: null
+    I, I've always thought I'd like to.: null
+    I, I've had one for quite a few years,: null
+    I, I've not had one the last couple of years.: null
+    I, I, I know how you can get injured doing much more than that: null
+    If you ever got it dumped over, though, it was a mess to get back up.: null
+    Inboard outboard.: null
+    It didn't hurt too much,: null
+    It does have a little kind of cabin thing that you can store things in: null
+    It got to where the, tomorrow the boat was still sitting there: null
+    It was fun,: null
+    It was just a little nibble: null
+    It was pretty nice,: null
+    It was sort of neat.: null
+    It wasn't like the newer ones that have nice chambers that keep it afloat or keep it, upright again.: null
+    It's a day sailer.: null
+    It's east of here.: null
+    It's real nice.: null
+    It's such a pretty lake down there.: null
+    It's the oldest town in Texas.: null
+    Just came back from Denver: null
+    Just got through snow skiing .: null
+    Just motorboat's all we,: null
+    Just, can't take the risk I did as a dumb teenager, I guess .: null
+    Lot of, lot of fishing going on up here.: null
+    Mount Vernon.: null
+    My father was on staff there,: null
+    My wife does .: null
+    Nacogdoches.: null
+    Nothing big.: null
+    Nowadays I don't think I could afford the boat or the time, nor do we live that close to a lake anymore,: null
+    People actually park their car when they get to their place they're staying, townhouse or condominium, whatever they own: null
+    Probably seventies, eighties in the afternoon.: null
+    That's another little thing.: null
+    That's between Houston and Dallas.: null
+    That's just a joke, I guess.: null
+    That's where I grew up .: null
+    The day you sell your boat.: null
+    ? The guy that used to live next to us in Richardson before we moved twelve years
+      ago, or whatever, he had a sailboat, used to park it right in the, driveway
+    : null
+    The, the laws were there: null
+    They go to dinner that way, go to all the restaurants: null
+    They'll allow you to ski backwards.: null
+    They're getting kind of old: null
+    This one you had to work with.: null
+    ? This time a little earlier and, and I had let go before then and, before they
+      took off this time and, and swatted him away.
+    : null
+    We go out with friends on the,: null
+    We have, Lake Sam Rayburn out here and Lake Nacogdoches,: null
+    We just worked all the time.: null
+    We oftentimes got wet, .: null
+    We spent a week with them.: null
+    We went and, had a, kind of a picnic in the woods type thing.: null
+    We'd enjoy it so much: null
+    We're about thirty miles from Coco Beach and the east coast,: null
+    You get out of the water again and get it upright.: null
+    You need somebody to kind of tell you what to do,: null
+    a friend of mine's dad is, was a program manager up there: null
+    about the only memories that I have of boating,: null
+    actually, I went, canoeing down the Brazos this weekend.: null
+    all we, all we have up here mostly bass boats.: null
+    as we visited, we were involved every weekend in just helping them redo this and refinish that.: null
+    at this stage of the game, I'm not that interested in it anymore.: null
+    aunt and uncle up in New York, they kept a boat on Jamaica Bay: null
+    ? couple of guys, restored an old wooden boat that was built back in the midthirties
+      and got a new canvas sail for it and had a real h, big old four foot center
+      board that went down in the middle to keep you upright when the waves,
+    : null
+    especial, we got two kids that are: null
+    especially if you get a, a pretty fast boat: null
+    for me, I, I go back to Orlando, in about a month, and so, down there, basically just go to the coast.: null
+    for the most part.: null
+    generally, everybody I've, I've known has kind of gotten into it,: null
+    he had a boat: null
+    he just moved down here to Mc,: null
+    he usually goes on one of the Great Lakes, I think, and does his sailing.: null
+    he's going off,: null
+    he's pretty gassed about it.: null
+    he's working in McKinney.: null
+    if they want to go to the lounge to have a cocktail, they use the boat.: null
+    if you didn't obey them,: null
+    ? if you get a big enough one, then you've got a little motor on it also, where
+      if it's light wind, you can still putt around a little bit and have fun.
+    : null
+    ? if you h, if you're a big enough boat to have the little auxiliary motor on
+      there, at least you can kind of drop the sails and
+    : null
+    if, if the wind dies, you're not stuck in the,: null
+    it bit enough to where I let go.: null
+    it didn't even leave a mark.: null
+    it just , we just moved down here a couple years ago,: null
+    it must have slept four people anyway.: null
+    it was a , big boat, big ski boat type thing.: null
+    it was fun.: null
+    it was maybe fifteen, twenty acres: null
+    it was, , it had a lot of, turtles in it.: null
+    it's , it's, it's fun.: null
+    it's a lot of fun.: null
+    it's down at Mount Vernon.: null
+    it's for Cooper Industries.: null
+    it's hard for me to get it somewhere: null
+    it's just a hundred miles from here.: null
+    it's pretty easy to get the hang of, I think: null
+    it's something I've always enjoyed.: null
+    it's, it's a nice, nice hobby to have.: null
+    it's, it's not too bad,: null
+    it's, n, Oklahoma's nothing like it.: null
+    it, it was a nice, nice long skiing career,: null
+    it, it would be kind of nice.: null
+    ? it, it's kind of a thing where you get the hang of it after a while, just kind
+      of get a feel for the wind and how it works and, and the physics behind it.
+    : null
+    it, it, it was heavy when we were there though.: null
+    just as that boat took off, a turtle bit me in the middle of the back.: null
+    ? just from what I've seen, you just kind of work your way up to it and turn around
+      real quick , Grab the rope behind you and then just let go real quick and let
+      it whip you around.
+    : null
+    life just changes a little bit in that respect .: null
+    little bit.: null
+    ? maybe someday I'll , I'll get back to that as, after the kids are up and grown
+      and the monies are there to get away for times on end, weekend or something.
+    : null
+    more than once we'd get out there on a really stormy day: null
+    my children all have been grown for a coup, few years: null
+    my family's pretty into it: null
+    my husband's family had a, a motor boat, when we got engaged: null
+    my parents are pretty big sailors, too,: null
+    now I've gotten to where skiing is just kind of wears me out more than it does thrill me.: null
+    once I get my son into and through with college, he's going to be starting, Rice next year: null
+    once I get to that stage where I'm not paying for something else: null
+    once the children were grown,: null
+    our daughter and he had a place on Lake of the Ozarks: null
+    our subject is on boating and sailing: null
+    ? quite honestly, with the exception of being involved in a part ownership of
+      a little bass boat, I have never really got into sailing or boating.
+    : null
+    ? sailing was, was kind of nice to learn the maneuvers you had to make to work
+      your way down a lake or work back up against the, the wind, as it were, tacking
+      back and forth
+    : null
+    sailing, I've never been sailing.: null
+    supposed to be.: null
+    that didn't always work.: null
+    that was sort of a neat setup.: null
+    that was sort of neat.: null
+    that was twenty years ago, or twentyfive: null
+    that's a good thing.: null
+    that's all,: null
+    that's good, because I didn't like Oklahoma that well .: null
+    that's when you really start getting into speed.: null
+    the boat went off without me: null
+    the lake that we learned on was the smaller of the two that we had access to: null
+    the sailing part of it I like because it's so quiet.: null
+    the snow up here is really kind of starting to melt now.: null
+    the storm or the wind was due to the front blowing: null
+    the wind came from the side: null
+    their boat slept about four people plus had a little kitchen.: null
+    there are supposed to be, some people f, moving down here from Colorado Springs for T I.: null
+    there's a lot of places there you can go,: null
+    they get pretty quick,: null
+    they get so fast,: null
+    they go, yeah, sure,: null
+    they have a, worldwide,: null
+    they hold their, you take care of them , they hold their value real well.: null
+    they like us to take them out on their barge quite often,: null
+    they offer classes out at, Ray Hubbard.: null
+    they took us out on the lake several times.: null
+    they're kind of into it.: null
+    they, they just didn't patrol you like they did with the automobile or whatever.: null
+    this one is not that big.: null
+    those catamarans are pretty fast.: null
+    w, all we do here is make transformers: null
+    we decided to sell it.: null
+    we did a lot of watering, , water sports.: null
+    ? we did some water skiing, of course, and, and, driving around the lake in the
+      boat and, and just the basic safety rules and things I found real interesting.
+    : null
+    we do a lot of boating on.: null
+    we do some teaching of sailing with the scouts,: null
+    we don't get to do a whole lot of that up here .: null
+    we go out and take them out on their barge.: null
+    we go to the lake just about every weekend down at Mount Vernon: null
+    we got that thing in the water and had a real good time with it.: null
+    we had a n, different boat every day.: null
+    we had a variety of boats at our disposal .: null
+    we had every kind of things from canoes to paddle boats, sailboats, speedboats,: null
+    we have a swimming pool at our house: null
+    we haven't done m, l, whole lot of it lately.: null
+    we love it up there .: null
+    we never did go out again: null
+    we take it out: null
+    we used to go out with them and back then they had bought an older Chris Craft: null
+    we used to, when I was in high school, we used to go out, go boating every day just about.: null
+    we used to, when I was younger: null
+    we were involved every weekend in just,: null
+    we were using it less and less and less,: null
+    we'd go down there: null
+    we'd go every weekend.: null
+    we'd go for a ride and enjoy it so much.: null
+    we're supposed to be talking about boats,: null
+    we're, we like it down here pretty good.: null
+    what they call trick skis.: null
+    with my little one, I've been out there many times: null
+    would recommend it to anybody.: null
+    you actually, some catamarans you can actually pull people behind, the skiers,: null
+    you couldn't really sleep in there unless you sort of stuck your body out the hole,: null
+    you go down I, you, you go down, yeah, thirty, thirty.: null
+    you name it, they had it: null
+    you paddle your way back in and hope it doesn't start raining on you right away.: null
+    you're just stranded out there trying to pick up what little gusts you can to work your way back in: null
+  Statement-opinion: !!set
+    Boats are kind of expensive to maintain.: null
+    Especially a bigger one.: null
+    I guess for the cost of them you don't really,: null
+    I think you'll like it better,: null
+    It takes a, a pretty good amount of maintenance to keep one up: null
+    It's best done when you have leisure time: null
+    It's probably the prettiest lake in the state of Texas.: null
+    That had to have been fun.: null
+    That sounds like a real challenge.: null
+    That would be fun.: null
+    They're all, yours: null
+    he needs his weekends free, or: null
+    it's a good company.: null
+    it's hard on the f, your folks, too,: null
+    it's hard to get,: null
+    lot of people don't, don't see the excitement in sailing,: null
+    my gosh, that had to be, that's boating.: null
+    of course it's hard when you don't have any family around.: null
+    some people are more motorboaters,: null
+    that's about all we have .: null
+    then, again, they may nev, m, they may never have tried anything like, catamaran: null
+    they can be black holes to throw money into .: null
+    things change, I guess.: null
+    ? when you work hard and you're under pressure and everything all week long, a
+      boat can be a lot of relaxation, to especially with a group of friends and
+    : null
+    you couldn't complain about that.: null
+    you still have to: null
+  Wh-Question: !!set
+    How are you liking it?: null
+    What are your memories of boating,: null
+    What kind of, what lake do you all use?: null
+    What part of Texas you from?: null
+    Where did you all move from?: null
+    Where do you work?: null
+    Where is that?: null
+    Who are you with?: null
+    what do you do for a job?: null
+    what do you,: null
+    what, what major city is nearby?: null
+    where about in Texas is that?: null
+    whereabouts is that?: null
+  Yes-No-Question: !!set
+    Are they primarily electronic, then?: null
+    Did you go fishing?: null
+    Do you work at T I?: null
+    Do you, do you like: null
+    Do, if you get one like that have somebody teach you that: null
+    Have you been sailing?: null
+    Have you got a boat ?: null
+    I guess it's pretty, fishing's a pretty big thing,: null
+    Is it pretty easy?: null
+    Is that centrally located: null
+    Were you sailboating?: null
+    What do you take, I Thirtyfive?: null
+    does that stay pretty constant there: null
+    have you done, any other boating then: null
+    is that for T I: null
+    that's south or north of there or something?: null
+    you ever heard of Lufkin?: null
+    you think you'd really enjoy it?: null

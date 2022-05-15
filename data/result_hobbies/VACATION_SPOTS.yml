@@ -1,0 +1,1740 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    I can wander around without,: null
+    I just have it pay somebody to get into the buildings?: null
+    I wonder, have you ever been to a, a small town,: null
+    Isn't that pretty.: null
+    You lived in Africa?: null
+    You said that you have been to England several times?: null
+    You went by yourself.: null
+    Your family doesn't live close, then?: null
+    it was all a big package deal: null
+    that is like a suburb or something, whatever.: null
+    with the Santa Claus on the cover.: null
+    you lived in France,: null
+    you probably ski very well in Utah.: null
+    you probably wouldn't recommend that as a big tourist spot?: null
+    you've been all through Europe.: null
+    you've been quite a few places there .: null
+    your, your next, your plans are try to find someplace to s, scuba dive.: null
+  Dispreferred answers: !!set
+    my husband is French: null
+  Statement-non-opinion: !!set
+    A lot people say to go down there.: null
+    A pool is great.: null
+    Actually since I grew up in Texas I've only been here about two years and: null
+    Actually they, there was two other graduating seniors besides myself,: null
+    All these places that I've never been .: null
+    Around a thousand.: null
+    As long as I have a shower nearby, I'm fine .: null
+    At least I always did but although my, I like the mountains.: null
+    At the airport they put us on the wrong bus .: null
+    August, eightyeight.: null
+    Austria, I found really pretty: null
+    Before that we were in Hawaii.: null
+    Boardwalk and all that.: null
+    By that time we're ready to get home and get back to our routine.: null
+    Charleston is a really nice place to visit.: null
+    China was a little bit more, of a challenge.: null
+    Colorado Springs is where we're from.: null
+    Cooking class,: null
+    Disneyland, there's still a lot of people at Disneyland,: null
+    Eleven or twelve, I would think, probably: null
+    Enjoy going places where,: null
+    Even, we traveled in Europe for about a week,: null
+    Feel like we've accomplished a little bit here.: null
+    Finally, we saw a policeman.: null
+    Find out where the languages are.: null
+    First time she has been down there: null
+    French cooking.: null
+    Hawaii is my, is number one.: null
+    He kind of likes the casinos a little bit.: null
+    He put us on the subway.: null
+    He, he does that quite a bit.: null
+    He, he hasn't lately, though, because he's been ill,: null
+    Her grandmother lives there: null
+    I absolutely loved it.: null
+    I am actually: null
+    I am not sure.: null
+    I am pretty sure.: null
+    I am, after our last summer's vacation I am antibeach.: null
+    I am, am just in the Publisher's Clearing House and the READER'S DIGEST, because we don't, {F uh,: null
+    I basically, don't want to go to a hot place on vacation .: null
+    I c, my husband and I want to go to Florida: null
+    ? I can say that I think my, my favorite spots are still to go, to go where there's
+      mountains and, and a lot of trees and, and wildlife to view
+    : null
+    I can shop anyplace, shop in London and France and wherever.: null
+    I can, I can do that too,: null
+    I could just sit there all day and look at the scenery .: null
+    I couldn't live without the family vacations,: null
+    I did a lot of just going out by myself and riding on the subway and watching people.: null
+    I did the first night.: null
+    I didn't get to the Great Barrier Reef.: null
+    I didn't know if there was anything else.: null
+    I didn't know that.: null
+    I do like to ski.: null
+    I do not know why it is,: null
+    I do, do like to travel: null
+    I don't get much into urban, really urban areas a lot: null
+    I don't know if I'd like to go there just from: null
+    I don't know we'll have to, to,: null
+    I don't know what our next trip will be, I guess our next,: null
+    I don't know why.: null
+    I don't know, just not nice as Maui.: null
+    I don't mind the pool life at all: null
+    I don't really remember, for ten days including all my meals, a guide, a car, the airfare: null
+    I don't remember: null
+    I don't remember that: null
+    I don't think I went to any of them.: null
+    I don't think he was T I employee.: null
+    I don't think there are any, in that area: null
+    I don't think, hardly anybody lives there,: null
+    I don't, I don't think I could do that .: null
+    I drove from Sidney down to Melbourne and over to Au, Adelaide.: null
+    I enjoy hills, in Texas too.: null
+    I enjoy playing tennis,: null
+    I enjoy the beach.: null
+    I enjoy them.: null
+    I enjoy, I enjoy going to the beach and to beach areas,: null
+    I enjoyed Kauai better, too.: null
+    I enjoyed it.: null
+    I forget the name of the island,: null
+    I go, okay, that the connection,: null
+    I got a call yesterday: null
+    I got to spend a lot of time up in the mountains.: null
+    I grew up most of my childhood in Germany.: null
+    I guess Hawaii is one of my favorite places.: null
+    I guess for places I like to go, I enjoy going to the beach and having, having outdoor, being outdoors somewhere.: null
+    I guess it was kind of like a vacation the,: null
+    I guess my favorite is probably Switzerland and Ireland.: null
+    ? I guess my favorite vacation idea would be to somehow figure out something kind
+      of mobile where you could stop and sleep maybe, like a,
+    : null
+    I guess people Jeep through that area: null
+    I guess that's, those are the only states I have not visited.: null
+    I guess they get people from all over.: null
+    I guess they, they make all their money on tourism: null
+    I guess to do that I'd probably have to take it at home.: null
+    I guess we just like to go someplace, someplace entirely different.: null
+    I had a friend from there.: null
+    I had a friend that, visited England not, I think it's been probably two years now,: null
+    I had a great time doing that.: null
+    I had an aunt that lived there: null
+    I had fondue.: null
+    I had never been out of, out of Texas or out of Indiana much, out of the United States.: null
+    I had two internal, one, two internal plane flights and a couple of other things.: null
+    I have a brother in Minnesota that used to live in Wisconsin.: null
+    I have a daughter in Texas and one in New Mexico,: null
+    I have a little baby thinks he needs to cry now that I'm on the phone.: null
+    I have a opportunity to go to, Paris, France, with, with my friend in April.: null
+    I have also been to the Carribean.: null
+    I have been all over Europe and a lot of the United States: null
+    I have been several times: null
+    I have been to California.: null
+    I have been to Canada several times: null
+    I have been to Europe once and to Haiti and,: null
+    I have been to Hawaii.: null
+    I have been up until just a few months ago.: null
+    I have heard it is.: null
+    I have heard it's wonderful.: null
+    I have never been there.: null
+    I have no interest, for example, in taking a cruise.: null
+    I have not been,: null
+    I have not. Huhuh.: null
+    I have that, too.: null
+    I have two other sisters: null
+    I haven't been all through Europe,: null
+    I haven't been down south.: null
+    I haven't been in, in Georgia or Florida or Mississippi or Alabama.: null
+    I haven't been on vacation in a while either.: null
+    I haven't been there either .: null
+    I haven't been there, anywhere on the East Coast.: null
+    I haven't been to Mexico or Canada or,: null
+    I haven't been to Yellowstone for a long, long time: null
+    I haven't been to many places,: null
+    I haven't been too many places .: null
+    I haven't been,: null
+    I haven't really seen much.: null
+    I haven't, I haven't been anywhere else outside the United States.: null
+    I haven't, I haven't had something like that happen, just, just getting the one guy,: null
+    I hear that's nice.: null
+    I just got my catalog this morning and was looking through it.: null
+    I just grab the car and drive everywhere.: null
+    I just had a friend that got back from Europe: null
+    I just kind of join up when it's something interesting: null
+    I just love going over to Europe because it's so, their way of life is just so different than ours.: null
+    I just love it all.: null
+    I just save vacation for things like that.: null
+    I keep hoping for.: null
+    I keep hoping to win the lottery where I can do all these things.: null
+    I keep wanting to get up to,: null
+    I know I've taken several vacations to Colorado,: null
+    I know some people that went to B Y U.: null
+    ? I know that, one of, one thing that happens to us to vacation trips now is that
+      usually that try to involve some of the members of the family.
+    : null
+    I know they didn't like it.: null
+    I know they've changed it a lot and upgraded everything,: null
+    I know this is a real good time to go, because they are having so many activities and special shows.: null
+    I know what my next trip, I'm going to be a grandmother in July .: null
+    I like Maui.: null
+    I like all of that.: null
+    I like all the nature things there are to look at,: null
+    I like it because the beach is nice and white: null
+    I like seeing other countries and shopping in other places.: null
+    I like shopping.: null
+    I like that kind of stuff.: null
+    I like that too.: null
+    I like to have a tennis court there,: null
+    I like to sight see: null
+    I like, driving to different cities because of the scenery,: null
+    I liked Galveston real well,: null
+    I liked it,: null
+    I liked it.: null
+    I live down in the south western part of Blacksburg.: null
+    I lived across the street almost from Canada .: null
+    I lived in Africa, actually,: null
+    I lived in France for a year and a half: null
+    I lived in Indiana for a while,: null
+    I lived there for seven years.: null
+    I love it down there.: null
+    I love the Carolinas.: null
+    I love the Texas Hill Country.: null
+    I love to go over there,: null
+    I love to go over to Europe.: null
+    I love to look at the different people and the different cultures and: null
+    I love to shop.: null
+    I loved San Francisco.: null
+    I loved it.: null
+    ? I may be seeing them, in a town just west of here, Frederick has a, has a minor
+      league team that plays in the same league with Salem
+    : null
+    ? I mostly went to Germany and visited some friends of my family and, hung out
+      with them, worked a bit on one of their farms and also went to a youth camp.
+    : null
+    I need more.: null
+    I need my creature comforts, too.: null
+    I need something,: null
+    I need to definitely take a vacation where all, all I do is rest.: null
+    I needed to get that continent I ,: null
+    I never asked him the other day how he was connected,: null
+    I never made it off of Oahu,: null
+    I never, got out by myself, or not much,: null
+    I paid about either a thousand dollars or a little bit,: null
+    I prefer a swimming pool .: null
+    I really came to love San Diego and feel very,: null
+    I really don't like to get in the water, the ocean.: null
+    I really enjoyed that.: null
+    I really enjoyed,: null
+    I really have no great urge to go back now.: null
+    I really like the city Wausau in Wisconsin.: null
+    I really liked it there too.: null
+    I remember food .: null
+    I rode a ferry for the first time in my life.: null
+    I said now that we have all the miles,: null
+    I said, I'll going along,: null
+    I said, you are not very tan for someone who has been on a cruise .: null
+    I saw, I went to Disneyland about five times,: null
+    I sell NuSkin, too.: null
+    I stayed, I didn't stay in the top of the line hotels: null
+    I sure would like to go back there and do that again.: null
+    I talked to one in California,: null
+    I talked to somebody from Wisconsin or something the other day.: null
+    I tend, when, when I spend enough money to go overseas ,: null
+    I think I'll try to stay away, except my, my second grandchild will be born in in the winter in January.: null
+    I think I'm kind of a summer vacationer.: null
+    I think Tennessee has been the furthest east I've been.: null
+    I think he wasn't a real mountain man,: null
+    I think if I had, if I had the money, I would probably go to Europe every year.: null
+    I think if we ever go, it will only be for a three day.: null
+    I think it was closer, I think to a full year: null
+    I think it's going to cost us, per couple, about three hundred dollars for the week.: null
+    I think my parents took me there when I was real young.: null
+    I think one of the places I always hit in Colorado, is that current outlet store.: null
+    I think that they have, they have it all over there in just a few tiny,: null
+    I think the, the minimum age for diving is,: null
+    I think they're out of town.: null
+    I think we are going to go with another couple and their kids.: null
+    I think we ate seafood every meal for, not quite every meal, but most meals for a week.: null
+    I think we may be seeing them this,: null
+    I think we would get bored on the boat all the time.: null
+    I think we've been on three cruises.: null
+    I think when we went to England and France, we were there ten, twelve days,: null
+    I think, I would like to go to Arizona.: null
+    I think, there's a lot of places down, even in southern Utah, the canyons, canyon lands and Bryce Canyon: null
+    I think, they do the whole with, paying,: null
+    I thought I would go to Florida a couple Summers,: null
+    I took the trip.: null
+    I traveled with a group of sixteen other students.: null
+    I travelled a lot around the country and met a lot of people.: null
+    I understand that.: null
+    I understand.: null
+    I use the Celltrex.: null
+    I used to live in Colorado, sometime ago for a couple of years,: null
+    I usually come back more tired after my vacation,: null
+    I usually try to catch whoever's in town though, I don't specifically,: null
+    I usually try to combine it with, catching a couple of games somewhere.: null
+    I want to go on another one,: null
+    I want to go someplace different up there.: null
+    I want to go to Alaska.: null
+    I was a little kid then,: null
+    I was already in Hong Kong: null
+    I was born in Saudi Arabia: null
+    I was born there.: null
+    I was by myself in China too.: null
+    I was curious.: null
+    I was doing linguistic work actually, travelling around, finding out about languages, and: null
+    ? I was down there with a program from the college that I went to where we would
+      just spend three months in a foreign country, most of them third world countries.
+    : null
+    I was grade school age.: null
+    I was in Phoenix in January, last January: null
+    I was in Utah, in Salt Lake City when I was a, youngster.: null
+    I was just wondering what it was like.: null
+    I was standing in water not more than, in barely above my ankles: null
+    I was standing there talking to my daughter: null
+    I was there longer,: null
+    I was thinking, cruise I am thinking.: null
+    I was very young: null
+    I was working in Cameroon, Africa: null
+    I was working with an organization that does Bible translation.: null
+    I wasn't a great asset to them or anything .: null
+    I we, we read Bruce book before we went,: null
+    I went on a cruise.: null
+    I went skiing once.: null
+    I went there when I was in high school, actually: null
+    I went to Beijing, Shanghai, Chengdu: null
+    I went to England: null
+    I went to England,: null
+    I went to Europe for six weeks after I graduated from college: null
+    I went to Hawaii and then to Australia: null
+    I went to Mackinaw Island: null
+    I went to a vineyard or two in Germany.: null
+    I went to a youth camp that included working at an old people's home: null
+    I went to, the Bahamas last year, on a cruise for my honeymoon.: null
+    I wish we did .: null
+    I worked up there last summer,: null
+    I would also like to go to Australia: null
+    I would have to say we both end up going to Las Vegas, probably once every maybe year and a half.: null
+    I would just love to just drive through the United States and stop and see people I know,: null
+    I would like to go back.: null
+    I would like to go to Africa.: null
+    I would like to go to Ireland.: null
+    I would like to go to Tempe.: null
+    I would like to maybe not take great long trips, but, but have your home base, where your home is: null
+    I would like to.: null
+    I would love to go there.: null
+    I would rather much rather get on a plane and get there: null
+    I would still like to see it.: null
+    I would travel everywhere: null
+    I would, I would spend all my time in London,: null
+    I would, we've been talking about going there next summer .: null
+    I'd have to have a tour guide with me to: null
+    I'd like to go just sight see a little bit sometime.: null
+    I'd like to go on vacation.: null
+    I'd like to go to Hawaii some time,: null
+    I'd like to go to New Orleans.: null
+    I'd like to see, Italy.: null
+    I'd like to take him there.: null
+    I'd like to,: null
+    I'd like, I'd like to do that.: null
+    I'd love to go back.: null
+    I'd love to go to the East Coast, during the Fall.: null
+    I'd, I'd like that.: null
+    I'd, I'd love to go back there.: null
+    I'm a NuSkin person.: null
+    I'm a real big baseball fan: null
+    I'm calling from, Provo, Utah,: null
+    I'm fortytwo,: null
+    I'm from Indiana: null
+    I'm from Plano, Texas.: null
+    I'm going to go for, almost two weeks this winter.: null
+    I'm hoping to g, I'm praying I get to go.: null
+    I'm in Garland.: null
+    I'm in the Dallas area.: null
+    I'm jealous .: null
+    I'm just about, a half hour, north of Salt Lake.: null
+    I'm kind of anxious for that,: null
+    I'm kind of looking forward to that, except I hate to see them go.: null
+    I'm know real sure there are,: null
+    I'm my best customer.: null
+    I'm never going to another beach again, ever.: null
+    I'm not real interested in Williamsburg because of the, of the price attached,: null
+    I'm not sure whether I would like to or not.: null
+    I'm probably going back there to work,: null
+    I'm sorry, three years ago.: null
+    I'm thinking of going back to work .: null
+    I'm tired of them .: null
+    I'm trying to think of the ones that I've been on that I liked the most: null
+    I'm twenty.: null
+    I'm wanting to go there.: null
+    I'm, I'm a West Texan.: null
+    I'm, I'm a big Red Sox fan,: null
+    I've already ordered from that one,: null
+    I've always wanted to go there.: null
+    I've be, I've been lots of places.: null
+    I've been a, I was a travel agent.: null
+    I've been in Sherman.: null
+    I've been over there too.: null
+    I've been to Nassau, too.: null
+    I've been to San Francisco.: null
+    I've been to the Galapagos Islands.: null
+    I've been wanting to go to the West Texas, and see different parts of Texas, because I haven't lived here very long,: null
+    I've gone up to Indianapolis on occasion to visit friends: null
+    I've got relatives there: null
+    I've heard it is.: null
+    I've heard it's really pretty up there.: null
+    I've heard it's really pretty.: null
+    I've heard to go to Austin too.: null
+    I've heard,: null
+    I've just requested that they send us two of our coach tickets: null
+    I've never been on a cruise.: null
+    I've never been there.: null
+    I've never been to Tempe.: null
+    I've never been up there.: null
+    I've never been up to the Yellowstone area.: null
+    I've never been,: null
+    I've never quite seen waves like this one: null
+    I've never thought about a cruise.: null
+    I've never visited Baltimore.: null
+    I've never,: null
+    I've only been here for the last ten years,: null
+    I've only been there once.: null
+    I've pressed the button.: null
+    I've seen pictures,: null
+    I've taken a train before to California.: null
+    I've touched on that.: null
+    I've worked there about a year.: null
+    I've, I've always, I've talked to people who have been to Africa,: null
+    I, I am from Denver: null
+    I, I could have had that or a down payment on a new car: null
+    I, I didn't go,: null
+    I, I do enjoy camping.: null
+    I, I grew up in Dallas,: null
+    I, I guess I've never really thought about it that way.: null
+    I, I hadn't been down in that part of the state really.: null
+    I, I haven't seen, her house in Piedmont: null
+    I, I lived in the Alps in France: null
+    I, I love to go and play around.: null
+    I, I said I do like to ski.: null
+    I, I tend to, take two kinds of vacations, the vacations to visit family: null
+    I, I'd, actually I did visit Hawaii once: null
+    I, I'm a diver: null
+    I, I, I really enjoyed that.: null
+    I, I, am close to receiving my English degree, as, as, well as my, my, graduate degree,: null
+    ? I, I, think, maybe, four summers in a row, we spent, our vacation time in the
+      summer, four wheeling through, portions of, the southern half of Colorado
+    : null
+    I, drove a tractor, helped them weed beets and that sort of thing.: null
+    I, go to Cleveland to see them play,: null
+    I, got sick.: null
+    I, have been there a couple of times.: null
+    I, keep wanting to get further,: null
+    I, my dream vacation is Alaska.: null
+    I, once when I had a chance in France to go on vacation instead of travelling around France I went to Germany: null
+    I, there's lots and lots of real, of mountains that are covered with, boulders.: null
+    I, we have thought very seriously of trying to, incorporate travel into and writing a book about, some portion of travel,: null
+    I, went to Purdue for a couple of years,: null
+    I, yesterday, I ended up talking to somebody else from the same lab I'm in.: null
+    Idaho, is where I live,: null
+    If you like that kind of thing .: null
+    If you're ever interested in going the route, I dealt with this woman,: null
+    If, if, if there was some place that, that we went to where there was hiking involved, I, I would be happy to go hiking,: null
+    In fact, we had been in Dallas: null
+    It brings back a lot of memories.: null
+    It didn't rain for a whole week.: null
+    It had been dry for a whole week.: null
+    It is beautiful.: null
+    It is called, Bemerton?: null
+    ? It is kind of a backward S shape, trail that the pilgrims use to take, in, in,
+      back in the medieval times, to see the relics, in, southern Spain
+    : null
+    It was a little more mile wise: null
+    It was a very interesting vacation.: null
+    It was all part of the package.: null
+    It was bad,: null
+    It was just insane twelve days where we'd just stop like a city a day,: null
+    It was real pretty.: null
+    It was really fun.: null
+    It was really neat,: null
+    It was really pretty down there.: null
+    It was so relaxing and a really neat part of the country: null
+    It was the coldest it's been there ever in January ,: null
+    It was the same way,: null
+    It was very modern.: null
+    It was wonderful,: null
+    It was, in the summer: null
+    It was, it was a lot of fun.: null
+    It was, it was super,: null
+    It was, to see an old relative.: null
+    It's a little far from here,: null
+    It's a little, sort of getaway retreat village not far from Shanghai.: null
+    It's a place called Jetty East, J E T T Y E A S T,: null
+    It's a place my girlfriend's also wanted,: null
+    It's a whole new,: null
+    It's about a hour away from Madison.: null
+    It's amazing.: null
+    It's been a long time.: null
+    It's by, Boise.: null
+    It's gorgeous, absolutely gorgeous.: null
+    It's in the middle of Michigan: null
+    It's just a train ride.: null
+    It's just gorgeous over there.: null
+    It's nice out there.: null
+    It's pretty busy, though,: null
+    It's really pretty.: null
+    It's really, they had,: null
+    It's this house built on, on a waterfall: null
+    It's very interesting.: null
+    It's yucky.: null
+    It's, it's a beautiful drive.: null
+    It's, it's a pretty ride up there, too.: null
+    It's, it's in the Caribbean: null
+    It's, it's just like any of the other national parks.: null
+    It, that's probably,: null
+    James and I like,: null
+    Just walking that's all .: null
+    Kauai was nice and Maui was nice.: null
+    Kenosha, Wisconsin.: null
+    Kind of scattering the vacation out, throughout the year.: null
+    Last ti, last two times, in fact, we had an outside room: null
+    Last time she stayed two months,: null
+    Little bit of s, of, ,: null
+    Most of, most, most of the land's pretty brown.: null
+    My dad has been talking for years about, getting a fifth wheel: null
+    My daughter is, a twirling champion: null
+    My girlfriend was down there a few months ago.: null
+    My grandparents live there.: null
+    My hus, my husband had a bicycle tour of Europe, took a bicycle tour about five months right after the second world war: null
+    My husband always wants to go to Destin,: null
+    My husband hasn't been to Europe yet: null
+    My husband would,: null
+    My last vacation was actually in Morocco I guess: null
+    My sister lives in Piedmont.: null
+    My sister lives in Plano.: null
+    My sister lives out there .: null
+    My, my sister lives in Charlotte: null
+    Nassau, San Juan, Saint Thomas.: null
+    No professionals .: null
+    Now we did, what we sometimes do since we are in Ohio: null
+    Now, my kids are moving to Toronto,: null
+    Oahu naturally has got more people on it than the other islands.: null
+    Older than you are.: null
+    One year we went to the southwest corner of Colorado, into Durango and north of the area there.: null
+    Our family had a reunion last year that was kind of like that, too,: null
+    Our friends live like an hour outside of England, like Ash, around there.: null
+    ? Our last big trip, we drove through New Mexico and Colorado and went to the
+      Grand Canyon and, and, back through Silverton and Durango
+    : null
+    Our next vacation will, will be scuba diving,: null
+    Our soninlaw is from Panama.: null
+    Our, our climate's real dry: null
+    Probably, when we go to Wisconsin .: null
+    Quite frequently.: null
+    Rocky Mountain National Park.: null
+    Salem Rebels,: null
+    Sea shells.: null
+    Seattle is beautiful,: null
+    She is, her, her family, lives there,: null
+    She moved out because she said the whole island was, being taken over by the Japanese.: null
+    She said she went on a cruise.: null
+    She said we went to Alaska .: null
+    She was living in Lafayette.: null
+    She went last year.: null
+    Some, something like, what's the, like the Volkswagen Vanagon.: null
+    Someplace that's very different than Texas.: null
+    Sure is pretty up there.: null
+    Take, for the twenty to, hour and ten minutes that it takes to get across and, depending on where it is.: null
+    That is like my favorite hobby .: null
+    That is really beautiful.: null
+    That is right my hairdresser .: null
+    That is what I am afraid of.: null
+    That is what she had originally gone to school to do. Was photography: null
+    That is where I have always wanted to go.: null
+    That really surprises me.: null
+    That sounds like the way I'd want to do it: null
+    That was easy to say .: null
+    That would be quite a project.: null
+    That's generally our usual summer vacation.: null
+    That's on Route two eightyseven or something like that.: null
+    That's where I'd like to go.: null
+    That's where we go.: null
+    That, there is some on that west coast of France: null
+    The coastline was just incredible.: null
+    The downtown is all little shops and candy shops: null
+    The first, the first one,: null
+    The last one was back down to Lubbock, Texas,: null
+    The last time I went, I went with my two sisters.: null
+    The only thing I didn't like was in some of the more touristy areas: null
+    The only thing that I, I visited that, is quite a tourist spot is Cancun, Mexico.: null
+    The people there are just very, very friendly: null
+    The, the worst place was in Marrakech: null
+    Then I finally made it to England, too, on my way home,: null
+    Then I, I'd love to go somewhere in Asia,: null
+    Then you can stay with them,: null
+    There were some people at the next table who spoke English,: null
+    There's a lot to do up there.: null
+    There's hills in Texas.: null
+    There's just not time .: null
+    They always have bingo.: null
+    They go upstairs and have their morning coffee.: null
+    They had been to Disneyland,: null
+    They have a casino.: null
+    They have exercise,: null
+    They have mountains.: null
+    They have shorter ones: null
+    They live in a small town called David, which is northern Panama up near Costa Rica.: null
+    They're located: null
+    They're up there also, my grandparents and: null
+    They've been there eight years.: null
+    They, they've been in San Diego for the last few years,: null
+    This is home,: null
+    Those are kind of fun places.: null
+    To the top the of the peak,: null
+    Tried to get fondue and white wine,: null
+    U T is real pretty.: null
+    Unless I'm going somewhere warm: null
+    Up by Napa.: null
+    Utah is a pretty state from what I remember of it.: null
+    Very clean.: null
+    We are, we have not had a vacation in several years,: null
+    We both still have family there.: null
+    We did, last year, though, go to San Antonio for Memorial Day: null
+    We do a lot of traveling around.: null
+    We finally followed some kids who told us where to get off.: null
+    We followed these kids with, gym bags: null
+    We found one restaurant we were in and got seated,: null
+    We had about, a little bit less than two weeks.: null
+    We had s, a few showers, but, nothing that really got in the way with anything and just very brief ones: null
+    We had to have, eleven people for,: null
+    We had, we had a great time.: null
+    We have a business trip every fall.: null
+    We have a nine year old.: null
+    We have got a beautiful view and balcony,: null
+    We have, we've gone past the camping stage.: null
+    We haven't been lately: null
+    We haven't skied at Broadmoor.: null
+    We just hang out: null
+    We left on the eighteenth, right before that big snow storm hit Colorado: null
+    We live up, up, Lake, in the Broadmoor area: null
+    We lived in Chattanooga, Tennessee for two years.: null
+    We looked at each other.: null
+    We played tennis outdoors until last week,: null
+    We really didn't do that really this time, we just, visited around.: null
+    We really hope, hope so.: null
+    We really lucked out because the ship we were supposed to be on developed engine trouble two days before our cruise,: null
+    We rented a car and drove pretty much everywhere.: null
+    We said things like spaghetti .: null
+    We sat there,: null
+    We stayed at,: null
+    We still have a lot to see, though.: null
+    We used to camp a lot with our: null
+    We usually go over to Bear Lake in the summer, which is kind of on the border of Idaho and Utah,: null
+    We went there last year at Christmas time: null
+    We went to Colorado Springs and, Rocky Mountain National Park.: null
+    We went to Kauai,: null
+    We went to Oahu and Kauai.: null
+    We went to, Cape Hatteras.: null
+    We went two cruises that hit those islands, but with different people.: null
+    We went up, through Oklahoma City: null
+    We went years ago.: null
+    We went, six months after we were married.: null
+    We went, the first time we went to London, Europe and touched a little bit of Scotland .: null
+    We were an hour away from the mountains or an hour away from the shore.: null
+    We were closer and, used to go almost every summer, and, rent a condo there on the beach.: null
+    We were down,: null
+    We were going to get a really good price.: null
+    We were there for ten days.: null
+    We will head for, we will head for Florida, maybe in somewhat of an off season, instead of summer.: null
+    We'd be going again this, this year if circumstances hadn't changed.: null
+    We're from Illinois originally.: null
+    We're going to get down, probably down Norfork sometime this Summer,: null
+    We're going to go in March after my children's birthdays and get all that business out of the way.: null
+    We're going to take a cooking class there,: null
+    We're looking forward to one in October to Disneyworld in Florida.: null
+    We're, we're getting married in about,: null
+    We've been there twice.: null
+    We've been to Europe twice.: null
+    We've been to Germany twice.: null
+    We've been to a few places in this country.: null
+    We've done it a couple of times: null
+    We've gone on CARNIVAL CRUISE LINES.: null
+    We've gone out to, a place in western Pennsylvania called Falling Water.: null
+    We've gone to, Germany, Switzerland, Austria, Ireland and England.: null
+    We've really enjoyed them.: null
+    We've, I haven't been much to the south,: null
+    We've, as I said, we've done them three times.: null
+    We've, we've travelled in a big one.: null
+    We, I live in Yakima, Washington.: null
+    We, I was there as a child and then we, we went to California and came back through Yellowstone with our kids.: null
+    We, we found that in Jamaica.: null
+    We, we made a trip up the East Coast.: null
+    We, we took a cruise: null
+    We, we've gone with friends each time.: null
+    We, we've tra, we've moved around enough so that we now have people in different parts of the country.: null
+    We, we, each got to write little books.: null
+    Went to Alcatraz.: null
+    Went to Panama last August.: null
+    When, when our children were younger, we enjoyed, we lived up in, New York,: null
+    When, when we were in Jersey, we used to go down to the Jersey beach a lot, and really enjoyed that a lot.: null
+    Worked at a camp there,: null
+    Yellowstone,: null
+    You always learn something.: null
+    You can go,: null
+    You can sit in the sun all day around the pool,: null
+    You could just kind of ,: null
+    You may meet people, thirty years older than you, or younger,: null
+    You name it, I haven't been there .: null
+    You park your car,: null
+    You put your clothes in your room,: null
+    You walk upstairs: null
+    You, you can be as busy as you want to be, or as laid back as you want to be.: null
+    a couple of them it was, what we did in some of the other cities: null
+    a friend of mine who had gone for a business trip to China: null
+    a lot of my travel has been sort of based around conferences or business meetings: null
+    actually I lived there,: null
+    after that it was, it got better,: null
+    after the first time it is like anywhere.: null
+    after there I went to Hawaii,: null
+    and just kind of relaxed and unwound a little bit,: null
+    any time we had a school vacation or something like that we went down to Los Angeles,: null
+    any, any vacation that we go on is usually,: null
+    as I said, basically all I've done is go back and forth to parents: null
+    ? as far as, maybe, maybe as the summer heat comes along I would sort of like
+      going somewhere where it's not so hot. And being able to be outside, enjoy outside
+      activities,
+    : null
+    as of you can't even ski there anymore.: null
+    basically it, it sorts out into that,: null
+    be our first chance in awhile,: null
+    because we had to take our dog in the car, there was no room for luggage.: null
+    ? because we moved to Texas about two years ago. So when we go back we are just
+      jam packed full of people to see and things to do
+    : null
+    because you could go sixtyfive miles an hour on the,: null
+    both coasts are really pretty: null
+    camping is not near as much fun.: null
+    course, there is a lot of places in the United States I still want to come, go to.: null
+    enough, enough to make it.: null
+    every time, my mother had,: null
+    everyday they drive on the ferry.: null
+    everyone in Switzerland,: null
+    from Kenosha, it's about three hours.: null
+    go across the border and all.: null
+    go to museums and,: null
+    growing up, we would spend most of our vacations right there in Colorado.: null
+    had about three kids then I think,: null
+    have not been to Spain.: null
+    he didn't like Oahu at all .: null
+    he really did.: null
+    he would give a little talk about mountain things.: null
+    he'd make sassafras tea out of sassafras roots that he'd found: null
+    he'll say, this is my itinerary.: null
+    he's been known to be gone for a month or two at a time: null
+    he's going to be,: null
+    he's in his sixties,: null
+    he's never met them,: null
+    he's retired: null
+    he's traveled all over the United States: null
+    ? he, would like to just get a fifth wheel and just travel across the country
+      and spend a month here or a couple of weeks there,
+    : null
+    her husband is the new Director of Admissions at, University of Texas at Dallas.: null
+    her name was Rita at China Tours in Boston .: null
+    his father is a, a doctor: null
+    his mother is a kindergarten teacher,: null
+    his, his folks did a lot of traveling across country.: null
+    hopefully, we'll get to travel a little bit too.: null
+    if it's at the beach, the beach is great.: null
+    if you go further down, you will usually find some, but not right in there.: null
+    in fact I didn't eat out that much there because I was traveling by myself in a car,: null
+    in fact some of the days we froze.: null
+    in fact, I just got some reservations.: null
+    in fact, one, family that sat at our table every meal was from London,: null
+    in fact, we stayed there on our honeymoon,: null
+    in some places,: null
+    in the middle, in the middle of the Summer.: null
+    in the position he's in, they don't care if I go along.: null
+    in, in the summer would be more like a two month, two month break.: null
+    it depends where he's going whether or not I decide to go along: null
+    it doesn't matter who it is: null
+    it doesn't, doesn't pay.: null
+    it ended up being kind of nice because you're not accountable to anyone.: null
+    it ended up falling a, falling through.: null
+    it has just worked out really well with this, position he's in.: null
+    it is actually about thirty minutes from Salisbury.: null
+    it is beautiful.: null
+    it is commercialized.: null
+    it is like Oahu,: null
+    it is my favorite.: null
+    it is really nice: null
+    it is still beautiful.: null
+    it just seemed like it would be a fun place to go.: null
+    it loses that newness,: null
+    it only cost you about a thousand dollars to go there: null
+    it ought to just be a ball.: null
+    it really depends,: null
+    it really is pretty.: null
+    it really is,: null
+    it seems not, it seems not to have as many there, right there.: null
+    it takes a while just to even get to the, what I would call the more picturesque part of the country,: null
+    it tore the ligaments in my knee .: null
+    it was a four day: null
+    it was a really nice,: null
+    it was beautiful: null
+    it was beautiful.: null
+    it was better but not a whole,: null
+    it was fun.: null
+    it was great.: null
+    it was her, on T I Network .: null
+    it was neat to meet different people.: null
+    it was over Christmas time.: null
+    it was rainy .: null
+    it was rainy and icky.: null
+    it was really cold and, and rainy: null
+    it was really oriented toward little kids.: null
+    it was their winter: null
+    it was twentyseven below.: null
+    it was very far away on a bus.: null
+    it was wonderful.: null
+    it was, it was really, it was interesting.: null
+    it was, it's really, it's sort of a weird little anonymous feeling where no one knows who you are: null
+    it was, just to, have some fellowship with her.: null
+    it wasn't a tremendous thing, amount of things to do.: null
+    it wasn't real rainy.: null
+    it will be at this time of the year: null
+    it will take, a day and a half to get there, probably.: null
+    it would be: null
+    it would have been nice. It would have been a nice vacation.: null
+    it wound up only taking us about an extra hour.: null
+    it's a bird sanctuary,: null
+    it's a fun few days.: null
+    it's a good town to just,: null
+    it's a good town to wander in.: null
+    it's a lot of fun.: null
+    it's a pretty neat down to just go and walk around, if you like to walk,: null
+    it's a pretty nice place,: null
+    it's a real different, land and scenery than there.: null
+    it's a real pretty place.: null
+    it's a, a huge amusement park: null
+    it's a, at the very end,: null
+    it's all right there.: null
+    it's cold and rainy today.: null
+    it's fun to be with my cousins.: null
+    it's fun. take along a picnic lunch: null
+    it's great.: null
+    it's hot down here: null
+    it's just a big, big tourist attraction.: null
+    it's just kind of tourists.: null
+    it's just simply beautiful.: null
+    it's kind of shaky.: null
+    it's like ten dollars a day or something: null
+    it's mostly a, a summer, summer place.: null
+    it's not a, it's not a place for tourists,: null
+    it's not home.: null
+    it's not very expensive,: null
+    it's only a couple of hours away.: null
+    it's pretty fun.: null
+    it's really a nice stay.: null
+    it's right down there, on the, right there on the ocean, and down there on the wharf by the piers and all,: null
+    it's right there at the very foot of the Rockies.: null
+    it's the last set of condominiums there,: null
+    it's the western half of an island,: null
+    it's up by Green Bay.: null
+    it's very pretty driving up north in Wisconsin too.: null
+    it's very pretty.: null
+    it's, called that because it's at the very end of, a jetty there, which is,: null
+    it's, it will be probably the most exciting place I'll ever get to go.: null
+    it's, it's a different life style than we are used to.: null
+    it's, it's beautiful white sand and very clear blue green water, and a,: null
+    it's, it's gorgeous.: null
+    it's, it's kind of nice being up here just because it's all a vacation in itself when you get to go.: null
+    it's, it's really neat.: null
+    it's, it's very nice.: null
+    it's, really cool .: null
+    it's, there's not a language barrier: null
+    it, it is our big dream.: null
+    it, it wasn't more of a challenge in a sense because I hired a guide all the time,: null
+    it, it's a little scary too when they're coming up and they're all over you.: null
+    it, it's, it's a fairly common vacation place for French people to go: null
+    it, that was really, really fabulous: null
+    just a little day thing on business.: null
+    just see, see the rest of the country.: null
+    just so we don't, haven't been able to take really.: null
+    just ten months.: null
+    just the photos I have of it and gosh, incredible and be so close,: null
+    kids are really cheaper, too.: null
+    landed at Cape Canaveral and then drove over to Orlando and spent four days at Disney.: null
+    like you, we always try to make it, back home to see the relatives.: null
+    live on an island off, off shore from Seattle.: null
+    mainly just being with family is it.: null
+    maybe fifteen even.: null
+    maybe it was about a thousand dollars, maybe a little bit less,: null
+    maybe, maybe within a year, we will see how that falls .: null
+    most of my vacationing in the U S has been on the West Coast: null
+    most of the people I've talk to are from, are from Texas,: null
+    most people talk to Texas,: null
+    most the places we went, we went to Germany and Switzerland and,: null
+    mostly Germany and France.: null
+    mostly I travel through Germany and Switzerland: null
+    my God, you do everything.: null
+    my cousin came over while I was there,: null
+    my daughter's a temp at Texas Instruments,: null
+    my experience in Italy was not my favorite for sure.: null
+    my family is, real into camping and four wheeling,: null
+    my father was working down in Los Angeles for like, six months or so,: null
+    my favorite is the, the indulgent ones, where we go off and, and, see places that have interested me since I was a kid,: null
+    my fiancee is a very very good photographer.: null
+    my girlfriend has with her sisters: null
+    my grandparents have a pool: null
+    my husband and I are scuba divers.: null
+    my husband and I both like water,: null
+    my husband has been hearing about these people for years: null
+    my husband liked it better than he did Hawaii.: null
+    my husband travels a couple times a month: null
+    my husband works in Salt Lake,: null
+    my husband's family lives just off of Academy Boulevard at Maize land.: null
+    my last vacation was in Connecticut.: null
+    my more exciting spots have been,: null
+    my most recent trip was last year,: null
+    my mother and his mother live up there feeling: null
+    my mother had us, do some studying of the, the, area which we going to visit: null
+    my next trip is going to be to Texas .: null
+    my, fiancee's family's from Wisconsin: null
+    my, my middle daughter and her husband have just taken up a new activity,: null
+    my, sister lives on Lake,: null
+    never did it.: null
+    no one knew English in there,: null
+    normally when we go on vacation we go home, to Colorado.: null
+    north, north of that is another town and, a smaller, on a smaller scale, I guess, than Silverton.: null
+    not her, necessarily, other people that have been there have said that it is too commercialized.: null
+    not much else we do for vacation really,: null
+    not much of,: null
+    not that much .: null
+    not too much into sports.: null
+    now I'm getting about sixty bucks a month, free products: null
+    now you can get some really good deals flying over,: null
+    of course when that movie OUT OF AFRICA came out .: null
+    of course, always when I lived in West Texas, had to annually go down to San Antone just,: null
+    of course, we keep picking crummy weather to go out there,: null
+    on the cruise ship they had Mickey and Minnie and Chip and Dale and Goofy and Donald Duck,: null
+    once a week we drive up into the mountains, usually, usually once a week, once every other week.: null
+    once we flew to Colorado to Denver: null
+    once you're there you still have to spend money .: null
+    once, about once every three or four years I try to get over to England, because I lived there for a while,: null
+    one foot did not come out of the sand,: null
+    one of my sisters got sick,: null
+    one of my very favorite is Las Vegas.: null
+    one of the areas down there close to Galveston is,: null
+    one of these days we'll get down there, although .: null
+    our Disney was extended a day,: null
+    our daughter and her husband are talking now about starting camping with their boys now that they have gotten older.: null
+    our kids loved it and everything: null
+    our son and daughterinlaw just, they got married last January and they won a cruise.: null
+    our, our standard excuse for not going someplace like that is, Holly would starve to death if we, we took her: null
+    over there, every time we'd go and, and eat dinner or lunch or whatever we'd always have to ask for the check: null
+    presently we have quite a few frequent flyer miles: null
+    probably the one I liked most was Hawaii .: null
+    probably, maybe the rejuvenating cream is the only: null
+    really at our point of life our children are grown: null
+    really did.: null
+    really, after awhile it really gets annoying,: null
+    second time we went to Munich, Germany and were there a week, and loved Germany.: null
+    see as much as: null
+    seems like I do a lot in the Midwest lately,: null
+    she came to Cameroon: null
+    she couldn't stand it any more.: null
+    she had to perform over there and, in Turin: null
+    she is laying on the beach.: null
+    she just gave me this woman's name to contact: null
+    she really has a great desire to do that,: null
+    she was in Berkley also: null
+    she was there all winter semester.: null
+    she went over to Nairobi and took a safari around: null
+    she would like to go to Spain.: null
+    she'd always dreamed of doing that too.: null
+    she's nine,: null
+    she's old enough to really grasp: null
+    she's only been there once.: null
+    she's talking on the project too: null
+    she's, working on this project too,: null
+    she, also told me that,: null
+    she, she had this, book of pictures from it that were really nice, kind of like a travel guide: null
+    some people did, on that last cruise that we took because they was having a storm come in: null
+    someday I hope we can afford to just take a humdinger of a vacation up there.: null
+    somehow we picked the right time and, walked down on the wharf,: null
+    someone I know was on a cruise to Alaska.: null
+    starting, starting at the end of July, we will have two vacation weeks in October and two vacation weeks in March.: null
+    th, there are exceptions made for special occasions like that.: null
+    tha, I highly recommend that way to go.: null
+    that I was when I was a baby: null
+    that is about it for me.: null
+    that is right near Piedmont.: null
+    that is unusual.: null
+    that is where I want to go.: null
+    that might be fun.: null
+    that should be a lot of fun.: null
+    that there were several hundred, people: null
+    that turned out to be a really good experience for me.: null
+    that was Detroit.: null
+    that was a great time, because it's that's such a neat place: null
+    that was a really fun, interesting trip.: null
+    that was about a year and a half ago,: null
+    that was even nice because there wasn't, the,: null
+    that was fun,: null
+    that was nice.: null
+    that was one of the most wonderful vacations I've ever had.: null
+    that was our experience: null
+    that was pretty interesting.: null
+    that will be an interesting turn on vacations for our family.: null
+    that will be hard to stay away from.: null
+    that would have been nice.: null
+    that's Door County .: null
+    that's a nice little town actually, Frederick,: null
+    that's about it,: null
+    that's canoeing.: null
+    that's enough for, probably another twenty years.: null
+    that's her next goal, she can do it, } is go back to England,: null
+    that's it was really different being in a big city,: null
+    that's just aboard ship.: null
+    that's my biggest gripe about living here.: null
+    that's not the tradition for us.: null
+    that's one of those things,: null
+    that's probably my favorite place when I have to go somewhere on a vacation.: null
+    that's real pretty over there too.: null
+    that's the best place that I've ever canoed.: null
+    that's the only thing that they really do not,: null
+    that's what everybody says,: null
+    that's where my fam, my inlaws are.: null
+    that's where we go home, too.: null
+    that's why, that's why England was nice.: null
+    that's, that's our typical vacation,: null
+    that, that I would like to go,: null
+    that, that does absolutely nothing for me.: null
+    that, that's what I, that's what I would like to do.: null
+    the Aquarium is one of those things that, because everybody,: null
+    the Davis Mountains are interesting,: null
+    the Inner Harbor and the,: null
+    the Pacific Science Museum, the little girl really enjoyed.: null
+    the bay is circulating over your head,: null
+    the beaches are nice,: null
+    the closest thing I did was go to some restored castles and stuff.: null
+    the fartherest south I've been on the East Coast is Charlotte.: null
+    the first time we went out there was, the day after hurricane Hugo had come through .: null
+    the furthest I drove was probably Texas,: null
+    the hotel that we stayed in,: null
+    the kids could eat with Chip and Dale,: null
+    the kids in Los Angeles didn't: null
+    the kids were getting older and, and were involved in activities so the camping sort of went by the wayside.: null
+    the kids were old enough to really enjoy it.: null
+    the lake goes on forever,: null
+    the last was back down to Lubbock to visit parents.: null
+    the love that she, has for it now after visiting it.: null
+    the minute I said the word, he, he, he's chomping at the bit.: null
+    the neighborhood that we live, they are switching to an alternate calendar this year,: null
+    the one we got is on the, on the beach side.: null
+    the only other place I've ever vacationed, we'd, go on camping trips up to Texoma and things like that.: null
+    the other cities it wasn't nearly as bad: null
+    the other one didn't: null
+    the other ones are very special getaways,: null
+    the other place I would like to visit,: null
+    the place that I went, that we've gone on vacation that I think I enjoyed the most,: null
+    the place where we stay is, we usually stay at the same place every year,: null
+    the reason I am curious, I,: null
+    the river walk.: null
+    the ship that was available, the only, rooms that hadn't been booked were the suites.: null
+    the summer we have a, we have a, a reunion in, in Salt Lake area up by Park Cities.: null
+    the types of vacations that I usually take,: null
+    the vacation spots that I like to go to are places like the Bahamas and Florida.: null
+    the, it has got its own kitchen, full size,: null
+    the, the particular ro, suite we had gotten was very nice: null
+    the, the waves were huge.: null
+    then I took a train up from Shanghai to a little, Quingdao I think is the name of it.: null
+    then our cruise was actually extended a day,: null
+    then that's kind of a family visit and a vacation all up and down the coast: null
+    then we were on the cruise for three days in the Bahamas,: null
+    then we weren't too for from the Appalachian Trail,: null
+    there are people, literally that everyday, take the ferry, and drive,: null
+    there is, there is a lot of Japanese over there.: null
+    there there's a little bit, because there's some of those English words that you just don't exactly know what they mean,: null
+    there was another, another amusement park down there, Busch Gradens,: null
+    there was nobody there when we were there, we got, we won a log floating ride like five straight times,: null
+    there was one year when my father was, my father's company was starting to do stuff down in Los Angeles,: null
+    there wasn't ever a language problem there, because everyone in Germany knew English: null
+    there were just two of us.: null
+    there would be kids there that were excellent at ripping you off,: null
+    there's a lot of little limestone lakes and caverns around that area, Marble Falls and all.: null
+    there's a lot of places in the states that we haven't even gone.: null
+    there's a nice, nice train ride that goes up to the city of Silverton where they used to do a lot of silver mining.: null
+    there's a place I'd like to visit .: null
+    there's all age grou, groups too,: null
+    there's beaches: null
+    ? there's been a couple of other the people, most of whom are like me that work
+      in, in speech labs that are going to use data base,
+    : null
+    there's camping and fishing and hiking and wildlife watching: null
+    there's kind of like a little, a little thing sticking out, in the Lake Michigan,: null
+    there's mountains: null
+    there's not as many sea shells along there,: null
+    there's one in Salem, Salem Rebels.: null
+    there's quite a few, there's a lot of development of, of condominiums there on the beach front.: null
+    there's walrus and sea lion and porpoises, it's,: null
+    there's, there's a lot to see here: null
+    there's, there's some nice things in Baltimore,: null
+    they all kind of met at a central place.: null
+    they also, have been to, I guess Colorado,: null
+    they are, like I say right on the beach.: null
+    they closed it down.: null
+    they do have a Mardi Gras night planned.: null
+    they don't have enough money: null
+    they gave us all the wrong directions: null
+    they had a good time: null
+    they had a little mountain man who came down the river every night,: null
+    they had closed the whole road because of, fog,: null
+    they had never been to the United States,: null
+    they had put a Christmas tree on the beach: null
+    they have a massage parlor.: null
+    ? they have a, we have a, I think it's three bedroom or two bedroom, condominium,
+      which will sleep, I do not know, quite a few ,
+    : null
+    they have quite a few rooms, we, we will usually rent one for about a week or so.: null
+    they have some, but not, not so much.: null
+    they have ten day ones.: null
+    they have, they are very, very large condos.: null
+    they hope to boost the, they hope to boost the learning of the children.: null
+    they keep everyone else away from you.: null
+    they loved it.: null
+    they moved to Piedmont.: null
+    they never got to do that.: null
+    they paid for everything.: null
+    they put us up at the Cocoa Beach Hilton,: null
+    they really did throw away a lot of money to get, getting one thing or another,: null
+    they said we could either cancel, reschedule, or take whatever was available.: null
+    they speak French: null
+    they tell you to do that is to hire a local guide: null
+    they took some time off that, they could show us around.: null
+    they took time off,: null
+    they wanted to take that drive: null
+    they went to the Grand Canyon and did things like that.: null
+    they were all completely clean,: null
+    they were having a little break,: null
+    they were newly built: null
+    they were really enjoying it: null
+    they were sort of the lower end of the top of the line, hotels,: null
+    they were telling us about all their trips.: null
+    they would come up and ask you, if, if you want to buy different things: null
+    they'll be airconditioning anyway: null
+    they're going now to Florida,: null
+    they're moving to Florida.: null
+    they're not used to having tourists there,: null
+    they're recommending that you use those because they don't know the future of Continental.: null
+    they're wonderful to work for.: null
+    they've been to the Guadalupe River,: null
+    they've gone to,: null
+    they've just done a,: null
+    they've really enjoyed it.: null
+    they, they didn't have any power: null
+    they, they had this cruise director dress up like Santa Claus,: null
+    they, they just do so many things for you, to make you enjoy the trip and everything.: null
+    they, they show all this wonderful seafood and, and great big prawns, the big shrimp: null
+    they, they were so destitute: null
+    this is the season for vacations.: null
+    this one, I think has two baths,: null
+    this really big wave came and totally threw me,: null
+    this summer I went to Colorado: null
+    this time we're going to be going with just one daughter: null
+    this year we're leaving, matter of fact we're leaving next Saturday for New Orleans.: null
+    this year we're not going to be taking one for several reasons.: null
+    to tell you the truth, I, I think I'd rather just go to the island.: null
+    two weeks is the longest vacation I'll have ever taken there,: null
+    up the coast, at, in Maryland and around there, where the, where the early history is, there's some: null
+    up there, you go from the mainland to a whole bunch of islands around there by ferry,: null
+    up, up around San Francisco,: null
+    usually a bunch of different places.: null
+    usually when we go, we go to Colorado, to Estes Park area.: null
+    vacations we really enjoy,: null
+    w, when we were in Oah, Oahu, I couldn't wait to get off .: null
+    was, two years ago,: null
+    we also hit Maui,: null
+    we are going to go to, Destin, Florida, which is a very nice beach area, if you are not familiar with it.: null
+    ? we are hoping soon, not soon, maybe within the next ten years to get to, to
+      take a trip over from, over to Europe and take, a trip from the northern portion
+      of France
+    : null
+    we are supposed to talk about places we like to go.: null
+    we are thinking that we might go to Las Vegas during the winter this year sometime for just kind of a quick trip.: null
+    we basically had one of the parks.: null
+    we both enjoyed it: null
+    we both like to go to dive resorts.: null
+    we both, the first night, just had to leave dinner.: null
+    we couldn't get enough people together, to go,: null
+    we decided that I, I've never been to Africa: null
+    we did a lot of camping out there in the Smokeys: null
+    we did not have a chance to do that.: null
+    we did not know Italian.: null
+    we did quite a bit of hiking,: null
+    we did the whole bit.: null
+    we do like the night life, to an extent: null
+    we don't like to spend the money to go over there and sit on the beach anyway: null
+    we don't, we do a lot of little trips around here,: null
+    we don't, we don't get a lot of time to just vacation.: null
+    we dove there.: null
+    we enjoy the family vacations,: null
+    we enjoyed Yellow Stone real well last year.: null
+    we figured that must be the sports arena: null
+    we get free products every month: null
+    we get upgraded.: null
+    we go on a lot of business trips.: null
+    we go out there: null
+    we go straight up through Trinidad: null
+    we go swimming: null
+    we go to Florida: null
+    we go to Maine every Fall: null
+    we go wherever somebody is,: null
+    we got back Monday: null
+    ? we got on the subway after so much trouble because the Italians, even if they
+      speak English, they do not want to let you know
+    : null
+    we got the suites at the same price as a regular cabin.: null
+    we had a great time.: null
+    we had a little collapsible sailboat and liked to sail and, that sort of thing,: null
+    we had little children all the time,: null
+    we had nothing taken because we knew: null
+    we had things in inside pockets and in, in jacket underneath a coat type of thing.: null
+    we had to cancel our ski lessons .: null
+    we had to fly into Milan: null
+    we had to write,: null
+    we had, my husband had a conference in L A,: null
+    we have a daughter who's almost thirteen: null
+    we have a lot of flying with Continental: null
+    we have all these wonderful pictures of all these great places that they have been ,: null
+    we have enough friends here and there,: null
+    we have good friends in England: null
+    we have just: null
+    we have plans this year to drive up to the, to Colorado.: null
+    we have several friends that, have been on, and just love them.: null
+    we have to, go to those.: null
+    we have two little ones: null
+    we haven't traveled outside the United States that much.: null
+    we instead went there, and loved it just as much as, as if we had gone to the Bahamas.: null
+    we just came back from, Grand Rapids where we saw one of our sons graduate,: null
+    we just get, get done with them and they go, do you want to go again,: null
+    we just had a ball.: null
+    we just have not gone that direction yet.: null
+    we just kind of walked the beaches and looked at all the beautiful scenery there.: null
+    we just went to, two islands.: null
+    we keep cool just by going swimming: null
+    we keep wanting to get down there and visit them over the Summer: null
+    we kind of like it .: null
+    we left a day early,: null
+    we like not having to take our suitcase in and out of hotel rooms and drag it all around.: null
+    we like the, we like the white mountains: null
+    we like to ski, of course,: null
+    we love it.: null
+    we loved the, we loved the, the New Jersey area, too, because the the lakes were really pretty close,: null
+    we lucked out: null
+    we moved to, the Dallas area: null
+    we probably take one of each every year.: null
+    we pulled in just as it hit.: null
+    we really had a good time.: null
+    we really like those.: null
+    we rented a car for two weeks: null
+    we retired early: null
+    we returned through, New Mexico that you just mentioned.: null
+    we said let's go to New Orleans.: null
+    we spend so much time with our families: null
+    we spent a week in L A: null
+    we spent last week end in Charlotte with real good friends that had just,: null
+    we stayed at some park: null
+    we stayed with our English friends, their team in the hotel: null
+    ? we took a trip, around to the, Civil War battle grounds and things back in nineteen
+      sixty when it was the centennial or something,
+    : null
+    we took the eighteen mile drive.: null
+    we took whatever was available,: null
+    we turned a seven day trip into ten: null
+    we use it live in California: null
+    we used to .: null
+    we used to go quite a bit, before I moved out here.: null
+    we used to have a lot of fun there.: null
+    we usually book just a month before it's ready to go.: null
+    we usually go up to Wisconsin at least once a year: null
+    we usually take family type vacations.: null
+    we usually try and drive up there, once every year or two.: null
+    we vacation a lot.: null
+    we want to wait until they're a little bit older: null
+    we went all interstate.: null
+    we went down to Cape Hatteras for a few days.: null
+    we went home to visit family.: null
+    we went on a family cruise last year, on the Premier Family Cruise Line: null
+    we went there for our twentyfifth wedding anniversary.: null
+    we went there once.: null
+    we went through the northern route and through Utah: null
+    we went to California this last year: null
+    we went to Carmel.: null
+    we went to Disney.: null
+    we went to Hawaii on our honeymoon,: null
+    we went to Nassau: null
+    we went to Panama too.: null
+    we went to four different islands: null
+    we went to the beach: null
+    we went to the wine country.: null
+    we went to, the western Caribbean, which is, Port, Cancun, Cozumel,: null
+    we went up about a year later: null
+    we went with our daughter and soninlaw to visit his parents, who live there.: null
+    we went with them to Germany: null
+    we were able to have that pretty, pretty effortlessly.: null
+    we were both ready to get off the boat.: null
+    we were driving: null
+    we were just ,: null
+    we were just out recently at the outer banks of North Carolina.: null
+    we were kind of pitiful.: null
+    we were living in France at the time: null
+    we were much happier,: null
+    we were on our way home: null
+    we were originally planning on going to Cayman,: null
+    we were pretty convinced he was a full,: null
+    we were ready to look up the places we read about.: null
+    we were there in the fall before the snows, started: null
+    we were there in the winter.: null
+    we weren't able to get enough people together for the trip.: null
+    we will be going to Estes Park, and Colorado Springs,: null
+    we will fly to something like,: null
+    we will probably be going up at Thanksgiving this year,: null
+    we would have to, we'd: null
+    we would like to take pictures of the gothic and Romanesque monasteries and, just take that journey all the way down: null
+    we would love to go back there: null
+    we'd love to go back to London.: null
+    we'd, he'd fly down there on Mondays and fly back on Fridays,: null
+    we're doing the same thing. Tying it in with my husband's business trip: null
+    we're going next year.: null
+    we're going to be able to go up there.: null
+    we're going to go for a conference in September: null
+    we're only going to stay two weeks.: null
+    we're real close: null
+    we're supposed to talk about vacations.: null
+    we're, we take trips pretty often.: null
+    we've been down in Texas eighteen years,: null
+    we've been out there a couple of times: null
+    we've been real lucky.: null
+    we've been there a number of times: null
+    we've been there.: null
+    we've been two or three times and probably go back again this winter.: null
+    we've gone to Richland, last year: null
+    we've got one of our, our kids lives out on the east coast: null
+    we've had some pretty nice weather.: null
+    we've never really, did any diving or anything.: null
+    we've only gone on the seven day cruises.: null
+    we've seen lots of pictures of the, of the beautiful,: null
+    we've, I've been all over the states except for pretty much east.: null
+    we've, we've at least gone to the Grand Canyon and Niagara Falls.: null
+    we've, we've been fortunate enough to take a couple of trips over to Europe: null
+    we, I had won a trip to the Bahamas, but did not get to take it on our honeymoon time,: null
+    we, we did about six dives while we were there.: null
+    we, we enjoy it,: null
+    we, we like it.: null
+    we, we never have really planned a vacation around, places to go hiking.: null
+    we, we really enjoy that,: null
+    we, we took a lot of vacations while we were there because everything was within driving distance.: null
+    we, we travelled all over Europe.: null
+    we, we were out visiting one of our kids in Maryland,: null
+    we, we, as you do, take family vacations, sometimes one a year,: null
+    ? we, went a different way when we went last Christmas because of bad weather
+      and because we were pulling a little U Haul trailer,
+    : null
+    went to the Seattle Aquarium.: null
+    what it truly is supposed to mean is nine weeks of school, three weeks of vacation,: null
+    when I heard my topic today, I thought, okay: null
+    when I went out there she was in, Lafayette.: null
+    when I, when I heard you were from Virginia I was like, okay, there's somebody different,: null
+    when he said, this year, I have a week there on a, a project: null
+    when the ship docks, you get to go sightseeing and shopping.: null
+    ? when we came back from the outer banks we came up due Norfork and spent the
+      night there with a friend in Portsmith and then went to Williamsburg and spent
+      a night.
+    : null
+    when we needed to go to the bathroom there was nothing but a whole in the ground.: null
+    ? when we normally go that way, we like to go to California at the same time,
+      because we really don't get out there as often as you could probably
+    : null
+    when we, eventually, when we have kids,: null
+    where we were, it certainly was: null
+    ? while I was there I visited my aunt and uncle who were, staying for their vacation
+      in France in Nantes, which is on the west coast, right across from England.
+    : null
+    with a daughter, nine, it is just,: null
+    with the eastern half that's the Dominican Republic.: null
+    you also get in to see things that you might not get into: null
+    you always have to go out, fly through, unless you fly from Nairobi, you have to fly through, Europe on your way home.: null
+    you can go over there and lay on the beach: null
+    you can spend a whole day without talking to anyone, which I thought I would just hate,: null
+    you can take part in the games that they have going on.: null
+    you can wander,: null
+    you can't, can't ski up there any more.: null
+    you don't have to worry about unpacking or anything like that: null
+    you drive your car on.: null
+    you get a little lightheaded and giddy,: null
+    you have a beer,: null
+    you have to kind of get up into the mountains to get much of the greenery.: null
+    you said, I got somebody down in Texas,: null
+    you set your brake.: null
+    you slept on the train at night.: null
+    you walk down in a dome, a glass dome,: null
+    you will need to try to go and,: null
+    you're in Texas.: null
+    you're in a climate that's kind of humid,: null
+    you're kind of roughing it.: null
+    you, if you sit at a table with a lot of people for your meals, you meet different people.: null
+    you, there were some places,: null
+    yours to Disneyworld sounds a little bit better.: null
+    '} I was thinking I might be minor league': null
+    '} right now the lottery here,': null
+  Statement-opinion: !!set
+    Austin is neat for, for an occasional visit.: null
+    Beautiful country,: null
+    Beautiful country.: null
+    Because when you: null
+    Canada is very nice.: null
+    Except our outside , though.: null
+    I admit up there, the altitude is kind of interesting,: null
+    I don't if you've ever seen a map of Wisconsin: null
+    I feel like it would be confining.: null
+    I find the outdoors very relaxing and, kind of a change.: null
+    I guess all of Italy is not like that.: null
+    I guess that's what retirement is all about.: null
+    ? I guess that's why we need to plan for retirement, so when we do have the free
+      time, we'll have the, the means to, pursue our dreams.
+    : null
+    I hate them because they're hard to jockey around,: null
+    I really, I think travel ,: null
+    I think if they could get tourists coming to their country, they'd improve the economy considerably.: null
+    I think it's a wonderful product.: null
+    I think most vacations, seven days is enough for us.: null
+    I think seven days is long enough for us.: null
+    I think that is what usually people,: null
+    I think that's a good trip.: null
+    I think the scenery kind of,: null
+    I think they really it really pen, penetrates in your memory, what to do, because you really have a great interest in it.: null
+    I think you're more receptive when you're younger than when you're older, to learn new skills,: null
+    I think, the biggest limitation is a lot, just time and money, isn't it.: null
+    I think. It's very cold.: null
+    I'm sure it was wonderful.: null
+    I've always thought it would be neat to go on a safari over there.: null
+    I, I guess I, I would contemplate going on a cruise, all circumstances permitting it.: null
+    I, I think it's,: null
+    I, I think that's, that's the way to,: null
+    If you don't like wildlife it's probably not of interest .: null
+    If you like wildlife, it's a fabulous vacation.: null
+    It is beautiful.: null
+    It sounds like we've been to some of the same places.: null
+    It was like,: null
+    It was really interesting.: null
+    It wasn't commercialized.: null
+    It's just entirely different world than this .: null
+    It's kind of fun to have a little bit diversity, and: null
+    It's really nice at,: null
+    It's really, really pretty.: null
+    It's so expensive over there .: null
+    It's so funny.: null
+    It's, lot different kind of.: null
+    It, it's really nice.: null
+    Johnstown and, in s, in that area is just really neat,: null
+    Most people don't realize it.: null
+    Now Colorado Springs is real accessible to Lake Breckenridge: null
+    NuSkin is wonderful.: null
+    Of course, you haven't lived until you have been to San Antone, to the,: null
+    That and sleeping late .: null
+    That helps a lot.: null
+    That was wonderful: null
+    That would have been best time to go.: null
+    That's nice,: null
+    That's real pretty.: null
+    That's the one thing.: null
+    There are a lot of neat, neat places to visit in America,: null
+    There's a lot out there to see,: null
+    There's not enough time to go see everything, and then to afford to see everything.: null
+    To me why somebody would want to ride around on a boat for a few days is mind boggling.: null
+    Very restful.: null
+    Walt Disney World, and other places, it's just the wrong time of the year to go.: null
+    With, the big one I thought was very commercialized.: null
+    Without a doubt.: null
+    You don't have as much of the greenery like you have.: null
+    You have to try to figure out kinds of things that you can do that they will enjoy, too,: null
+    You might be like I am.: null
+    You sound like a girl that has it together.: null
+    a lot of people have trouble wrestling with their accents,: null
+    as always, it don, it seems a bit, rushed.: null
+    beautiful people.: null
+    boy that's a nice, a nice place to visit.: null
+    boy, they're gorgeous: null
+    camping is fun with kids.: null
+    course, you get in any of those tourist traps: null
+    diving is something that,: null
+    down there, in the lower Rio Grande Valley closer to where the Rio Grande empties into the Gulf, that's interesting.: null
+    driving for Thanksgiving, that's going to be quite a drive for,: null
+    especially for small children,: null
+    even, even some little ones do pretty good: null
+    everybody is really interesting,: null
+    everybody is there to have a good time: null
+    if you don't like the night life and the antique shopping, there isn't much there,: null
+    if you're working, then you're probably on a limited amount of time per year that you can go.: null
+    interesting things to: null
+    is, is a little scary,: null
+    it is great.: null
+    it seems when your family is, is different places, a lot of trips involved going to visit .: null
+    it was beautiful.: null
+    it was kind of sad,: null
+    it was quiet and restful, and, and so beautiful.: null
+    it was strange,: null
+    it was too crowded: null
+    it was wonderful.: null
+    it would be a lot fun.: null
+    it would have been, I think, much more fun to do it in the van,: null
+    it would really be fun, I think ideally with like two couples because you have a car and a driver: null
+    it's a, it's a little more, difficult planning a vacation,: null
+    it's enjoyable, too.: null
+    it's kind of nice to, to have that.: null
+    it's so darn expensive: null
+    it's worth it: null
+    it's, it might not be too bad if you want to go skiing somewhere else.: null
+    it's, it was really fun.: null
+    it's, it's just, it's just a gorgeous country.: null
+    it's, it's really neat.: null
+    it, it is a beautiful country.: null
+    it, it is gorgeous.: null
+    it, it is, it is nice,: null
+    its worth it just to keep everyone else away from badgering you: null
+    main, mainly probably because you want to see everything.: null
+    may, maybe now things are calming down again.: null
+    my, my idea I guess of the ideal vacation would be to begin with,: null
+    once they get a little bigger, not teeny tiny ones,: null
+    other, other than that, with, with both my kids being under two, it's real hard: null
+    really, for the children to learn as well for a family vacation that would be excellent.: null
+    some of the things are not as, quite as, adaptable.: null
+    that can be fun.: null
+    that sounds wonderful.: null
+    that was a wonderful vacation.: null
+    that was nice.: null
+    that was pushing it a bit.: null
+    that was real nice.: null
+    that was the way to travel.: null
+    that was, that, that's a nice place.: null
+    that will be a pleasure to visit and get to know.: null
+    that will be fun, too.: null
+    that would be nice.: null
+    that would,: null
+    that wouldn't be a good spot to go on a vacation, now: null
+    that'd be nice.: null
+    that's a perfect age: null
+    that's a pretty city.: null
+    that's fun.: null
+    that's quite fun.: null
+    that's tough.: null
+    that's, that's kind of fun.: null
+    that's, that's, that area of the world I think would be great.: null
+    that, that makes sense, it really does.: null
+    that, that's a fun way to , to, cut costs: null
+    that, that's really great.: null
+    the mountains,: null
+    the ordinary thing is to stay out of the north in the winter and get out of Texas in the summer: null
+    the other two were just lovely.: null
+    the right time of year to go there is in the middle of winter,: null
+    the river was really nice because it wasn't too frightening,: null
+    there is good and there is bad: null
+    they call it the Cape Cod of the,: null
+    they're going very nice places,: null
+    they're so leisurely over there: null
+    they, they, they really are.: null
+    things are different there, though.: null
+    we're so fast paced here,: null
+    we're thinking that'll be a lot of fun,: null
+    we've gone fairly inexpensive from, as most cruises go.: null
+    when the waves go in the waves go out they kind of all of a sudden you're in sand above your ankles.: null
+    whenever you've been kind of cold where you are at. It's most enjoyable,: null
+    which is kind of fun.: null
+    you always have a fun experience: null
+    you can do anything.: null
+    you could kind of sleep in it sometimes,: null
+    you don't want to stay in the very, very, very exclusive,: null
+    you feel stupid doing that: null
+    you have kind of a relaxed mode of learning.: null
+    you have probably a lot of green, and lot of real pretty things.: null
+    you have to like crowds,: null
+    you have, you have a lot of vacation areas you can go to then.: null
+    you just have to go once a year.: null
+    you learn a lot of, skills too,: null
+    you won't even,: null
+    you wonder if they're, it's really worth it to pay, thirtyfive dollars or forty dollars just to get in.: null
+    you wouldn't want to do it all the time.: null
+    you're more receptive.: null
+  Wh-Question: !!set
+    At wha, at, at what age did you,: null
+    How far away is it?: null
+    How long ago?: null
+    How long are the cruises?: null
+    How long did you get to stay there?: null
+    How old are you Lisa?: null
+    How old are you?: null
+    How old were you when you left?: null
+    Now when was that, when were you there?: null
+    What are you studying?: null
+    What club do you follow?: null
+    What did you do on the farm?: null
+    What did you wind up with? .: null
+    What is it?: null
+    What islands did you go to?: null
+    What kind of, vacation spots are there in Colorado?: null
+    What type of vacation?: null
+    What type of work?: null
+    What vacation have you enjoyed the most?: null
+    What's the best part, from your point of view?: null
+    What's there to see in Austin?: null
+    What's your out of the, out of the state type,: null
+    Where all you guys go?: null
+    Where are you from originally?: null
+    Where did you go on your last vacation?: null
+    Where do you go?: null
+    Where else have you been?: null
+    Where have you been on a wonderful vacation?: null
+    Where have you been?: null
+    Where have you gone first?: null
+    Where have you gone there?: null
+    Where in Arizona?: null
+    Where is that?: null
+    Where is your favorite place to go?: null
+    Where'd you,: null
+    Where, where do you live?: null
+    Where, where do you usually go?: null
+    Which is your favorite?: null
+    Why did you move to Utah?: null
+    do you live, where do you,: null
+    how do you go?: null
+    how long do you plan to be going for?: null
+    how, how far do you usually end, end up driving just,: null
+    what are some good things in Texas to go visit?: null
+    what did you do when you were in Europe?: null
+    what do you do on a cruise?: null
+    what does, what does that mean, alternate?: null
+    what else are you planning to do, if anything?: null
+    what is the most, the nicest island?: null
+    what kind of vacations do you like to take? .: null
+    what kind of vacations do you like?: null
+    what part of Virginia,: null
+    what state are you in?: null
+    what, what, has been your favorite trip do you think?: null
+    where are you from, where are you calling from?: null
+    where are you from?: null
+    where do you like to go?: null
+    where do you stay?: null
+    where have you all been on vacation recently?: null
+    where have you been on these cruises?: null
+    where have you been?: null
+    where in France are you,: null
+    where was your last vacation? .: null
+    where's that?: null
+    where's your favorite place to go?: null
+    where, have you skied?: null
+    where, where have you been?: null
+    where, you're from where? *slash error: null
+  Yes-No-Question: !!set
+    All for a thousand dollars?: null
+    Any vacations recently that you would highly recommend?: null
+    Are they good to work for?: null
+    Are you a golfer?: null
+    Are you a, you a hiker, or not?: null
+    Are you driving?: null
+    Are you guys,: null
+    Are you just kind of sight, just kind of,: null
+    Around Christmas time?: null
+    Been to Hawaii?: null
+    Better than Europe?: null
+    Did you enjoy it?: null
+    Did you go on the Barrier Re,: null
+    Did you go on the cable cars and everything?: null
+    Did you go there?: null
+    Did you go,: null
+    Did you have shrimp?: null
+    Did you know that next week there's several T V shows coming from there in celebration of their anniversary.: null
+    Did you scuba dive there?: null
+    Didn't have shrimp there ?: null
+    Do we travel a lot?: null
+    Do you go to museums in Europe?: null
+    Do you go to school?: null
+    Do you go up through the Raton Pass, when you go up there?: null
+    Do you have any mountains nearby?: null
+    Do you know?: null
+    Do you ski?: null
+    Do you use NuSkin skin care.: null
+    Do you use it?: null
+    Do you want to start?: null
+    Do you want to tell me about vacations you've taken: null
+    Ever go up in Pennsylvania in the mountains: null
+    Have you been a, to a lot of the different historical sites?: null
+    Have you been there?: null
+    Have you ever been there?: null
+    Have you ever been to, New Mexico?: null
+    Have you ever got to go back?: null
+    Have you ever,: null
+    Have, have you ever been there?: null
+    I guess I relate it to, to Japan where things are very expensive, aren't they?: null
+    Is it on, one of the lakes?: null
+    Is that a nice vacation spot?: null
+    Is that, is that how you got into this, this,: null
+    Is, a cruise nicer than, if you just go, on a regular, to a hotel?: null
+    Isn't that fun?: null
+    It's lovely, isn't it?: null
+    Lots of wildlife: null
+    Lynn, do you, do you want to start?: null
+    Not so much,: null
+    Pretty flat, isn't it?: null
+    Pretty hot isn't it, in the summer?: null
+    Pretty, pretty down there.: null
+    Probably a city in itself, kind of like, huh?: null
+    Since we're not supposed to talk about this, though, is there anything more intensive for the eye area than the eye cream?: null
+    Than the intensive eye?: null
+    That's great as a kid though, isn't it,: null
+    That's the vacation you recommend,: null
+    That's your favorite?: null
+    Was it hot?: null
+    Was it very expensive?: null
+    Why, have you?: null
+    You don't get seasick?: null
+    You drive by yourself up there?: null
+    You ever heard of Boise?: null
+    You have any children?: null
+    You have mountains all around you?: null
+    You haven't been to Spain?: null
+    You're going, you are going to school?: null
+    did you get to go to Hawaii?: null
+    did you see the Great Barrier Reef and, and go snorkeling?: null
+    do we just go ahead?: null
+    do you go to school in Provo, Utah?: null
+    do you like L A?: null
+    do you like to camp, those kind of trips?: null
+    have you been down there?: null
+    have you been to Yellowstone?: null
+    have you ever been to Hawaii?: null
+    have you ever heard of Virginia Tech?: null
+    have you ever heard of it?: null
+    have you, did you, have you grown up in Dallas, Stephanie?: null
+    is that right up there in Frederick?: null
+    is that where B Y U is?: null
+    is there any place you would try to talk me into going to ?: null
+    it goes across with you?: null
+    it was great?: null
+    just this year?: null
+    that's a good, that's a good topic, .: null
+    that's something do to, you to get up in mountains *two utts: null
+    the beach is really nice, isn't it.: null
+    the topic is vacations?: null
+    what, what, did you just decide to go there: null
+    would you go over and spend a lot of time in one place, or travel to whole bunch of different places in one week?: null
+    you know a lot of good vacation spots,: null
+    you like the motels?: null
+    you're a sophomore.: null
+    you've never been down to Epcot at Florida and Disney: null
+    your car is on a ferry?: null

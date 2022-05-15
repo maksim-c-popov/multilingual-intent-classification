@@ -1,0 +1,2994 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    About your baby.: null
+    Being born outside, you didn't have any problems house training him?: null
+    Hope it's a good program there.: null
+    I bet the black one's pretty.: null
+    I didn't know if they stop you when the time is up: null
+    I don't know how familiar you are with that area of the country: null
+    I don't know if you get that kind of greeting or not.: null
+    I guess your cat was an indoor cat.: null
+    I was wondering if you got your dog originally as a pet for them or just because you'd had dogs before: null
+    Isn't that funny the way we put, human characteristics on an animal like that: null
+    Salt water or,: null
+    They are, they are house cats.: null
+    You kind of wonder what really happened.: null
+    You know how they came up with the retriever, don't you, the Golden?: null
+    You said you have four cats?: null
+    because of the leukemia?: null
+    boy, he's a big one.: null
+    did you all catch it,: null
+    except the kid,: null
+    probably a good, student teacher ratio and things.: null
+    probably just got home.: null
+    that, is that, is that kind of your child right now?: null
+    then you broke your heart.: null
+    we were wondering if they, they had any special law for the horses in Central Park.: null
+    you have pets, I understand, a couple of them.: null
+  Dispreferred answers: !!set
+    I had the carpet fixed,: null
+    because we finally negotiated that I was losing my mind, he sleeps in the laundry room: null
+    right now I'm a student,: null
+    she's no longer breeding them: null
+  Statement-non-opinion: !!set
+    A, Golden Retriever.: null
+    About the only time we have,: null
+    An English setter,: null
+    And I feed her indoors, that's to lure her in,: null
+    And two outside cats.: null
+    Anyway it was, it ended up being just a huge, huge dog that ate us out of house and home.: null
+    Anyway that's what we have,: null
+    Apparently w, I don't know all the details: null
+    As in, martini.: null
+    Australian shepherd.: null
+    Beautiful, gorgeous black Labrador,: null
+    Before I even got married I had my cat.: null
+    Bichon Frise.: null
+    Both of my kids are under two so right now we don't have pets,: null
+    Buddy after Buddy Bell,: null
+    Carolyn, I have a little Schnauzer, little miniature Schnauzer.: null
+    Cats are pretty independent,: null
+    Cocoa didn't think too much of it, though.: null
+    Computer engineering.: null
+    Course, I'm a little prejudiced, of course.: null
+    Dan carried him around: null
+    Dan didn't know it: null
+    Dan was a drummer,: null
+    Domino's a real good dog.: null
+    Everybody, people who don't even like cats, like him.: null
+    Fiftyfive is the minimum: null
+    From a frie, from my, my son's friend down the street.: null
+    God gave me this dog,: null
+    Hal and I were in bed: null
+    Haven't had any parakeets for quite a while,: null
+    He did it again: null
+    He doesn't really like mine, let alone another one.: null
+    He dug a hole under the fence.: null
+    He fights with other cats in the neighborhood because he doesn't want them on our property.: null
+    He first jumped in: null
+    He gives me kisses,: null
+    He has to go out whenever, we ask him: null
+    He is eighteen pounds.: null
+    He jumped off the balcony actually, of a second story apartment.: null
+    He just loved to sit on the back of my dryer where the h, air, the heat came up out of the dryer,: null
+    He just needed a lot of time.: null
+    He just thought that they belong,: null
+    He just turned seven, also,: null
+    He kept picking at it: null
+    He likes one boy in the family and that's about it .: null
+    He likes to lay next to you and have you scratch his head and, and, and snuggle up to you,: null
+    He loved it.: null
+    He loves this dog: null
+    He meows and wants to get in the bathroom: null
+    He never meows,: null
+    He really grew: null
+    He said it was a good jolt.: null
+    He stays in.: null
+    He stays out of the street: null
+    He was in the house most the time,: null
+    He was just, he was getting so old and had a, other problems too.: null
+    He was, he was a clean animal,: null
+    He won't even let my son shower.: null
+    He'd been on the patio: null
+    He'd come out to the kitchen,: null
+    He'd even tolerate him petting though,: null
+    He'll either bark for food, or he'll bark to go out: null
+    He'll, he'll just bark and bark and bark.: null
+    He's a mixed breed,: null
+    He's about te, eleven weeks now.: null
+    He's been through obedience school.: null
+    He's got little spots on them.: null
+    He's just got a puppy: null
+    He's kind of stocky, shorter and stockier.: null
+    He's like a dog,: null
+    He's never been gone for, at all: null
+    He's probably been through all kinds of nightmares.: null
+    He's really a wimp.: null
+    He's still out partying.: null
+    He's, been so mean to her .: null
+    He's, he, we bought the cat for him: null
+    He, apparently had a tough time with it for a little while: null
+    He, he just went to the vet yesterday to get his shots and everything,: null
+    He, he loves my son,: null
+    He, he'd lay in Dan's lap,: null
+    He, we had another cat about two years ago.: null
+    Her name was Molly,: null
+    I always forget .: null
+    I always had, outdoor pets: null
+    I always said if I di,: null
+    I always told my wife,: null
+    I am a Golden retriever fan,: null
+    I asked the vet why he did that: null
+    I asked them, these are the ages of the kids, what do I get.: null
+    I bet it had a pretty coat too.: null
+    I brought her to a different vet this time: null
+    I brought him in because he's just a wet mess out there: null
+    I call it a, .: null
+    I called everyone I knew,: null
+    I called four or five dog trainers because I don't like the little dogs.: null
+    I came home: null
+    I can honestly say we do, we, just recently put a security system in our house: null
+    I can leave her all day in the bathroom: null
+    I can over do it on her.: null
+    I can tell my husband, deep down he, he real,: null
+    I can't give a shot.: null
+    I can't give them up.: null
+    I can't imagine what, would have been wrong with this dog,: null
+    I can't remember,: null
+    I cannot believe the whole family just,: null
+    I could just walk in the door: null
+    I could not believe it.: null
+    I could see getting one from birth and everything.: null
+    I could see having, maybe some of the tropical fish, that are really, really pretty: null
+    I couldn't believe it.: null
+    I couldn't even talk about it for months: null
+    I couldn't get her up without p, picking her up and which it was pretty hard to do at eighty pounds.: null
+    I couldn't.: null
+    I decided I'd take my friend over and show him the dog,: null
+    I decided that's it,: null
+    I decided, this would really be a nice dog to have,: null
+    I did not know that.: null
+    I did not know what to expect from a dog having not had one,: null
+    I didn't kn,: null
+    I didn't know that.: null
+    I didn't realize it,: null
+    I didn't realize my husband was such a sucker for animals until I brought one home one night.: null
+    I didn't see it: null
+    I do make her come in.: null
+    I do think that maybe we'll get a female next time and just had her, have her spayed,: null
+    I do, too .: null
+    I don't care how fu, full she is,: null
+    I don't know about these, these, these pincers, these, now, what are they called. Pit bulls, pit bulls: null
+    I don't know any that really don't.: null
+    I don't know do you like,: null
+    I don't know how much,: null
+    I don't know how, how it would be bringing in, cat to a full, full grown dog.: null
+    I don't know if it's quite hit him, hit them.: null
+    I don't know if they consider themselves animals anymore.: null
+    I don't know if we got rid of the dog: null
+    I don't know if you've,: null
+    I don't know that, that I would ever want a cat.: null
+    I don't know where.: null
+    I don't know whether he'd,: null
+    I don't know whether we really want to be tied down to a pe, another dog.: null
+    I don't know why, body's calling.: null
+    I don't know,: null
+    I don't mind having,: null
+    I don't see us without pets, without cats.: null
+    I don't think I've ever: null
+    I don't think I've ever seen them not look happy.: null
+    I don't think I've ever talked to anyone who's actually had a skunk for a pet.: null
+    I don't think he'd swum before.: null
+    I don't think she was there a week till the men moved her, buil, built her a pen outside .: null
+    I don't understand, because it's, like, he's got a good home,: null
+    I don't want to answer.: null
+    I don't what I'd do without them.: null
+    I don't, I don't care for the smell of the litter box: null
+    I don, I don't know how many times I've seen it.: null
+    I ended up getting one that, came out of a, a, a hunting stock: null
+    I feel like they need a big home, a nice place where someone can have the time to play with them and things.: null
+    I fell in love with this, it's a Chinchilla Persian,: null
+    I felt like just miserable all weekend: null
+    I felt so sorry for him after that.: null
+    I felt, felt probably worse for them than, than for me: null
+    I find a little present on the floor sometimes when I come home.: null
+    I find that I'm enjoying this one far more than I ever did when it was the children's dog,: null
+    I forget how she got it,: null
+    I found it, in the street.: null
+    I found this one: null
+    I go back down,: null
+    I got her for Christmas from my family, and, back when we lived in Nebraska.: null
+    I got her when I lived in Hawaii.: null
+    I got her when she was, just this tiniest little thing like,: null
+    I got it so it wouldn't, wouldn't shed,: null
+    I got over there,: null
+    I got to do more, more fun things.: null
+    I got to take care of a friend of mine's dog.: null
+    I guess I've heard that, uhhuh.: null
+    I guess he's abo, almost eight years old.: null
+    I guess it's kind of an animal shelter: null
+    I guess it's probably, probably if we get another animal it probably wouldn't be a cat even though I love cats.: null
+    I guess they're distantly related to a poodle,: null
+    I guess we didn't have it high enough or he didn't get hit in just the right spot,: null
+    I guess while we were inside eating, Thumper just tore the heck out of the inside of the car,: null
+    I had a Cocker Spaniel.: null
+    I had a baby the next day: null
+    I had a ceiling fan put up,: null
+    I had a friend who went to Colombia: null
+    I had a pet rat, , for a while,: null
+    I had a pet when I was a girl.: null
+    I had every friend I knew in the apartment searching for this cat.: null
+    I had her for over two years: null
+    I had him declawed,: null
+    I had just got the kitten when he asked me that: null
+    I had just moved away from home and got my own apartment.: null
+    I had never heard of them: null
+    I had no idea,: null
+    I had no idea.: null
+    I had one cat for eighteen years.: null
+    I had pictures of her when she would sit on my hand: null
+    I had some time off in the afternoon,: null
+    I had that cat that I mentioned, .: null
+    I had to go back the next week, as well as a bunch of other people from the university,: null
+    I had to literally shake him off to get him in the cage,: null
+    I had to replace it with something that the kids could carry.: null
+    I had to work twelve hours that day,: null
+    I had, I had a German Shepherd before this one: null
+    I had, I had a dog one time,: null
+    I had, I had no idea.: null
+    I had, a similar, experience.: null
+    I had, the puppy, a little tiny puppy: null
+    I hadn't, didn't even know that.: null
+    I hate that,: null
+    I hate that.: null
+    ? I hated it because I had to carry everything upstairs and, and use this thing
+      to, scoop the, take the stuff out and put it in the toilet and everything
+    : null
+    I have Xanadu and Precious, and Rascal.: null
+    I have a Schnauzer: null
+    I have a Sheltie.: null
+    I have a Springer Spaniel,: null
+    I have a cat: null
+    I have a cat and a dog named Joey.: null
+    I have a cat now.: null
+    I have a dog and cat now.: null
+    I have a dog named Grisly, who's a ten year old, mixed breed between Golden Retriever, Afghan Hound and Chow.: null
+    I have a friend that, has on occasion, brought her cat over for me to keep for, from time to time .: null
+    I have a hard time getting anybody, because I guess,: null
+    I have a pair of box turtles.: null
+    I have a wonderful female lab, black lab.: null
+    I have a, a mutt, myself.: null
+    I have a, a thirty foot cable,: null
+    I have been, I have been reading and seeing about that on television.: null
+    I have children .: null
+    I have four cats.: null
+    I have had just wonderful luck with this lab,: null
+    I have little children.: null
+    I have never wanted to,: null
+    I have not discovered yet where the, the line is between children and adults.: null
+    I have seen them.: null
+    I have the two,: null
+    I have three cats and a dog.: null
+    I have to be real careful about where I put things,: null
+    I have two children: null
+    I have two dogs.: null
+    I have two girls,: null
+    I have, I had a son, that was an animal lover.: null
+    I have, I've tried to start a fish tank: null
+    I haven't either.: null
+    I haven't ever called.: null
+    I haven't had my oldest one quite nine years,: null
+    I haven't helped them out on the me, on men particularly,: null
+    I heard a laugh in the background.: null
+    I hope he comes back,: null
+    I hope that works out well.: null
+    I housesat cats for a friend of mine which she was finishing up her thesis,: null
+    I just about lost it: null
+    I just can't do those, and the lizards and the: null
+    I just didn't have time to take care of baby and train puppy at the same time,: null
+    I just don't let them,: null
+    I just felt so bad,: null
+    I just felt terrible.: null
+    I just got,: null
+    I just hate that when she does that,: null
+    I just love cats.: null
+    I just love them to death.: null
+    I just love them.: null
+    I just think it's nice to have around.: null
+    I just want to kill her at: null
+    I just wouldn't want to own one.: null
+    I just, I go hysterical when they don't come home.: null
+    ? I ke, I keep talking about getting rid of my outdoor cats because I feel like
+      I don't, I can't take care of them as well because they're outside,
+    : null
+    I kept watch and never let them get away,: null
+    I killed that one within a very short amount of time.: null
+    I kind of am,: null
+    I kind of ignore him.: null
+    I kind of like that, too,: null
+    I knew something was wrong with him because his appetite was,: null
+    I knew we were going to find him,: null
+    I know it is.: null
+    I know origina, I know that the dog's grandmother, was from Plano,: null
+    I know our dog has had, some different reactions,: null
+    I know some of my friends who have pets,: null
+    I know sometimes our cat will, will stay out all night,: null
+    I know that I'd be worried, too.: null
+    I know that's how I am about Xanadu.: null
+    I know when she has an accident, I know she's not doing it on purpose.: null
+    I know, that it's hard on you.: null
+    I left him in the kitchen with the little baby gates up while I was gone for about an hour.: null
+    I left the dog locked in the bedroom: null
+    I like cats.: null
+    I like dogs,: null
+    I like having ca, cats around pets around in general: null
+    I like them.: null
+    I like to hunt,: null
+    I live alone in an apartment, and,: null
+    I live in motor home,: null
+    I looked at him: null
+    I lost one, one time,: null
+    I love having them for that reason.: null
+    I love mine too.: null
+    I love my cats.: null
+    I love them to death.: null
+    I made him a deal,: null
+    I may still be,: null
+    I named her Rosebud,: null
+    I need to hand them out.: null
+    I never felt like it was mine or anything,: null
+    I never had them growing up,: null
+    I never really had them around me,: null
+    I noticed after two shots she was,: null
+    I probably would have had second thoughts.: null
+    I pulled her out and, then had to wrap her up in a sweatshirt because she was shivering so bad,: null
+    I put paper all over the floor.: null
+    I put them outside once I got a house: null
+    I read somewhere that, the poodles is one of the, the most intelligent dogs, around.: null
+    I realize it's my fault,: null
+    I really do, I really don't care much for them.: null
+    I really do, because he knows exactly where he lives,: null
+    I really figure right when it becomes really popular that it's going to be ruined.: null
+    I really would like to,: null
+    I remember my brother,: null
+    I remember one time, I used to get a chuckle out of, out of Pogo.: null
+    I remember that,: null
+    I said if Tom could see dog lick this kitty, he'd flip. *listen: null
+    I said okay,: null
+    I said you've got to be kidding,: null
+    I said, "Gee, she sounds like a cute little dog.": null
+    I said, You take that skunk,: null
+    I said, come home and get your dog.: null
+    I said, he's only been gone a day: null
+    I said, it's either me or the dog,: null
+    I said, otherwise I'm going to give it to this other man.: null
+    I said, this is just a,: null
+    I said, we won't tell him it's a c, we won't tell her it's a cat,: null
+    I said, you do like cats, right.: null
+    I saw something on C N N or on cable here: null
+    I saw the, the, previews for it and all: null
+    I saw these little Springer Spaniels: null
+    I see all the people on, on Sunday going for a walk with their dogs: null
+    I see so many times kids just,: null
+    I should say a pup: null
+    I spread the newspapers out in the kitchen area.: null
+    I take off work,: null
+    I tell everyone this story because my wife is a real pet lover.: null
+    I tell you if I could have gotten a hold of that cat that day.: null
+    I tell you,: null
+    I think German Shepherds do it, and probably large dogs.: null
+    I think I liked that better.: null
+    I think I'm, I think I'm being accurate in the, in the area of folklore,: null
+    I think he gets beat up even though he's big, because he's: null
+    I think it was a six week program.: null
+    I think it was one night a week: null
+    I think it would probably be a dog,: null
+    I think it's been probably about five and a half minutes or something.: null
+    I think it's from the time he jumped off the balcony .: null
+    I think it's half cocker spaniel and half poodle.: null
+    I think it's in New York City at the, at the Gardens: null
+    I think maybe he would if it came real close,: null
+    I think my husband wants another Dachshund,: null
+    I think one thing about pets is they're a lot of company.: null
+    I think she got it,: null
+    I think she loved her too much because the dog has never been real comfortable with her.: null
+    I think she was a psych major: null
+    I think she's mostly German Shepherd.: null
+    I think so .: null
+    I think that for me, my husband just has completely nixed the idea of having a dog or a cat .: null
+    I think that really helped and, my daughter, since, since she's little has been playing with them: null
+    I think that's one of the reasons our,: null
+    I think that's one of the things that both of us are not wanting to start over with,: null
+    I think that's what really bothers me the most about it .: null
+    I think that, if he gets out he'll come back.: null
+    I think the cats would really enjoy it,: null
+    I think they're cutting us off.: null
+    I think was the last time I was up, up there and at Center Park.: null
+    I think we had fish sh, when I was a kid: null
+    I think we're buying a carpet shampooer this weekend .: null
+    I thought boy that sure looks like that pup we gave away: null
+    I thought that if I had a good hunting dog like Thumper that, I could just go out and get all kinds of game .: null
+    I thought well that's interesting,: null
+    I thought, I put up with that all those years .: null
+    I thought, boy, do I have a pet .: null
+    I thought, yeah, right come tell me about it,: null
+    I told my husband,: null
+    I told the kids, "Let's go look at her" .: null
+    I told the vet what medication I had given her and everything .: null
+    I took her from Enid, Oklahoma to Oklahoma City every week for six weeks.: null
+    I took her to the, to the vet's because she wasn't eating and, and, she wasn't able to jump.: null
+    I took his suggestion: null
+    I took the baby: null
+    I travel a lot.: null
+    I tried to have a goldfish,: null
+    I try to, make them do, during the day,: null
+    I understand also they want men.: null
+    I use to visualize my wife,: null
+    I used to go up and visit her.: null
+    I used to have box turtles, years ago, when I was growing up: null
+    I used to have,: null
+    I was a social worker at the time, and found it,: null
+    I was allergic to dogs when I was a kid,: null
+    I was amazed.: null
+    I was careful to keep her away from the,: null
+    I was concerned about the female mainly,: null
+    I was going to tell you the same thing.: null
+    I was hysterical.: null
+    I was just, ,: null
+    I was living in northern Jersey when that came through, remember hearing all about it,: null
+    I was on a business trip at the time: null
+    I was out ruled,: null
+    I was still going to school: null
+    I was watching it again,: null
+    I was working: null
+    I was, , not really concerned about, them harming her,: null
+    I was, I was: null
+    I was, I was impressed by them.: null
+    I wasn't really involved in the, the paper training,: null
+    I wasn't sure if I'd be able to get it all right the first time,: null
+    I went to a, a pet shop,: null
+    I went to, Omaha, Nebraska to recruit students,: null
+    I wish it was.: null
+    I wish they were in that instinct.: null
+    I wonder how many of his lives he missed, when that happened.: null
+    I wonder since both of them are having them if it's some kind of breeding: null
+    I wonder sometimes .: null
+    I work and go to school: null
+    I work for a university,: null
+    I would estimate seventy pounds.: null
+    I would get this, this kind of a call .: null
+    I would imagine that they don't have many more than one to start with, either.: null
+    I would just take the whole thing to the garbage can and dump the whole thing.: null
+    I would not have been fun trying to retrieve her,: null
+    I would put just a little bit of cat litter in there,: null
+    I would shut, I would bar the closet doors,: null
+    I would think, he might, he might could get hurt by a car or something.: null
+    I wouldn't either.: null
+    I wouldn't give anything for my cats.: null
+    I wouldn't want a Lab.: null
+    I wouldn't want to bring a cat into a full grown dog,: null
+    I wouldn't, I definitely wouldn't dispute that,: null
+    I wouldn't, I wouldn't dare have a, a goldfish here because,: null
+    I'd be afraid to walk around if I was that dog .: null
+    I'd be, interesting to watch.: null
+    I'd get lettuce at the store: null
+    I'd have a lot more cats if my boyfriend would let u, let me .: null
+    I'd let him up out of the basement where he was sleeping: null
+    I'd love to go to a cat show.: null
+    I'd love to have a dog,: null
+    I'll just wait.: null
+    I'll never forget that: null
+    I'm a disabled person: null
+    I'm a engineer at, at the laboratory, Rolm Laboratory, Griffis Air Force Base, up here,: null
+    I'm a substitute teacher: null
+    I'm a, I'm a doctoral student right now: null
+    I'm at Coit and Legacy ...: null
+    I'm from Berkeley, California.: null
+    I'm from New England.: null
+    I'm going out of town this weekend,: null
+    I'm going to get another one as soon as I get back in town.: null
+    I'm kind of concerned about, with having cats,: null
+    I'm like I know it will be fun the first week maybe,: null
+    I'm like, no, no, no.: null
+    I'm like, no.: null
+    I'm not doing a really great job as a disciplinarian,: null
+    I'm not either: null
+    I'm not either,: null
+    I'm not either.: null
+    I'm not home: null
+    I'm not sure .: null
+    I'm not sure.: null
+    I'm not, I'm not a dog person at all .: null
+    I'm on an internship up here for a year: null
+    I'm real, a real cat lover.: null
+    I'm really allergic to them,: null
+    I'm so glad my husband is a cat person because if he was a dog person, no, it wouldn't have worked.: null
+    I'm taking care of his dog: null
+    I'm the only one that pays attention to him.: null
+    I'm unable to, to, really take care of a pet: null
+    I'm used, I'm used to having cats around,: null
+    I'm very comfortable,: null
+    I'm wondering if, if she'll want to go out there and go swimming next year.: null
+    I'm working on a bachelor's degree.: null
+    I'm writing it out phonetically,: null
+    I'm, I love gardening: null
+    I'm, I really fear for the breed because I love that breed,: null
+    I'm, I'm a dog person.: null
+    I'm, I'm a second lieutenant in the Air Force: null
+    ? I'm, I'm kind of glad to be able to tell people about this, but you, because
+      you all the time, run into people with problems.
+    : null
+    I'm, I'm kind of in a wheelchair,: null
+    I'm, I'm looking for another cat for them.: null
+    I've been doing it for about two weeks: null
+    I've been to Charleston.: null
+    I've come home many a days from work to find trash all over the kitchen floor.: null
+    I've got a little doggy, that I've had quite, quite a long time.: null
+    I've got a male Siamese about a year old here.: null
+    I've got some applications,: null
+    I've got these two cats that hang around with me all day,: null
+    I've had a Burmese python,: null
+    I've had a retriever.: null
+    I've had a skunk: null
+    I've had cats growing up all the time: null
+    I've had dogs in the past: null
+    I've had dogs through the years.: null
+    I've had gerbils,: null
+    I've had him probably five years.: null
+    I've had mice: null
+    I've had rats,: null
+    I've had several cats.: null
+    I've had this dog now for, for sixteen years: null
+    I've had to get it from Oklahoma.: null
+    I've had, I have had a number of them in my lifetime: null
+    I've just never s, seen the attraction of having fish.: null
+    I've never had one that I could keep in the house before and tolerate it .: null
+    I've never heard anything about it either.: null
+    I've never owned one , since I,: null
+    I've never seen two cats so close.: null
+    I've put in the paper work, I just never made the call.: null
+    I've seen an awful lot of lately really dumb,: null
+    I've seen them.: null
+    I've seen those.: null
+    I've, I live right across the street from a, a big lake here,: null
+    I've, I was always kind of nondescript in that category because I always liked dogs.: null
+    I've, I've got incoming calls: null
+    I, I couldn't see having fish like that.: null
+    I, I didn't even tell the apartment manager,: null
+    I, I don't know that I'd, that I'd trade my dog in for the world.: null
+    I, I favor dogs over cats actually: null
+    I, I feel real guilty because we had him, for six years: null
+    I, I glanced at the clock when, we started: null
+    I, I grew up on a farm: null
+    I, I grew up with cats: null
+    I, I guess I really don't know cats that well because my mother never liked them,: null
+    I, I had a, for many years I had a dog that was part Springer Spaniel.: null
+    I, I had never really had a Golden retriever before.: null
+    I, I hate to cut it off,: null
+    I, I have a dog that God gave us too, .: null
+    I, I have a sixteen year old, almost sixteen year old Golden Retriever,: null
+    I, I have some neighbors across the field,: null
+    I, I have to tell you about our most interesting pet, though.: null
+    I, I have two cats right now.: null
+    I, I j, I actually live in Florida: null
+    I, I just knew today, that we looked at the pound, and that we just went all over the place,: null
+    I, I just never understood why, what the attraction,: null
+    I, I like the way they come up: null
+    I, I live alone in an apartment,: null
+    I, I live alone now: null
+    I, I live in an apartment building: null
+    I, I really like them.: null
+    I, I see other people out there: null
+    I, I sure wasn't good at training it: null
+    ? I, I think, in a way we're able to read each other pretty well because, she
+      knows when I'm upset and I know when she's not feeling good too .
+    : null
+    I, I trained him on my own: null
+    I, I tried to have, , figured something having,: null
+    I, I w, we bought the movie: null
+    I, I wouldn't feel, hesitant about bringing a puppy in,: null
+    I, I'd, I really don't know: null
+    I, I'll, I hope you'll find him.: null
+    I, I'm glad she was able to pull out of it and so cheaply the second time.: null
+    I, I'm kind of skeptical with my son getting a dog,: null
+    I, I've dealt with quite a few of them.: null
+    I, I've never owned a cat like that.: null
+    I, I've, I've got a little kitten, that's still, just being born right now.: null
+    I, I, I have friends with hamsters and gerbils: null
+    I, I, I typically am not a cat person.: null
+    I, I, I'm partial towards the larger dogs.: null
+    I, I, we always had a pet when I was growing up, always had a dog.: null
+    I, he would have been a great, great dog.: null
+    I, in fact my children gave me this, this little puppy for Christmas.: null
+    I, it's real contagious: null
+    I, met my son's, college roommate, is a vet: null
+    I, really wanted that retriever's disposition.: null
+    I, sort of weird for me to have had one too: null
+    I, took the, the dog to a hospital. The dog hospital there: null
+    I, wa, I just wanted to let them be able to be free for a while.: null
+    I, we will probably will put some things up. Some posters and stuff up .: null
+    I, when I was single: null
+    If I through anything away that's any kind of meat or anything,: null
+    If you do not pick the trash up, the container,: null
+    If you shut that door he goes into hiding.: null
+    If, if a child is a little intimidated, she'll jump around and, and yip and bark quite a bit,: null
+    In fact, she just turned sixteen years old New Year's Eve.: null
+    In fact, we threaten him in the summertime that we might just shave all of his hair off.: null
+    In the winter time there was no smell at all, no odor at all to it.: null
+    Invisible fencing,: null
+    It always smells of cedar: null
+    It cost me over five hundred dollars.: null
+    It got leukemia, feline leukemia: null
+    It got out under the fence while we were on vacation,: null
+    It is great.: null
+    It just breaks my heart to see these poor little old dogs wandering the streets looking starved: null
+    It just turned two, I believe.: null
+    It took me about two weeks to realize, that was real lonely.: null
+    It was a little Spitz, wi, a little white: null
+    It was about, three feet long, about three feet long.: null
+    It was al, almost always at least one cat, sometimes, like fifteen or twenty. But, always cats in the house.: null
+    It was awful.: null
+    It was bred out of several different retrievers,: null
+    It was gorgeous.: null
+    It was her ex boyfriend and, just was not mature enough to keep the dog, didn't realize how much work it was: null
+    It was just a nice touch,: null
+    It was just gorgeous. just gorgeous.: null
+    It was kept only by kings.: null
+    It was like we can't take it back: null
+    It was like, that could be it.: null
+    It was really it was s really a of things that were fresh sprigs,: null
+    It was so funny.: null
+    It was, he was really a neat pet: null
+    It was, it was just really a fight to, get her clean.: null
+    It will be.: null
+    It will get beer for you out of the fridge,: null
+    It'd be it'd been deactivated as far as: null
+    It's B I C H O N F R I S E.: null
+    It's a mud dog.: null
+    It's a sheltie.: null
+    It's about six months.: null
+    It's about, about six months old,: null
+    It's been about two years now.: null
+    It's coal mines and chemical plants and power plants.: null
+    It's just like, it's, it's just so ironic that this would happen: null
+    It's just, it's just a great cat,: null
+    It's just, it's like I said, we've had him for two years: null
+    It's kind of good training.: null
+    It's like all right, whose corners is this one.: null
+    It's like this train.: null
+    It's like, , wait a minute , .: null
+    It's north of Salt Lake City, Utah: null
+    It's the, an, from an animal shelter.: null
+    It's, it's a system you can put in your yard where you bury these little, transducers or emitters in your yard: null
+    It's, just me and my wife: null
+    It's, kind of country.: null
+    It's, part Chow and part Shepherd: null
+    It, it's a miniature.: null
+    Joey, on the other hand is a little different.: null
+    Just, stays away or runs: null
+    Kids just came from all over to come and see Clyde and visit with him: null
+    Knocked that parakeet right out of the air.: null
+    Least I hope not .: null
+    Liberty is the cat.: null
+    Lord knows what happened to him.: null
+    Lucky and Spot, that's their names: null
+    Massachusetts.: null
+    Me and cats don't get along too well, ,: null
+    Mine is Gin.: null
+    Most the class are pretty small.: null
+    My brother had fish when I was a kid: null
+    My cats do that it.: null
+    My dad's like that,: null
+    My folks and I always had a dog and a cat,: null
+    My husband is a hunter, fisherman, outdoorsman, Marlboro type person who had to have a sporting dog.: null
+    My husband that's one thing he hated was our cat used to sleep with us.: null
+    My kids, my, my fourteen year old son has an extra pillow on his bed: null
+    My mother did not like cats.: null
+    My mother has dogs: null
+    My mother, she freaks out because she's got neighbors that have dogs, that don't train them: null
+    My older boy. He never likes to come home from school.: null
+    My pet, was hit by a car New Year's Eve,: null
+    My, my little Schnauzer is, is my friend.: null
+    My, my mother has one that's,: null
+    My, son has a,: null
+    Nobody came near it when he was there.: null
+    Now we don't actually have a pet right now.: null
+    ? Now what happened over here was is that people saw the, the first, which would
+      actually have been a Skutzhund which is what Rin Tin Tin was.
+    : null
+    Now, that seems like a cruel thing to do.: null
+    ? One morning, the first thing you do is you get up and you, you, you feed this
+      cat some, something and, and you make sure that it can get to its litter box.
+    : null
+    Only in America is there a dog called a German Shepherd.: null
+    Only it wasn't like cats at all.: null
+    Other than that he gets scared to death.: null
+    Our cat we got from the pound the day bef, the night she was going to be put to sleep.: null
+    Our dog wasn't interested in even coming in our room,: null
+    Our one, our one nursing home in has one.: null
+    Our only problem with our Schnauzer, she's an indoor dog ,: null
+    Our son, on the other hand, who was about eleven at the time, was, not very interested in pets,: null
+    Our, our daughter found her and brought her to us,: null
+    Ours are pretty calm.: null
+    Ours is, a cockapoo.: null
+    Ours is, on the small end,: null
+    Ours, ours barks more than, than some, because she spent a lot of time at our friends' house.: null
+    People, customers that bring them into the shop and ask me they, fit collars and stuff on them: null
+    Permanent .: null
+    Precious and Rascal are brother and sister: null
+    Precious is a medium hair yellow cat,: null
+    Pretty good.: null
+    Probably seven or eight years.: null
+    Pu, we put some papers on the floor,: null
+    Quite a long time, probably five or six years: null
+    Randy, we've just about used up our time here,: null
+    Rascal is a black and white short hair.: null
+    Really good temperament and very playful and affectionate, good personality.: null
+    Right at the base of that northern peninsula: null
+    Right now I've got two, and three cats,: null
+    Right now it, it is.: null
+    She doesn't hear very well: null
+    She goes out: null
+    She has the, the color and the black to, tongue of a Chow,: null
+    She is so spoiled.: null
+    She jumped in and then started screaming and made me pull her back out.: null
+    She just, just waited: null
+    She looks like a Gol,: null
+    She ran off once,: null
+    She really didn't know how to handle herself.: null
+    She was fifteen when she died.: null
+    She was in the house .: null
+    She was okay for a couple of years.: null
+    She was the greatest, greatest, went through two generations of children in my family and was always very gentle.: null
+    She would, crawl on me: null
+    She'd just get on the first step and lay down.: null
+    She'll be sixteen in May.: null
+    She's a year and a half old now,: null
+    She's about seven or eight years old.: null
+    She's definitely ready to get out and run around.: null
+    She's got a very nice temperament.: null
+    She's had about four or five litters.: null
+    She's just a lot of company to us.: null
+    She's like fiftyfive pounds.: null
+    She's not completely pure.: null
+    She's only been around one and, and sometimes two people at the most: null
+    She's real s, sweet little dog.: null
+    She's the most intelligent dog I've ever seen.: null
+    She's, a poodle.: null
+    She's, o, she's that, this young: null
+    She's, she's a good watch dog: null
+    She's, she's real good,: null
+    She's, she's the oldest one and, but, very possessive.: null
+    She, lost all her activity: null
+    Since they've become so popular you get what I call backyard breeders.: null
+    Somebody just told me that: null
+    Sometimes I wish I had not gotten this one, it's a puppy, because I work: null
+    Stripper, he started out being a little orphan,: null
+    Tha, they found him the next day in a tree,: null
+    ? That German shepherd, the American German Shepherd here was a, a, a such an
+      unreliable animal that the American Seeing Eye Institute
+    : null
+    That dates me quite a bit,: null
+    ? That dog is bred out of three European dogs. The Belgian Tervurien, a German
+      Skutzhund, and a , I always forget the third one. I can see it.
+    : null
+    That experience was awful .: null
+    That is not breed standard.: null
+    That makes me feel so bad.: null
+    ? That said anything that is a Skutzhund, a, a Tervurien and, Alsatian Alsatian,
+      any inner breeding of that can be called a German shepherd here.
+    : null
+    That snake used to watch our cat walk around.: null
+    That was another funny thing,: null
+    That was sort of fun,: null
+    That was very funny.: null
+    That was, that was really hard.: null
+    That works out real well.: null
+    That's about it .: null
+    That's considered a pretty good program.: null
+    That's how I got into, into the switchboard project and all that,: null
+    That's my buzzer at the door .: null
+    That's the one thing we don't like about him.: null
+    That's what he said.: null
+    That's what we found.: null
+    That's why it really surprises me, that he hasn't come back, because, like I said, he's never gone away like this before,: null
+    That's why we couldn't understand why he would want to get out ,: null
+    The backyard, it's really big, too, for him to run in and stuff.: null
+    The cat is,: null
+    The circuses in Europe used to use them: null
+    The older kids had wanted one, though,: null
+    The vet called her, a golden mix ,: null
+    The whole family was so disappointed .: null
+    The, the cat almost died,: null
+    The, the ferret is used to running the house and was kind of wild: null
+    Then I didn't notice any improvement till the, after the sixth one.: null
+    Then I would do it, everyday or two days so I would clean that pan very, very rarely,: null
+    There was about seven kids ranging from about, three years to ten years running around the house all at one time,: null
+    There was cartoon in COSMO about a year or two ago: null
+    There'd be no way.: null
+    There's just, there's this, they just fill this void.: null
+    There's like two aluminum plants .: null
+    They are very determined critters: null
+    They didn't.: null
+    They don't look a thing a like,: null
+    They get real crazy.: null
+    They had a Cockapoo, and, and two Bichons: null
+    They had five litters of puppies,: null
+    They had, he had gotten it from the pound: null
+    They just really do not want other animals on their property.: null
+    They knew the sucker when they saw one.: null
+    They know I don't like it.: null
+    They look totally different,: null
+    They own the place: null
+    They picked up a lot of bad press lately.: null
+    They run anywhere from two hundred to four hundred dollars, I think: null
+    They were healthy,: null
+    They will recommend their shepherds as a children's dog.: null
+    They're always up where they don't, where they're not supposed to be.: null
+    They're eleven and eight: null
+    They're huge.: null
+    They're just huge .: null
+    They're okay,: null
+    They're really looking for a lot more men to participate.: null
+    They're very strict about it.: null
+    They're very,: null
+    They're, they're real sturdy little critters: null
+    They've heard about it: null
+    They, get to feeling so lovey and dovey: null
+    They, they'll dance: null
+    This is a little bigger than a teacup.: null
+    This is bred for,: null
+    This is quite a, quite a long distance.: null
+    This is the very first one I've, I've talked to.: null
+    This, this cat is a, more like a dog.: null
+    This, this friend of mine has, th,: null
+    Tibby and Liberty.: null
+    Tibby is the dog: null
+    Trying to remember we had a dog for a while,: null
+    We call him Neek.: null
+    We came from Colorado,: null
+    We did that every weekend,: null
+    We got her from the, Humane Society when she was a puppy.: null
+    We had a cat that had kittens.: null
+    We had a little, dog,: null
+    We had her for, fifteen years, I think, my family did, and just loved her.: null
+    We had just moved into this house and, decided to wait about a year and then went,: null
+    We had, the kids had rabbits for pets,: null
+    We have a, a dog that we got from the,: null
+    We have a, a mutt.: null
+    We have grandchildren that run through: null
+    We have him on film, on the video camera .: null
+    We have some friends with a brother and sister Golden retriever: null
+    We have three dogs and: null
+    We have two Chows and, , a miniature Schnauzer, and recently added, a guinea pig, , which wasn't by my choice,: null
+    We have wooden floors: null
+    We have, tortoise which is a black and, and orange.: null
+    We just couldn't leave without it.: null
+    We kind of like,: null
+    We like them around.: null
+    We like, we like pets,: null
+    We live out here by, it's by Ogden.: null
+    We miss him a lot,: null
+    We named him, we named him Buddy after, Buddy Bell, the Ranger baseball player that used to be here.: null
+    We started out with two, with two outdoor cats: null
+    We treat him like our kid right now so he's spoiled rotten.: null
+    We try to take her out right before we go to sleep,: null
+    We used to swap back and forth dogs.: null
+    We went through twentytwo hundred dollars worth of vet bills.: null
+    We were going to get a shepherd and something mixed because my husband's family had had shepherds: null
+    We were talking about that tonight since, he, we just, he just got out yesterday: null
+    We're down to a simple dog and cat now,: null
+    We're, we're only about ten minutes from Ogden.: null
+    We've been to the pound,: null
+    We've got so many when he was a puppy ,: null
+    We've had him for about two years: null
+    We've had him for,: null
+    We've had kid, we've had dogs when I was a kid,: null
+    We've had those,: null
+    We've had two dogs: null
+    We've had, in the past, we've had birds, too, like Cockatoos.: null
+    ? We've, we thought probably our neighborhood in Houston had more of this breed
+      than any other place just because of, the family that had them and, and bred
+      them.
+    : null
+    We, I think they're a lot of company,: null
+    We, that's was our cat's name that, that, that died.: null
+    We, we had a dog that was a, mix between an Alaska Malamute and a Labrador: null
+    We, we tried a dog about four years ago, we ended up with, malamute and some other kind of mix.: null
+    We, we used to live in an apartment: null
+    We, we've, saw him just about a year ago: null
+    We, we, I had one that had, we had, we had to put to sleep he got so sick.: null
+    Were it not for my son, the cat would not be in this house .: null
+    West Virginia.: null
+    When Dan would drum he'd sit there and scrunch up,: null
+    Which makes her, I guess, unshowable,: null
+    With Domino, she was full grown,: null
+    You can walk a dog: null
+    You cannot show your retriever if it's, a hundred plus pounds.: null
+    You don't know that, .: null
+    You had to be sure you left the doors open,: null
+    You really can't get a pit bull from birth that's that way.: null
+    You really, y, you don't know what it's going to until it's all over.: null
+    You've got it.: null
+    Your two fish.: null
+    a dog would be running around crazy .: null
+    ? a farmer called us and wanted us to call the animal shelter to co, the dog catcher
+      or somebody to come and get this puppy that,
+    : null
+    a friend of mine at work here said that he tried it with his dog: null
+    a friend of mine at work telling me that at his frat in college that they had a tank of piranha,: null
+    a friend of mine had, an eel,: null
+    a friend of mine said, th, she, that she gre,: null
+    a lot of kids are scared of that. And I understand because she is, a lot of movement and everything: null
+    a lot of people, drop off abandoned, abandoned pets at her house: null
+    a lot of times now when you buy them from the S P C A or: null
+    a lot of times,: null
+    a mill rat had been bought: null
+    ? a person lives across the street from me, brought her home from work because
+      a coworker of hers, had this dog appear on its front doorstep,
+    : null
+    a toy poodle, a toy poodle: null
+    about a year I guess.: null
+    ? about fifteen years ago the German Shepherd Club of America decided amongst
+      themselves that they were going to change this.
+    : null
+    about two years.: null
+    actually he had no trouble at all.: null
+    actually it was on a sign at Taco Bell drivethru that said free kittens.: null
+    actually it's he's the cat person: null
+    ? adults, if they're strange to her, or, or they look suspicious or something,
+      she acts like she wants to chew their leg off.
+    : null
+    ? after the two week period was up, she then informed me that the woman no longer
+      wanted the little puppy and wanted to know if we wanted to keep it.
+    : null
+    after the, the second shot she was significantly better.: null
+    again dad went through the whole thing,: null
+    again going through that because our, our animals are almost like our kids in some ways,: null
+    all four of ours are house cats.: null
+    all of a sudden there was all this noise out to the side the house: null
+    all of a sudden this bird and I have become wonderful friends.: null
+    all of her animals that she ever had were adopted.: null
+    all the others were standing there barking and jumping up and down.: null
+    all the, all three of them, dog, cat and skunk, used to chase each other all through the house.: null
+    also, the whole, whole thing with noise.: null
+    although I've heard rabbits are pretty good: null
+    aluminum plants.: null
+    and the people in the lab one day called in my friend and said, this rat is acting really strange I think he's sick,: null
+    and when I notice in the winter, when it's worse, it's cold weather and so forth then I have, gotten a booster for her.: null
+    another five or six weeks I'll be bringing the little kitten over to, to my folks.: null
+    any cat that comes near, and even a dog he won't, he won't jump at them or anything,: null
+    any pet that I get from now on will definitely be spayed or neutered.: null
+    any, more, whenever anybody comes over, we all have to show him Domino .: null
+    anything that, that they think is good,: null
+    anytime they hear your voice, they come.: null
+    anyway he brought this home: null
+    anyway she's, she enjoys her though,: null
+    anyway, he just, he went and found this guy in, in Dallas somewhere who had picked up one in, I guess in Te, in Mexico,: null
+    apparently they've been so in, I don't know inbred, or what,: null
+    as I say, we got it from the Humane Society,: null
+    as I understand it, both sides of the, were thoroughbreds.: null
+    as a matter of fact, I was thinking that same thing, unconditional love.: null
+    as if the dogs weren't enough, had to have, a guinea pig,: null
+    as it turned out, he and this dog have gotten to be really good pals.: null
+    as luck had it, she had puppies the same week my daughter was born,: null
+    at first, they seemed to be upset,: null
+    at least she can go: null
+    at one point I had a snake, skunk, dog and cat running loose in the house.: null
+    at the present time I have two dogs.: null
+    at the time they were, grade five and, and grade eight,: null
+    at this age, I guess so.: null
+    attached to that is a, twelve foot leash,: null
+    basically it, right now it, it's fully trained: null
+    be, before we got her, everybody said, "Oh, they're just like a cat,": null
+    because as I said our, our Schnauzer was old.: null
+    because my dogs chase them.: null
+    because of that we didn't have very many pets afterwards: null
+    because she's so old, she doesn't have much control: null
+    because some people, want to train them as,: null
+    before that we had all Dachshunds,: null
+    before the dog died, we have a queen size bed and the dog would sleep on my side,: null
+    being single, she's become very important in my life: null
+    both the half breed and the pure breed had the, what I consider the, the, the perfect disposition.: null
+    both, Joey and, Stripper get treats .: null
+    boy, it was, that was funny too, watching him kind of burned up: null
+    bring, bringing them in as puppies they got along just fabulous with her.: null
+    by Christmas time we went down to the pound and got him, I I gue, Humane Society and got, got another one, a stray.: null
+    by the way, I'm, an R V, full time R V er,: null
+    campus housing does not even allow thinking about that .: null
+    cats are really almost more territorial than, than dogs are.: null
+    cause he has had him for six or seven years.: null
+    clamped onto my finger and would not,: null
+    course, when he runs around the yard, he just digs,: null
+    course, when my children were growing up, we always had a dog, and always said it was because the children wanted the pet: null
+    currently we have a poodle.: null
+    customer of mine has a parrot,: null
+    definitely different .: null
+    do you have, you said you had two cats,: null
+    does his little jobbies in the litter box,: null
+    dogs take a lot of, a lot more care than cats do.: null
+    dogs that get down in the hips,: null
+    during the day I have her on a, on a leash,: null
+    during the day, I me,: null
+    especially when he was inside and just eating lettuce, it dried up a little bit like ashes: null
+    especially when they're young when they bring them in: null
+    even that's, small time mostly.: null
+    ? even, police corps which started, finding other breeds to use because this thing,
+      this, this thing known as a German shepherd here, its personality and its dependability
+      and its reliability was just terrible.
+    : null
+    every couple weeks, they wou, one would slip away: null
+    every night when he comes home from work, he hugs it and talks to him: null
+    every time you see one hit on the side of the road you say is that my cat.: null
+    everybody wanted Rin Tin Tin.: null
+    everybody was used to him: null
+    except we live in Plano, Texas now: null
+    finally my wife, wife, bless her heart, got rid of it, because I didn't really like it.: null
+    finally we made it back to, to Carney: null
+    finally, my children are the ones said, "Mom, you've put up with that skunk long enough,": null
+    first off we'd probably wind up with a, a cat or maybe a puppy.: null
+    fish in a tank.: null
+    for a while they built a, a run for him out to the side of the house,: null
+    for some reason or other he had a thing for them.: null
+    for those dogs that are registered: null
+    fortunately it was just like a retriever: null
+    fortunately the decision was just taken away from us which made it a whole lot easier.: null
+    from fourteen down to seven.: null
+    from my neck of the woods, it's hilly.: null
+    from that aspect, I'm short on the discipline, because I don't, enforce that the kids look after the dog: null
+    from what we can tell it was a pellet gun: null
+    gee, she hated baths worse than anything.: null
+    gosh they, the, this fellow's wife who was, watching the dog, pro, she, I think she loved that dog more than I did: null
+    gosh, I can't even walk by Central Park when summertime,: null
+    gosh, sticks in my mind he paid eighteen hundred dollars for a parrot,: null
+    had a hamster or two,: null
+    have a ball with them.: null
+    having a pet was a little bit different for him.: null
+    he also sheds a lot.: null
+    he bites her.: null
+    he chased after a, after a skunk and got sprayed: null
+    he chews on plants and all that,: null
+    he comes back.: null
+    he couldn't walk,: null
+    he crawls up next to my husband now,: null
+    he did a lot of interesting things: null
+    he did go out sometimes: null
+    he did, he did it a couple weeks ago, dug a hole,: null
+    he didn't eat flies.: null
+    he didn't get him in again.: null
+    he didn't like them too at first,: null
+    he didn't like this run because there were no people that came by: null
+    he didn't like to go anywhere else,: null
+    he didn't, he, the only thing he didn't like very well was the drumming.: null
+    he does not like to be tied outside.: null
+    he doesn't bite anybody: null
+    he doesn't know that he's tearing up things,: null
+    he doesn't like it if we tie him outside.: null
+    he doesn't like to roll over.: null
+    he ended up keeping him.: null
+    he follows, he'll follow my oldest son around.: null
+    he found a Norwegian elkhound: null
+    he gave me the medication, the same medication that I gave her the last time: null
+    he gave this dog a series of ,: null
+    he gets to go in and out whenever he wants to.: null
+    he goes out for the day.: null
+    he got hit by a Cadillac.: null
+    he got huge down there.: null
+    he had a blue one before: null
+    he had a hot pad: null
+    he had actually was able to get him over that.: null
+    he had dysplasia: null
+    he had fish.: null
+    he had full run of the house.: null
+    he had it for about three or four years where we just about had to lift him and carry him every place he went.: null
+    he had ripped my wallpaper off my wall.: null
+    he had the dog the whole time in his room,: null
+    he had tried to dig his way out from underneath the door,: null
+    he has a couple of times,: null
+    he has a dog and everything,: null
+    he has been trained: null
+    he has tried to bite me for two years,: null
+    he hated that.: null
+    he held on to the collar: null
+    he is huge.: null
+    he is something.: null
+    he is the lovingest cat.: null
+    he is wonderful with our little girls: null
+    he is, he was a really interesting animal.: null
+    he is, he's a big old thing.: null
+    he is, he's, comes from a purebred line: null
+    he is, you can tell he was weaned too young because he'll nurse on your ears and your fingers.: null
+    he jumped in, in the, the river.: null
+    he just brought this Norwegian elkhound an,: null
+    he just can,: null
+    he just follows my son around just like a dog.: null
+    he just had his fourth birthday.: null
+    he just sits on your lap, sits on your lap,: null
+    he just takes a few the animals in: null
+    he just, he couldn't get up,: null
+    he keeps threatening to send a snake through the mail,: null
+    he kind of moved into a woods down there.: null
+    he kind of ripped through the chicken wire .: null
+    he knows where our yard is: null
+    he let her out,: null
+    he liked that.: null
+    ? he liked to ride on the back of his, up on his head, with his tail wrapped around
+      his arm so he wouldn't fall off, an, and scare everybody to death
+    : null
+    he lived through it,: null
+    he looked at me like,: null
+    he loves his treats,: null
+    he loves life now.: null
+    he often gets to smelling her scent and will go over there to sniff around and stuff: null
+    he put on about fifteen to twenty pounds after the thing: null
+    he really, he just he just wants his belly scratched: null
+    he said I can't believe that you're still getting such a kick out of that movie .: null
+    he said he was probably weaned too young, which he was, because his mom was killed,: null
+    he said yeah,: null
+    he said, I'll sell that snake to you for two fifty.: null
+    he said, a booster, every year or two,: null
+    he said, let's give her some race horse shots.: null
+    he said, of course I love cats.: null
+    he said, puppies just chew when they're nervous and I, I wish you had told me: null
+    he said, they're much, they're as much work as a kid,: null
+    he says, my dog doesn't like cats,: null
+    he seems to have mellowed out a little bit,: null
+    he slid down the wall.: null
+    he started chasing him with a bull whip.: null
+    he started off as a stray: null
+    he talks now: null
+    he tolerated them,: null
+    he took the skunk, too.: null
+    he turned out to be such a wonderful cat,: null
+    ? he used to say, pets can be most as much trouble as ki, as kids, if they work
+      at it a little bit, and even more when they work at it a little bit .
+    : null
+    he used to, I used to come down stairs in the morning to feed him,: null
+    he usually is good about staying within them,: null
+    he walked out to the perimeter.: null
+    he wanted to see what he was subjecting his dog to: null
+    he was a hundred and twenty pounds,: null
+    he was a lot of company to her.: null
+    he was a real, a real lovable type,: null
+    he was becoming incontinent.: null
+    he was fourteen years old.: null
+    he was gaining weight again, was just getting healthy,: null
+    he was just chained up all the time,: null
+    he was just getting real skinny.: null
+    he was just tied up to a post: null
+    he was just too big for our kids: null
+    he was just,: null
+    he was kind of jus, he was too big for the kids to handle,: null
+    he was kind of wild.: null
+    he was out of town last weekend: null
+    he was really a neat animal.: null
+    he was so funny.: null
+    he was so mean to her, right after we first got him.: null
+    he was swimming for quite a bit, all afternoon.: null
+    he was the last one she carried across,: null
+    he was the only one left: null
+    he was very well trained when we got him.: null
+    he was, completely against having a dog or cat,: null
+    he was, he was a good cat, too.: null
+    he was, he was born in the wild, in a, in a shed: null
+    he was, he was just too big.: null
+    he wasn't a whole lot.: null
+    he went there to go to the bathroom.: null
+    he would go in the lake,: null
+    he would just dance around the floor: null
+    he would sleep with her,: null
+    he wouldn't lay on it until we changed the covers.: null
+    he wouldn't lay on it.: null
+    he'd come in there as a stray.: null
+    ? he'd eat outside o, except you had to keep him away from the garden because
+      he liked to eat the little peas as fast as they came up,
+    : null
+    he'd eat the outside leaves.: null
+    he'd have these dress sh,: null
+    he'd leave the room .: null
+    he'd never been outside, by himself outside.: null
+    he'd pick up his dish again and throw it in the air until we came out and gave him some water.: null
+    he'd pick up his dish and throw it in the air .: null
+    he'd saved up his allowance, and picked him out a bird in a bird cage: null
+    ? he'd, he'd scratch and do all kinds of things to get you to open the door, if
+      you happened to close it on him or something,
+    : null
+    he'll tell you which one he wants.: null
+    he'll watch,: null
+    he's a Pomeranian and Sheltie cross.: null
+    he's a good dog,: null
+    he's a real feisty guy.: null
+    he's a very possessive cat.: null
+    he's a very tame spoiled house cat, now that I've had him for seven years.: null
+    he's about two years old now: null
+    he's actually not really a puppy anymore: null
+    he's always been right there.: null
+    he's always come back eventually: null
+    he's always stayed right here: null
+    he's always, he really does have a good home.: null
+    he's been a wonderful cat.: null
+    he's been neutered and declawed,: null
+    he's been transferred to Germany for a while: null
+    he's got a full, a pure bred Golden Retriever: null
+    he's got free access of a window we like to keep open.: null
+    he's gotten out before,: null
+    he's great,: null
+    he's in the laundry room with this little carpet square: null
+    he's indoor and all declawed because I know the, average life span of an outdoor cat is eighteen months.: null
+    he's just always been right there when he gets out.: null
+    he's just huddled up like, if you'll be nice to me, I won't make any trouble,: null
+    he's just the warmest thing in the wintertime,: null
+    he's just, he's just kind of there, real friendly and docile.: null
+    he's kind of our temporary substitute for having kids.: null
+    he's like sixteen months old,: null
+    he's like thank you so much.: null
+    he's never gone away.: null
+    he's not a real, he's not a real tall, dog for a Golden Retriever.: null
+    he's our spoiled child right now, too .: null
+    he's outside: null
+    he's outside during the day: null
+    he's part Collie, part Shepherd, and part Chow.: null
+    he's part golden Lab and part, , let's see, Alaskan, no, not Alaskan.: null
+    he's pretty big.: null
+    he's pretty much an inside dog.: null
+    he's pretty okay,: null
+    he's probably, a good two years old, big, old, fat and sassy tabby.: null
+    he's quite a animal .: null
+    he's really big,: null
+    he's really getting too old to take care of it.: null
+    he's seven,: null
+    he's so funny,: null
+    he's still a puppy.: null
+    he's still alive and kicking.: null
+    he's still chewing.: null
+    he's the little boy Pomeranian.: null
+    he's the only one that allows him to touch him pet him love him: null
+    he's up to ninety four now.: null
+    he's very protective of our property.: null
+    he's, I, got him in Arizona: null
+    he's, a one owner.: null
+    he's, been the one that you know spent the most time with him.: null
+    he's, he has been really aggressive, especially towards my little girl, for: null
+    he's, he's gotten out,: null
+    he's, he's just about a year old himself and never had really,: null
+    he's, he's really spoiled, though .: null
+    he's, he, he must be part, cross part with some kind of desert animal, because he's very long and lanky,: null
+    he's, taken to the training pretty well: null
+    he, I guess it was a male, he ran off twice,: null
+    he, he died in a tree.: null
+    he, he doesn't have any front claws,: null
+    he, he got tame,: null
+    he, he got, he came to accept the fact that Mom and Dad were his company from then on,: null
+    he, he had a beagle that he loved: null
+    he, he had to stay home.: null
+    he, he knew how to get me to feed him.: null
+    he, he looked around a long while: null
+    he, he's got a bad back: null
+    he, he's pretty good about taking to commands and: null
+    he, it, it was just over a year.: null
+    he, so far he's bitten ten people.: null
+    he, when he was about seven months old got a gastrointestinal virus and was just about on death's door: null
+    her dog there is, is basically a reject,: null
+    her dogs, the, the second one that she has was one of the puppies from the litter,: null
+    her ey, she's sort of unicolor,: null
+    her name is Angel.: null
+    her name is Thumper.: null
+    her nose is that pink,: null
+    her only problem is trash.: null
+    his brother has an: null
+    his mother had been killed coming back across the road to make sure she'd gotten all her kittens.: null
+    his name is Dominique.: null
+    hopefully that will help, maybe around the neighborhood.: null
+    hopefully this one here, Cocoa will live a full life .: null
+    how, how tight you have the lid down on it,: null
+    how, the, he the beagle died in I guess about October: null
+    if I allowed her to not get up on her own, it'd be two o'clock in the afternoon.: null
+    if I catch him I call him: null
+    ? if I, if I put her in a room all by herself and close the door and leave her
+      there for a few hours, because I was going out. She would, break something or
+      rip up the carpet or do something just to, to, to let me know that she was unhappy
+      with what I did .
+    : null
+    if anybody reaches over to pet him or whatever, he'll just kind of look at them like what are doing.: null
+    if he doesn't come by mid morning, then I really get scared.: null
+    if he's not in the mood, you'd better stay away from him.: null
+    if it, if it were just more peaceful, the little ones, we would definitely have a pet.: null
+    if our shoes sat side by side, she would pee in my husband's shoes.: null
+    if she fell in then I'd of been, had to go in after her.: null
+    if something happens to her.: null
+    if that weren't so, I would certainly have one.: null
+    if the cats will, will jump up on things and knock things over all the time,: null
+    if the child gets scared, she's still trying to play, but she doesn't completely understand what's going on: null
+    if there's, she'll bark that way,: null
+    ? if they don't have their booster, any kind of saliva or anything from another
+      cat, if they get in a fight it automatically,
+    : null
+    if they get too close to that perimeter, it: null
+    if they go away, they have, they hire a pet sitter to come in twice a day and pet them and things like that: null
+    if we're leaving her, she barks at us, because: null
+    ? if you ever start looking in papers now and you start seeing these ads for German
+      Shepherds, they will say on them, bred for disposition, A K C
+    : null
+    if you give him the freedom to walk around and go wherever he wants, he likes that,: null
+    if you just let it dry, it dries kind of like,: null
+    if you want him to be and he doesn't want to be, he'll just, he'll, either scratch you or run away.: null
+    if you wanted to get him wet, forget it.: null
+    if, if the child is, is pretty straight forward, she's fine.: null
+    if, if you should have one, that also has hip dysplasia you cannot breed it,: null
+    in all our years of marriage,: null
+    in fact I got her when I moved out of the house also.: null
+    in fact my brother has a, a exotic pet shop out in California,: null
+    in my hometown, they just outlawed ferrets: null
+    in my, in my earlier days as a student I kind of time shared on a dog with a, a good friend of mine: null
+    in order to have the birds not stuffed I have to keep them in their: null
+    ? in the north end of the state, you've got that little narrow strip of West Virginia
+      going up between Ohio and Pennsylvania .
+    : null
+    in the retrievers it happens to be they like them big, for somehow big is perceived as the better.: null
+    in the summertime when he was outside and eating outside the smell was a little bit like a cat,: null
+    in the summertime you could put him out: null
+    it came on T V the other night: null
+    it can do a lot of things.: null
+    it comes bedtime: null
+    it comes inside.: null
+    it cost her three hundred dollars,: null
+    it creeps up on you.: null
+    it did look like it'd be a good mo, movie,: null
+    it doesn't matter where you put it and where you hide it,: null
+    it finally died: null
+    it frustrates me sometimes not being able to have a dog: null
+    it got dark: null
+    it got to be pretty big,: null
+    it got too cold up there: null
+    it had this man sitting on a couch with his date: null
+    it has improved the personality.: null
+    it has to stay inside: null
+    it is hysterical,: null
+    it is so cute.: null
+    it is wonderful,: null
+    it jumped up on my bed and anointed my blanket,: null
+    it jus, just really, upset me no end.: null
+    it just drives us nuts.: null
+    it just goes like a mad dog,: null
+    it just jumps up and down and starts yapping,: null
+    it just never started smelling,: null
+    it just sort of echoes through the house .: null
+    it just, it's too heartbreaking: null
+    it killed ours,: null
+    it looks like their kneading bread . *spelling "their" should be "they're": null
+    it makes a much nicer cat if they're outside.: null
+    it needs to be put to sleep: null
+    it really didn't dawn on me until Sunday,: null
+    it really was.: null
+    it seems like,: null
+    it seems, it seems to, respond real well,: null
+    it sort of has a bob tail.: null
+    it sounds like a train.: null
+    it started raining: null
+    it takes a lot of training and a lot of abuse to get a dog to really: null
+    it threw him up against the wall,: null
+    it took us about six weeks of in and out of the vet and surgery: null
+    it w, it was in the, it was almost October of eightyfive,: null
+    it was a chore.: null
+    it was a convenient little pet to have because it stayed in its cage: null
+    it was a dog that we gotten: null
+    it was a group class, outside.: null
+    it was a little,: null
+    it was a live rat,: null
+    it was a sweet and an intelligent dog.: null
+    it was about eight months later, he ate a piece of the linoleum.: null
+    it was about two years ago she got sick on me: null
+    it was an amazing dog,: null
+    it was an in, kind of indoor, outdoor,: null
+    it was awful.: null
+    it was before, this was before we even met.: null
+    it was easy.: null
+    it was in March of last year.: null
+    it was in the floor: null
+    it was just a small thing then,: null
+    it was just bad.: null
+    it was just, did get strange .: null
+    it was kind of like, she had her babies and understood about,: null
+    it was known as a German shepherd here.: null
+    it was like he knew: null
+    it was like, hey, maybe you're still allergic to the dog.: null
+    it was litter trained: null
+    it was new carpeting: null
+    it was not gross,: null
+    it was one of these fish that i, it would eat, it ate a big other fish and things like that.: null
+    it was really terrible.: null
+    it was terrible.: null
+    it was very aggressive.: null
+    it was, go over there and clean up after the dog,: null
+    it was, it was: null
+    it was, it was an experience that they didn't enjoy at all.: null
+    it was, it was just such a, such a new experience for her.: null
+    it was, it was the same kind of a deal: null
+    it was, it, it's it's really made such a difference for her.: null
+    it was, something.: null
+    it wasn't like he didn't: null
+    it wasn't so bad.: null
+    it wasn't too long until she, found out she could wait until I let her out in the morning.: null
+    it wasn't trained quite fully either: null
+    it will get the newspaper and do all kinds of stuff.: null
+    it worries me that one day one of them won't come back,: null
+    it would definitely be an outdoor animal.: null
+    it would sleep on my chest,: null
+    it'd been, didn't, didn't have one for a whole year.: null
+    it's Gin two.: null
+    it's a big change.: null
+    it's a real mixture,: null
+    it's a really good dog.: null
+    it's a series of six shots, once a week,: null
+    it's a suburb of Orlando: null
+    it's a weird cat .: null
+    it's all alone in that aquarium.: null
+    it's almost impossible to,: null
+    it's always hard for me to believe how close I've gotten to them.: null
+    it's been an excellent dog,: null
+    it's been so much fun too, talk.: null
+    it's been, sort of a, a change for my husband because as a, a, a boy growing up, his father had dogs: null
+    it's called .: null
+    it's freezing: null
+    it's funny how, how I, I, a, acquired this animal.: null
+    it's grandpa's dog,: null
+    it's his bir, the first one that we had was his bird,: null
+    it's his cat,: null
+    it's in that breed.: null
+    it's just an accident .: null
+    it's just been tearing me up all day .: null
+    it's just hysterical.: null
+    it's just one of those concessions,: null
+    it's just she wants to get into trouble.: null
+    it's just wonderful.: null
+    it's just, too much.: null
+    it's kind of a mixed breed that we got from the Humane Society .: null
+    it's kind of fun.: null
+    it's kind of nice: null
+    it's like nobody messes with her mamma.: null
+    it's like we can't understand why he kept wanting to get out,: null
+    it's like your claws need trimming.: null
+    it's like, all right who comes first the cat or the baby.: null
+    it's made such a difference for her.: null
+    it's my first dog I've had: null
+    it's my son's cat.: null
+    it's my son,: null
+    it's nice having a dog here,: null
+    it's not a big deal really,: null
+    it's not like she's hungry,: null
+    it's on Oneida lake: null
+    it's on, I think, two or three nights for maybe an hour or two: null
+    it's one of those things I'm just having to get used to: null
+    it's part, Doberman and part Husky .: null
+    it's pretty good training, I think really, keeps her on her toes .: null
+    it's really cold and drizzly: null
+    it's really going to lead the way, for a lot of econ, applications and, and development in the voice area.: null
+    it's really kind of funny.: null
+    it's really, it's, it's kind of a show piece: null
+    it's so nice to have, come home and find something, or someone who's really so happy to see you.: null
+    it's somebody calling for my kids,: null
+    it's the Alsatian that's the kid's dog.: null
+    it's the first time he's ever been gone like this .: null
+    it's the same guy that was watching, my German Shepherd when he got hit,: null
+    ? it's the strangest thing, though, children, no matter how strange they are,
+      or how new they might be can walk, right up to her,
+    : null
+    it's unfortunate,: null
+    it's very strange: null
+    it's, Mitzi.: null
+    it's, it's just hysterical.: null
+    it's, it's not that big that,: null
+    it's, it's such a pleasure to come home at night: null
+    it's, it's, teacup: null
+    it's, miniature.: null
+    it's, we just moved recently: null
+    it's, whoever had it before must have trained it real well, because it's just, it's, a good house dog.: null
+    it, definitely responds to, to authority: null
+    it, it bit him.: null
+    it, it burned up one time: null
+    it, it was a long time before I could really pet him: null
+    it, it's a Spanish Pointer named Domino.: null
+    it, it's actually my wife's dog, I, I became part owner six months ago when we got married,: null
+    it, it, it's ju, just not feasible: null
+    it, that bothers me because she's the friendliest thing,: null
+    it, the bird got away from him one afternoon,: null
+    just finished up my fourth semester.: null
+    just goes everywhere with him.: null
+    just regular water.: null
+    just the smell is so bad ,: null
+    just, he was so cute,: null
+    just, it's kind of a shame that I'm, I'm go, I'm away from it now.: null
+    just, when he'd pet him, he'd just stretch: null
+    kind of like big do, big dogs: null
+    knowing how they love to dig: null
+    last time I was there was fall so probably wasn't that bad .: null
+    last year I had ano, I had another German Shepherd,: null
+    let's see, winter before last we would bring her in, and, when it was cold.: null
+    little kids can just, maul all over her,: null
+    lots of times he, it, he seems to get in fights,: null
+    luckily enough, we found the cat in time and, rushed him to the vet: null
+    managed to get him to a veterinarian in time,: null
+    many times my wife would be lying there on the sofa,: null
+    maybe three hundred, four hundred feet elevation,: null
+    mine had been a, a, a: null
+    mom gets to take care of it, or something.: null
+    most of the agriculture, it's more in the way of, sheep and cattle.: null
+    most of the time when we have problems with restroom is in the night,: null
+    my best friend in Virginia's daughter, is a part of this project in Texas.: null
+    my boss thinks I'm absolutely crazy.: null
+    my brother had asthma and some allergies which I think he's outgrown now,: null
+    my brother has.: null
+    my brother was allergic to it,: null
+    my cat was trained to go outside,: null
+    my cats would knock it over.: null
+    my children are the ones that wanted our pet,: null
+    my daughter had a, a little goldfish,: null
+    my daughter is just nine months old: null
+    my daughters both have hamsters.: null
+    my dog thinks he's a mother turtle,: null
+    my family didn't necessarily like, like them as much as I did,: null
+    my house was loaded with fleas,: null
+    my husband and I are in such a situation that, I'm kind of, not able to do a lot,: null
+    my husband calls her street dog,: null
+    my husband does.: null
+    ? my husband had been ma, in fact, he's been, probably has made a few more calls
+      than I have because I tend to not make them around dinner time,
+    : null
+    my husband had one when he was growing up.: null
+    my husband had originally wanted an: null
+    my husband heard me laughing: null
+    my husband just died.: null
+    my husband went out of town, and left me with, with the brand new puppy,: null
+    my husband's grandparents have a dog: null
+    my husband, was to keep my cat,: null
+    my kids would love a pet.: null
+    my mother who's very elderly lives with us,: null
+    my my dog, last German Shepherd, it was a real chore trying to give him a bath too.: null
+    my neighbor said to me, I noticed those dogs, dogs are so well trained,: null
+    my parents' house is like three miles south of where the MasonDixon Line would have hit the Ohio River had it: null
+    my son Dan went to, to, Hawaii for the summer: null
+    my son and daughterinlaw have kind of a Sheltie mix,: null
+    my son bought this snake,: null
+    my son had the bird back in his room,: null
+    my son has a cat,: null
+    my son left, went to school,: null
+    my son needed some money,: null
+    my son was just dying for a bird,: null
+    my son would rather have a Golden Retriever, though, I think: null
+    my wife and I have a dog that soon be eight years old,: null
+    my wife got them from, friend of hers at work and everything, as kittens,: null
+    my wife was working: null
+    my, I got my mom a teacup ,: null
+    my, both of them are either in or out of college,: null
+    my, my daughter was living at home then,: null
+    my, my dog when I came home, when I come home in the evenings, my dog greets me at the door.: null
+    my, my doggie, that we have now, she's, she's mostly Golden Retriever.: null
+    my, my first one that I got,: null
+    my, my husband's always wanted a Chow: null
+    my, my kids,: null
+    my, my personal preference is, is a dog.: null
+    n, Newhart is the, the,: null
+    name was Clyde.: null
+    naturally these are cats,: null
+    next morning, she let me know in no uncertain terms that she wanted to use the bathroom.: null
+    nobody's home.: null
+    none, none right now.: null
+    normally, he didn't seem to have a problem with getting wet,: null
+    not many people in this part of the country know anything about .: null
+    not mutts, but mixes: null
+    not one mess does she make: null
+    not really.: null
+    now I think there are tests that can be conducted, to tell whether or not the puppies have the, have it.: null
+    now he bites her.: null
+    now he wants a, a good size dog .: null
+    now it's funny.: null
+    now it's like ferrets are outlawed in the town.: null
+    now it's like, if he doesn't come home, can we get another dog .: null
+    now they have this, you get these liners,: null
+    now we have a kid: null
+    now we have two parakeets.: null
+    now we're in the, Dallas area: null
+    now, I think he barely makes it.: null
+    now, I've got another one,: null
+    ? now, in order to, to accommodate the motion detectors we have to keep her, locked
+      up in the, the master bedroom during the day
+    : null
+    nowadays you, you'll get, you'll get a dog trainer to recommend a specific, breeder handler.: null
+    of course the dog is not trained for anything yet,: null
+    of course, I had to take him.: null
+    on huge doses of antibiotics,: null
+    on next night, I spread the newspaper in the bathroom: null
+    once she did it, then she would, she wouldn't,: null
+    once she's gone, I'm not sure if I'll get another animal or not .: null
+    one day I was talking to a lady about gardening: null
+    one dog would stand there wagging her tail and smiling .: null
+    one night we'd forgotten to put water out for him: null
+    one of his fish jumped out of the, fish tank. And fried itself, , on the radiator behind the dresser.: null
+    one of my fifth graders last year came up to me and said, my mom's making me get rid of the bird,: null
+    one of the fish was missing: null
+    one of the people, that we went with, they were friends of ours,: null
+    one of them is a lot bigger than the other one: null
+    one of them ran off.: null
+    one year I forgot to get him his leukemia booster: null
+    ? one year down in Florida on a vacation, for Father's Day, my kids, years ago,
+      maybe, ten years ago, go, bought me a skunk from a exotic pet shop.
+    : null
+    one's a seal point,: null
+    one's real nice,: null
+    other than that it was inside when it wanted to be, it was outside when .: null
+    otherwise, he can jump, just as long as he doesn't bend a certain way.: null
+    our Chows, we've had them, I'd say, right around six maybe seven years: null
+    our cat would sleep with us: null
+    our cats never went outside,: null
+    our cats wound up getting fleas, from the apartment that we were in: null
+    our dog, Joey, has, a back problem.: null
+    our friends in Houston bred the dogs.: null
+    ? our guide that day said that the la , one woman many, many years ago had given
+      a huge sum of money to, to the university, on the condition that there be, dogs
+      just kind of left to roam aro, around the campus.
+    : null
+    our house when I, when I was growing up there was almost never, at least one cat in the house.: null
+    our last, we've, we've had a couple of cats before we moved on campus.: null
+    our male cats, we had,: null
+    ? our miniature Schnauzer, she's just, she's just a little hyper thing and just
+      prances around and jumps all over everybody acting silly,
+    : null
+    our neighbor decided he didn't like cats and shot one of them.: null
+    our neighbors were, I don't know, kind of slimy,: null
+    our next door neighbors have a dog, too: null
+    our shepherd was almost thirteen years old,: null
+    our son and, and his wife and our daughter and her husband and the grandkids all say, get a dog, get a dog,: null
+    our, our friend has a,: null
+    our, our love is Golden Retrievers,: null
+    ours are real friendly,: null
+    ours is black,: null
+    part of the, the movie is where he's trying to clean this dog up: null
+    people are doing their fires: null
+    rats are not my favorite animals in the world,: null
+    really haven't had a whole lot of time to get out to see the movies lately.: null
+    right from day one, she was teaching me.: null
+    right now we don't have anything.: null
+    right now we have one dog inside.: null
+    said my cow lived seventeen years .: null
+    see, I'm getting so many calls to Texas.: null
+    she actually asks to go out.: null
+    she also talks a lot,: null
+    she asked me if I want to, babies,: null
+    she can cover quite an area.: null
+    she can't hear worth a darn or see very well,: null
+    she can't play with it,: null
+    she did too,: null
+    she didn't bark at all until she spent time there: null
+    she didn't get the cat back.: null
+    she didn't learn a lot,: null
+    she didn't want you getting her wet .: null
+    she doesn't have a brown nose,: null
+    she doesn't know that this is a cat yet.: null
+    she doesn't run loose,: null
+    she doesn't see very well: null
+    she ended staying there five days at a hundred and something dollars a day because she was in intensive care .: null
+    she even told me that.: null
+    she got it from the psych department.: null
+    she got over it,: null
+    she got sick on me again: null
+    she grew to be pretty big,: null
+    she grew to be,: null
+    she had the cat there for two days: null
+    she has the shap, the shape of the, Shepherd.: null
+    she is a great comfort to me.: null
+    she is going to be thirteen this summer: null
+    she isn't alive any more .: null
+    she just appeared.: null
+    she just brought the cat in because he wasn't feeling good .: null
+    she just liked his shoes: null
+    she just loved this little dog,: null
+    she just sat there on my lap,: null
+    she just, thinks it's great.: null
+    she knew that I had the time and would be, would enjoy it.: null
+    she knew whether to, to, to quietly come up to me or to just run and knock me over.: null
+    she knows it's wrong,: null
+    she knows we're there,: null
+    she liked to, to get in the pool on the first step.: null
+    she likes him all right.: null
+    she looks just like a Golden Retriever,: null
+    she loves everybody.: null
+    she might have some contacts here,: null
+    she must about eight at the time, I guess,: null
+    she only bred that dog once because it had: null
+    she pushes the other one away from the food.: null
+    she really could pick up on my mood: null
+    she really is.: null
+    she said there's a lot of longevity in that name,: null
+    she said, I don't think he's sick, I think she's pregnant, .: null
+    she said, that's too bad, the dog has already been sold.: null
+    she stayed there for one day: null
+    she stays in the house all day while I go to work: null
+    she still feels good.: null
+    she took our Golden Retriever, not the Golden Retriever, the Norwegian Elk Hound over there: null
+    she took the cat to the vet: null
+    she use to work for a veter, veterinarian: null
+    she used them there.: null
+    she usually stays inside at night.: null
+    she was a dog that loved to run,: null
+    she was a lot of fun.: null
+    she was in the back room,: null
+    she was in the litter,: null
+    she was okay: null
+    she was real docile and,: null
+    she was so cute because all the other little puppies in that litter were just crazy.: null
+    she was the one that was intimidated then.: null
+    she was the only one at first that, could really hold him, because he was really skittish.: null
+    she was very affectionate.: null
+    she was, she did not want any part of swimming: null
+    she weighs in at about fifty pounds,: null
+    she would sit like on my neck or my shoulder while I was working,: null
+    she would spay, neuter them: null
+    she wouldn't hi, harm them at all: null
+    she wouldn't,: null
+    she'd go get back in and try to play and, and what not,: null
+    she'd just lay there on that step and just, cool off .: null
+    she'd lay on her step,: null
+    she'd rather sle, sleep outside on the, the cold ground at night.: null
+    she'll cower and go hide under the table.: null
+    she'll stay outside for, thirty minutes to an hour, come inside and use the restroom.: null
+    she's a doll,: null
+    she's a female: null
+    she's a genuine .: null
+    she's a little bit smaller.: null
+    she's a love,: null
+    she's a medium size.: null
+    she's about four.: null
+    she's about ten pounds,: null
+    she's almost housebroken.: null
+    she's an indoor dog.: null
+    she's been a good dog to have,: null
+    she's been a lot of company .: null
+    she's been a real good, a real good dog: null
+    ? she's been holding herself pretty well. The, up until, recently where she's
+      been having accidents in the house because she either is losing control or she
+      forgets where she is
+    : null
+    she's been okay every since.: null
+    she's even got, she's got one dog now and the two cats: null
+    she's gone the other way,: null
+    she's got a brown nose instead of black too.: null
+    she's got a great appetite,: null
+    she's got the, the bedroom and the bathroom to, for free run during the day: null
+    she's had it for, I guess three years now.: null
+    she's had them for a couple years.: null
+    she's just pretty,: null
+    she's just so kindhearted that she just takes all the animals: null
+    she's just turned out to be a jewel.: null
+    she's kind of a wimp: null
+    she's never really been around children: null
+    she's not limping along and all that.: null
+    she's not smart .: null
+    she's pretty wild.: null
+    she's really good friends with the dog.: null
+    she's right there.: null
+    she's slowing down considerably.: null
+    she's so easy going and so sociable,: null
+    she's so ugly.: null
+    she's the best, burglar alarm going.: null
+    she's the little girl: null
+    she's the oldest.: null
+    she's the, she's the nice one.: null
+    she's used to being around other dogs now.: null
+    she's wonderful.: null
+    she's, a mix of Cockapoo, Cock, Cocker Spaniel and Poodle.: null
+    she's, been, she's been a really, a really good companion for me.: null
+    she's, however, getting a little old: null
+    she's, she's grown up with them and loves them to death: null
+    she's, she's picked up a lot of things, just, just by, teaching by force, I guess is what I'd like to say.: null
+    she's, she's that sort of strawberry blonde reddish color,: null
+    she's, she's usually pretty good.: null
+    she, she continues to do it,: null
+    she, she is good friends with my dog.: null
+    she, she kind of, she kind of sat and it all in for a little while: null
+    she, she turned out to be a great dog: null
+    she, she was alm, she was just inundated with, with all the attention.: null
+    since I, I didn't want to,: null
+    ? since it slept in the castle with its master, it had, it had to be of a disposition
+      to make it, an animal you could keep around that closely.
+    : null
+    since then, I, I live alone,: null
+    since they've moved to where they are, they let the cat out.: null
+    so far we just: null
+    so } it, this dog really feels like it's being killed or something when you try to, tug on it to walk it.: null
+    some he destroys: null
+    some he keeps.: null
+    some lady, she,: null
+    some people might not believe that: null
+    somebody had bought him,: null
+    somebody's trying to cut in on my line: null
+    somebody, somebody abandoned her: null
+    someone gave it to him when he was in junior high school,: null
+    someplace where there,: null
+    sometimes he would just make a racket until you came and got him.: null
+    sometimes it doesn't work .: null
+    speaking of pets, I'll tell you, my, my kids are older now,: null
+    starting up an aqu, an aquarium,: null
+    that cat walked in and walked right up to my mother and jumped up and curled up in her lap.: null
+    that did, did more responsibility. When its yours and not your brother's .: null
+    that helps, too, if they can keep,: null
+    that kind of calms him down for the most part.: null
+    that made me think of, when our daughter was looking at colleges, we visited a campus in, Saint Louis: null
+    that made me very proud .: null
+    that night we had a reception for some of the, potential high school students or college students,: null
+    that sucker hit that fan and went flying up against the wall,: null
+    that was a bad one.: null
+    that was a traumatic experience for us too.: null
+    that was even harder for,: null
+    that was fun,: null
+    that was interesting.: null
+    that was neat,: null
+    that was something we were looking for,: null
+    that was the thing I couldn't figure out: null
+    that was, that was the only time she wanted to get wet: null
+    that's a male.: null
+    that's all there is to it.: null
+    that's because they have a Great Dane .: null
+    that's been years ago.: null
+    that's how Cleo, w,: null
+    that's how we got her,: null
+    that's it, .: null
+    that's mainly people that have never had pets around their children,: null
+    that's mostly why we got it. To keep her company while I am away at work.: null
+    that's not too far from were we live,: null
+    that's one of the requirements I asked him.: null
+    that's the boys.: null
+    that's the breed standard for females.: null
+    that's the white dog with the feathers: null
+    that's what ours is .: null
+    that's what we had intended to get in Houston,: null
+    that's what we'd rather have is just a pet, instead of: null
+    that's when we lived in Oklahoma,: null
+    that's where I live,: null
+    that's where I live, too.: null
+    that's why I laughed when they called with the topic.: null
+    that's why we've never gotten a female, in anything.: null
+    that's, that's what matters.: null
+    that's, that's what ours are too.: null
+    that, that was my first real experience with, with a puppy: null
+    the German Shepherd that I had before,: null
+    the Manx, is that the one that doesn't have a tail: null
+    the Schnauzer I'm, I'm watching for one of, the managers where I work: null
+    the average life span of an indoor cat is eighteen years .: null
+    the bad thing was, though, she would pee in my husband's shoes.: null
+    the biggest chunk of what's going on there is, is, industry.: null
+    the birds, you, it's hard to keep them from squawking or whatever: null
+    the cat died.: null
+    the cat got sick.: null
+    the cat would be on the back of the sofa,: null
+    the cat would sleep on my husband's side, .: null
+    the cat's just looking at me like, sorry.: null
+    the cats are, they might be as old.: null
+    the cats do it in there,: null
+    the couch was ripped up and down at the bottom: null
+    ? the doctor called me up and said, she had a low white cell count and that, she
+      wasn't, she was dying and, suggested that I take her to a working hos, dog hospital,
+      animal hospital .
+    : null
+    the doctor had called her up and said, your cat died: null
+    the dog is probably about, about thirteen, fourteen years old.: null
+    ? the dog kind of, kind of felt out of place then because she was, she was being
+      fed, and everything else from all directions.
+    : null
+    the dog messes all over the carpet: null
+    the dog rode in the car: null
+    the dog was being house sit, or dog sit, whatever, by some friends of mine down the street,: null
+    the dogs are mainly mine and my husb,: null
+    the female's red: null
+    the first one I got.: null
+    the first time I brought her home, she was only, was it six weeks old.: null
+    the first weekend we had him we had, we were in a apartment, in a two bedroom apartment,: null
+    the friends, other friends of mine have cats,: null
+    the kids couldn't handle him: null
+    the kids just fell in love with it.: null
+    the larger they are, the more room they need to exercise.: null
+    the last thing he chewed up was, when we ...: null
+    ? the last thing he did was, when I had sat out a whole lot of begonias in the
+      backyard, and he dug them all up and brought them to the porch.
+    : null
+    the male is black.: null
+    the mud dog.: null
+    the neighbors used to let their dogs out,: null
+    the next morning you want to take them out,: null
+    ? the next morning, when my roommate got up and, and, did not feed it right away,
+      it decided that, that it was going to protest.
+    : null
+    the next year our, our son Ken went to Hawaii: null
+    the one male that she used had a tooth problem: null
+    the one that we had just didn't want any part of that.: null
+    the ones that are shown, they are inside that weight allowance.: null
+    the ones that have dogs are very, protective of them: null
+    the only Chow he's got is, is his tongue.: null
+    the only pet that I've had,: null
+    the only thing that they could come up with was a Bichon Frize which is a,: null
+    the only thing we have with the skunk, he was very, very protective of his territory: null
+    the other one is a,: null
+    the other one is named Holly.: null
+    the other one, the first one I got he doesn't want anything to do with outside unless you're there.: null
+    the other two cats I have are outdoor cats.: null
+    the other two cats will follow in pursuit.: null
+    the people that he got the from, used to have cats: null
+    the problem that we're having with our puppy right now he's not: null
+    the puppy jumped in the, into some of the pools but not into the,: null
+    the second time he never came back.: null
+    the skunk was a good, a decent pet,: null
+    the skunk would be sitting at her feet,: null
+    the thing about them is that they hold so still you don't notice that they're there: null
+    the third one is a children's dog.: null
+    the two that were outside, they're like brothers,: null
+    the vet had told us they get strange,: null
+    the vet said it runs rampant in this area ,: null
+    the way my mom's presence countenance is, just, just for having a puppy: null
+    the whole big sad story.: null
+    the whole time I was pregnant they kept saying, are you getting rid of your cats,: null
+    the woman needed someone to babysit: null
+    the worst part that I had with him,: null
+    the yard's all fenced in: null
+    ? the, the problem is if, if the, if someone would have came up to me and said
+      it's going to cost you five hundred dollars to keep your dog alive.
+    : null
+    the, the tile in the kitchen and picked a hole in it .: null
+    the, the, the vet sent me a bill for what he did: null
+    their cat was not a friendly cat,: null
+    their cats, they're so used to the attention, that if they don't get it, they get really upset,: null
+    their eyesight, they can't see very far either.: null
+    then I would just have messes in the house,: null
+    then she crawls on the carpet: null
+    then she recouped.: null
+    then the cat, died.: null
+    then the, the animal's in trouble, and not the person.: null
+    then when I went out in the world, I couldn't take her with me.: null
+    then } we got this new cat,: null
+    there are distinct breeds in Europe.: null
+    there is a place out here, called Shorties Lane out here in Harrisville: null
+    there once a year live: null
+    there were cats hanging all over him. Hanging on his clothes,: null
+    there were chunks of carpet,: null
+    there's certain spots in the house where he likes to: null
+    there's just,: null
+    there's not, there wasn't a lot of room for her to run around,: null
+    there's nothing you could say bad about him, except that I was more of a cat or a small dog person: null
+    there's, individuals with their own, own f, growing their own food.: null
+    there, blu, brother and sister from the same litter.: null
+    these are cats.: null
+    these people had left this infant in the same room with this loose ferret.: null
+    they all said, Golden Retriever: null
+    they apparently,: null
+    they are so expensive.: null
+    they are, they are just really nice, really friendly, kind of like medium intelligence.: null
+    they are, they are the ultimate dog to have around kids so long as your kid is not scared of a big dog,: null
+    they are, they are, they are Siamese cats,: null
+    they aren't that big.: null
+    they aren't, they aren't by nature really nasty critters.: null
+    they both got ran over.: null
+    ? they bred a dog that I th, it's called a, an animal's critical span which basically
+      translates to how much shit will it take before it bites you.
+    : null
+    they bred it for companionship and, disposition and, and ability to hunt.: null
+    they came from the same litter and everything.: null
+    they couldn't figure out what had happened: null
+    they couldn't find it anyplace,: null
+    they created a breed standard. The American Kennel Club did.: null
+    they did pretty good, except this dog is,: null
+    they didn't appear to belong to anyone.: null
+    they didn't used to be actually,: null
+    they don't ever learn their name.: null
+    they don't look a thing a like.: null
+    they don't shed: null
+    they don't shed.: null
+    they don't,: null
+    they don't.: null
+    they eat, they eat greens.: null
+    they found it fried on, , the radiator behind.: null
+    they get along real good.: null
+    they get it if the other cat has it: null
+    they give it to race horses, to get rid of, cartilage,: null
+    they got along great,: null
+    they got him from the, Humane Society here in Oklahoma City: null
+    they got kind of wild and weren't doing very well inside,: null
+    they had everything from hairless cats to Siamese cats and Persian cats: null
+    they had ripped him up: null
+    they had that on last week,: null
+    they had the sex of: null
+    they had to go through and destroy a, for a while there, about seventyfive percent of their puppies that they bred.: null
+    they had to pay for all the medical, bills that the cat ran up plus the burial expenses.: null
+    they have four of them,: null
+    they have quite an, notable reputation as far as,: null
+    they have three dogs.: null
+    they have, a Wesmin, they call it the Westminster Dog Show,: null
+    they have, the bags behind them: null
+    they have, they keep their cages real clean.: null
+    they hit their dogs and try to,: null
+    they just are really,: null
+    they just felt absolutely awful.: null
+    they just loved him and what not: null
+    they just sleep and eat bits of apple and carrots and,: null
+    they just, really take care of them, or, are protective of them.: null
+    they just, they had a ball romping around,: null
+    they keep themselves clean: null
+    they laughed at me,: null
+    they left the dog in the car,: null
+    they let her tug their hair and, and get on their back or whatever: null
+    they live in an aquarium without water in my family room,: null
+    they love her,: null
+    they love it.: null
+    they love people,: null
+    they love people, and kids: null
+    they move and about scares you to death sometimes.: null
+    they no longer have any other cats.: null
+    they ours would still back up to the dog or cat when he got mad and try to perfume them,: null
+    they put him on the scale: null
+    they put the run out there,: null
+    they range from probably ten to sixteen pounds: null
+    they range from, let's see about a year and a half to nine years old.: null
+    they really are, they're really sweet dogs.: null
+    they really enjoy the animals.: null
+    they really want a dog badly,: null
+    they really wanted something teeny tiny,: null
+    they said they'd keep her there for three days.: null
+    they searched and searched and searched for him: null
+    they selectively culled those litters, for many hundreds of years: null
+    they sort of cause trouble around the house and things like that.: null
+    they think we should have a dog,: null
+    they thought that was so hysterical.: null
+    they told us at the Humane Society and the adoption center, don't give up hope,: null
+    they use the litter box.: null
+    they usually run about sixty to sixtyfive.: null
+    they want the, they want the fun part and not the, not the work.: null
+    they wear a collar with a special little attachment on it: null
+    they went back to Europe and brought back some good examples of each of the three breeds: null
+    they were all over the place,: null
+    they were always hunting dogs,: null
+    they were always kind of,: null
+    they were born around Christmas because one of them is named Tinsel: null
+    they were just all over him and sitting on his head, the whole nine yards.: null
+    they were looking for this disposition.: null
+    they were neat, enjoyable animals to have.: null
+    they were never allowed in the house,: null
+    they were never, they never harmed her.: null
+    they were used to be used on ships and in, for, for mousers: null
+    they would go jog, they would go with me when I would go running: null
+    they would go through all the litters and destroy the puppies if they were anything other than perfect.: null
+    they'd just play: null
+    they'd take anything I think ,: null
+    they'll come up just start kneading in our chest: null
+    they'll cut us off pretty soon.: null
+    they'll get into it.: null
+    they'll get into the trash,: null
+    they'll just come jump on your lap and want to be, have their bellies rubbed and everything: null
+    they're banned from, in some areas I understand.: null
+    ? they're both in their, in their seventies. And, the cat, although it's a little
+      bit of work for them sometimes, it turns, it turns out to be, a pleasant experience
+      for them.
+    : null
+    they're both registered,: null
+    they're doing great out there,: null
+    they're just mutts,: null
+    they're like seven ye, ...: null
+    they're not .: null
+    they're not very well known in this country,: null
+    they're not, high strung or over bred: null
+    they're not, not used to it, on a daily basis.: null
+    they're protective,: null
+    they're really a lot different than dogs because they're not, they're very independent,: null
+    they're really cute,: null
+    they're small, and, and fluffy,: null
+    they're so, independent.: null
+    they're very easy to train: null
+    they're very friendly, and lovable,: null
+    they're very high strung animals to begin with,: null
+    they're very nautical, too .: null
+    they're very, he's very affectionate when he wants to be,: null
+    they're, registered: null
+    they're, they're all white: null
+    they're, they're both declawed at least on the, the front claws.: null
+    they're, they're happier when we're around: null
+    they're, they're pretty and everything: null
+    they're, they're sisters,: null
+    they're, they're very smart dogs.: null
+    they've been looking and looking: null
+    they've kind of taken over: null
+    they've really never used it.: null
+    they, gentlest dog you ever met,: null
+    they, mean to animals not really understanding that the animals have feelings.: null
+    they, they claimed they did the best that they could have have: null
+    they, they got,: null
+    they, they just been real,: null
+    they, they tell me the same thing.: null
+    they, they're pretty much okay by themselves,: null
+    they, will get to playing chase through the house,: null
+    things are starting to fail.: null
+    this Golden Retriever jumped in the, the, really fast moving, river current,: null
+    this cat is like no other cat I have ever seen.: null
+    ? this dog, Dennis jumped in and got this look on his face like what do I do now,
+      as he's floating down the river then finally discovered that he could swim and,
+      actually paddled up against the current and, made it back to the shore and climbed
+      up
+    : null
+    this f, his roommate put him out one day: null
+    this friend of mine grew up on a farm and said that she had, a pet cow named Rosebud: null
+    this guy had somehow worked it out so that he got there a little bit earlier, bought the dog,: null
+    this is huge.: null
+    this is just really strange .: null
+    this is just really strange, because,: null
+    this is just so hard.: null
+    this is not, these aren't cats, ,: null
+    this is really ironic that this would, I would get this subject today because just yesterday our dog ran away .: null
+    this is the first dog I've had all my own as an adult.: null
+    this is the first time.: null
+    this is the only pet we've had sin,: null
+    this is the perfect time for me.: null
+    this is what she had told the kids: null
+    this one he comes up: null
+    this one is probably the best one that we have had.: null
+    this one was purebred: null
+    this one, we bought by accident,: null
+    this snake honestly would be stretched across the top of her body: null
+    this was, and to me, a whole new experience.: null
+    this woman just offered while I was in, in graduate school: null
+    this, this is a beautiful dog: null
+    this, this is the first one that I, took in,: null
+    those dogs have been having seizures,: null
+    those horrible collars that they put on them with invinc, invisible fencing,: null
+    to give you an example. My mom had an elderly cat who, whoever evidently got a hold of it: null
+    to me, he belongs up in the field, in the: null
+    to this day I still miss him: null
+    today's the first cold we've had in Texas: null
+    two nights ago, she had diarrhea,: null
+    unfortunately she's not as well trained as, as I would like her to be: null
+    unfortunately the black lab that's a female, it, tha, it's, it's the most wonderful animal we've ever had,: null
+    until we got the dog, it was real easy to, to go to town for three d, three day weekend or whatever,: null
+    up here the water's probably about forty degrees right now.: null
+    up until then, she's been our substitute kid: null
+    we almost got chased out of here for feeding a stray cat.: null
+    we also have a fish.: null
+    we also raised them for food,: null
+    we always had a dog,: null
+    we always wait until we can rent them, .: null
+    we asked him about it one day: null
+    we call it the S P C A.: null
+    we can leave them for a weekend as long as we put plenty of food out,: null
+    we can take care of it and everything.: null
+    we can't bear to do anything because: null
+    we can't because it's not accustomed to being on a leash: null
+    we chained him up: null
+    we couldn't allow him to run free,: null
+    we couldn't bring her with us.: null
+    we did all this for him .: null
+    we didn't do a lot with them.: null
+    we do have a dog,: null
+    we do have a pet.: null
+    we do have a very loving cat that's, kind of our baby.: null
+    we do keep our daughter away from him.: null
+    we do, we call that doing biscuits,: null
+    we don't have C, we don't have cable.: null
+    we don't have a yard,: null
+    we don't have anything right now.: null
+    we don't have cats: null
+    we ended up getting this,: null
+    we enjoy having pets.: null
+    we fed him the outside leaves of lettuce,: null
+    we figure we'll get the kids and then the, the dog .: null
+    we finally got her, house trained and everything,: null
+    we finally sold his boa constrictor,: null
+    we found, she's right at a year: null
+    we gave him to,: null
+    we gave him up and tried.: null
+    we get home at night we do bring him in.: null
+    we go outside,: null
+    we got him a new one,: null
+    we got him when he was about eight weeks old: null
+    we got it because my wife stays here at home alone: null
+    we got one one year for Christmas,: null
+    we got to Omaha,: null
+    we got, the Chow.: null
+    we got, we, we put dirt in the hole and then put some chicken wire around it, so that he couldn't get out.: null
+    we h, we had a neighbor in Nebraska when we lived there that had, Brittany Spaniels: null
+    we had a baby: null
+    we had a dog before we moved here.: null
+    we had a parakeet.: null
+    we had a small yard and a pool: null
+    we had a, a Schnauzer that we lost this summer,: null
+    we had a, he had his own heat lamp and, and, hot pad he laid on,: null
+    we had an iguana living with us for about,: null
+    we had cat, my family had cats when we were growing up the whole time until my Mom developed an allergies,: null
+    we had for years, about five years I guess, had a, my son had a Burmese boa constrictor,: null
+    we had her for six years until she just passed away recently: null
+    we had him neutered, and, and declawed,: null
+    we had it perfumed: null
+    we had lost a pet,: null
+    we had mostly mutts,: null
+    we had such a time, and never got the cat back.: null
+    we had that darn pet skunk for about five years,: null
+    we had that happen once,: null
+    we had the cat first,: null
+    we had to, we had to flea bath them: null
+    we had to, we had to give him a tomato, tomato juice bath, and, get him cleaned up,: null
+    we had, intentionally, planned to get a dog.: null
+    we have a Sheltie Collie, a miniature Sheltie.: null
+    we have a black Labrador.: null
+    we have a cat who's also about four years old.: null
+    we have a cat,: null
+    we have a cat, Stripper.: null
+    we have a cat, who, a white cat. He's, he's just a Tabby, just a,: null
+    we have a dog, a little white Lhasa.: null
+    we have a pretty small yard,: null
+    we have a very nice kennel and everything: null
+    we have a, a cat, which is, I guess about five years old.: null
+    we have been trying for kids,: null
+    we have had some: null
+    we have had, we had had, a, a dog before.: null
+    we have just been looking all over for him.: null
+    we have one dog, a Bichon Frise.: null
+    we have one rotten cat.: null
+    we have two kids, that just love him a lot,: null
+    we have, Bonzo, Bear, Poindexter, and Felix.: null
+    we haven't found one yet.: null
+    we haven't had any kids: null
+    we headed back to Carney that night,: null
+    we just couldn't,: null
+    we just didn't have time to really train him: null
+    we just don't have a whole lot.: null
+    we just got a new addition to the family, so to speak,: null
+    we just got the, the dog less than a year ago: null
+    we just looked all over for it and couldn't find it,: null
+    we just saw him,: null
+    we just, just love them to death.: null
+    we just, just love them.: null
+    we kind of looked around,: null
+    we knew it,: null
+    we know a lot of people that live in this neighborhood,: null
+    we like him.: null
+    we like pets.: null
+    we live in a, in an area that's, probably about two and a half miles from the university.: null
+    we live in an apartment,: null
+    we live right, might say we live right in, in the middle of a residential area.: null
+    we live, also live in the city now, in Manhattan.: null
+    we lived in Oviedo, which is a small town,: null
+    we looked at some of the shepherd mixes and the puppies weren't very, social and stuff.: null
+    we love her anyway.: null
+    we named him Buddy Beaner for some reason.: null
+    we never did.: null
+    we never even thought that about when we got the dog: null
+    we only had him about three or four weeks before he was hit by a car,: null
+    we really didn't want to keep him chained up because, we feel like that's just too restricting for him.: null
+    we really love it out here.: null
+    we really went there looking for the one that we had lost.: null
+    we said the next time around we'd get something little that if: null
+    we saw an ad saying it was free,: null
+    we sort of fell in love with the, Maine Coon cats.: null
+    we stopped along the way and had a bite to eat: null
+    we take walks through the woods twice a day.: null
+    we take walks.: null
+    we thought that, we have a cat now,: null
+    we thought they would socialize easier,: null
+    we thought, if we ever get another cat, we'd want something kind of unique,: null
+    we thought, that would be a fun time for them to have it, get it at Christmas time.: null
+    we took him up there: null
+    we trained it from a pup,: null
+    we used to show Saint Bernards when I was a little girl.: null
+    we watched it this summer for two to three months,: null
+    we went and took the two dogs up fishing.: null
+    we went down there and picked it up: null
+    we went down to Canton one time: null
+    we went to a cat show at the Plano Center here in town,: null
+    we went to a pen of a little bit bigger dogs: null
+    we went, we went to the junior college, Richland: null
+    ? we were considering getting a puppy, a small house, lap top dog for him, because
+      he likes other animals and for me, because we used to have a miniature Dachshund,
+    : null
+    we were just talking about that whether: null
+    we were really into that when we got him going to the Ranger games,: null
+    we were thinking about getting a dog if we get into a house.: null
+    we were trying to decide to, about putting him to sleep.: null
+    we were, we were sitting the dog and everything: null
+    we wondered about that.: null
+    we would see him, several miles from our house,: null
+    we wouldn't ha, we wouldn't have them,: null
+    we'd like to get him a friend: null
+    we're battling with that problem: null
+    we're expecting a baby this summer,: null
+    we're hardly ever at home,: null
+    we're having a difficult time trying to train it.: null
+    we're in a house,: null
+    we're in a subdivision: null
+    we're kind of country but not too.: null
+    we're living now in an area where we, we, we're in the woods: null
+    we're supposed to appreciate them.: null
+    we're trying to debate because our children are grown: null
+    we've . We've had a skunk for a pet.: null
+    we've been breeding them.: null
+    we've been calling neighbors .: null
+    we've been to the adoption center,: null
+    we've been to the humane society,: null
+    we've got a calico cat too.: null
+    we've got a calico now.: null
+    we've got a good size dog,: null
+    we've got some children: null
+    we've had a little confusion with, with, with younger kids.: null
+    we've had a lot of different pets.: null
+    we've had hamsters and fish and birds.: null
+    we've had her now for about three years,: null
+    we've had him about four years now.: null
+    we've had lots of them in the past.: null
+    we've had three cats in our married life,: null
+    we've had two Schnauzers: null
+    we've had, they've been ill,: null
+    we've heard bad, we've heard some bad things about some of those,: null
+    we've just been all over the neighborhood,: null
+    we've thought about getting an aquarium,: null
+    we've tried that,: null
+    we've, we had the, the dog first,: null
+    we, h, he went to the bathroom in the bathroom.: null
+    we, took her home to, my family's place in South Dakota,: null
+    we, we did, actually take him to the pound a couple of times,: null
+    we, we filled it back up: null
+    we, we had a little pool,: null
+    we, we hope to get a Golden Retriever someday.: null
+    we, we house sat for a, my, my wife's boss a couple weeks ago: null
+    we, we named it Hooper because that's where we got it from.: null
+    we, we sold it for about two hundred and fifty dollars.: null
+    we, we took him in: null
+    we, we try to take it,: null
+    we, we try to, we're trying to take it on walks now,: null
+    we, we were trying to find some pictures of him recently.: null
+    we, we're, thinking about getting a saltwater,: null
+    we, we've gone through the same things with ours,: null
+    we, when we moved into our house that was the first thing we wanted to get was, was a pet: null
+    went fishing with him on Friday and took,: null
+    were just my kids' friends,: null
+    what happened is, is that people wanted this shepherd to shepherd and protect.: null
+    what they, what they do is, is they say, it's going to cost, twenty dollars for tests and forty dollars for this: null
+    what was funny was that, our daughter must have been,: null
+    what was interesting about it was that they were very friendly,: null
+    what we used to do was just put, newspaper on the bottom and then put cat litter: null
+    what you see shown and bred now as Golden Retrievers, this, plus eighty to a hundred pound range.: null
+    when Beauregard was talking he was the dog, remember.: null
+    ? when I bought my last purebred retriever I looked all over because I wanted
+      one that still looked like a retriever, the short to the ground, stocky, golden,
+      trainable, tractable, quiet
+    : null
+    when I came home, I opened the door: null
+    when I get back I'm going to find a cat.: null
+    when I got back home to Carney, Nebraska, I told my wife about it,: null
+    when I got my, my dogs, when they, when they did something I hollered at them and threw them outside.: null
+    when I had a Cocker Spaniel it, it was an outdoor dog: null
+    when I was a teenager, in high school, I had Gin one,: null
+    when I was growing up I had, we always had a dog: null
+    when I was growing up we had cats: null
+    when I was, married, my, exwife had said that she had a friend who had a little puppy. That she needed,: null
+    when I was, when I was growing up I had a clean the cat pan all the time,: null
+    when everybody turned we all four of us turned in a row .: null
+    when he came home, he didn't bring the iguana with him: null
+    when he died, we got a little one.: null
+    when he is in the house, he will come up and he'll jump on his lap,: null
+    when he wants to be, he's really affectionate.: null
+    when he was younger I think he started them,: null
+    ? when he's not right at the door in the morning I really worry that something's
+      happened to him, that somebody, he's got in a fight or, somebody's hit him
+    : null
+    when he, when we ask him, he, he barks.: null
+    when it comes to being alone,: null
+    when my mother lived with us, the cat was really hers: null
+    when she calms down they're so scared of her: null
+    when she died it just, it just absolutely destroyed me.: null
+    when she was about three years old we noticed that she was having pro, problems limping and so forth: null
+    when she'd walk on the couch along the back behind his head: null
+    when that beagle passed away, he didn't want, he wasn't going to have another dog,: null
+    when the guy came over, he was infatuated by that skunk,: null
+    when we didn't it was, like, no, .: null
+    when we first moved here, when the dogs and I didn't fe,: null
+    ? when we go to sleep at night, it's like my husband and I have to try to get
+      any space on the bed because we have all four of them up there with us.
+    : null
+    when we got him a new one it was brown: null
+    when we had, we had a cat when we first married, no, ,: null
+    when we walked in to the, to the Humane Society, this little dog was, in the office and would sit up and beg,: null
+    ? when we'd have family home evening and everybody would sit in the living room
+      and the fire would be burning he'd walk across my feet sometimes .
+    : null
+    when you start doing that you really tamper with, the, all the, the years of, culling litters: null
+    when you touch him a certain way on the back,: null
+    when, when Dan went up to college up at , Idaho he took him with him,: null
+    when, when we had our family dog growing up I was eleven or twelve, I think, when we first got him,: null
+    while Dan was in Hawaii, Ken decided he wanted a dog: null
+    while he showers, it's so hilarious.: null
+    why, I don't know,: null
+    wife and I, we have, we have two cats.: null
+    with our children,: null
+    wouldn't have,: null
+    you ca, you have to be pretty tender with them,: null
+    you can see her smiling from ear to ear, she's so happy to see me.: null
+    you can't get a Golden Retriever near water without it jumping in.: null
+    you can't help but love her.: null
+    you can't put that on the ,: null
+    you can't roll around and tussle around with it like you can a dog or a cat: null
+    you can't, you could never call her and she would come to you,: null
+    you come home your, your pet's there for you and s, wants a little food a little attention.: null
+    you could just vacuum it up.: null
+    you could see him just enjoying it like a cat does.: null
+    you couldn't do anything.: null
+    you feed them: null
+    you get so attached to them.: null
+    you go crazy thinking it might be yours.: null
+    you grieve just as much over them when they go: null
+    you had to go chase her down.: null
+    you know I visualize that animal racing about,: null
+    you pull it and take it out and throw it away,: null
+    ? you see all these people, these stately people, and well dressed people out
+      walking their dogs with their plastic bag or their piece of paper for them,
+    : null
+    you see them in Europe: null
+    you tamper with what the dog innately is.: null
+    you think of lizards doing but they don't do that.: null
+    you think they're lapdogs.: null
+    you walked in: null
+    you would have thought a child had died.: null
+    you would think, that they were all dogs the way she would around them and, and paw at their face: null
+    you'd feed it, you'd feed it, you put, feed him small mice to big rats and things like that: null
+    you'll see,: null
+    you'll walk in the door: null
+    you, she knows she does wrong.: null
+    your legs were just black.: null
+  Statement-opinion: !!set
+    Animals have a way of talking .: null
+    Especially with the kids.: null
+    Everybody seems to be really happy with them.: null
+    For cats anyway,: null
+    Get away with that a little bit more with pets than you can with kids .: null
+    Golly the Golden Retrievers are good dogs too,: null
+    He'd probably look pretty funny if we did that.: null
+    I can't seem to communicate with a cat like I can with my dog.: null
+    I don't know that a cat would do that, .: null
+    I don't know that he could really get killed that easily because he is so big.: null
+    I don't think it's anything we did .: null
+    I don't think they're always necessary.: null
+    I don't, I don't know because the cats pretty much,: null
+    I don't, we couldn't do that with a dog.: null
+    I enjoyed talking about pets with you.: null
+    I guess every one, one one, one of them, every once in a while, you get one that's not so intelligent: null
+    I guess it depends on what you had when he were a kid, right? .: null
+    I guess it's because you lived with, him: null
+    I guess it's up to the individual and how they relate to their animal.: null
+    I guess that's fine if you have a mouse problem at your frat house,: null
+    I guess you'll do just about anything for your pet if you love them enough .: null
+    I guess, in one sense we felt that, it, it's nice to have a dog even though there are, complications come with it.: null
+    I must say it was interesting.: null
+    I never heard of that before.: null
+    I suppose it was still in the instinct of them to: null
+    I suppose our five minutes will be up.: null
+    I think it does, it, it,: null
+    I think it really helps them to understand when, when they go to other people's houses: null
+    I think it was probably a, an individual ferret thing, because it was f, it was a fairly wild ferret.: null
+    I think it's good for kids to grow up around pets,: null
+    ? I think it's really important to that, that if you get a pet that they're spayed
+      neutered so that, we're not just going on with this pet population and having
+      to,
+    : null
+    I think maybe we have,: null
+    I think our community is a lot more conscious now though too,: null
+    I think that if somebody else picks him up,: null
+    I think that's all I have to say.: null
+    ? I think that's one of the, the issues people need to think about before they
+      get a dog is, do you have the room for this dog to run around,
+    : null
+    I think that's one reason they have them, especially older people that I know, that have pets.: null
+    I think that's true,: null
+    I think the reality of it is, that they perhaps,: null
+    I think there was one in the school, zoology department,: null
+    I think they enjoy that.: null
+    I think they have a good head on their shoulders.: null
+    I think they have a, a higher level of intelligence than other, dogs that I have encountered.: null
+    I think they would socialize easier.: null
+    I think they're actually supposed to,: null
+    I think you have to have time,: null
+    I think, I guess so.: null
+    I think, I think a lot of that, that, that we hear all the time is how you bring them up.: null
+    I think, I think it's a good idea to have them.: null
+    I thought that was most unique.: null
+    I'm glad we have two of them, otherwise, I think they get neurotic if there just one of them.: null
+    I'm sure that,: null
+    I, I don't take too well to, to those: null
+    I, I find that they're good around other animals like cats and other dogs.: null
+    I, I think animals are really important in the family.: null
+    I, I think it will: null
+    I, I think they're kind of nice to have,: null
+    I, I wouldn't picture a Siamese as being an outdoor cat.: null
+    I, I, I think that,: null
+    If you put enough patience into,: null
+    It seems to mellow them or something.: null
+    It sounds beautiful,: null
+    It was a beautiful animal,: null
+    It was fairly reasonable, too.: null
+    It was kind of interesting.: null
+    It was, uncanny .: null
+    It's a different little things, t,: null
+    It's funny how, how pets can kind of, take on a certain status in certain areas.: null
+    It's hard to do that when you're not there constantly,: null
+    It's just so neat.: null
+    ? It's nice and small, which means, if you don't get the class this semester,
+      then you've got to wait or three or four s, anywhere from two to four semesters
+      to get,
+    : null
+    It's not as much fun.: null
+    It's too bad it happened, though.: null
+    It's wonderful.: null
+    On the other hand, you sure, they sure created a, a wonderful breed,: null
+    Or the smell or something.: null
+    Otherwise they're pretty smelly .: null
+    People are crazy.: null
+    Rather than just little fish.: null
+    Same idea .: null
+    Schnauzers, in particular probably.: null
+    She must have known he didn't like her or something.: null
+    Sheltie Collies are, timid,: null
+    Some of them are really beautiful, too.: null
+    That kind of builds some: null
+    That will help.: null
+    That would be fun if you could get them trained.: null
+    That'd be the best way to be.: null
+    That's good.: null
+    That's not too bad.: null
+    That's one thing about cats though,: null
+    That's probably a good idea.: null
+    That's what are so neat about animals,: null
+    That's, that's kind of great.: null
+    That, that is really probably bad timing.: null
+    That, that kind of gripes on me some,: null
+    The cats are so independent: null
+    The thing I don't like about dogs sometimes is that the house will just reek,: null
+    The, the saltwater fish have so much more color: null
+    They actually, sort of take over the place: null
+    They aren't the best pets.: null
+    They can be nippy.: null
+    They don't care what you look like,: null
+    They don't tend to get real jealous or territorial.: null
+    They just are fascinated.: null
+    They just give it,: null
+    They just love you, unconditionally.: null
+    They like to play.: null
+    They like to roam and investigate.: null
+    They look like an air headed let me tell you.: null
+    They love to play with kids.: null
+    They put up with a lot.: null
+    They say ruined them .: null
+    They say that's not the way to do it now.: null
+    They usually are after something like that happens to them.: null
+    They're a good temperament: null
+    They're always, right there, and like, like you to pet them and loving.: null
+    They're calm, they're not , they're trainable, they're, very personable in a different way that a Golden Retriever is.: null
+    They're cute.: null
+    They're good temperament.: null
+    They're good though.: null
+    They're not dignified like a retriever can be.: null
+    They're very much: null
+    This is nothing like cats.: null
+    We, we're kind of in a, not a real busy neighborhood, but more so than I'd want him to be out too much: null
+    Which I think is a good thing.: null
+    Whoever it is will call back.: null
+    You can, you can tell them anything: null
+    You don't often find that,: null
+    You get so attached to them.: null
+    You know, those make the best animals, pe, best pets.: null
+    You most likely will.: null
+    You wouldn't want him to carry her off or something.: null
+    You're just supposed to: null
+    You, they, they own you: null
+    a cat will do the same trick .: null
+    a dog you can tell, stop barking, or whatever.: null
+    a lot louder than a dog,: null
+    absolutely nuts.: null
+    after you had an animal for a couple of weeks, it's, you become: null
+    again it gets into much fun, , what, I guess they can be.: null
+    all cats are indoor cats,: null
+    also some poodles,: null
+    any, any, any pet's going to, can, can be bad if you train it to be that way.: null
+    as long as he doesn't get too aggressive. I guess with the daughter he's all right.: null
+    at least you know you did your part.: null
+    because most campuses don't allow pets,: null
+    cats are good all the time.: null
+    dear, it was just awful.: null
+    dogs are real high maintenances,: null
+    dogs seem to be always in the mood.: null
+    everybody always says no more .: null
+    he goes out people,: null
+    he seems to know the boundaries.: null
+    he was trying to hi, ,: null
+    he's, cats are usually so independent: null
+    he, he seems to have picked it up pretty well.: null
+    i, it's like, it's like a kid.: null
+    i, it's worth it once you get it.: null
+    i, it's, it was interesting.: null
+    if they were local people, they would have been able to find him.: null
+    if they're not accustomed to something, they, they're really scared.: null
+    if you get them young and everything before they go, kind of nuts,: null
+    if you're, if you're going to have a pet,: null
+    in your, the luck of keeping them alive,: null
+    it depends on the,: null
+    it doesn't do anything.: null
+    it gets, it gets frustrating when you take it outside: null
+    it just, kind of goes along with what you were saying,: null
+    it just, was almost cruel: null
+    it kind of made it seem more homey too .: null
+    it really was.: null
+    it seems the smaller the are, the, the worse off they are .: null
+    it sounds like you keep your pets for pleasure.: null
+    it was a real positive thing,: null
+    it was more fun than you would think. starting from the beginning: null
+    it's a matter of exposure really.: null
+    it's amazing how much character,: null
+    it's funny how pets get to be so,: null
+    it's kind of pleasant.: null
+    it's like the end of the world.: null
+    it's necessary that individuals have the discipline to look after the animal properly,: null
+    it's not fair to a pet to have a pet here,: null
+    it's not quite the same thing.: null
+    it's not that big of a problem.: null
+    it's not that long ago.: null
+    it's so funny to get more than one cat together, because it brings out their personalities.: null
+    it's very expensive.: null
+    it's, it's a pain to clean: null
+    it's, it's just nice that cats, cats, you don't have to let them outside,: null
+    it's, that's one of the biggest concerns.: null
+    it's, they're just, aggressive by nature: null
+    it, I think it calmed her down a little bit,: null
+    it, it, it'll, it'll catch on pretty soon, I'll, I'll bet you.: null
+    it, it, it's a pretty good class,: null
+    ? just seeing the cats, the, the miracle of birth, is tha, that's a, that's a
+      neat thing to, to experience as a kid and understand,
+    : null
+    just, just, put them outside, I guess. Unless you ca, catch them in the act.: null
+    kids just loved him.: null
+    maybe I'll get you next time.: null
+    maybe you nee, you can get it signed up this spring or summer for some of the dog obedience classes.: null
+    most dogs do that.: null
+    most of them really aren't that pretty,: null
+    not critical at all.: null
+    now we really get sick .: null
+    of course, it, he doesn't know it.: null
+    on the other hand you don't want to, you'd be one of these people that dumps the kittens off on the side of the road,: null
+    once you get them going, it's not good to , to deal with, but, they, I, I really like them. *two utts?: null
+    people drop things like that off,: null
+    rabbits are darling.: null
+    real nice dog,: null
+    s, I guess you can't really say for cats.: null
+    shelties are nice.: null
+    some of the weirdest animals you ever want to see in there.: null
+    some people seem fairly well suited for: null
+    something giving you some affection as well.: null
+    takes a lot of time.: null
+    that and also just, getting hit, I guess, or getting beat up.: null
+    that is not as good,: null
+    that often happens that way.: null
+    that sounds like kids.: null
+    that that was right.: null
+    that the other extreme,: null
+    that was just mind boggling.: null
+    that was the biggest problem I saw,: null
+    that was, that was not a good thing,: null
+    that whole space issue, I think, is real important.: null
+    that would be a problem .: null
+    that would make you really,: null
+    that's a nice, nice story.: null
+    that's all part of y, of keeping your part of the relationship.: null
+    that's good that you're going to get another one.: null
+    that's good too.: null
+    that's interesting because we have a simi,: null
+    that's interesting.: null
+    that's it .: null
+    that's just like kids,: null
+    that's natural: null
+    that's okay for weekend: null
+    that's really kind of something: null
+    that's something that's important for sure.: null
+    that's the way it should be,: null
+    that's to be expected at,: null
+    that's, definite security involved in, in a dog like that.: null
+    that's, that's one real drawback,: null
+    that's, that's, maybe that's, there's, some credence in that statement.: null
+    that, people could go in there.: null
+    that, that's incredible.: null
+    that, that, that, that will make their day.: null
+    the Schnauzers are a little aggressive.: null
+    the nursing homes now, they're finding that it's real important to take a pet into a nursing home.: null
+    the pooper scooper New York,: null
+    the same time, one has to recognize the reality of physical requirements of: null
+    the, they're bred down so much.: null
+    there are some smart ones out there,: null
+    there's a lot to be gained from a relationship with an animal,: null
+    there's some also some, not so smart ones .: null
+    they are, like I said, they're, they're really companions,: null
+    they ca, they can't do anything,: null
+    they can get hurt a lot easier,: null
+    they can get hurt a lot easier.: null
+    they do dig up: null
+    they don't really,: null
+    they don't talk back to you .: null
+    they got great stuff out now for cleaning cats' .: null
+    they have pets,: null
+    they have so much more personality than a dog.: null
+    they just act so funny.: null
+    they just do not allow them.: null
+    they just stink too much .: null
+    they just, come up,: null
+    they just, they just love kittens.: null
+    they just, they just wreck things: null
+    they know exactly how to get that attention,: null
+    they love you right back: null
+    they must have just targeted that breed and said, boy, we're going ,: null
+    they put your,: null
+    they really are, they really pick up things.: null
+    they really are, they're interesting,: null
+    they really, yo, you really do mourn them after, when things happen.: null
+    they say it's real important for children to have pets because, they can go and talk to them any time,: null
+    they seem to be, listen better or something.: null
+    they should expect something like that to happen.: null
+    they shouldn't be,: null
+    they sometimes mis, misuse their license or whatever: null
+    they take on human characteristics like,: null
+    they think they own you .: null
+    they treat them bad.: null
+    they want to and tell them anything they want to: null
+    they won't tell anybody.: null
+    they'll rub their, their head against you, .: null
+    they'll, they'll put their head underneath your hand,: null
+    they're a lot more trouble than cats actually.: null
+    they're actually very friendly dogs.: null
+    they're always there for you: null
+    they're always, always happy.: null
+    they're companions,: null
+    they're friends,: null
+    they're going to do it anyway because they know they're not supposed to.: null
+    they're just lovely.: null
+    they're just, they're, they're just, they're wonderful,: null
+    they're kind of like, get that permanent smile to them,: null
+    they're kind of,: null
+    they're kind of, just relaxing to, to pet and to,: null
+    they're messy, very messy,: null
+    they're not as aggressive as a Schnauzer.: null
+    they're not that much fun,: null
+    they're not, yo, w, you're not worried about them running allaround the neighborhood: null
+    they're okay,: null
+    they're really nice.: null
+    they're really wonderful.: null
+    they're so independent,: null
+    they're so much fun to watch them play.: null
+    they're so small: null
+    they're so, expensive to start up.: null
+    they're so, much more beautiful,: null
+    they're supposed to be real intelligent dogs,: null
+    they're very,: null
+    they're, they're good dogs for people with, with: null
+    they're, they're terrified of them: null
+    they, they don't, they can't fetch,: null
+    they, they just,: null
+    they, they need to stay outside, far away from me.: null
+    they, they, they make their mess in the cat pan which is,: null
+    they, you can love them all you want: null
+    this dog, being a small dog it's, more you, more acceptable: null
+    this is a great project, that they're working on: null
+    this is gross.: null
+    this is like a cruelty joke,: null
+    those are neat,: null
+    those dogs always seem to be the best dogs.: null
+    those fish are just beautiful.: null
+    unless they get used to something, they're really nervous: null
+    we seem to be degenerating here,: null
+    we suspect that he was hurt in an accident, got away from somebody traveling through, and hurt in an accident: null
+    we're kind of their pets.: null
+    we've ruined them .: null
+    wh, I think so too,: null
+    what's the, unrequir, what's the word I'm looking for, lots of affection, no co,: null
+    when they sit up on your lap and stuff like that, just kind of enjoyable to, have: null
+    when you set a rule you have to stand by it, and be consistent: null
+    with a lid, .: null
+    yo, they know that they're not supposed to do it,: null
+    you can just look at it.: null
+    you can't help: null
+    you can't take them for a walk,: null
+    you don't own cats.: null
+    you don't want to do that,: null
+    you don't want to, you don't want to spank it or scare it, or anything like that,: null
+    you get so attached to them.: null
+    you got to take them for walks: null
+    you have a little bit of ocean with you or something .: null
+    you have to have room for them.: null
+    you have to, you really have to be, just like your children,: null
+    you just do,: null
+    you just never know how that works out .: null
+    you know the safety factor and stuff.: null
+    you know, how, sometimes when you marry someone that you get along on everything except one major thing.: null
+    you know, that, animals are like that.: null
+    you need to pay attention to cats and everything: null
+    you probably don't know po,: null
+    you're going to have lots of pets with your children growing up.: null
+    you've got some experience behind you in the work force.: null
+    you've got to deal with, taking care of them and, and feeding them and everything like that.: null
+    you've got to pay a lot,: null
+    you, you're, you're in the roughest stages of pet: null
+  Wh-Question: !!set
+    How come, you don't have any now?: null
+    How did he do that?: null
+    How do they get along together?: null
+    How does he treat the other people?: null
+    How long did it take?: null
+    How long has it been since the first one?: null
+    How long have you had him?: null
+    How long have you had it?: null
+    How much does he weigh now?: null
+    How old are they?: null
+    How old are your kids?: null
+    How old is it?: null
+    How, about how big then?: null
+    I, I was wondering what, if you all were to get a pet, like if you were to move into an apartment: null
+    What are they?: null
+    What are you, what are you studying there at ?: null
+    What are your cats' names.: null
+    What color are they?: null
+    What color is your dog?: null
+    What do you have?: null
+    What is she?: null
+    What is that sound?: null
+    What kind of a dog is he?: null
+    What kind of cat is it?: null
+    What kind of dog do you have?: null
+    What kind of pet do you have, Gail?: null
+    What kind of pets do you have?: null
+    What's her name by the way?: null
+    What's his name,: null
+    What, what do you call the dog?: null
+    What, what kind of climate do you have?: null
+    Where are you from?: null
+    Where you from?: null
+    Which is the dog and which is the cat?: null
+    a house somewhere, what would you get?: null
+    about how much are they?: null
+    how about the,: null
+    how big do they get.: null
+    how did he get out?: null
+    how did they get their reputation, then?: null
+    how do they become s,: null
+    how do you pronounce that?: null
+    how do you spell that breed?: null
+    how long did you have that?: null
+    how long have you had them?: null
+    how old are your girls? .: null
+    how old is the dog?: null
+    how old is your retriever?: null
+    how's the disposition of your Siamese cat?: null
+    how, how old is your child?: null
+    what are the: null
+    what are their names?: null
+    what did he shoot him with.: null
+    what do you have.: null
+    what do you have?: null
+    what do your cats do besides sitting and purring and letting you pet them .: null
+    what have you had?: null
+    what is that?: null
+    what kind do you have?: null
+    what kind is it?: null
+    what kind of birds do you have?: null
+    what kind of puppy you got?: null
+    what was the other dog you had?: null
+    what's the best method?: null
+    what, possessed you to get the dog?: null
+    you, you've only known the dog, wh, how long did you say.: null
+  Yes-No-Question: !!set
+    A little bit easier to have cats in this kind of country, though isn't it,: null
+    A poodle, miniature or, full size?: null
+    Are you, shooting for a bachelor's now, or a master's, or what?: null
+    Charleston, West Virginia?: null
+    Did he raise him or something?: null
+    Did it work? .: null
+    Did puppy go to?: null
+    Did the iguana catch flies for you?: null
+    Did you bring him to a doggy obedience school or: null
+    Did you have him in a cage?: null
+    Did you see the, the C N N, the, the dog show,: null
+    Do they bark a lot?: null
+    Do you have a pet now?: null
+    Do you have any pets now?: null
+    Do you have any pets?: null
+    Do you have any?: null
+    Do you have pets?: null
+    Do you have to give those?: null
+    Do you know what that is?: null
+    Do you want to hear about my other animals I've had?: null
+    Does he bite her enough to draw blood?: null
+    Does he get,: null
+    Does he shed a lot?: null
+    Does it just want to sniff around and play when it's outside?: null
+    Does she ever mess in the house?: null
+    Does, does it just want to sniff around?: null
+    Don't you like cats?: null
+    En, enjoy them?: null
+    Have you ever done this before?: null
+    Have you lost him before?: null
+    Have you praised it and given it a treat maybe when it does something outside?: null
+    Have you seen those,: null
+    Have you seen, CANINE.: null
+    Have, have you had dogs before?: null
+    He didn't eat flies.: null
+    Hills, or what?: null
+    Hope it's a good program there.: null
+    I forgot to ask you, did the iguana catch flies for you?: null
+    I guess you didn't get your deposit back, did you?: null
+    I think, do you live in a, in a, in a fairly rural part of the,: null
+    In the salt water?: null
+    Is he fenced in?: null
+    Is he good with family?: null
+    Is it a miniature or a standard Schnauzer?: null
+    Is it farmland?: null
+    Is she the oldest one?: null
+    Is that right?: null
+    Is that the only pet that you have?: null
+    Is your cat a purebred?: null
+    Is, is your dog an inside and outdoors?: null
+    It killed him?: null
+    It's pretty nice country up there?: null
+    It's, is your cat an indoor cat or an: null
+    Okay, Chuck, do you have any pets there at your home?: null
+    Pets get like that don't they,: null
+    They tell you our topic?: null
+    They're both females?: null
+    Was the guinea pig for your,: null
+    Would you ever want a dog in the family?: null
+    You get tired of them?: null
+    You have a fenced yard or,: null
+    You have any pets?: null
+    You let them out and let them fly around and everything?: null
+    a matter of choice, or compulsion?: null
+    are they, just house pets?: null
+    are they, just what you call it, are they breed cats or anything: null
+    can we ask you whatever happened to Clyde?: null
+    d, now, does: null
+    did it attack the child, then?: null
+    did you call?: null
+    did you catch the fish?: null
+    did you get yours as a pet for your chil,: null
+    do the skunk, was it kind of like a cat to have around the house?: null
+    do they, they just paper train it or something?: null
+    do you all work for T I, or for,: null
+    do you ever read COSMO.: null
+    do you have a pet Randy?: null
+    do you have a pet?: null
+    do you have any pets now?: null
+    do you have any pets?: null
+    do you have any?: null
+    do you have children?: null
+    do you keep him indoors most of the time other than to go outs,: null
+    do you like big dogs or: null
+    do you live, you, you in a house, or a place where you,: null
+    do you work.: null
+    have we been talking five minutes?: null
+    have you ever had a Retriever before?: null
+    have you got a pet.: null
+    have you heard of that?: null
+    have you put any posters up or anything like that?: null
+    have you tried any other pets?: null
+    he's got a blue tongue?: null
+    is he an inside dog also,: null
+    is that right?: null
+    is, Stripper an inside cat, or outside?: null
+    originally?: null
+    th, the dog is Joey?: null
+    that's pretty much the south end of the state, or the southern quarter of the state, anyway? .: null
+    the cat doesn't destruct does it?: null
+    the, the Cockatoos, are those the big ones?: null
+    they're, they're usually,: null
+    what did they do, everyone come around and watch them.: null
+    when he gets outside, does, in, does he run away and then eventually come back?: null
+    you don't argue with an iguana, do you.: null
+    you don't have anything right now?: null
+    you get very attached to animals, don't you?: null
+    you had the dogs before you had the baby?: null
+    you like, you like pets and things?: null
+    you live in Utah do you?: null
+    you've ke, you've kept u, it up, haven't you.: null

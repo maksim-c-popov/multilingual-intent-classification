@@ -1,0 +1,1283 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    At least you, follow the game a little bit.: null
+    Every year.: null
+    I guess kids are out.: null
+    I guess when you're down here in Dallas you finally get indoctrinated into the Cowboys: null
+    I wonder if he'd ever do that.: null
+    Kids are out.: null
+    L A you mean?: null
+    They have such a super team for years, that won what, four Super Bowls?: null
+    boy, I bet all the men that got direct down there were just right on it .: null
+    now the tickets even got lower than the lowest one last year.: null
+    you don't, you don't like the Skins?: null
+    you said you lived near, Baltimore?: null
+  Dispreferred answers: !!set
+    I'd like to come back to Dallas.: null
+    it depends on where you're from in Texas.: null
+    they started out really bad,: null
+    when I was younger, I was a Cardinal fan, too.: null
+  Statement-non-opinion: !!set
+    Actually, I kind of like soccer.: null
+    Aikman did go to O U.: null
+    Anderson kicked a sixty yard field goal.: null
+    ? As a matter of fact, there was some talk about trying to get him involved with
+      the team management in some sort of a coaching job.
+    : null
+    At least we hope it will.: null
+    Atlanta, they're in it, too,: null
+    Baltimore is trying to get a team,: null
+    Being an Okie: null
+    Boy they, they sure did have a big turn around from a couple of years ago.: null
+    Boy, he never gave up, I'll tell you.: null
+    Boy, speaking of Denver, on another subject, I've been up there five times in the last three, four weeks.: null
+    Boy, they'd some big changes, speaking of them.: null
+    Cut us off right there the last few seconds.: null
+    D C is talking about how, how they're going to get a baseball team and everything.: null
+    Dallas has a guy, his name is Nate Newton,: null
+    Detroit, we play them next week,: null
+    Emmett Smith,: null
+    Even college is all: null
+    ? Everybody keeps talking about the reconstruction they're going through and new
+      players and how next year is going to be even bigger and better than the previous
+      year.
+    : null
+    Four in a row.: null
+    Fourcade was for a while.: null
+    Goin, ke, he was going to keep him as the coach somehow,: null
+    Got two boys.: null
+    Haywood and Drew Hill: null
+    He bought, bought a big horse farm out in a little town called Roanoke, Texas.: null
+    He lives in the Dallas area now, as a matter of fact.: null
+    He used to play for the New York Giants.: null
+    He's got a good arm,: null
+    Hit a bad season: null
+    Hope you'll like it.: null
+    I almost lost our electricity here .: null
+    I always enjoyed watching them,: null
+    I always just assumed that he was too good for the rest of the team.: null
+    I am, I'm a big football fan.: null
+    I can see, I can see definitely how you get into that.: null
+    I can understand that.: null
+    I can't even think of the guy's name, either, the coach of the Vikings.: null
+    I can't even think of who the New Orleans quarterback,: null
+    I can't remember that guy's name, the one that held out for the money: null
+    I can't remember whether we played three or four quarterbacks,: null
+    I can't remember.: null
+    I can't think of the, I can't think of his name now,: null
+    I couldn't believe that.: null
+    I couldn't see him until Tuesday because MONDAY NIGHT FOOTBALL, if I didn't,: null
+    I didn't look at the clock when we started talking,: null
+    I didn't, I didn't really think about that.: null
+    I didn't, I thought, I just didn't really care for either one of them.: null
+    I do like them.: null
+    I don't know about Dallas.: null
+    I don't know about the Vikings .: null
+    I don't know how my Eagles are going to do this year.: null
+    I don't know how these changes are going to help or hinder the team, sometimes it brings in new motivation: null
+    I don't know how they do it.: null
+    I don't know if that could ever be duplicated again or not.: null
+    I don't know it as well.: null
+    I don't know whether they have one of the first,: null
+    I don't know whether they'll be far enough up where they can do any good.: null
+    I don't know who else I've ever.: null
+    I don't know who played when and who does what like some guys are.: null
+    I don't know why it's so hard to find, a good quarterback these days.: null
+    I don't know.: null
+    I don't like the Broncos.: null
+    I don't like to watch anything.: null
+    I don't like to watch.: null
+    I don't think the Cowboys have got a chance.: null
+    I enjoyed that because it was against the Skins.: null
+    I figured out that I couldn't see him all weekend.: null
+    I forgot about that.: null
+    I forgot the name of it.: null
+    I got my thirty day notice yesterday.: null
+    ? I got out and got my bachelor's degree in seventythree and, never went to a
+      game there and have never gone to a game since.
+    : null
+    I grew up a Bear fan.: null
+    I grew up in Dallas but I'm still not a Cowboys' man.: null
+    I grew up in southern New Jersey: null
+    I guess I could go for Miami: null
+    I guess I'm kind of a fair weather fan in a lot of respects.: null
+    I guess I've always been a Cowboy fan.: null
+    I guess if I have, my druthers, I'd probably go for the Seattle Seahawks.: null
+    I guess it was January, when, Jimmy Johnson got named coach of the year or whatever.: null
+    I guess probably going on twenty years now.: null
+    I guess since Staubach left, they haven't been able to,: null
+    I guess we'll find out .: null
+    I guess we'll first have to get to used to the idea that we're staying here .: null
+    I guess we're always looking for a good year.: null
+    I guess, there are two basic teams that I seem to follow every year.: null
+    I had forgotten: null
+    I hadn't been to a Cowboys game,: null
+    I hadn't heard, whether they have a new one or not.: null
+    I hate Dallas .: null
+    I have no idea.: null
+    I haven't been to any games recently.: null
+    I haven't been,: null
+    I haven't quite figured that out,: null
+    I haven't really picked a field.: null
+    I haven't recently,: null
+    I haven't, I haven't kept up with it lately,: null
+    I haven't, I, I don't know, I've thought a lot about labor and delivery: null
+    I heard on the radio this morning, or yesterday morning, that, Aikman's back in practicing, doing real, real well.: null
+    I hope they can do better.: null
+    I just hate that that's the coach: null
+    I just hated it.: null
+    I just like to watch,: null
+    I just never, never have gotten around to it.: null
+    I just remember trying to figure out where you could get: null
+    I just thought I'd throw that in there .: null
+    I just, I love it.: null
+    I kind of go back and forth, depending on who's really hot and who's not.: null
+    I kind of grabbed on to that team,: null
+    I kind of like college actually.: null
+    I kind of like them.: null
+    I kind of, I haven't been keeping up with football, in the fall: null
+    I know Saint Louis is much bigger than Memphis: null
+    I know they lost, to Washington and Philadelphia.: null
+    I know they've got a football team: null
+    I like Philadelphia Eagles.: null
+    I like the idea.: null
+    I like to do,: null
+    I like to watch almost all the football: null
+    I like to watch them, too.: null
+    I live right by Dallas: null
+    I lived in Detroit, too.: null
+    I lived in, outside of Boston for five years: null
+    I look for it to be a pretty good year.: null
+    I love watching that.: null
+    I missed a lot of Sundays during: null
+    I must say I attracted a lot of attention.: null
+    I never knew very much at all: null
+    I personally like hockey better because it has contact, it's a contact sport.: null
+    I probably wouldn't have been there.: null
+    I re, I, I enjoy watching him play.: null
+    I read some time, not too long ago that the average, professional career only lasts seven years.: null
+    I really didn't care for the either two of them.: null
+    I really do.: null
+    I really don't know what's going to take place with the Cowboys this year.: null
+    I really like him.: null
+    I really wasn't from here: null
+    I remember he was a backup: null
+    ? I remember reading something a few months ago about them signing somebody else
+      on, or, or trying to go after somebody or trade for somebody,
+    : null
+    I remember that now.: null
+    I root for Nebraska: null
+    I root for Nebraska quite a bit.: null
+    I said this is the most,: null
+    I still don't know that much about football, obviously.: null
+    I still had a good time.: null
+    I tend to look for,: null
+    I think Dallas is pretty scattered.: null
+    I think I did know that, I just forgot.: null
+    I think I know a little more than I use to.: null
+    I think I was into the Cardinals for a little bit: null
+    I think I was just mad because he spent so much time watching football on Sundays.: null
+    I think Texas, San Antonio in particular, has got a large, base of hospitals.: null
+    I think it was .: null
+    I think it was, Minnesota's ,: null
+    I think it, I think it was his shoulder he had surgery on.: null
+    ? I think that's quite a bit of optimism around here that still there's a chance
+      that maybe, these guys are right, maybe they will come through and, and do something
+      this year.
+    : null
+    I think they are supposed to put two in by either next year or the year after.: null
+    I think they will probably win one or two more games than they did this year,: null
+    I think we have talked about football for five minutes.: null
+    ? I think, in, in trying to follow, the Cowboys over the years I think, they used
+      to have a, a philosophy for, I don't know, probably the last twentyfive years
+      except for about the last about five or six years
+    : null
+    I thought he was kind of cocky or something.: null
+    I thought, I thought they would get beat today because, they're so young,: null
+    I try to catch the game every weekend that I can.: null
+    I used to be a big Pittsburgh fan when I was little.: null
+    I used to drive a lot between Baltimore and Washington: null
+    I used to go out of B W I a lot.: null
+    ? I used to tease my husband sometimes and say, my gosh yo, did you bet the house
+      or something this week to get so excited about,
+    : null
+    I used to travel out that way a lot: null
+    I usually have, too .: null
+    I was always a Viking fan.: null
+    I was born in Buffalo: null
+    I was from Illinois originally,: null
+    I was just thinking about one the other day.: null
+    I was not real happy when, when they, left to go, go there of all places .: null
+    ? I was probably the only one in the room several times when we were watching
+      football on T V when the Cowboys were playing the Saint Louis Cardinals
+    : null
+    I was proud.: null
+    I was rooting for the Cowboys.: null
+    I was so mad I got up and went and called,: null
+    I was trying to get my son to sing that.: null
+    I wasn't pulling for either team.: null
+    I went because my dad can usually get a hold of some free tickets, because a lot of those doctors have season tickets,: null
+    I went to the balloon festival in Plano and carried my little portable radio with me,: null
+    I went to, got to go to a Bills game this year, which was fun.: null
+    I worked in, Missouri for a while: null
+    I'd like to go back.: null
+    I'd like to see some more teams get in.: null
+    I'd like to see the Vikings get revamped somehow.: null
+    I'd love to see Dallas and Houston play in a Super Bowl.: null
+    I'd, I never was, too, a whole lot of, a big fan,: null
+    I'll give it that.: null
+    I'll, normally check out the Eagles or the Patriots: null
+    I'm a Viking fan.: null
+    I'm a, I'm a Buffalo Bills fan.: null
+    I'm a, I'm a musician: null
+    I'm at B Y U.: null
+    I'm done, where I work.: null
+    I'm figuring either one either the Eagles or possibly San Francisco: null
+    I'm in Dallas: null
+    I'm just hoping that the Broncos can get back on their feet.: null
+    I'm just used to always growing up and hearing Cowboys, Cowboys, Cowboys, and, Super Bowl, and all this other stuff.: null
+    I'm looking for a good year.: null
+    I'm more into college football than professional, I think.: null
+    I'm not a Jimmy Johnson fan.: null
+    I'm not a fanatic about it.: null
+    I'm not a real, great football follower,: null
+    I'm not as ashamed to claim them this year as I have been so .: null
+    I'm not going to decide I don't like them just because they're having a few bad years.: null
+    I'm not sure, I'm not sure who they play.: null
+    I'm originally from San Antonio: null
+    I'm pretty sure he was this past season.: null
+    I'm still pretty much an Eagle fan, I guess.: null
+    I'm sure, my sentimental favorite would have to be Philadelphia,: null
+    I'm trying .: null
+    I'm watching them on T V right now.: null
+    I'm, I don't have a real love for Miami anyway.: null
+    I'm, I keep waiting for the Eagles to get over the hump.: null
+    I'm, I'm in Dallas: null
+    I'm, I'm up here for a year on an internship.: null
+    I've actually pl, paid attention to them.: null
+    I've always ran out of time ever since I've done this.: null
+    I've been enjoying football: null
+    I've been keeping up with the Saints a lot.: null
+    I've been to a couple, I've been to a few games before.: null
+    I've been trying more this year.: null
+    I've been wanting to go to a game,: null
+    I've done that for college football.: null
+    I've done that once or twice.: null
+    I've got a friend that, lives right next to the Cowboys' training camp.: null
+    I've like to watch,: null
+    I've lived in so many places.: null
+    I've lived in, Denver: null
+    I've never been a big Saints fan until the last year or two: null
+    I've never been over impressed with him.: null
+    I've, I've never liked Ph, Philadelphia, the city a whole lot.: null
+    I, I actually live in Florida.: null
+    I, I always enjoy watching the stal, the, Dallas and Pittsburgh together.: null
+    I, I can go on and on about football,: null
+    I, I come from a large family: null
+    I, I kind of like the Cowboys, too.: null
+    I, I never really was a Cowboys fan until I moved down to Texas.: null
+    I, I really don't like D C a whole lot at all .: null
+    I, I still try to keep up with Buffalo because they just, they just impressed me as being so efficient: null
+    I, I sure am scared of them Giants .: null
+    ? I, I tell you, it's difficult in that guy's position coming into that because
+      there, he was just so highly touted by the press and everybody expected so many
+      big things,
+    : null
+    I, I think about that a lot.: null
+    I, I used to watch them a lot when they were playing the big iron curtain,: null
+    I, I watched that game: null
+    I, I went to Purdue University for a couple of years and,: null
+    I, I wish I would have bought the tape when I was in, Te, in Colorado.: null
+    I, I'd have to confess I don't really scope out the New Orleans games, per se.: null
+    I, I'll take the passing teams any day.: null
+    I, I'm married.: null
+    I, I, I am a pretty big Dallas fan, been for a long time: null
+    I, I, I like, I like watching on Saturday afternoons when they'll have the plays the, the best plays from,: null
+    I, I, I live near Baltimore: null
+    I, I, I transferred to Delaware and graduated there.: null
+    I, I, I was never really a big Dallas fan: null
+    I, have been at my computer all day: null
+    I, never been real thrilled with, not,: null
+    I, to be honest with you, I find th, that too much running gets pretty boring as well: null
+    Ice and rain and everything.: null
+    If they would just quit blowing it.: null
+    In a way Aikman has done some of that.: null
+    In a way that happened this past season,: null
+    In fact, I think they're getting a different guy for a backup quarterback.: null
+    It was like I was sitting on the edge of my chair, going no, no.: null
+    It was the same year that Buddy Ryan got fired.: null
+    It was the, the Bills, Eagles game, which appropriately enough: null
+    It was wild.: null
+    It's a couple of hours, west of Minneapolis.: null
+    It's divided,: null
+    It's funny, over the years.: null
+    It's like about two weeks ago I was watching the Saints.: null
+    It's like the Liberty Bowl Liberty Stadium in Memphis holds about sixtytwo,: null
+    It's like you guys aren't going to get a baseball team, I'm sorry it's not going to happen.: null
+    It's pretty much going between Washington.: null
+    It's too much running for me in, in college football.: null
+    It's, a couple of blocks west.: null
+    It's, it's kind of interesting to see, to see their claim of, world football.: null
+    It, it's a small town.: null
+    Jerry Burns.: null
+    Jim Hart was playing.: null
+    Just hadn't heard much about them lately.: null
+    Like the Seahawks .: null
+    Lot easier than it was a couple years ago,: null
+    Marino makes me just crazy mad sometimes, because of some of the stupid stuff he does,: null
+    Minnesota Vikings, used to be the general manager starting the World Football League.: null
+    My brain is really working well tonight.: null
+    My favorite team is the Pittsburgh Steelers.: null
+    My husband was just having a fit don't have him sing that song .: null
+    My mom's an L V N.: null
+    My, my, it's kind of odd. My roommate that I live with here, he's, he's lived in Pennock, Minnesota. *two utts?: null
+    New Orleans just isn't, isn't one of the areas,: null
+    No earthly idea.: null
+    Nobody talks about it: null
+    Now you, you're, you're from Texas.: null
+    O U has always been known for their running game.: null
+    Of course, he sat along the sidelines all season,: null
+    Once the pressure gets turned on they, they seem to loose it.: null
+    One is the Dallas Cowboys: null
+    Patriots were so depressing this last year that: null
+    People running up saying, what's the score, what's the score?: null
+    Probably an old guy that played, probably before you were born ,: null
+    Quite a bit.: null
+    Right now I'm in Utah, of course.: null
+    Right now I'm in, college,: null
+    Right now I've got it narrowed down to the top four teams.: null
+    Saint Louis is trying to get a team.: null
+    San Jose, but: null
+    She likes the quiet that you have at that time of the night: null
+    She really likes it.: null
+    She works the graveyard shift.: null
+    She works the, I guess the graveyard's what you'd call it.: null
+    She, she really, enjoys.: null
+    Shooting for one for the thumb now is what they were saying.: null
+    So far I've been trying to call all day because I keep getting these subjects like capital punishment: null
+    Some of them turned out to be pretty good players,: null
+    Terry Metcalf was on the Cardinals.: null
+    That was kind of a funny song: null
+    That was one of the toughest guys that I've ever seen in my life,: null
+    That's about it,: null
+    That's about the extent of it.: null
+    That's another one of my favorites.: null
+    That's even harder.: null
+    That's my favorite team,: null
+    That's pretty easy to say nowadays .: null
+    That's the way it was.: null
+    That's what I hear.: null
+    That's what my mom does, labor and delivery.: null
+    That, that sure was a fun Super Bowl to watch this year.: null
+    That, that, that's boring for me.: null
+    The Dallas Cowboys.: null
+    The Orioles say they get twentyfive percent of their population, their attendance from D C.: null
+    The only reason I really enjoy the Eagles at all is because, I really like Randall Cunningham.: null
+    The other team got the ball: null
+    The station finally,: null
+    The, the same here .: null
+    Their only time they lost.: null
+    Then I like watching their bloopers too, .: null
+    There are those teams that play in professional, National Football League: null
+    There were, they ha, a fireworks display at halftime.: null
+    There's a big, there is an old railroad yard,: null
+    There's no professional hockey teams in, in Texas .: null
+    They always say you've talked your ten minute limit.: null
+    They are doing a whole bunch better.: null
+    They did Johnny Elway to that.: null
+    They didn't do too bad last season.: null
+    They gave up, they, they traded Wa, Herschel,: null
+    They have got a few anchors on offense and defense: null
+    They just score just enough points,: null
+    They make it to the playoffs it seems for the last few years: null
+    They may get hurt, or, not be able to participate at that level, if: null
+    They never blow out their opponents.: null
+    They picked up,: null
+    They played Dallas.: null
+    They put a lot of pressure on him from the outside and from the inside.: null
+    They take moder, popular songs and, and change them to fit, the Broncos and stuff.: null
+    They traded Walker,: null
+    They used to just have: null
+    They won just one game: null
+    They'll probably get everybody's hopes up and blow it toward the end.: null
+    They're going crazy,: null
+    They're just trying not to overwork him right now, until he gets his shoulder, back in shap,: null
+    They're not, they're not my favorite totally.: null
+    They're playing tonight in fact.: null
+    They've always been, my favorite.: null
+    They've got the U T Health Science Center out there also.: null
+    They've won, I think six or seven in a row now,: null
+    They, they weigh him several times a year just to make sure he's not, completely out of control.: null
+    Thirty, or thirtytwo for really good tickets.: null
+    This interstate seventyfive song.: null
+    This was a long time ago.: null
+    Those big piece of something came flaming, falling out of the roof and landed on the field: null
+    Those guys are tough.: null
+    To be honest with you, I, I probably watch, college a little bit more than I do pro.: null
+    To tell you the truth, I'm not even really from here.: null
+    Troy Aikman,: null
+    Victor Kiam owned the, the Patriots: null
+    We beat them this year in, in Washington: null
+    We dec, we decided just to watch them at home .: null
+    We did not get to see the end of the game.: null
+    We don't even have that very much,: null
+    We drive by some houses everyday that have big signs,: null
+    We expected it to continue forever.: null
+    We had one guy that couldn't throw: null
+    We really didn't have a quarterback.: null
+    We set a table up,: null
+    We went to the playoffs.: null
+    We're not convinced that we're going to be Cowboy fans yet.: null
+    We've got the New England Patriots up here: null
+    We've only been married for five and a half years.: null
+    What was I thinking.: null
+    You go set up.: null
+    You go, three or four hours before the game.: null
+    You like to pull for the underdog: null
+    You see, we have the N F L that, that Dallas: null
+    You talk about people calling in.: null
+    a few years ago Denver was a powerhouse: null
+    a lot of them would have to get out in just a couple.: null
+    a really hate the Redskins.: null
+    all you can do is get out of the way because here they come.: null
+    almost every game that I watched it would come right down to the end,: null
+    also Houston is, in Pittsburgh's division: null
+    anyway, I just, I've never liked D C a whole lot: null
+    anyway, they're trying to keep him, keep him, from reinjuring anything, but anyway .: null
+    at one time I could name all the players on the Steelers,: null
+    at the ver, in the fourth quarter they'd let them get up there either with them or, right ahead of them.: null
+    basical, Route Seventy and, and Route Forty.: null
+    basically everyone that was on the team then is gone now,: null
+    before that it's been quite a few years.: null
+    being a native Okie, I I like to keep up with what the homeboys are doing.: null
+    besides I like the city.: null
+    considering how, how well he gets along with, Jimmy Johnson that doesn't surprise me.: null
+    either we made it or we didn't.: null
+    even like, what is it, Eric Dickerson left,: null
+    even making the playoffs: null
+    even when Bradshaw was playing, I, I don't know, I, I didn't particularly care for him,: null
+    even when we knew we were being transferred here we became Cowboy fans.: null
+    every once in a while gets a chance to talk to some of the guys: null
+    everybody gets in draft.: null
+    everybody has the feeling like we can go all the way to the Super Bowl,: null
+    everybody is really excited.: null
+    everybody was furious.: null
+    everybody was real upset, when they fired Tom Landry,: null
+    everybody's really going crazy, down here.: null
+    firing Tom Landry and hiring Jimmy Johnson: null
+    first and foremost the Bills.: null
+    first of all it was all one price.: null
+    first of all, first and foremost the Bills games I want to see.: null
+    for a long time I was pulling for Denver.: null
+    four in a row.: null
+    from the twenty to the ten yard line.: null
+    from what I saw the game Houston, Houston impressed me a lot.: null
+    got teams like, like Buffalo who weren't, certainly weren't a powerhouse, ten years ago.: null
+    growing up in Oklahoma, there it was always the home team, kind of like Dallas is around here.: null
+    had a lot of trouble with injuries, too.: null
+    ? he always had this, this wonderful quality of c, being able to put his foot
+      in his mouth every time he went to say something
+    : null
+    he gets, he sees them out running a lot: null
+    he got hurt at O U,: null
+    he had a, just got transferred here to ESystems,: null
+    he had this cartoon in there about Jimmy Johnson's big day,: null
+    he is for the L, the, Raiders.: null
+    he manages to still keep playing,: null
+    he pops up on the Dallas scene quite often.: null
+    he said that, Aikman was hitting him right on the numbers every time.: null
+    he transferred: null
+    he used to have the football pool at the office and all this stuff: null
+    he was across the river .: null
+    he was one of ours, one of our boys.: null
+    he was one of the few who come through in history that can really perform,: null
+    he was supposed to go.: null
+    he's a good quarterback.: null
+    he's from here.: null
+    he's no longer with the team.: null
+    he's probably like a lot of quarterbacks,: null
+    he, he's too streaky it seems.: null
+    here everybody is sitting on the edge of their chair,: null
+    highlights, yeah.: null
+    him and Franco Harris,: null
+    his name was Sam Huff.: null
+    his players were constantly getting kicked off the team because of drugs, because of,: null
+    hopefully they win .: null
+    hopefully, this ownership can set up new direction and, keep, the Patriots in the New England area anyways .: null
+    if I had to pick one, I would probably pick Sam Huff, as a matter of fact.: null
+    if I saw a picture of John Elway in the, in the cafeteria at school,: null
+    if the average is seven years that means a lot of guys don't make it seven years,: null
+    if they can't just put it together,: null
+    ? if they figure they have got it won or if there's no real hurry because the
+      first three quarters or, if, if something happens that that adrenalin starts
+      flowing. They say, hey, we got to do something now. And then start playing the
+      game the way the game should be played toward the last few minutes.
+    : null
+    if you think about those years that we had the losing season, of how bad,: null
+    in high school I went to every football game: null
+    ? in, in Colorado when the Broncos went to the Superbowl three times in the last,
+      I don't know, five or six years whatever it's been. they have these songs on
+      the radio.
+    : null
+    is pretty close to New Orleans: null
+    it kind of annoys me when people just lay in front of a T V and watch all this stuff.: null
+    it recently was sold to, some other people: null
+    it snowed all day.: null
+    it snowed that much in Denver: null
+    it was Buddy Ryan, the one that I can't, stand too much.: null
+    it was good weather.: null
+    it was just one thing it seemed like right after the other,: null
+    it was kind of, it was kind of different, I guess.: null
+    it was right close to when we was going to find out if we was going to get to be in the playoffs,: null
+    it was the, Dallas and Washington Redskins game.: null
+    it was, basically, for the social atmosphere.: null
+    it was, it was something else.: null
+    it was, it was the scab teams,: null
+    it wasn't anybody I'd really heard of.: null
+    it went the other way.: null
+    it'd come right down to the end: null
+    it's an adventure .: null
+    it's close to Philadelphia and Baltimore,: null
+    it's funny watching them, them play,: null
+    it's funny,: null
+    it's good to, it's good to see the Bills doing so well now: null
+    it's in central Minnesota.: null
+    it's just that we have to play every game away,: null
+    it's opening next year.: null
+    it's pretty nice.: null
+    it's probably closer to Fort Worth,: null
+    it's supposed to be the Redskins, but we beat them already.: null
+    it's, it's in the same area.: null
+    it's, it's kind of hard not to be a Cowboy fan, though.: null
+    it's, it's pretty, it's fun to play.: null
+    it's, other than the, the big catch, with the Fortyniners and the Cowboys ba, back a few year ago I like San Francisco.: null
+    ? it's, real easy access from, from south of Baltimore like, like the airport
+      or more importantly for the Orioles from Washington D C.
+    : null
+    it, it was beautiful, right down the middle.: null
+    it, it was really exciting,: null
+    just on the lower levels is the highest price,: null
+    just, two years ago they were one and fifteen.: null
+    ? las, time, last time I went to the Cowboys game was during that, N F L strike,
+      or the, when they had the scab team, teams in there,
+    : null
+    last year it was Buffalo: null
+    maybe I'll call you back after, after the recording is finished.: null
+    ? maybe the stuff that, Jerry Jones is talking about the construction and redefining
+      the team and maybe the effort might be starting to pay off.
+    : null
+    maybe this year .: null
+    my brother watched it on T V and said that Warren Moon was just having an off night,: null
+    my brotherinlaw, is in the medical profession, he's at medical scho, school in San Antonio right now.: null
+    my dad, I went with my dad to a game that one time.: null
+    my family lives in Philadelphia now: null
+    my family's there,: null
+    my father was a football fan my whole life: null
+    my parents would always have season tickets,: null
+    my, my, my, my main sport is baseball: null
+    not that I'll ever go.: null
+    now I like them, too.: null
+    now he's the number one rated quarterback in the N F L. I think,: null
+    now it's like, they're doing good so everybody's forgotten about that.: null
+    now that Randall's coming back next season, I hope they'll be, do a little bit better.: null
+    now that Steve Largent is gone, I kind of lose a little bit for them: null
+    now they have what's called the World Football League: null
+    now they're sectioning it off to from the, from one twenty yard line to the other one,: null
+    now we feel like they're kind of a collector's item.: null
+    obviously they're all going up, more or less is what it's going to do.: null
+    of course, I watch every Saints game that I can watch.: null
+    of course, then you're not that far from Philadelphia.: null
+    of course, we had a different coach then, too.: null
+    one of those was to Buffalo.: null
+    or Australian rules football.: null
+    partly due to ownership.: null
+    pretty fast turnaround.: null
+    really we didn't have a quarterback.: null
+    right now I think this Memphis, they're, they're trying to get the teams.: null
+    she loves it.: null
+    she really enjoys it.: null
+    she's a nurse in San Antonio: null
+    she's been, she's been working a, on a late shift.: null
+    she's really enjoying herself.: null
+    she's worked that for, years, when I was small.: null
+    she's, she just started a new job at a different hospital, closer to where she lives: null
+    sitting here and talking about all the cities that I hate,: null
+    some of them didn't: null
+    some paper or something in the Super Dome up in the roof caught on fire.: null
+    somebody got injured: null
+    sometimes it's too good because he throws too hard.: null
+    tha, that's the way I felt about it.: null
+    that Jimmy Johnson came in, too, though,: null
+    that really impressed me.: null
+    that they're structuring it with,: null
+    that was just a good football game.: null
+    that was real close to the good section but in the little bit cheaper.: null
+    that wasn't a real,: null
+    that's about it,: null
+    that's exactly what they said, my wife dragged me away from the television.: null
+    that's kind of how I got in with the football.: null
+    that's not far from where the, the new football stadium would be if we got an N F L team .: null
+    that's right.: null
+    that's the typical trait of the Dallas Cowboys.: null
+    that's the, that's the guy that counts .: null
+    that's, that's where I was when I saw,: null
+    that, that says a lot for the, for his ability, though I think.: null
+    the Baltimore Sun has this, cartoonist in the sports section: null
+    the Colts still, still to me are the Baltimore Colts.: null
+    the Cowboys are my favorite team.: null
+    the Cowboys are on a roll.: null
+    the Cowboys did good today.: null
+    the Saints are starting to impress me this year, a lot.: null
+    the band I play in, we tend to rehearse quite a bit on Sundays.: null
+    the cheapest of course is going to be the end, the direct end zones.: null
+    the coaches watch him all year long.: null
+    the competition is, are teams that they've already beat this year,: null
+    the first thing is the phone call from the, from the league saying he was, was coach of the year: null
+    the guy winds up getting hurt every other game.: null
+    the hype were just unbelievable.: null
+    the local team was Philadelphia.: null
+    the next highest price is that same area but above it on the upper level,: null
+    the only way you're going to have a view of is this big brick wall ,: null
+    the other is the Oklahoma Sooners.: null
+    the players and stuff, they finally quit giving away the really good players and started keeping them too.: null
+    the press would get down on Landry,: null
+    the quarterback's seem to get most of the, the attention,: null
+    the second was this phone call from Buddy Ryan, I got fired can you believe that .: null
+    ? the teams I really root for in football are the Niners and the Seahawks, mostly
+      because, only the Niners because I used to live out in California,
+    : null
+    the weather here and there's no mountains or anything,: null
+    the, there's quite a few boys: null
+    then about five years ago, four or five years ago, they started going after, specific players or positions,: null
+    then he went out to S, to southern Cal.: null
+    then he, he just left.: null
+    then the team was sold.: null
+    then we moved here: null
+    there's a big long railroad shed: null
+    there's a running team.: null
+    there's a team: null
+    there's a team in London: null
+    there's about six or eight guys that we use to go out for these games.: null
+    there's always been an interest there.: null
+    there's no .: null
+    there's no hockey,: null
+    there's not a whole lot in Delaware.: null
+    there's some other city.: null
+    there's teams in the United States: null
+    there's this big fire on the field: null
+    there's, an old station: null
+    these games go right down to the wire.: null
+    they are going to come right through you if you don't do something.: null
+    they beat the Chicago Bears: null
+    they beat the Saints.: null
+    they changed it and gave us another game in the middle of another, one that was going on.: null
+    they cut the show off and shorin, started showing us another football game.: null
+    they did the Johnny Angel.: null
+    they did. As a matter of fact,: null
+    they gave away a lot of their drafts.: null
+    they got rid of a lot of familiar names and got a lot of names in that we weren't, weren't familiar with.: null
+    they got so much bad publicity, too.: null
+    they got that much up in the mountains, just west of there.: null
+    they had a big win today.: null
+    they had a real good time: null
+    ? they had to kick. And, to know whether we were going to win the game or lose
+      a game because they got one point ahead of us.
+    : null
+    they had to stop the game the third quarter: null
+    they have a lot of young exciting players now,: null
+    they have a young team.: null
+    they have about four or five different prices now,: null
+    they have all these teams from,: null
+    they have always been a really strong team.: null
+    they have got the quarterback there in Randal Cunningham, who's just, phenomenal,: null
+    they have this World Football League.: null
+    they just have done absolutely nothing when they got there .: null
+    they just kind of grew on me.: null
+    they lost again.: null
+    they made it to the playoffs finally: null
+    they never score.: null
+    they picked up some from Minnesota.: null
+    they really impress me.: null
+    they screwed up the last couple of games.: null
+    they sectioned it out to end zone and then everything else.: null
+    they squeaked out a game on Sunday.: null
+    they still have some, some, some draft picks,: null
+    they turned it around,: null
+    they went one and six,: null
+    they went to the Superbowl when we first moved here: null
+    they were dumping the bucket and everything.: null
+    they were in a shot to make the playoffs: null
+    they were kind of closer to home when, when I struck up with them.: null
+    they were thirty miles right up the river: null
+    they won five or six in a row.: null
+    they would go out and try to go for, the best people and then mold them into different areas or find their natural niche.: null
+    they'd go after them saying, jeez what you really need is a defensive end.: null
+    they'd go out and try to find a defensive end: null
+    they'd go to all the games,: null
+    they'll get close to it.: null
+    they're all, they're all thinking that, they, they, they really got something going this year,: null
+    they're big,: null
+    they're building the baseball stadium: null
+    ? they're building the stadium on the other side of the shed from the Inner Harbor,
+      which is really stupid because one of the big selling points of the new stadium
+      is supposed to be this view of the Inner Harbor
+    : null
+    they're doing good tonight.: null
+    they're doing some stomping on Virginia.: null
+    they're mean: null
+    they're playing now during the summer months: null
+    they're raising prices on their tickets.: null
+    they're some sections kind of in the corner areas,: null
+    they're supposed to be the hottest team in the, in the league going into the playoffs: null
+    they're winning.: null
+    they've got a lot of the tools to do it,: null
+    they've got land set aside for a football stadium if they ever get a N F L team.: null
+    they've got large medical, center down there.: null
+    they've had some financial problems with the team and so forth.: null
+    they've, they've built a new stadium downtown,: null
+    they, if they're not going to use them they'll give them to somebody else.: null
+    they, they do a lot of fun things.: null
+    they, they sectioned it out even more.: null
+    they, they've actually started doing something.: null
+    they, they've managed with those guys: null
+    this is just something on the side: null
+    this is only the second place we've lived.: null
+    this is when Schramm was still there.: null
+    this year they made it to playoffs: null
+    today was the first game: null
+    today, my favorites out of those guys were probably, Lambert,: null
+    usually it's snowing .: null
+    watch that watch nothing.: null
+    we all ran out and bought the records,: null
+    we are never, we never cheer against Denver unless they're playing the Cowboys.: null
+    we beat them: null
+    we can talk about something else.: null
+    we couldn't a done much better than that in Buffalo .: null
+    we do some cooking, some barbecueing, have a few drinks: null
+    we had one guy that couldn't run.: null
+    we had some wonderful, wonderful years there under Roger .: null
+    we had to sit there,: null
+    we had we got the ball back.: null
+    we have a soccer team that comes and goes.: null
+    we have two small children,: null
+    we just moved here two years ago: null
+    we kind of got spoiled.: null
+    we love the Cowbo,: null
+    we talked our wives into going with us one time: null
+    we would be ahead,: null
+    we're Bronco fans .: null
+    we're a big hockey area up here,: null
+    we're from Colorado: null
+    we're watching the game.: null
+    we've been trying get this new D N B two thousand printer up and running.: null
+    we've got our Cowboys here: null
+    when I first moved here was when they, I guess it was about a year ago they did this.: null
+    when I met my husband, he was watching football: null
+    when I was at the game we sat right on the front row,: null
+    when I went up there they were saying that Memphis sold more tickets than Saint Louis did.: null
+    when in reality, it's really Americans playing somewhere else .: null
+    when played he was from my hometown in Alabama,: null
+    when the Cowboys won the Superbowl here, of course, they put together some real cute songs,: null
+    ? when the pressure is really on when it's down to the last few minutes of the
+      game for the season is when the guys seem to really do their best.
+    : null
+    ? when they, when they drafted somebody and he didn't work out at that spot it
+      really wasn't a good enough athlete to move to any place else.
+    : null
+    when you go to a football game in Colorado that's, there's snow: null
+    without a whole lot of big name players.: null
+    you've got two football teams down there.: null
+  Statement-opinion: !!set
+    ? A lot of the, the big eight teams that used to run so much. I think they're
+      starting to realize that they just can't compete anymore.
+    : null
+    Absolutely they get bigger and bigger, it seems every year.: null
+    After awhile, I, I prefer forty, a nice forty yard flea flicker every now and then just, just to: null
+    Al Davis is, he's a kind of strange character, strange, strange looking guy.: null
+    An they have to be in ideal physical shape, basically.: null
+    And the hand eye coordination: null
+    Any t, any team that, tha, where the owner would fire Tom Landry, is one of the greatest coaches of all time.: null
+    Apparently he's kind of a wild guy,: null
+    As far as him scoring touch downs, I think that was kind of weird.: null
+    As long as Troy Ot, Aikman doesn't get hurt again.: null
+    At least they're coming around.: null
+    College football is a little bit different: null
+    Course, I think, you can't really go by what happened earlier in the season: null
+    Dallas did better last year,: null
+    Dan Reeves is a pretty neat guy anyway.: null
+    Even when they were losing pitifully, people still support them.: null
+    Everybody else still nuts over soccer: null
+    Everybody feels like we should be able to beat them: null
+    Except I think the Cowboys are on the upswing .: null
+    First good season, the coach can do no wrong.: null
+    Gosh, what a beating,: null
+    He fights it every single year,: null
+    He is tough,: null
+    He just went all out every single play.: null
+    He may have been the last of the old guard,: null
+    He's just so big, no one can move him.: null
+    He's no Spring chicken anymore.: null
+    He's one of the few, Black quarterbacks that there are.: null
+    He's such a motivator, he,: null
+    He's such a, he's about a half hot head anyway, such a temper.: null
+    He's very good.: null
+    Holy smokes, I didn't that doesn't seem like very long.: null
+    Houston has had some wonderful talent, down through the years: null
+    I believe that's right at one point in time.: null
+    I bet up here in New England as well: null
+    I bet you can't guess .: null
+    I can see it's more, grunted out, run the ball type.: null
+    I could see the feel for that.: null
+    I don't even think we have that in Texas.: null
+    I don't think rugby will ever be professional: null
+    I don't think we do.: null
+    I guess it's just, like you say, a mass that nobody can seem t, to get out of the way.: null
+    I guess most every team has so, has someone like that,: null
+    I guess probably since about eightyfour, about eightyfive was when they started kind of going downhill really,: null
+    I guess we should talk about football a little bit longer just to be sure we got five minutes in.: null
+    I guess we're on.: null
+    I guess we're the only ones,: null
+    I guess you can,: null
+    I guess you have to to, to stay in the game I guess.: null
+    I guess you keep those things you grew up with.: null
+    ? I guess you never could really see him play, because with the Cowboys, while
+      he was with the team, the rest of the team was pretty poor
+    : null
+    I hope they, they do better.: null
+    I really am.: null
+    I think I remember hearing that.: null
+    I think Mike Webster was left: null
+    I think football is, football is kind of a, a sport that I think you kind of, it's hard not to like it.: null
+    I think he is,: null
+    I think he was just probably a passing phenomena, I think .: null
+    I think he was.: null
+    I think it is Raleigh.: null
+    I think it might be them.: null
+    I think it was kind ever interesting.: null
+    I think it's an,: null
+    I think that hurt a lot of,: null
+    I think that,: null
+    I think the Cowboys probably have a, a better team.: null
+    ? I think the decline of the, of the Cowboys as a powerhouse really kind of started
+      with, not drafting people, the best athletes.
+    : null
+    I think they are because they're getting better every year.: null
+    ? I think they still have a little, I think they're still such a, a young team
+      I think they still have a little bit to go before they reach the potential,
+    : null
+    I think they'll pull out of it,: null
+    I think they're doing pretty well this year though.: null
+    ? I think they're going to, I think they're really going to do good because it
+      seems like they're finally all coming together.
+    : null
+    I think they're starting to realize that.: null
+    I think though that professional football: null
+    I think tickets are,: null
+    I think we're on, maybe.: null
+    I think, once Jimmy Johnson gets his system established, they'll do all right.: null
+    I wished, I wished they could work something,: null
+    I would say the Saints ,: null
+    I'm just saying I shouldn't, I shouldn't blast him like that, say, Laufenberg got out there and blew it for them,: null
+    I'm not sure they've yet decided where they want to play,: null
+    I'm sure arthritis sets in with them,: null
+    I'm wanting to say Raleigh: null
+    I, I can see what you're saying about the male bonding: null
+    I, I don't think anything will ever take over the N F L.: null
+    ? I, I guess, when you have a whole bunch of, professional athletes that get together
+      at the beginning of the year everybody's got great hopes.
+    : null
+    I, I just think, Marino will get better: null
+    I, I, I enjoy watching him also.: null
+    ? I, I, I'm sure if you go to any of the twentyeight coaches in football in training
+      camp they say, we're going to be Super Bowl Champs
+    : null
+    I, you couldn't deny that.: null
+    If not, he gets beat to death like poor old Troy Aikman has the last couple of years anyway,: null
+    It can take over a small market share: null
+    It has the speed.: null
+    It is fun to play. If you don't value your *listenmissing a word?: null
+    It makes sense because, you, you've got the flexibility if they're good athlete they can, do a bunch of different things.: null
+    It was funn,: null
+    It was funny.: null
+    It was like they were trying, if you were good, , let's don't have you on our team,: null
+    It was, defense w, w, won all the games.: null
+    It wasn't nearly as much fun when Bradshaw was playing for you guys, I'll tell you.: null
+    It's exciting.: null
+    It's high dollar.: null
+    It's just, it's four yards, three yards: null
+    It's just, it's never going to reach that, that standard: null
+    It's kind of, it's kind of strange.: null
+    It's like if we tried to start something to take over major league baseball.: null
+    It's such, I just think it's such a fun sport.: null
+    ? It's, a lot different than the teams they used to have where it's the same old,
+      players every year and, same coach, same everything,
+    : null
+    It's, it must just take a hundred percent concentration, I guess, because they know they're going to get hit,: null
+    It's, it's an interesting game to watch.: null
+    It, it's good as, in terms of, in terms of, of a contest.: null
+    Make sure we get our cash flow.: null
+    Miami's had some down years, too.: null
+    Not everybody can play hockey.: null
+    Now it's tough and dirty team: null
+    Now, they've been able to get some good players and come around: null
+    Of course they play their, cards right and do some good investments, they'll, they'll do all right.: null
+    Of course, there have been some other great ones too, Dick Butkis, and Bradshaw,: null
+    ? Other than that, when I've, when you grow up in a city that has the, one of
+      the greatest football teams until the last few years, you kind of tend to get
+      caught up in it.
+    : null
+    Particularly football.: null
+    People are pretty surprised that they, they beat the Giants.: null
+    Randall Cunningham was with Philadelphia, I guess last year,: null
+    Rugby is definitely big in college: null
+    Rugby is something else.: null
+    Seahawks are good.: null
+    Since they've been to Phoenix they haven't been, all that impressive, I guess.: null
+    Some of them a, a bit embarrassing.: null
+    Some people are going to watch it: null
+    ? Spring training until you actually start going out and getting, getting out
+      against the competition everything probably looks pretty good.
+    : null
+    That and rugby.: null
+    That kind of killed them at the end of the season last year.: null
+    That may not ever happen,: null
+    That would be fun.: null
+    That would be his specialty.: null
+    That would be really great.: null
+    That's a rough game.: null
+    That's exactly where both of the wives came from I think.: null
+    That's fun,: null
+    That's just wild.: null
+    That's kind of, that's kind of strange.: null
+    That's okay .: null
+    That's some brutal stuff there.: null
+    That's why it's a go, a big college thing.: null
+    That's, it gets kind of monotonous.: null
+    That's, that's a pretty short career on average.: null
+    That's, that's worse than football as far as violence I think.: null
+    The atmosphere of being there,: null
+    The guys they pick, m, may never play a game.: null
+    There ain't nobody going to beat us then.: null
+    There's just so much mass there, I guess they just can't,: null
+    There's no question about it, because everybody was playing good together except the quarterbacks.: null
+    There's quite a bit of activity now,: null
+    They always think they can win, which is the way it should be.: null
+    They could not pitch.: null
+    They look like sometimes they're just broken in two like a match stem.: null
+    They really d, they have to have,: null
+    They really ought to change the name I think in Indianapolis.: null
+    They say, i, football attracts more men because of the, y, the, the, the physical aggression on the field: null
+    They were super players,: null
+    They're all not, mister nice guys like they used to be.: null
+    They're going to go somewhere pretty shortly.: null
+    They've got some, lot of really good young players that are going to, that are going to, do pretty good, I think.: null
+    They've had some excellent teams, though, obviously.: null
+    They've had some serious problems in the past couple of years.: null
+    Those guys kill each other out there.: null
+    To me it was like it's going to take them quite a while to rebuild: null
+    Warren Moon's an excellent.: null
+    Warren Moon,: null
+    Which is good.: null
+    Which is rare.: null
+    You can't stay healthy and do that.: null
+    You jus, never know,: null
+    You probably wouldn't like my favorite team in college then.: null
+    a lot of them don't, unfortunately.: null
+    a lot of women are knowl, as knowledge about football as I am.: null
+    all of them were bad.: null
+    any professional sport I think,: null
+    anyway, I guess we can't talk much more about that,: null
+    ? at the end of the season, the kind of got messed up with Aikman getting hurt,
+      because, Laufenberg just couldn't ever really get it together at all.
+    : null
+    doesn't give you much respect for their team at all.: null
+    during the past couple of years they've been doing a little bit better.: null
+    e, everything, anything that Tom Landry wanted or had, he was going to change it.: null
+    every team hopes their current quarterback is going to pull them through.: null
+    football fans are probably the most fickle people in the world.: null
+    from what I saw they were playing,: null
+    he could always get past, he'd get past six or seven tackles and just keep spinning around and get on into the end zone.: null
+    he didn't get to see much action. But, too bad.: null
+    he doesn't even look like he's in shape.: null
+    he has a real weight problem too.: null
+    he may, uhhuh.: null
+    he never really got in a game, never did a whole lot.: null
+    he was a good player. I guess,: null
+    he was good.: null
+    he'd be good at it.: null
+    he'd, never seem to be able to keep his guys healthy.: null
+    he's a very young fellow.: null
+    he's been doing real good.: null
+    he's still performing.: null
+    he's very exciting to watch.: null
+    he's very good.: null
+    his age is about to catch up with him though.: null
+    his team's not as good as what it was when he went to the Super Bowl,: null
+    hopefully they'll do better this year.: null
+    if New Orleans ever gets a quarterback: null
+    if ever wanted, pursue anything more than your nursing degree, that, that'd be the place to do it.: null
+    if that was an off night I'd hate to see when he's on a good night.: null
+    if they close it in, we'll have the best of both worlds then: null
+    if they even reach that potential again, they may never reach that again.: null
+    if we had a quarterback this year we would have went to the Super Bowl.: null
+    if you go to,: null
+    if you want to see them, you might just as well enjoy football.: null
+    in fact they were doing better than the Cowboys,: null
+    in fact, in fact the Cowboys got the best end of that deal.: null
+    in the earlier years they really had some super teams.: null
+    it can get really overdone.: null
+    it really is.: null
+    it really was.: null
+    it really would.: null
+    it seems that they've gotten over their bickering and their fighting as they, problems they had in the past: null
+    it seems to be, moving around and, to, to New Orleans' benefit,: null
+    it seems to me like they really love their Cowboys here.: null
+    it takes a certain skill to play hockey.: null
+    it takes a little brainwashing first.: null
+    it was bad.: null
+    it was funny.: null
+    it was weird.: null
+    it was, it was just bedlam.: null
+    it will be fun for you to watch up there anyway: null
+    it will take you a little while: null
+    it would be tough to do,: null
+    it's a good past time,: null
+    it's all, it's all money now.: null
+    it's easier to join them than fight them.: null
+    it's funny some of their necks don't get broken.: null
+    it's funny that more people don't get hurt.: null
+    it's funny.: null
+    it's going to be tough,: null
+    it's going to take a little bit.: null
+    it's just a matter of how hard, or where.: null
+    it's kind of same for me,: null
+    it's more high tech,: null
+    it's never going to be the next,: null
+    it's not going to be wide spread super bowl and every Sunday afternoon or anything,: null
+    it's not like it used to be.: null
+    it's not often you get, many women interested in football .: null
+    it's really overkill .: null
+    it's something a bunch of fraternity guys can get together and get a good beer buzz going and do .: null
+    it's, everything's, looking real good.: null
+    it's, it's a gamble,: null
+    it's, the coach's fault,: null
+    it, it's not so much, the contest itself and the game itself,: null
+    it, it, it can be, it can take over part of it.: null
+    just because they had, had a couple of bad seasons.: null
+    let's, let's dump him.: null
+    like you say Warren Moon's an excellent,: null
+    look how good we did without a quarterback this year .: null
+    maybe we, maybe we'll get your guy.: null
+    more, players are apt to act a little bit different when they, when their jobs and their, when it's a job and not just,: null
+    no one's going to have much faith in him any more.: null
+    now it's, like a taste of something different.: null
+    now they're, really playing as a, good together as a team.: null
+    now, now, he had a shot and, and didn't look too good: null
+    obviously not very fast.: null
+    of course a quarterback can look so good if he's got a lot, if he's got a good supporting cast,: null
+    of course the, a quarterback has a big ego.: null
+    of course they had so many, nice, choices because their record was so lousy the last few years.: null
+    of course you never know.: null
+    ? of course, Mike Ditka was in Dallas for years and years as coach, is knowing
+      his, knowing of his temperament, I'm just surprised he ever, kept the guy around,
+    : null
+    ? of course, the, the, the one, the griping is that if, if, if Washington doesn't
+      get a, a baseball team then Baltimore shouldn't get a football team. Which is
+      probably true,
+    : null
+    people were jumping ship right and left.: null
+    perception,: null
+    probably the guy is, probably physically strong.: null
+    right now I think Memphis and, it's Memphis and I think Baltimore have a really good shot at it.: null
+    since it's kind of off season, it's kind of hard to think back about all that.: null
+    sounds like he's going to be all right for next season.: null
+    supposedly, psychologists say that, that, men take out their frustrations by watching football: null
+    that doesn't, doesn't help you in the draft.: null
+    that just may be, perceived,: null
+    that sounds to me more like the front office problem than coaching problem,: null
+    that was just such super team.: null
+    that will make the skiers happy.: null
+    that would be real good.: null
+    that you miss sitting home in your parlor, with, with a six pack of beer and some, potato chips,: null
+    that's a good question.: null
+    that's all there is to it.: null
+    that's good.: null
+    that's kind of cool.: null
+    that's kind of funny too, as a matter of fact .: null
+    that's really funny,: null
+    that's suppose to be some of the, the male bonding and the, and the, the male instincts, I guess, or something about the,: null
+    that's the thing,: null
+    that's what you got to do,: null
+    that's when you think about it, that's really not a very long time, of course.: null
+    that, that forces a lot of the guys to get out of the game.: null
+    the Cardinals got killed by the Cowboys,: null
+    the Cardinals were kind of like the Cowb,: null
+    the Cowboy, Cowboys came on strong at the end of the season,: null
+    the Cowboys were th, America's football team,: null
+    the quarterbacks just didn't do anything.: null
+    the same thing.: null
+    the, the N F L draft really seems to be doing its job: null
+    the, the Seahawks are an up and down kind of team.: null
+    the, their, their backfield is really impressive.: null
+    then with, the defense, with Bruce Smi, Bruce Smith there at linebacker there, they've got a very well rounded team: null
+    then you think about how many have been in there longer than that.: null
+    there are very few Black quarterbacks, or at least that are starting anyway.: null
+    there is so much about it: null
+    there's an element there's definitely an element of stupidity in there somewhere .: null
+    there's been so many.: null
+    there's no question about that,: null
+    there's only so much football you can watch.: null
+    there's, there are some really big guys playing in football.: null
+    they all do, I guess,: null
+    they are, they are just a fun team to watch.: null
+    they can't survive.: null
+    they couldn't even take handoffs.: null
+    they did have a fairly decent year finally this year.: null
+    they get together with a bunch of guys: null
+    they had such a super team.: null
+    they haven't been doing too hot,: null
+    they keeping talk about, going,: null
+    they make mistakes too, I guess.: null
+    they really do take a beating,: null
+    they really do.: null
+    they really were.: null
+    they seem to be doing pretty good this year.: null
+    they sure do,: null
+    they were good,: null
+    they were terrible.: null
+    they'd treat him bad: null
+    they'll, they'll wind up being good again.: null
+    they're banking on doing good next season.: null
+    they're going to get better.: null
+    they're not doing bad.: null
+    they're retired,: null
+    they're so young,: null
+    they're still behind them: null
+    they're, they, they got a big thing because of the, the, the expansion going on in baseball.: null
+    they've, they've not had much of a team this year, bless their little hearts .: null
+    they, they have a good time and everything: null
+    they, they weren't getting the draft picks: null
+    they, they're always branded, as a bunch of outlaws: null
+    this is the way it is.: null
+    this year they had all good players except for the quarterback.: null
+    to me he does, he's just so big and fat,: null
+    unfortunately, of course, the Cowboys have been doing so bad in the past few years.: null
+    up around the Keystone and Copper Mountain, those guys will love that.: null
+    wasn't that fun.: null
+    we should beat them.: null
+    we, every time we'd get a real good player they'd treat him bad.: null
+    when he bought the team and all and it just seemed like he just decided, this is the way it's going to be: null
+    when you're getting paid millions to do it, you ac, I think they take it to another level.: null
+    with age comes,: null
+    you can't even attribute those bad seasons to bad coaching.: null
+    you couldn't really tell if it was just him or the team: null
+    you don't back them when they're not doing well .: null
+    you just really can't tell what's going to happen.: null
+    you probably know,: null
+    you'd have to, I would have to say, someone like Montana, I guess, who's done so well for so many years.: null
+    you'll probably always have a soft spot in your heart though for: null
+    you're right,: null
+    you, you back the winners: null
+    you, you miss that.: null
+  Wh-Question: !!set
+    How about your favorite team?: null
+    How did they end up this year?: null
+    Leslie, what are you studying?: null
+    Thirty day notice for what?: null
+    What are they going up to, thirty bucks or something?: null
+    What's that?: null
+    What, school are you going to?: null
+    Who are they going to blow it to?: null
+    Who else is,: null
+    Who is the competition going to be?: null
+    Who was the quarterback?: null
+    Who's that?: null
+    Who's their quarterback?: null
+    Who, who did they play?: null
+    Who, who's that?: null
+    what are you planning to go into?: null
+    what cities are they looking at?: null
+    what was the whole deal on that?: null
+    when is the,: null
+    who is it, Michael Irvin: null
+    who is your favorite football team?: null
+    who would you say is your favorite player, or has ever been your favorite player?: null
+    who's going to beat them?: null
+    who's the running,: null
+    who's your favorite team?: null
+    who's your, favorite team?: null
+  Yes-No-Question: !!set
+    Are you a Cowboy fan?: null
+    Are you in San Antonio?: null
+    Are you married?: null
+    Are you, transit usually?: null
+    Back when they were in Saint Louis?: null
+    Buffalo in, in, was it third of December?: null
+    Can I guess your favorite team, if you had one, might be the Steelers.: null
+    Cowboys are going to have a problem aren't they?: null
+    Did he, did he actually play in the Pro Bowl.: null
+    Did they, did they make it to the playoffs at all?: null
+    Did they, were they able to draft anybody this year?: null
+    Did you do the whole big, th, the whole thing, the tailgate party and the whole,: null
+    Did you ever get to watch any of the, New Orleans games?: null
+    Did you get to watch any of their games?: null
+    Did you see the game Sunday night: null
+    Do you follow football very much?: null
+    Do you follow professional sports at all?: null
+    Do you have a favorite between those two?: null
+    Do you have any,: null
+    Do you know where that is?: null
+    Do you like them?: null
+    Do you live in Dallas?: null
+    Do you plan on staying in, in the Dallas area?: null
+    Do you usually get a message?: null
+    Do you want to be an R N: null
+    Do you watch it every Sunday?: null
+    Does he really?: null
+    Has Herschel Walker done much for them?: null
+    Has it been, snowing up there?: null
+    Have you been following the big draft that occurred yesterday?: null
+    Have you ever been to a Cowboy's game?: null
+    Have you followed that very much: null
+    I shouldn't even try to do it, ?: null
+    Is it the, the Wharf or the, the,: null
+    Is it, is it this year they don't have a draft pick because of the Walker trade: null
+    Is she a nurse in Dallas?: null
+    Is that where he went?: null
+    Kind of like the cowboys,: null
+    Notre Dame ?: null
+    There's that type of segregation,: null
+    They don't,: null
+    You have any idea.: null
+    You've played it then?: null
+    are you into the Cowboys?: null
+    did you get to watch it?: null
+    did you graduate from Purdue?: null
+    didn't the Cowboys even finish,: null
+    do you know anything about the expansion teams they're thinking about bringing in?: null
+    do you know what Ellicott City is?: null
+    do you like football?: null
+    do you stay not in one place too long?: null
+    do you think they're, they're going to be able to make it this year,: null
+    hasn't, has the N F L draft even gone yet?: null
+    have you ever been to a professional football game?: null
+    in Maryland are you, are you a Skins fan?: null
+    is it Sammy Smith,: null
+    is that where you are now?: null
+    it was his shoulder, wasn't it, that he had the problems with?: null
+    other than Dallas, would you say that you have, a favorite quarterback.: null
+    that's getting ready to start up, right?: null
+    they are exciting, aren't they?: null
+    they finished pretty close to five hundred last year didn't they?: null
+    they haven't, they haven't, have they just lost one game this year?: null
+    they only won one game the year before, right?: null
+    they're in the playoffs, right?: null
+    this World League is coming in?: null
+    used to the, the Oakland?: null
+    would you say that you have a fav,: null
+    you make it, to that Longhorns Sooners game?: null
+    you married?: null
+    you remember when Archie Manning was a quarterback?: null

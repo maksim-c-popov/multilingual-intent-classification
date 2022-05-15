@@ -1,0 +1,1740 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    Are the temperatures real extreme there: null
+    Around Gatlinburg, or: null
+    Course I imagine it gets cold in parts of Utah.: null
+    Doesn't that always taste so much better,: null
+    Helps, helps keep the, the pests out, I suppose.: null
+    I didn't know you could do that.: null
+    I don't know if you have ever heard of it?: null
+    I guess you know enough to look where you're walking or sitting: null
+    I hope you didn't have a big vacuum cleaner.: null
+    I know there are some good places to go camping along the, the lakes.: null
+    I wonder if these are going to be speaking . The computers,: null
+    I would think, I would think a cave would be, could have problems like that, too.: null
+    I'm wondering, I'm really not that not familiar.: null
+    I, I take it you haven't done a whole lot of camping in this area.: null
+    If you've never seen them, it's, it's very awe inspiring.: null
+    That would have to be a blast.: null
+    There a lot of places to camp in Dallas?: null
+    Those double ones?: null
+    Where you live now,: null
+    You'd have a lot of hills in that, down in that area.: null
+    that must have been fun though.: null
+    that's got to be beautiful territory.: null
+    that's probably a pretty nice place to go .: null
+    they don't go camping with you.: null
+    you haven't done that before.: null
+    you kind of, an everyday camper .: null
+    you still backpacked and camped out.: null
+    you're in Texas,: null
+    you're still, get, you're just trying to get over the culture shock still .: null
+  Dispreferred answers: !!set
+    I'm going to listen.: null
+  Statement-non-opinion: !!set
+    A little more, luxurious, so to speak, but not much .: null
+    A little town called Tuckaho, over by White Plains.: null
+    A lot of people like to go down and camp down inside,: null
+    All the bugs and stuff .: null
+    All the little stutters and everything.: null
+    All the time. I got real used to it then.: null
+    Also I said we mostly did ours before we started a family.: null
+    And possums, and, raccoons.: null
+    As I mentioned earlier, we went into wilderness areas: null
+    As a matter of fact, my, my, the majority of the amount of camping I've done has been really roughing it.: null
+    As long as there was a bathroom there and some clean showers and things like that, then it was fine.: null
+    At any rate it was, it was very nice as well.: null
+    At least their Daddy goes with them,: null
+    Big frying p,: null
+    But not on a, on the regular basis.: null
+    Camping or, motor home is nice, travel trailer, pop up,: null
+    Course, I, I guess I'm partial to big tree country.: null
+    Eleven and fourteen.: null
+    Estes State Park is fantastic.: null
+    Everything like that.: null
+    Everything we had was in boxes: null
+    ? First, we went up just to, with a Toyota pick up truck and laid out our sleeping
+      bags under the stars and cooked our, hot dogs by the fire or whatever.
+    : null
+    Had a four wheel drive.: null
+    Had a real good time with the family.: null
+    Had the boat just pulled up right by the tents.: null
+    Haven't done a whole lot down here.: null
+    He is so fearless, he, it terrifies me.: null
+    He'll go out into it until it's up to his nose: null
+    He's about a year and a half younger.: null
+    I agree with him, too.: null
+    I always try to find out where they're from,: null
+    I am going to need a vacation .: null
+    I baked them a cake, right there on a camp fire.: null
+    I bought a van: null
+    I bought them,: null
+    I came home from work one Friday afternoon: null
+    I camp, every month, camp at least one weekend: null
+    I camped in that trailer and in a tent and in, in log cabins and so forth too.: null
+    I can camp just about, most anyway .: null
+    I can't remember the name.: null
+    I can't remember what type of trees they are,: null
+    I can't remember when the last time I actually went camping was.: null
+    I can't say I've checked them all out though.: null
+    I can't see all this little, smoke buckets I call them,: null
+    I consider myself what they call a fulltimer.: null
+    I could really talk about like gardening or something,: null
+    I crossed the state to, to Aberdeen,: null
+    I did most of my camping in the mountains.: null
+    I didn't even think about frying potatoes.: null
+    I didn't know how much, how much camping areas there were along there.: null
+    I didn't know they did this.: null
+    I didn't realize it would melt so easily.: null
+    I didn't want to go camping with diapers,: null
+    I do go fishing.: null
+    I do want to go again.: null
+    I don't care what weekend,: null
+    I don't either .: null
+    I don't even know the name of the river there,: null
+    I don't know .: null
+    I don't know if the camping that I've done is really roughing it without a, a whole lot of stuff.: null
+    I don't know if they're similar to mine: null
+    I don't know much about camping in Texas.: null
+    I don't know of any place in Texas that has, really big, what I call mountains .: null
+    I don't know what it was,: null
+    I don't know what it's like now,: null
+    I don't know what you would do every ,: null
+    I don't know what,: null
+    I don't know why I got stuck down here in Texas now .: null
+    I don't know, don't know when I'm going to get a chance to do that: null
+    I don't know.: null
+    I don't like it when there's mosquitos so bad.: null
+    I don't like those camping grounds: null
+    I don't see going on a camping trip probably until next summer.: null
+    I don't think I ever see it except when I go get out of the city and go camping in the desert or in, in the mountains.: null
+    I don't think I ever see the Little Dipper,: null
+    I don't think I would like that.: null
+    I don't think of, trailers and campers and all this stuff.: null
+    I don't think they've taken the stoves.: null
+    I don't, I don't think I'm a real true, trooper, when it comes,: null
+    I either want to do it in the fall or spring.: null
+    I enjoy camping.: null
+    I enjoy hiking and camping.: null
+    I enjoy it every once in a while,: null
+    I enjoyed it.: null
+    I felt like we roughed it then .: null
+    I first started camping out in the desert in California.: null
+    I found that you don't do that.: null
+    I get in my paperwork . to find my most important parts.: null
+    I get things ready and then I enjoy.: null
+    I got a condo with a jacuzzi: null
+    I got into sales,: null
+    I got married last summer: null
+    I grew up camping, being in Girl Scouts and things like that,: null
+    I grew up in California, in southe,: null
+    I grew up in Louisville, Kentucky: null
+    I grew up in South Dakota,: null
+    I guess I never heard the history of that.: null
+    I guess it makes a difference.: null
+    I guess it's been two or three weeks.: null
+    I guess just, just the change,: null
+    I guess one time recently we went up to Maine, and had planned to camp,: null
+    I guess our, our, my biggest memory is when we froze to death .: null
+    I guess the last real, camping trip I took was, has been a couple years ago.: null
+    I guess they could call them that, but they're, they're more just a screened in, camping area: null
+    I guess we haven't done it since my kids were born so about three years ago.: null
+    I guess we just kind of came by it naturally .: null
+    I guess we really rough it.: null
+    I guess when, when we did sites in, in the Middle East, of course it was with a group, in order to make it safe: null
+    I guess, my entertainment's,: null
+    I had a cousin who lived in White Plains,: null
+    I had a little boat house and floated it out on Lake Grapevine.: null
+    I had been there before when I lived in California,: null
+    ? I had my boys build their own little c, three leg camp stools by cutting a branch
+      off the tree and binding them together with bark.
+    : null
+    I hate to be on .: null
+    I have a idea it's going to be a, a lot more equipment and a lot more stuff than: null
+    I have a little one that just turned two: null
+    I have a motor home .: null
+    I have a sisterinlaw that lives in New Mexico, up through New Mexico and into Colorado and the Grand Canyon area.: null
+    I have been in that area.: null
+    I have fun .: null
+    I have gone to girl's camp a few times, as a, a chaperon or a leader, whatever: null
+    I have never been there: null
+    I have some friends who go out every single weekend,: null
+    I have, brotherinlaw and a sister, that just really just camp.: null
+    I have, some land there,: null
+    I haven't been back up there in awhile.: null
+    I haven't been in probably about three years.: null
+    I haven't done much recently,: null
+    I haven't done much since I was a kid: null
+    I haven't quite adjusted,: null
+    I haven't taken my little boy yet.: null
+    I haven't, I haven't started making money yet.: null
+    I hope you get into camping some day, just slowly.: null
+    I in it, in the backyard and stuff,: null
+    I just couldn't do that,: null
+    I just don't care for that.: null
+    I just got married less than two years ago,: null
+    ? I just had this place to shower up while I was you know out here, putting up
+      fence and building a driveway and drilling a well and all that stuff you have
+      to do before you can even put a house in
+    : null
+    I just joined, the Appalachian Trail Walking Club, or whatever they call it,: null
+    I just like to go.: null
+    I know I always I like to get right on the water,: null
+    I know I have, I just have a tent,: null
+    I know if I go home and say, let's go camping, my: null
+    I know it's dangerous,: null
+    I know lots of women would do it all the time.: null
+    I know my husband's gone, for several days on the Appalachian Trail before,: null
+    I know my parents like to camp a lot,: null
+    I know that I took my kids, we'd go out,: null
+    I know that we liked it when our kids were teenagers because we got away from the T V: null
+    ? I know that we, as a teenager growing up and going to Lake Murray, there would
+      be maybe twenty, twentyfive of us because it would be all of my mother's
+    : null
+    I know that.: null
+    I know the rain bring out the snakes or used to bring them out in the Ozarks,: null
+    I left there when I was quite young.: null
+    I like Bob Sandlin too,: null
+    I like being able to go back into the mountains,: null
+    I like it better than almost anything I've ever done.: null
+    I like that,: null
+    I like that.: null
+    I like the campgrounds that have a nice shower .: null
+    I like the,: null
+    ? I like the, the, the little necessities like having electricity available and
+      running water and showers and things like that.
+    : null
+    I like to get out by a lake: null
+    I like to sleep on the air matresses.: null
+    I like to, I like to sleep on the matresses.: null
+    I live in mine.: null
+    I lived down in, down in the bottom of a big hollow: null
+    I love that.: null
+    I love the big trees.: null
+    I love to swim,: null
+    I love to walk: null
+    I never really noticed how effective they were,: null
+    I now have a motor home.: null
+    I put it on hot and also melted it.: null
+    I really didn't get to use them like, there's mosquitoes let's turn them.: null
+    I really do.: null
+    I really like them,: null
+    I remember one time, some cousins were in a tent: null
+    I said I'm losing you,: null
+    I said okay .: null
+    I said where.: null
+    I said, I'd love that: null
+    I said, for twenty dollars we can go down the road and get a, a motel: null
+    I said, oh.: null
+    I started out basically camping when I was, when I was in Boy Scouts,: null
+    I started to, go camping again kind of in conjunction with white water rafting,: null
+    I still do it once in a while.: null
+    I think I haven't been able to do it,: null
+    I think I've had about four.: null
+    I think in an area that's really thick with mosquitoes,: null
+    I think it's around two hours from here.: null
+    I think it's called a job,: null
+    I think it's close to the dam up there: null
+    I think the desert has a rare kind of beauty which, a lot of people don't realize,: null
+    I think the longest we've stayed out there is like five days.: null
+    I think the upper peninsula of Michigan, especially,: null
+    I think there's quite a few.: null
+    I think this must be into my third week too.: null
+    I think we've collected stuff off and on over the years.: null
+    ? I think with him almost potty trained and, she's not afraid of her shadow anymore,
+      that I'm, I'm hoping and crossing my fingers that we'll be able to go, this
+      summer, even if it's like over to Rio Dosa for a couple of days,
+    : null
+    I thought that was fun.: null
+    I took a drive up through there, as a matter of fact, last September, just took the drive through to see what was there.: null
+    I took, three weeks.: null
+    I type up the tapes of what people talked about.: null
+    I understand that, too, because some of the places we,: null
+    I used a tire chain and the bottom of a Dutch oven.: null
+    I used to be in Ohio,: null
+    I used to do it: null
+    I used to go camping all the time as a, a Girl Scout.: null
+    I used to go with my brother.: null
+    I used to live abroad,: null
+    I used to, live in the Ozarks and,: null
+    I want to go home and, do all that,: null
+    I wanted to get one right on the water.: null
+    I was able to camp right in ruins, which was always very exciting: null
+    I was actually on the road a little more than three weeks.: null
+    I was in high school,: null
+    I was just thinking of getting one those for the yard because they are really nice: null
+    I was just too lazy that trip to do all that walking,: null
+    I was thinking about camping and different i, people's ideas about it.: null
+    I was too .: null
+    I was, I have a tent: null
+    I was, I was never exposed to it: null
+    I was, from California,: null
+    I went out and bought a whole bunch of camping gear: null
+    I went to California up to the Sequoias.: null
+    I wish was an avid camper: null
+    I would absolutely love a sail boat.: null
+    I would love to camp,: null
+    I would love to see what it looks like .: null
+    I would play on the beach area too.: null
+    I would take corn bread and, cook a pan inside of a pan over a, over a camp, stove.: null
+    I would too.: null
+    I wouldn't do it now: null
+    I wouldn't have thought about that.: null
+    I wouldn't want to go for a week,: null
+    I wouldn't want to spend more than two nights.: null
+    I'd always come home just relaxed and, comfortable and ready to go at it again,: null
+    I'd go up somewhere and camp overnight and then do some rafting.: null
+    I'd like to go anywhere.: null
+    I'd, I'd like to go camping crosscountry,: null
+    I'll talk about anything to anybody .: null
+    I'm a New Yorker myself.: null
+    I'm a scoutmaster in Boy Scouts.: null
+    I'm a sissy.: null
+    I'm afraid to get him out.: null
+    I'm down here at T I.: null
+    I'm going to start with day trips, though, because I don't know the territory and all,: null
+    I'm going to try .: null
+    I'm impressed .: null
+    I'm in Austin,: null
+    I'm in Dallas.: null
+    I'm in Garland.: null
+    I'm in Pennsylvania.: null
+    I'm in construction: null
+    I'm in my paperwork here,: null
+    I'm just going,: null
+    I'm just not that involved in it.: null
+    I'm losing you.: null
+    I'm not a real avid camper,: null
+    I'm still trying to find my way around.: null
+    I'm sure you could put one in probably,: null
+    I'm thinking, how could you stand it,: null
+    I'm, I was going to go to, Lit, Little River State Park,: null
+    I'm, I'm a struggling single mom.: null
+    I've been a recipient on the others.: null
+    I've been camping for years, not on a regular basis: null
+    I've been just a recipient .: null
+    I've been there before: null
+    I've been to a couple in Texas: null
+    I've been, I have been camping on the south rim the Grand Canyon.: null
+    ? I've camped, basically almost anywhere, even to the point where we've had to
+      backpack in and everything you carried in was what you had to use to sustain
+      you for that, that camping trip and had to pack it back out.
+    : null
+    I've done it in a shelter.: null
+    I've done, I would say quite a bit of camping, mostly with my husband and I.: null
+    I've enjoyed this.: null
+    I've found out that actually we, we really enjoy getting away from the television, the telephone: null
+    I've got a piece of property in Minnesota that is completely undeveloped as of yet.: null
+    I've got to clean her up .: null
+    I've had people tell me that I have a Texas accent,: null
+    I've haven't gone camping in years.: null
+    I've just been up there skiing,: null
+    I've lived here all my life.: null
+    I've never actually done any, tent camping,: null
+    I've never done a canoe trip.: null
+    I've only been camping twice.: null
+    I've only lived here about six years.: null
+    I've them walk with me along the lakefront: null
+    I've, I've camped, in the snow on a glacier.: null
+    I've, I've enjoyed it.: null
+    I've, I've gotten in the mood to go now .: null
+    I've, I've lived back east before, they,: null
+    I, I agree with him.: null
+    I, I am the, the passive member,: null
+    I, I camped a lot in, the Middle East: null
+    I, I couldn't imagine ge, living just sixty miles north of them: null
+    I, I didn't camp for a long time,: null
+    I, I do have, a little bit of property,: null
+    I, I do, real rough type camping.: null
+    I, I don't like really camping in the rough.: null
+    I, I feel like I'm a little bit too, much of a city, city mouse to try doing it .: null
+    I, I grew up in South Dakota, up in the Black Hills: null
+    I, I grew up water skiing.: null
+    I, I have always wanted to do some white water rafting: null
+    I, I have gone on one little vacation, just the girls and I.: null
+    I, I haven't made any.: null
+    I, I know that, breakfast, we would, we'd have these big breakfasts cooked over this little Coleman: null
+    I, I left T I in January hoping to strike out and find a job where I could make some money.: null
+    I, I moved to Dallas about five years ago: null
+    I, I must say that, we ha, we really have a lot of fun, a lot of memories in that from camping: null
+    I, I stayed in a nice place.: null
+    I, I was with T I until January.: null
+    I, I've been camping a couple times: null
+    I, camped in the Boy Scouts: null
+    I, we have color T V, microwave: null
+    I, we used to have one of those little caves you can go back in: null
+    If it rained we were stuck back in there.: null
+    If you're going to be gone all day long, walking someplace or doing tourism or whatever: null
+    In fact, when we first got married, we would try to take these trips to Minnesota to see his family: null
+    Instead of getting out all that stuff,: null
+    Is that where you're, you're hot, like on a beach,: null
+    It doesn't get very cold in Texas,: null
+    It has a nice little lake: null
+    It has been there for a hundred years.: null
+    It is real pretty.: null
+    It is. It's, it's, it's high canyon: null
+    It just gets so hot in the summer you can hardly,: null
+    It really is.: null
+    It was a different experience camping in the hills versus camping just by a river: null
+    It was a lot of fun.: null
+    It was dig your own hole: null
+    It was just that bad, .: null
+    It was like, no, this is not working, ,: null
+    It was on the edge of the lake: null
+    It was one of those, those, dome type pop up tents.: null
+    It was quite nice in that respect.: null
+    It was wonderful.: null
+    It was, it was a marvelous experience because after that, then all I had to do was, follow the instructions, and do.: null
+    It was, several years ago,: null
+    It worked out particularly well, especially considering she was, six months pregnant.: null
+    It would be more a tarp,: null
+    It's a little trailer you pull behind your car: null
+    It's a lot easier then.: null
+    It's a lot of fun,: null
+    It's close to the lake and close to,: null
+    It's horrible.: null
+    It's just amazing,: null
+    It's just great.: null
+    It's kind of , it's kind of the, yuppie type of camping because they have showers,: null
+    It's like an oven.: null
+    It's not, in the same category.: null
+    It's not, it's not very deep.: null
+    It's really nice,: null
+    It's really very nice.: null
+    It's usually like that.: null
+    It's very pleasant.: null
+    It's, it's on the OklahomaArkansas border.: null
+    It's, there's a town called Glenrose.: null
+    It, it's, it's about two hours north of Minneapolis.: null
+    Just sat out there with our,: null
+    Just the sky is so amazing.: null
+    Just, just the drive up through, up the coast line: null
+    K O A is, is geared for the people that have a hookup.: null
+    K O A s are wonderful.: null
+    Lake Joe Pool.: null
+    Lake, Lake Tawakoni is a pretty nice place: null
+    Last time we went, we took our vacuum cleaner with us .: null
+    Mark was the kind of camper who ate beef stroganoff: null
+    Mine's eleven and eight.: null
+    Mom did the whole, pork and beans and, the slice the potatoes and fry them outside and: null
+    Mom said it was absolutely just a wonderful experience.: null
+    Mom was always prepared: null
+    Most everybody I've been talking to is from Texas,: null
+    My children really enjoys it.: null
+    My husband and this, other couple that we go with, her husband, kind of likes, is it scuba dive?: null
+    My mother and my father split up when we were young,: null
+    My motherinlaw: null
+    My parents, were sailing, this last year down off, Costa Rica: null
+    Nights were cool enough to where they're comfortable.: null
+    Not around here .: null
+    Now we have friends with a van,: null
+    Of course, they drag a lot of drugs with them: null
+    Of course, we didn't really rough it that much.: null
+    On top of the recreational vehicles.: null
+    One of the ones that you pull along: null
+    One of them, , it's real nice there, a bunch of lakes around it,: null
+    One thing is they don't have mosquitoes: null
+    One year they were, they were just everywhere.: null
+    Otherwise it's just too faint .: null
+    Our children are, are grown,: null
+    Our, our little group of friends here, we've been kind of getting married off and what not: null
+    Right outside of Dallas.: null
+    Roast marshmallows.: null
+    Running water: null
+    Same thing, we get our extension cords running from all these tents: null
+    Saw a few bears: null
+    She likes to go out and stay in the woods.: null
+    She loves that.: null
+    She said it was truly incredible.: null
+    She said yep: null
+    She says that where we need to go sometime.: null
+    She sleeps, she sleeps in the tent with us.: null
+    She takes her, motor home.: null
+    She'd think about bringing a rake so you can rake your area out.: null
+    So a lot of different things.: null
+    Sometimes we get a lot of people together to do it.: null
+    State parks, you get a little bit fearful too, things like that simply because it, they are supposed to be patrolled: null
+    Take a twentytwo: null
+    That can be a mess.: null
+    ? That really gave us a lot more space, floor space so, } you did not have to
+      be constantly getting things off the floor in order to walk around
+    : null
+    That sounds interesting.: null
+    That would make me nervous .: null
+    That's beautiful.: null
+    That's four each.: null
+    That's how I define camping .: null
+    That's not the kind we do.: null
+    That's okay.: null
+    That's one thing my husband wanted to do, was, on this summer's vacation was to go and camp wherever we went.: null
+    That's probably where I first started, was in Girl Scouts.: null
+    That's sort of the same thing that, that I do.: null
+    That's the only time you really use your campground.: null
+    That's what I would do.: null
+    That's what my girlfriend says.: null
+    That's what we have, too.: null
+    That's when we camped the most.: null
+    The days, get up into the high eighties, maybe the nineties: null
+    The last time I went camping was about, in the middle of October,: null
+    The more times we did it, the more serious we get about it.: null
+    The only thing we'd had to do, we had to go out looking for some kind of a grill,: null
+    The way it works.: null
+    The, the last one we did, was, was a canoe trip in Arkansas: null
+    The, the movie, THE DOORS, has so, some nice desert scenes,: null
+    Then when we started having children we bought a camper.: null
+    Then you have to get up the next day and move it on.: null
+    There is, course, the the Grand Canyon: null
+    There's lots of places if you're going to go camping.: null
+    There's someone at the door.: null
+    There's the Apostle Islands,: null
+    There's, a thing called Pfeiffer Rim.: null
+    There's, there's a little lake up there: null
+    These people were with us.: null
+    They are very nice.: null
+    They could, they would all the time they wanted,: null
+    They didn't have phone lines.: null
+    They ended up helping several other people though that were, that were stuck.: null
+    They have some wonderful camping areas there.: null
+    They have swimming pools, things like that.: null
+    They have, screened in areas,: null
+    They just don't have them: null
+    They like to get out there: null
+    They really do.: null
+    They said they've got the white beaches and the sand,: null
+    They suggested that we, discuss what we think of when we say camping.: null
+    They were so impressed.: null
+    They will if you attack them.: null
+    They're about three hours away if you go due north.: null
+    They're on the increase in this area.: null
+    They're plastic: null
+    ? They've, they've had longer hunting seasons than that even to get rid of more
+      of them, because they were, increasing so much.
+    : null
+    They, they must, work on that,: null
+    This cave that we used to go in was little,: null
+    This summer we went to, the Smokey Mountain National Park.: null
+    Tyler is really, really a neat place to camp.: null
+    Tyler, we sort of got spoiled with, I think.: null
+    Usually try to have a, occasionally a camp fire at night, and: null
+    Very comfortable,: null
+    W, we were looking at those in a magazine.: null
+    Want one bad.: null
+    We always check and see if we should answer the door,: null
+    We are talking about starting camping again in the fall.: null
+    We camped at the beach one time: null
+    We couldn't find a place to camp: null
+    We decided that was easier than cots and more comfortable.: null
+    We did a lot of different things.: null
+    We did it for years and years,: null
+    We didn't have a phone.: null
+    We didn't have to go with sleeping bags.: null
+    We do an awful lot of camping.: null
+    We don't go for the long, week long thing.: null
+    We drove down to Port Aransas,: null
+    We enjoyed it.: null
+    We found this one area that doesn't have mosquitoes.: null
+    We got one of those kind that have got the,: null
+    We had a good time.: null
+    We had taken our electric,: null
+    We had the steaks on the grill.: null
+    We have a little bit: null
+    We have a tent.: null
+    We have some of them around here.: null
+    We just didn't take enough blankets and: null
+    We just lived up there.: null
+    We just moved to a new hou, into a house,: null
+    We just sort of lit them.: null
+    We just use trail tarps.: null
+    We just used to have balls.: null
+    We kind of slowed down a little bit.: null
+    We kind of took, a tour of the United States for about a week,: null
+    We normally,: null
+    ? We recently moved from the Rocky Mountain area up in, northern Utah down to
+      here because of work, and, haven't been able to enjoy fishing like I used to
+      up there, which is, clear water fishing and streams and, and rivers.
+    : null
+    We started out,: null
+    We take extension cords: null
+    We take, we take our dog camping.: null
+    We took, just our little tents,: null
+    We used to live in Utah: null
+    We went to the: null
+    We went, we took the southern route and went, went through, the Grand Canyon, again: null
+    We were in the, we were in the woods,: null
+    We would get up in the morning, go skiing,: null
+    We'd always,: null
+    We'd stop when we wanted to, that kind of stuff.: null
+    We're close enough so they can do that,: null
+    We're hoping one of these days soon after we're out of school to head that way.: null
+    We're on our third one I think.: null
+    We've been lucky.: null
+    We've been wanting to start camping again this year too.: null
+    We've even seen people with these campers: null
+    We've got an electric pump that hooks into the cigarette lighter.: null
+    We've got cook stoves: null
+    We've got some land at Holly Lake: null
+    We've gotten out a time or two on a rented basis: null
+    We've never really been rained on the few times we've gone.: null
+    We've, we've done tent camping,: null
+    We, we try to, go with another couple that have children also.: null
+    We, we, we seen this old refrigerator that somebody had dumped: null
+    We, when the children were smaller we used to go to, Delaware along the o, ocean most every year.: null
+    We, years ago we lived in Oklahoma: null
+    When I think of camping I think of, of bugs , and sleeping bags and, and tents, along the Appalachian Trail.: null
+    When you have a small child because they don't want to get up at three in the morning: null
+    Where they're doing this program. The Voice Recognition Program.: null
+    You couldn't,: null
+    You have got four hours of day light, good skiing left.: null
+    You just couldn't get phones.: null
+    You just couldn,: null
+    You just get used to it.: null
+    You've got the showers available.: null
+    a group of friends that I, I went to college with, got together: null
+    a lot of our friends in east, will go to east Texas in the summer and camp: null
+    a lot of our friends will,: null
+    a lot of people I know are,: null
+    a lot of people do say I sound like,: null
+    a, a storm came in: null
+    about nineteen eightytwo I moved from Rapid City in the Black Hills,: null
+    about the fourth day, I thought, if I don't get a hot tub and: null
+    actually the, the Blue Ridge in Virginia are closer to Raleigh.: null
+    ? actually they've, I remember, they have taken the, the du, the heavy cast iron
+      dutch ovens and done their cooking there over the fire,
+    : null
+    after he took that merit badge, he did all the shopping and preparing, getting ready for it.: null
+    almost destroyed the ch, the in one town, because of the mosquitoes,: null
+    also while I was growing up, we did have a trailer,: null
+    also, we had done some camping in Colorado, in the mountains,: null
+    although I've stayed in K O A campgrounds, we've never done that just to go around and camp.: null
+    always at the beginning I did all the shopping and everything.: null
+    anyway that's their life .: null
+    appreciate it.: null
+    as I said, it just rained every time.: null
+    as a little girl I'd go with my dad and my uncle and my brother,: null
+    as adults, it's like if I don't take a shower every day, I feel like,: null
+    ? as far as camping, my wife and I have plans to, not really camp per se, but
+      to drive up the, Highway One there in California
+    : null
+    ? as far as the camping part of that, we just drag along all our tents and sleeping
+      bags and, find, find a clearing in the woods and go for it.
+    : null
+    at night it was so cold, you thought you'd never feel your,: null
+    by Friday night I just want to crash,: null
+    by the time we really get a chance to it's July,: null
+    by then, of course, I was able to catch, catch some things,: null
+    camping in Death Valley,: null
+    cooled off,: null
+    copperheads mostly,: null
+    couldn't believe,: null
+    couple of friends, couple of my high school friends and I, we'd go camping out by a river, of course, and, and go fishing,: null
+    course it, it has all of those qualities: null
+    course, the, the Sequoias and the Redwoods and , and you get up into Bryce Canyon and Yellowstone: null
+    curling iron.: null
+    daddy would always try to prove he could catch fish for breakfast: null
+    during the summer we camp, two or three weeks a year .: null
+    during the summer we would camp out at the lake.: null
+    especially in the tent: null
+    especially there was a little store close by,: null
+    even I would kind of like to go.: null
+    even at that, it, it was like the first time that I ventured,: null
+    even when you're eating,: null
+    even, even when in Oklahoma when we camped I really didn't notice a problem with bugs.: null
+    ever once, on my summer vacation, my weeklong vacation, I,: null
+    every Friday night they'll go home, straight from work: null
+    everybody was getting stuck in the mud.: null
+    everybody's got their sleeping bags,: null
+    everything was very convenient: null
+    everywhere you went there was sand.: null
+    find a creek.: null
+    from what I understand from them it's really, really pretty there.: null
+    gave us a place to stack things during the day: null
+    getting out and enjoying nature and each other as company when we're out camping.: null
+    getting out into nature and relaxing,: null
+    he did have a problem, when he went camping last year in Beavers Bend, Ok, Oklahoma,: null
+    he didn't realize he was touching poison ivy: null
+    he got poison ivy,: null
+    he graduated and went off to college: null
+    he is a couple years older than me: null
+    he just decided to take the kids out there.: null
+    he just, he just tows it behind his truck.: null
+    he manages the troops: null
+    he said that you can, a lot of times you can go for, a good day before you'll see or meet anybody else on the trail.: null
+    he'd always tell us, okay, look for, a nice flat little area where we can pitch our tents,: null
+    he, he's got three kids,: null
+    his kids will sleep in the truck, in the, in the back of the bed.: null
+    hopefully get up there early enough to, to get into some of the, some of the fish and, the, the good weather and what not.: null
+    hopefully we'd catch our supper,: null
+    if he would buy her a motor home .: null
+    if the setting was right and that, it's, it's great,: null
+    if they say I, I, we just type it in like that.: null
+    if we want to go camping we can just go just a few miles, .: null
+    if we're just going through and they camp one night and then head on.: null
+    if you get a chance,: null
+    in Padre Island and in a: null
+    in Texas that is where we camp basically.: null
+    in fact it has been a number of years since we have camped,: null
+    in fact, it even had, had a little refrigerator, and the whole business.: null
+    in fact, last month we went camping,: null
+    in fact, the, the more urban we get with the television and the cabin and the whole bit, it loses it's flavor.: null
+    in the Summer .: null
+    in the afternoon, it is still four o'clock.: null
+    ? in the hills we, we would do like you di, you folks did, you folks did, would
+      take the nature hikes and, and look for animals,
+    : null
+    in the hills, you can see quite a few different animals,: null
+    in, in the early fall time,: null
+    interesting enough, the food part was kind of, important thing in our camping.: null
+    is that hot camping.: null
+    it also has a certain quality of beauty that you just don't find anyway else except in a desert.: null
+    it always had to be somewhere near a, a river so we could go fishing,: null
+    it blows air out instead of sucking it in: null
+    it came, just a torrential downpour.: null
+    it ended up, when it came time for us to pull in for the night, we'd take a vote.: null
+    it got all into his eye: null
+    it got really cold at night,: null
+    it had two double beds in it.: null
+    it has since come down.: null
+    it has some really wonderful, sights that are in the wooded areas.: null
+    it held our pan and, the potatoes and stuff.: null
+    it is a fortyfive minute drive to the mountains: null
+    it is cheaper to pitch a tent and cook your meals out by the fire than it is to rent an apartment: null
+    it is not bad.: null
+    it is not horrible,: null
+    it just depends on where you go,: null
+    it really is.: null
+    it really was, it was great.: null
+    it seemed like it rained every weekend for about a y, the year we were really into camping.: null
+    it started raining really heavy: null
+    it surrounds a manmade reservoir: null
+    it was a big embankment,: null
+    it was a little too late for the fish: null
+    it was a nine by twelve.: null
+    it was about four years ago, my little boy was three months old: null
+    it was all right,: null
+    it was all year,: null
+    it was always fun,: null
+    it was at a camp.: null
+    it was beautiful, beautiful few days.: null
+    it was either that or their truck was going to go floating downstream.: null
+    it was enough for all five of us, six of us.: null
+    it was fantastic.: null
+    it was great.: null
+    it was just really nice, that time of year.: null
+    it was just, it was just a really nice place to camp.: null
+    it was like, kind of like a little, little, gully: null
+    it was married cousins,: null
+    it was more: null
+    it was never quite the same thing.: null
+    it was overlooking the water: null
+    it was pretty nice.: null
+    it was raining,: null
+    it was real hilly.: null
+    it was really nice.: null
+    it was really swollen: null
+    it was really, it was neat sitting there watching it,: null
+    it was small: null
+    it was so, pick your own, blueberries and make blueberry pancakes for breakfast .: null
+    it was still, it was still, too, cold.: null
+    it was the most bonding, most wonderful time.: null
+    it was there before they built the dam.: null
+    it was wonderful.: null
+    it was, it was always fun.: null
+    it was, it was more fun.: null
+    it was, it was pre, it was pretty challenging.: null
+    it wasn't a creek bed,: null
+    it wasn't even a, a full tent.: null
+    it wasn't very much like camping because we had a refrigerator and a stove .: null
+    it won't take but just a, just a quick look at a map to find where those mountains are,: null
+    it worked pretty well.: null
+    it works real good.: null
+    it would have slept three adults anyway.: null
+    it would just absolutely taste wonderful.: null
+    it's a dome tent.: null
+    it's a new park.: null
+    it's a real, it's a real nice place to go and camp,: null
+    it's a very short drive to areas near here.: null
+    it's all over him.: null
+    it's also, pretty challenging,: null
+    it's beautiful in February.: null
+    it's completely undeveloped at this point,: null
+    it's divided up into ten lots.: null
+    it's easy to keep him occupied though on land.: null
+    it's gorgeous,: null
+    it's got one of those wildlife parks.: null
+    it's interesting,: null
+    it's is something that I've done in the past.: null
+    it's just a piece of material that has, that has a lot of places where you can tie off to it: null
+    it's just about twelve miles south of, the New York border.: null
+    it's just almost surreal, in some places.: null
+    it's just beautiful.: null
+    it's just brilliant.: null
+    it's just pretty much the two of us who do things.: null
+    it's just wonderful not to be bugged all night long with a humming mosquito at your ear,: null
+    it's like virtually anything.: null
+    it's like, this, this is, this is what, a pheasant looks like,: null
+    it's nice to, to get away.: null
+    it's not real populated so they can, they feel like they're in the outdoors and still close to the ocean.: null
+    it's not something I'd want to do real often.: null
+    it's not that bad: null
+    it's not very many miles from our house at all.: null
+    it's not, it's not too bad.: null
+    it's one of those popups.: null
+    it's pretty funny,: null
+    it's pretty nice.: null
+    it's really nice.: null
+    it's really, really nice.: null
+    it's right on a big lake,: null
+    it's so hot.: null
+    it's some pretty country up there.: null
+    it's sort of like that,: null
+    it's still pretty chilly.: null
+    it's the water he's not scared of.: null
+    it's very peaceful.: null
+    it's, it gets kind of chilly it can get chilly.: null
+    it's, it has dinosaur tracks,: null
+    it's, it's a little bit different.: null
+    it's, it's been real interesting, the different personalities .: null
+    it's, it's camping.: null
+    it's, it's fun: null
+    it's, it's handy to, to station yourself there on the land: null
+    it's, it's hard .: null
+    it's, it's just kind of nice.: null
+    it's, it's pretty isolated,: null
+    it's, it's quite bearable: null
+    ? it's, it's, in terms of north, south I would say it's, a little, a little more
+      towards the northern border of the state and pretty much in the eastern half
+      of it.
+    : null
+    it, , everything was sopping wet inside the tent.: null
+    it, even though, it wasn't hunting season,: null
+    it, it always rained on us.: null
+    it, it was always an enjoyable experience.: null
+    it, it was always fun.: null
+    it, it was in your bed .: null
+    it, it was pretty early in the year.: null
+    it, it's just a lot of trees,: null
+    its, its, its, mosquitoes are terrible: null
+    just some of them are known: null
+    just the very second,: null
+    last time our one twelve year old went to the scout camp for a week,: null
+    last year in, we camped in a tent,: null
+    last year it was the end of July: null
+    last year they camped in tents,: null
+    let's see. I just, I just like to go: null
+    like I mentioned, the, we, we've been camping a couple of times this year: null
+    like I say, they're kind of, just kind of more than anything,: null
+    lots of times we don't even take tents.: null
+    lots, a lot of people I've talked to have said, isn't camping boring?: null
+    ? mainly what we did was we did a lot of hiking and exploring and, and just going
+      out and seeing what there was to see, in the area.
+    : null
+    maybe camp another night and drive home.: null
+    maybe my, dropping my phone.: null
+    maybe next time he'll stay away from those particular ,: null
+    ? maybe, like you said, start out slow and, and kind of get used to it, and find
+      out that it, maybe it's not as bad as I, I fear it might be .
+    : null
+    me, I outgrew, sleeping bags and, tents,: null
+    most of my camping,: null
+    most of the time we decided we wanted to stay in a hotel.: null
+    most of them have pretty good facilities.: null
+    most time they run away from you: null
+    my baby's getting sick.: null
+    my bones are getting so old,: null
+    my brother has a real nice popup.: null
+    my buddy and I, we just camped .: null
+    my cou, husband and, and his uncle especially, grew up camping together,: null
+    my dad and I went out sometimes: null
+    my dad loved fishing and camping.: null
+    my dad would take us,: null
+    my ex decided, we're going to try camping: null
+    my folks had a cabin at one time at Lake Tenkiller: null
+    my husband and I, his, he says his idea now of roughing it is the Regency Hyatt.: null
+    my husband has even camped at Lake Lavon: null
+    my husband's parents were really avid campers as well.: null
+    my inlaws also had a camper, or, a pop up tent, one of those trailer tops: null
+    my mom goes camping: null
+    my mother wasn't into that,: null
+    my oldest child is a girl, was born three years ago, three and a half.: null
+    my parents were real avid campers: null
+    my sisterinlaw, she's always done a lot of camping.: null
+    my son is not eager to go: null
+    my wife said, we're moving.: null
+    my wife's from the western part of Virginia,: null
+    my wife's real excited about it,: null
+    my, my husband is a good camper: null
+    normally I go with a whole group of friends: null
+    not around here.: null
+    not that much.: null
+    not, camping or anything.: null
+    noth, nothing overly strenuous.: null
+    now I haven't so that,: null
+    now I like to go out several times a year.: null
+    now all my life is more like camping than not camping really.: null
+    now that we have children and we go every blue moon,: null
+    now we'll go look for one.: null
+    now we're not quite so much since the kids are involved so much in sports.: null
+    of course we were close enough that we could go back and get some more blankets and things: null
+    of course, there's lots of mountains around there to camp in, and, and streams and stuff.: null
+    of course, we see smaller animals all the time,: null
+    once they're there: null
+    one doesn't go in July .: null
+    one night we were camping: null
+    one of them I don't really consider camping.: null
+    one thing that is a big concern in the evening, at night, is, make sure that all the food's put away and so forth: null
+    one thing, I've done all sorts of camping.: null
+    one time we went to Yellowstone: null
+    one, one thing you said about the stars is really true: null
+    or, take a deck of cards if we can actually see and, play cards and stuff.: null
+    our camper do, doesn't have an air conditioner.: null
+    our children are both grown: null
+    our children liked, liked it quite well.: null
+    our truck was back.: null
+    part of them are.: null
+    ? personally, I, when I, when we were growing up and when we were going camping,
+      I thought that was a little too structured of a camp ground.
+    : null
+    probably the, the last one that I went to California: null
+    really just commune with nature.: null
+    right now, what we did, my wife and I, is we got a mobile home.: null
+    roughing it for me is going to the Holiday Inn and getting a shower.: null
+    see, I see, they just want to get away.: null
+    she brought everything from, like I said, toilet paper to the rake.: null
+    she has a lot of fun.: null
+    she loves that place.: null
+    she made a deal with my dad that she would take all the dogs with her when she went dog showing.: null
+    she said out to the trailer.: null
+    she shows dogs: null
+    she was, she is always prepared,: null
+    she went out one day on the spur of the moment and bought a tent.: null
+    she'd bring along, something, because tradition had it we would never catch anything,: null
+    she's good.: null
+    she's got one of these huge Winnebago's with a refrigerator and airconditioning, color T V, microwave oven: null
+    she, she goes to dog shows.: null
+    she, takes the motor home .: null
+    since I've been married and with a family, we have to go where there's restrooms .: null
+    since I've had children it has changed a little bit,: null
+    since the beginning.: null
+    since we've been married, we just go, we go real often to Colorado to the mountains,: null
+    so far my wife and I have pretty much had to stick with tent camping.: null
+    so far, New Orleans is far west as I've gotten.: null
+    some friends of mine and I are planning to camp this summer, for four days.: null
+    some of the time we would not allow them to take friends along so that it was just the four of us.: null
+    some of them are pretty rough.: null
+    some of them are really nice: null
+    some of them aren't,: null
+    ? some, I think some people that had fairly sturdy, vehicles or whatever if they
+      had like a Winnebago or something and they were farther in away from the water,
+      I think they stayed.
+    : null
+    something that's smaller would be a lot more convenient.: null
+    sometime, I like to go to Eisenhower up on Lake Texoma.: null
+    sorry to say,: null
+    ? sort of early on especially as our children got a little bit bigger, we invested
+      in some stacking, cots, that were like bunk, bunk beds,
+    : null
+    th, I'm a little bit fearful of trying that just women.: null
+    that I wouldn't know: null
+    that got kind of rough sometimes .: null
+    that just out in the woods,: null
+    that kind of puts a little bit of a hamper on your,: null
+    that makes it a lot more enjoyable.: null
+    that might be some place where my husband and I can go.: null
+    that substituted for a shower: null
+    that was a new experience for me: null
+    that was back before: null
+    that was fun: null
+    that was great.: null
+    ? that was mainly for people in motor homes or, or had trailers or, and so on
+      and so forth, where, we really wanted to go camping in a tent
+    : null
+    that was nice.: null
+    that was real nice.: null
+    that was sort of miserable.: null
+    that was, it's a really nice area,: null
+    that was, that was pretty good: null
+    that way I can sleep in the van and be more comfortable .: null
+    that would be, that would be pretty nice.: null
+    that's a possibility.: null
+    that's been real enjoyable for them.: null
+    that's good.: null
+    that's how I camp too.: null
+    that's how we got started.: null
+    that's kind of changed now.: null
+    that's my first trip back in, goodness, thirty years maybe .: null
+    that's right.: null
+    that's the whole thing that everyone told me,: null
+    that's true.: null
+    that's what I do when I wait for a phone call,: null
+    that's what ours is.: null
+    that's what we camp in.: null
+    that's where we, that's where I am,: null
+    that's who I stayed with.: null
+    that's, that was, that's always been our next step.: null
+    that, that particular one was a two day trip: null
+    that, that, that can be a problem if you don't put all your equipment away.: null
+    the , when I was a, a teenager and growing up, that was sleeping bags: null
+    the Blue Ridge in North Carolina I think are much nicer: null
+    the Grand Tetons are gorgeous, too.: null
+    the Painted Desert is, is real pretty, in a different sort of way.: null
+    the boys are, our boys are old enough now,: null
+    the boys still liked to throw their sleeping bags out by the lake and: null
+    the camping I grew up with was like tents and Coleman stove type.: null
+    the campsite that we went to was an area that,: null
+    the days were nice and warm: null
+    the facilities are quite nice: null
+    the first time I left him we went overnight camping.: null
+    the first time I was there, the, the tree was still standing,: null
+    the girls can play on the beach area .: null
+    the kids and I like to go out and camp in the tent.: null
+    the kids like to go out, as often as they can.: null
+    the last time was in October: null
+    the last time we went was in, I guess it was, it was hunting season,: null
+    the little tent comes up the top: null
+    the majority of my camping experience is, a tent by the lake type situation or, maybe a canoe trip or something like that.: null
+    the minute the sun went down, the minute the sun sets the mosquitoes come out.: null
+    the next night they'll stay at the motel, or something like that.: null
+    the nights are reasonably warm, sixties or seventies.: null
+    the one time that I did go camping when I was about, I guess sixteen or seventeen with my family,: null
+    the one time that we went, we got one,: null
+    the only site left when we got there was in the middle of a field,: null
+    ? the part that I did was more fun than, than labor because they did the, the
+      running and toting chores and I just helped cook and kind of organize,
+    : null
+    the population's been really up.: null
+    the river was, it was up about three feet: null
+    the second day head on down to the, to the pool at the end of the river.: null
+    the stars were just five feet above you.: null
+    the water rushed down: null
+    the weather is typically always nice up there in the summertime.: null
+    the, camper had, beds in it,: null
+    the, i, it gets cooler when the sun sets: null
+    the, the neat breakthrough was when my oldest son Mark took his, cooking merit badge in,: null
+    the, the shots are, are pretty nice: null
+    the, the, the no telephone, the,: null
+    theirs was so bad,: null
+    then I moved to North Carolina: null
+    then later my mom and dad got a camper: null
+    then we'd roast, roast marshmallows,: null
+    then when you look underneath them, it's just got these little wheels and this little axle,: null
+    then you're talking about six to eight hours.: null
+    there are some really nice camping areas, up in the Wichitas, which is in Oklahoma: null
+    there is one that's out in this big lake: null
+    there is, not really camping,: null
+    there was a playground for them: null
+    there was certainly nothing like a, a bathroom, a shower or anything,: null
+    there was just copperheads everywhere.: null
+    there was nobody else,: null
+    there was, state park.: null
+    there was, there was four of us kids,: null
+    there wasn't any electricity on the camp site: null
+    there were two other couples with us: null
+    there's a couple of national parks, I guess, that you can camp at.: null
+    there's a golf course and, just a whole bunch of camping sites.: null
+    there's a lot of boating out there,: null
+    there's a ridge that goes down from Tennessee: null
+    there's also, what we found, in the state of, South Dakota, the Black Hills.: null
+    there's no bugs,: null
+    there's no bugs.: null
+    there's no hills,: null
+    there's plenty of room to hold things.: null
+    there's really no time of the year that you can't go.: null
+    there's some pretty decent campgrounds , I don't think Raleigh, I don't think the state of North Carolina takes,: null
+    there's some real nice ones in Arkansas.: null
+    there's this little mountain lakes: null
+    there's this, there's this other one more up in the mountains: null
+    there's woods and things out in East Texas: null
+    there's, a lot of trees, lot of mountains, and lot of, hiking sort of things: null
+    there's, places in Wisconsin.: null
+    there's, there's a outfitter: null
+    there, there are quite a few, parks, I guess, state parks,: null
+    they all come out.: null
+    they are huge.: null
+    they can't believe that they could survive it.: null
+    they did build a dam on it,: null
+    they do a lot of camping with the scouts: null
+    they do the work: null
+    they don't have a shower room or anything,: null
+    they don't have any problem walking right by you if you're asleep.: null
+    they don't,: null
+    they ended up getting out.: null
+    they enjoy it.: null
+    they even, they had a library at one time out there.: null
+    they got the big old antennas up so they can watch their T V when they're going.: null
+    they had put their tent over kind of,: null
+    they had swings,: null
+    they had the time of their lives,: null
+    they had to get out of there.: null
+    they had to give him shots and everything,: null
+    they haul you up to the headwaters, come down about halfway and then you get to, you spend the night: null
+    they have showers and full bathrooms,: null
+    they have things for kids to do.: null
+    they hear desert: null
+    they just, they just thoroughly enjoy it.: null
+    they like to play in them.: null
+    they love to go camping.: null
+    they pop up pretty fast.: null
+    they really do, they have a great time,: null
+    they really enjoy it too.: null
+    they really made it hard to hunt them.: null
+    they said they looked down and there went: null
+    they sleep in the popup.: null
+    they they decided that, that was enough camping for the weekend.: null
+    they think of scorpions and snakes and sand and being real dry, and lack of water,: null
+    they took about two weeks and went into,: null
+    they turn them over to somebody: null
+    they went white water rafting: null
+    they were all, everybody was trying to flee the campsite,: null
+    they were cots, fold up cots.: null
+    they were just right there.: null
+    they were plagued, they were plagued with them, with mosquitoes.: null
+    they were so close to the water that the water was coming up,: null
+    they'll leave,: null
+    they'll pack up: null
+    they're certainly not up to a standard of a K O A where it's, a little bit cleaner.: null
+    they're going to spend about a week and a half camping up there,: null
+    ? they're going to, I guess they're going to try to teach computers how to recognize
+      voices and search for specific words and stuff.
+    : null
+    they're grown now.: null
+    they're involved in the scouting: null
+    they're not really cabins, I wouldn't say,: null
+    they're not very heavy,: null
+    they're planning a trip, into Canada this, I guess in about a year,: null
+    they're really looking forward to that: null
+    they're so, bad.: null
+    they're suppose to work really well.: null
+    they're twelve and eleven,: null
+    they're very light weight: null
+    they're, they're becoming enthusiasts then of camping.: null
+    they're, they're getting old enough to where they can help out with a campfire and,: null
+    they're, they're in and scouts and stuff like that,: null
+    they're, they're leantos.: null
+    they're, they're, it's like a little house except the whole face is open,: null
+    they've always done a lot of camping.: null
+    they've got the elastic on the inside of the poles: null
+    they've got their electrical hookups.: null
+    they've got, real nice lake system, and, around their parks.: null
+    they, all the leaves turn yellow,: null
+    they, down here they, they stopped for awhile: null
+    they, the whole, the whole campsite was evacuated.: null
+    they, they had the tent: null
+    they, they just have outhouses,: null
+    they, they just love it,: null
+    they, they were.: null
+    they, they've been going to Gulf Shores, Alabama.: null
+    this is only about my second one I've ever made.: null
+    this is, this is a, a man's trip .: null
+    this ranger comes up with this light, shines it on us and said that we're just bear bait out there. {A We had our food: null
+    this thing about camping that bothers me is you've got to pack everything: null
+    this wasn't so fun this last time for Nathan to, to get out there: null
+    this year I believe they will be in tents also.: null
+    this year they'll both be going,: null
+    this, s, frog strangler that we used to call them,: null
+    those are really nice too.: null
+    those guys all go camping out in the desert.: null
+    to answer your questions earlier, I, we do enjoy fishing,: null
+    to me, I like that, I guess, too, although there are people,: null
+    to, the Brazos River: null
+    up here some of the state parks are really nice: null
+    up here we have, we have quite a few mosquitoes at nighttime.: null
+    up here you got to wait until, Aug, August, .: null
+    up until, maybe five or six years ago, I did a lot of it: null
+    usually if we're with a group of people really don't stay any one place very long.: null
+    w, we went twenty or thirty at a time.: null
+    we all enjoy camping.: null
+    we always had,: null
+    we are at the end of the mail route .: null
+    we are in the process of potty training.: null
+    we are on the, we are third from the end on the electric string.: null
+    we ate the wild plants: null
+    we basically own all the land around this little lake, there,: null
+    we broke that out of there and put it over our, hole.: null
+    we broke the, I guess it's the freezing component: null
+    we camped in the snow, and in, snow caves,: null
+    we camped mostly,: null
+    we can just throw a couple of sleeping bags in the back of it.: null
+    we canoe down the river and then,: null
+    we cooked in a pot.: null
+    we could, get back in touch with: null
+    we decided we'd just go across the road to the office and see if we could rent anything.: null
+    we did a lot of interesting kinds of things: null
+    we did a lot of naturalist work when we were out.: null
+    we did an awful lot of that as, as a Boy Scout group.: null
+    we did go camping in Arkans, not Arkansas, Oklahoma.: null
+    we did it that way.: null
+    we did it when we were kids: null
+    we did not camp there,: null
+    we did that,: null
+    we did, we did a lot of the fishing,: null
+    we didn't do much outdoors stuff, except swimming: null
+    we didn't even have tents there,: null
+    we didn't even use tents then,: null
+    we didn't go camping,: null
+    we didn't go camping.: null
+    we didn't have a tent or any camping supplies: null
+    we didn't need it .: null
+    we didn't notice it back then,: null
+    we didn't really contribute it to that.: null
+    we don't as much anymore,: null
+    we don't do so much now,: null
+    we don't have any, any children yet,: null
+    we don't have to go out and buy all the equipment and stuff,: null
+    we don't really have a problem with that, in these areas,: null
+    we don't, we don't camp quite as much as we used to,: null
+    we drove through it just one time when we were in that area: null
+    we ended up there for a couple days, on our honeymoon.: null
+    we felt real safe with their being able to do what they would like to do there in the area.: null
+    we figured, what the hell,: null
+    we found that the, what was one, one great handy things was this, hamburger helper.: null
+    we fried potatoes and bacon and everything for breakfast the next morning.: null
+    we gathered wild berries,: null
+    we go backpacking fifteen or twenty miles, then,: null
+    we go up there fairly often .: null
+    we got air mattresses.: null
+    we got just strictly by ourselves.: null
+    we got to see a lot of deer: null
+    we ha, we have a tent,: null
+    we had a ball.: null
+    we had a real rainy spring: null
+    we had a two bedroom mobile home there,: null
+    we had access to a motor home which is really super great, if you don't want to rough it too much.: null
+    we had an electrical storm too,: null
+    we had brought his friend along, was play in the tent.: null
+    we had lived in Michigan before we came here and, had done a lot of camping in Michigan,: null
+    we had one of those little pop up tents, which is really nice because it kind of gets you off the ground.: null
+    we had to make the fires and dig latrines and everything.: null
+    we had to pretty much hike out most of the time.: null
+    we had, collapsible boat which we, clipper, little clipper sail boat.: null
+    we hadn't did that.: null
+    we have a seven year old,: null
+    we have a van: null
+    we have been roughing it out here for about three years,: null
+    we have done that .: null
+    we have five children,: null
+    we have found state parks, not that they're lacking: null
+    we have found that camping with the little ones isn't as enjoyable as just when we go ourselves.: null
+    we have gone up into the mountains and, not necessarily roughed it,: null
+    we have just found it just real enjoyable to be alone up in the mountains.: null
+    we have leantos up here.: null
+    ? we have not camped a great deal here because, a good share of the time in the
+      Summer time, it's too hot really to be very comfortable camping.
+    : null
+    we have not camped in any of those places,: null
+    we have one of those, too.: null
+    we have taken T V s out there for the kids .: null
+    we have those creatures down here that they like to, they like to go hunting for a midnight snack.: null
+    we have to take our big huge, heavy sleeping bags, and lots of tents: null
+    we haven't made that trip yet.: null
+    we hike, we would hike all day.: null
+    we just didn't get out.: null
+    we just had, sleeping bags: null
+    we just have this, really good time there.: null
+    we just kind of did what we wanted: null
+    we just kind of go and hang out and just do fun stuff.: null
+    we just moved down in, in June.: null
+    we just sort of put out the sleeping roll .: null
+    we just thought it was absolute heaven.: null
+    we just, we did we drove down to Houston to visit friends,: null
+    we just, we had our bedding.: null
+    ? we kind of did a little bit of hiking, and a little bit of, sightseeing, different
+      areas. sitting back at different areas and spending hours,
+    : null
+    we kind of rough it.: null
+    we kind of split it up.: null
+    we loved it.: null
+    we never did: null
+    we never had really a time limit,: null
+    we never really spent that much time at the campground as much as we did,: null
+    we only did that once.: null
+    we only spent two nights there.: null
+    we really did.: null
+    we really enjoy it.: null
+    we really enjoy that.: null
+    we really enjoyed that.: null
+    we saw a lot of deer: null
+    we started taking her, she was pretty young when we started, camping with her.: null
+    we stayed mostly in state parks: null
+    we stopped at, Las Vegas for a couple of nights, and then, went into Malibu in California over on the coast.: null
+    we take along games that we can play with the, with the kids, and just that kind of stuff.: null
+    we take little nature hikes: null
+    we thought we might take some weekend trips and maybe that would be a good place to, to go to and see what it looks like.: null
+    we try to go once, maybe twice a summer.: null
+    we try to go to a lake.: null
+    we use them when we go backpacking.: null
+    we used that to go camping.: null
+    we used to be big time campers: null
+    we used to go camping,: null
+    we used to go to Tyler State Park and, Daingerfield: null
+    we used to,: null
+    we used to.: null
+    we usually go to, a lake area, where the campsites,: null
+    we usually had a bite apiece .: null
+    we went camping at, Lake Bonham, which is, is pretty close here.: null
+    we went down to a hunting ground and a lake: null
+    we went fairly early in the season for this area, which is probably April: null
+    we went last summer, actually.: null
+    we went swimming a lot.: null
+    we went to the Boundary Waters area in Minnesota.: null
+    we went to, Lake Ardmore,: null
+    we went up the, the Big Sur Highway all the way up to San Francisco.: null
+    we went up there,: null
+    we went up to Lake Bonham and really enjoyed it.: null
+    we went up to Lake Bonham,: null
+    we went up to the: null
+    we went, and we found this little peninsula out in the middle of nowhere by the lake.: null
+    we went, we went once to a: null
+    we were at a beach site, too.: null
+    we were doing the same thing.: null
+    we were having a really big problem up here in certain areas,: null
+    we were hoping, to do some camping in the van,: null
+    we were living in Florida at the time: null
+    we were on top of a picnic table with our, our sleeping bags I guess.: null
+    we were really affected , but really got it,: null
+    we were with Boy Scouts,: null
+    we weren't bothered that much by mosquitoes,: null
+    we would go to work and come back to the, boat house at night: null
+    we would go up to the Sacramento, river sloughs, the delta there,: null
+    we would go up.: null
+    we would sail and, and, did a lot of camping that way.: null
+    we'd all go camping, my dad and my mom and, and the kids,: null
+    ? we'd get up at three in the morning and start on our little, escapade for the
+      day and, kind of, do a lot of different things and then stop when we wanted
+      to.
+    : null
+    we'd go in different parts of the ruins, and, and things like that.: null
+    we'd go up to the Adirondacks and camp: null
+    we'd have a little contest finding the tiniest shell, and finding the biggest shell.: null
+    we'd hunt pine cones: null
+    we'd like to do a float trip down, like Big Bend area or something like that.: null
+    we'd sleep on those picnic tables at roadside parks.: null
+    we'd, basically, take the tent up in the Sierras and, usually just camp near some stream: null
+    we'd, he'd take us,: null
+    we'll go to a lake and, where they can go do that.: null
+    we're all, lots of people from T I up this way.: null
+    we're going to try to do that on a three day weekend, go there: null
+    we're hoping to do a three day weekend.: null
+    we're in a real small county area,: null
+    we're not roughing it too much.: null
+    we're really not.: null
+    we're set now.: null
+    we're still waiting to go again.: null
+    we're up here in western, northwestern part of Pennsylvania.: null
+    we're, we're getting more into it: null
+    we're, we're going to hope to get up there sometime early eno,: null
+    we're, we're in Plano,: null
+    we're, we're in Texas now: null
+    we're, we're starting to get everybody back together.: null
+    we've all got heaters in our tents.: null
+    we've always enjoyed camping.: null
+    we've always kind of stayed with a K O A and then, did other things besides just sit at the campground at night.: null
+    we've been down the parkway a lot,: null
+    we've been here about, eighteen years.: null
+    we've been here,: null
+    we've been, we've been to Wyoming, and Kentucky and Montana and, places like that.: null
+    we've done ours,: null
+    we've done things when, when it's kind of cold.: null
+    we've done, we've done quite a bit: null
+    we've driven through,: null
+    we've gone, even with our family a few times out camping and have a camp stove,: null
+    we've got a private lake,: null
+    we've got our bug light: null
+    we've got the fans going.: null
+    we've had a lot of fun,: null
+    we've just gotten one of those little tents ,: null
+    we've made three different trips since I've been here. of varying degrees, of difficulty.: null
+    we've taken,: null
+    we've talked about planning a trip up through,: null
+    we've tried to get out once a year and go on a anniversary camp out,: null
+    we've used a hair dryer before.: null
+    we've, we've done, many types of camping.: null
+    we, early in life, we discovered that six people all going on vacation gets to be very, very expensive.: null
+    we, we also, carry all our equipment with us: null
+    we, we bought a van last year,: null
+    we, we do a lot of canoeing when we go camping: null
+    we, we have a five year old,: null
+    we, we have, we have a dog: null
+    we, we really like camping.: null
+    we, we went up there to hopefully be able to get on the water a little bit: null
+    what I always remember is, my dad would let us pick our camp spot: null
+    what is it called, Cedar Hill.: null
+    ? what was so fun though is that I had to take my son to the doctor this morning
+      because he went out camping with some friends
+    : null
+    ? what we were doing, we were just going to say, we're just going to sleep in
+      the tent and hang out at night, so, no going in and out, and, or what he wants
+      to do,
+    : null
+    what, that was one of the things I really thought I'd like to do with my children,: null
+    when I got married, my husband had always backpacked.: null
+    ? when my husband and I were, camping, we'd take this domed tent that, is easily
+      collapsible and, go camping and, just kind of roughed it.
+    : null
+    when my oldest son,: null
+    when the kids were little we were in, we were in New Jersey, and w,: null
+    when they go on vacation a lot of times they'll just sleep in the van,: null
+    when we called home, everybody said, we were worried about you in that storm ...: null
+    when we can go to a cabin as long as we've got running water: null
+    when we did it with our children, we lived in, Tennessee: null
+    when we were younger, when I was a kid, we camped in Virginia: null
+    when we, before we had kids, we was in a motorcycle group,: null
+    when you're close to a big city like Dallas, the, the lights kind of wash,: null
+    when, I was, a child, we went regular old camping, tents and: null
+    when, when we go camping here,: null
+    with kids they don't care if they take a shower everyday.: null
+    with our children, we did, we had a pop up tent camper.: null
+    wow, I don't know what that was.: null
+    ye, in the winter time yes,: null
+    yeah, you can, if you can reverse the,: null
+    you can fill them up that way: null
+    you can go out, outside in the daytime, all right,: null
+    you can pick those up going west,: null
+    you can sneak a dog into a motel: null
+    you can't keep the dirt out of the tent.: null
+    you can't sneak ten dogs into a motel.: null
+    you carry them with you,: null
+    you did not have to, to be hauling things out of your, the trunk of you car,: null
+    you do actually camp.: null
+    you don't have to go very far.: null
+    you don't want them up that early.: null
+    you dumped everything in together: null
+    you get up when it gets light .: null
+    you go to bed when it gets dark,: null
+    you got to, you sort of have to choose your season carefully and know what's going to happen.: null
+    you hear people talk about the Little Dipper.: null
+    you just pick a campground on the river,: null
+    you just put them together.: null
+    you really can probably count thousands of stars,: null
+    you would get your book and just kind of cuddle up.: null
+    you're getting fad, you're fading out.: null
+    your canoeing kind of made me think of that.: null
+    your hair dryer: null
+    your, you said your family was gro, all grown up now,: null
+    '} it''s like what are you interested in,': null
+  Statement-opinion: !!set
+    A little bit in the world.: null
+    Apparently, an earth quake caused it.: null
+    Because it gets, it really does get expensive if you, if you don't want to rough it all the way.: null
+    I bet it's pretty over there.: null
+    I bet you that's an experience there.: null
+    I don't know how you can really keep, the inside of a tent clean.: null
+    I don't think I, I've got quite enough nerve to do that.: null
+    I guess probably just wherever you live at has a lot to do with where, what you're going to do when you go,: null
+    I guess that's God's place, too.: null
+    I guess that's it for camping, .: null
+    I guess we've talked as much as we need to on the subject.: null
+    I guess, I have, I guess more of a twang,: null
+    I just don't understand these people that think taking an R V,: null
+    I know you would.: null
+    I still think it's a great way to spend a time with your family,: null
+    I think Arkansas has one of the best parks departments around.: null
+    I think it's a little bit further north, when I think about it.: null
+    I think it's much nicer when you can really get out far enough away where,: null
+    I think so.: null
+    I think that'll be fun.: null
+    I think that's a little bit mor, more east, further east, and and maybe south, if I am remembering where that is.: null
+    I think that,: null
+    I think the worst, the worst thing is when it's raining.: null
+    I think the, there's certainly a lot of aspects you would like,: null
+    I think we fulfilled our obligation.: null
+    I thinks it's a marvelous activity for younger families because,: null
+    I would need that before I could teach them .: null
+    I'd say I camp quite a bit.: null
+    I'm just a chicken.: null
+    ? I'm just sitting here list, listening to your accent and thinking what a good
+      time the computer is going to have with that.
+    : null
+    I, I don't think I do,: null
+    I, I think our experience of camping is,: null
+    If you don't you'll find every rock on it when you: null
+    If you get a rainy season and you happen to be camping: null
+    It is beautiful.: null
+    It really is.: null
+    It takes a lot more planning.: null
+    It's just, it's a lot of work, too: null
+    It's not camping.: null
+    It's pretty fun.: null
+    It's wonderful for them to be outside.: null
+    Just get you away from the everyday things that are going on.: null
+    Like I said, we are probably as far as you can get from the Seven Eleven and still be in Texas.: null
+    ? Like, like you say it can be, a water ski trip, or fishing trip or just a sightseeing,
+      bird watching, hunt, hunt with a camera type of thing
+    : null
+    Nice and quick and easy to put up.: null
+    Once you start them, they enjoy it all their lives.: null
+    ? Other than, taking your shoes off right before you walk in or something and,
+      and sweeping it out everyday, it's really hard to, to keep the sand and dirt
+      out of it.
+    : null
+    Packs away nice and small: null
+    Place is forested with c, with those concrete trees.: null
+    That doesn't go along with camping,: null
+    That is a really pretty state park.: null
+    That makes a difference.: null
+    That sounds like it'd be fun.: null
+    That would be exciting.: null
+    That would be fun though to go.: null
+    That would be really great.: null
+    That's kind of, kind of rough when you got to fight snakes off when your sleeping.: null
+    That's neat,: null
+    That's really pretty out there.: null
+    That's, that's a great place to go camping,: null
+    That's, that's pretty average to me .: null
+    The Rocky Mountains are so much,: null
+    The Yankees can hear it.: null
+    The rest, the rest of that is re, really not the same.: null
+    There are a lot of nice places,: null
+    There's much less for them to get hurt on camping than there is elsewhere.: null
+    They seem to be trailing out quickly.: null
+    Those aren't too pleasant.: null
+    With kids they don't care, a l, about a lot of things.: null
+    Years ago it would have been fine: null
+    You can get the, they have some nice camping grounds: null
+    You have to get poison ivy and all that good stuff,: null
+    You probably have more there, though, I would imagine.: null
+    You'd like it very much.: null
+    You're not old at all.: null
+    You're really roughing it.: null
+    You've got a phone obviously .: null
+    Your camping experience is probably,: null
+    a big windstorm it would pick you up.: null
+    a nice tent on the, the shore of a lake,: null
+    a pool to go to.: null
+    about had to be something like that getting around in a Pinto.: null
+    at a time when they're afraid of their shadow all they need is, some skunk or something to rub up the outside of the tent,: null
+    easy to pick up and go, and, s,: null
+    especially in East Texas, it's really nice.: null
+    even the sleeping bags, those are running, a good thirty dollars a pop,: null
+    ever, everybody might learn something that way,: null
+    for instance,: null
+    get out of, get out of the city for awhile.: null
+    hike up those mountains: null
+    i, i, if I have one, it must be very, very slight.: null
+    in those those kinds of situations, room rent which is outrageous.: null
+    it has to be.: null
+    it is neat though because there are lots of lakes, fairly near by,: null
+    it is neat.: null
+    it seems like an unusual subject this time of the year: null
+    it sure beats driving a thousand miles, to , to find a mountain, I guess.: null
+    it was a neat activity.: null
+    it's a lot of work to set up just for one night.: null
+    it's a, that is a particularly neat area for camping because,: null
+    it's easy for you to go.: null
+    it's fun, too, I think.: null
+    it's good to get out and smell some fresh air, too.: null
+    it's like, my: null
+    it's not for the faint of heart, I don't think.: null
+    it's not really, I guess, camping the way peop, most people picture camping in the tent: null
+    it's real lovely.: null
+    it's really hard to get away: null
+    it's really is a, is a good, good family thing,: null
+    it's really strange.: null
+    it's relaxing.: null
+    it's sort of interesting.: null
+    it's still, it's real different not to have another adult with you.: null
+    it's, get, getting ready and taking care of everything.: null
+    it's, it's a lot like camping.: null
+    it's, it's really quite pretty.: null
+    it's, it's really refreshing.: null
+    it, it just puts a damper on things for a little while.: null
+    just set it up: null
+    kind of makes you appreciate some, a lot of the things you take for granted.: null
+    maybe not the, the Canada men's trip, but some other,: null
+    money's precious.: null
+    motor homes can be a lot of fun.: null
+    probably spring is probably the busiest time anywhere in Texas.: null
+    really the ideal times to camp in this area are early spring, and, in, in the fall.: null
+    that can be a lot of fun, too.: null
+    that is God's country,: null
+    that is is to have a, a nice vehicle where you can have everything in it, plus your tent.: null
+    that is it .: null
+    that makes a big difference.: null
+    that place is great,: null
+    that seems,: null
+    that sounds a little less fierce than bears.: null
+    that sounds like fun .: null
+    that sounds like fun.: null
+    that sounds that my, my kind of camping, it really does.: null
+    that would, that would be much.: null
+    that'd be a lot of fun.: null
+    that's a, that's a neat area.: null
+    that's just about as bad as a kid .: null
+    that's right.: null
+    the first, first couple of times it's pretty scary: null
+    the hiking is just really great.: null
+    the kids love it.: null
+    the, the mountains can accommodate you if you know what to find.: null
+    there is just no way I've not picked one up.: null
+    there is lots of pretty country further west.: null
+    there is lots to see .: null
+    there is, there's an awful lot of things set up, just any, anything you want to do.: null
+    there's a Tyler State Park that's, really a nice camping area,: null
+    there's a lot of different opportunities for things like that.: null
+    there's a lot of places with, nature trails,: null
+    there's definitely hazards to going camping if you don't know what you're looking at .: null
+    there's no T V,: null
+    ? there's that sense of it, you're kind of scared, that risk of what could happen
+      and then the thrill of, the excitement of doing it,
+    : null
+    there, supposedly,: null
+    they always say it sleeps more than it does.: null
+    they don't have all these modern toys,: null
+    they have to use sticks and rocks and stuff like,: null
+    they just love it.: null
+    they probably just don't spend as much money as a lot of other states might.: null
+    they probably live in a city also,: null
+    they'd be awake all night.: null
+    they're also, flimsy when you really look at them.: null
+    they're really terrible.: null
+    they're usually more afraid of you than you are of them, usually.: null
+    they're, they're not bad.: null
+    this is my, my Gemini nature, {D you know,: null
+    those, they're kind of nice: null
+    time is precious,: null
+    when the trees start blossoming out and everything it is really very pretty,: null
+    when you get inside they're really nice,: null
+    when you have to have it, you have got to have it.: null
+    you can talk about that a lot,: null
+    you don't, you don't sound like it to me.: null
+    you're not old .: null
+  Wh-Question: !!set
+    Ha, what kinds of things have you tried?: null
+    How do you blow yours up?: null
+    How many have you had so far, do you know?: null
+    How many have you made so far, calls?: null
+    How many weeks have you been doing these calls?: null
+    How old are your boys?: null
+    What did you like to do most?: null
+    What do you have?: null
+    What do you like to do when you go camping?: null
+    What do you think, what kind of: null
+    What do you write for stutter?: null
+    What do you, where do you like to camp?: null
+    What type of camping did you do?: null
+    What was that?: null
+    What's the best part about it to, to you, the, the quiet, the getting away?: null
+    What, what kind of camping do they like best?: null
+    When was the last time you went?: null
+    Where did you live?: null
+    Where do you find places to camp?: null
+    Where do you go?: null
+    Where, where is Raleigh, in North Carolina?: null
+    how many does it sleep, comfortably?: null
+    how old are your girls?: null
+    how old is your boys,: null
+    what did you normally do?: null
+    what do you, what do you do when you get a, a really violent storm like a tornado,: null
+    what does that consist of?: null
+    what exactly are they going to do?: null
+    what, what activities do you do when you're camping?: null
+    where are you?: null
+    where have you,: null
+    where would you camp ?: null
+  Yes-No-Question: !!set
+    A popup trailer, huh.: null
+    A satellite dish?: null
+    Am I pretty Texan?: null
+    Are you a, a native Texan?: null
+    Are you here in local Texas,: null
+    Are you in Texas, now?: null
+    Are you, are you,: null
+    Are you, from Dallas too, Beth.: null
+    Big Sur Highway, that's, where you're pretty much in view of the ocean almost all the time: null
+    Di, do they have a kitchen in them?: null
+    Did you ever travel around to what's that, the little K O, K O A camps whenever: null
+    Did you go alone or with a group or,: null
+    Do they like it where they have tents: null
+    Do they still have the, the scenic, roadways that cut through the center of some of those trees?: null
+    Do you backpack or hike: null
+    Do you do a lot of camping?: null
+    Do you do a lot of fishing?: null
+    Do you do most of yours in tents?: null
+    Do you do much?: null
+    Do you do that very often?: null
+    Do you go camping very much?: null
+    Do you go camping?: null
+    Do you go on long?: null
+    Do you go out,: null
+    Do you have a boat?: null
+    Do you have a large tent: null
+    Do you have electricity out there.: null
+    Do you know what: null
+    Do you need to go?: null
+    Do you put all the uhhuhs in here on everything, too.: null
+    Do you tent camp: null
+    Do your kids and everything like to?: null
+    Enjoy it, huh .: null
+    Have you done any camping around here?: null
+    Have you done, the big pot cooking?: null
+    Have you ever been to Austin?: null
+    Have you ever camped on sand?: null
+    Have you ever camped out of state?: null
+    Have you? .: null
+    In a Speech Lab?: null
+    Is that better?: null
+    Is the Ozarks in Arkansas?: null
+    Is the one in Tyler, has it been pretty commercialized, I suppose?: null
+    It's hard isn't it?: null
+    Now are you with T I down there?: null
+    That's good isn't it .: null
+    That's neat isn't it?: null
+    The black bear.: null
+    They have them right at the campsites?: null
+    Were you up in, in Wisconsin: null
+    What, black ones?: null
+    What, like, Sequoia National Park?: null
+    Would you then go ha, hiking.: null
+    You live in Pennsylvania? .: null
+    You mean that you put on a truck or what?: null
+    a week at a time or just weekends?: null
+    are you living alone now,: null
+    bu, e, even cooking over an open fire is a little more fun, isn't it.: null
+    did it get real cold at night,: null
+    did they get stuck?: null
+    did you all: null
+    did you go cam, take them camping?: null
+    did you have another, a big tent, like like a, looks like a sitting area type, like a two room type ?: null
+    do they cook on stoves?: null
+    do you do a lot of camping?: null
+    do you do much camping?: null
+    do you have a favorite among all those that you have been to?: null
+    do you have a lot mountains,: null
+    do you have anything planned for this summer?: null
+    do you have plans for, for any other camping trips in the near future?: null
+    do you usually, do you usually go and there's lots of other people around,: null
+    do you work for T I?: null
+    do you, you, you say you haven't been in years?: null
+    ever done that?: null
+    have you camped all over the United States?: null
+    have you done much camping around Texas?: null
+    have you done much camping up in Kentucky and, and those parts,: null
+    have you done much camping?: null
+    have you ever used those?: null
+    have you had any adventures on your camping trips, with, encounters with wild animals or anything like that?: null
+    ? in Florida, is ther, is there ti, are there times of the year when it's very
+      comfortable to camp or is it always kind of hot.
+    : null
+    is camping for you in a motor home, or a trailer,: null
+    is it true that Caddo Lake is the only natural lake in the State of Texas?: null
+    is that true?: null
+    is there anything, are there any mountains or big rocks a person could hike around this area.: null
+    is your brother younger than you: null
+    it took them a little while?: null
+    not a whole lot of forestry down there, is there?: null
+    the whole family, then, was: null
+    then popu, is it popup?: null
+    then, were they successful?: null
+    they don't have them up there do they?: null
+    they won't necessarily attack a human or bite you or anything.: null
+    when you all went camping is that what you normally,: null
+    would the camping be part of a long hike?: null
+    you don't have mountains in Texas, do you.: null
+    you enjoy camping?: null
+    you got a lot of that in, huh?: null
+    you kind of away from the Blue Ridge Mountains,: null
+    you try to go and take a vacation every year and go out and camp?: null
+    you went out from Texas up in, into that area?: null
+    you're not going?: null

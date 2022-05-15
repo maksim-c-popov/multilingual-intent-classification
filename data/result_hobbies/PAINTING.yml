@@ -1,0 +1,906 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    I don't know if maybe I'm biting off more than I can chew.: null
+    I don't know if you've ever heard of those.: null
+    I'm wondering if my bigger problem is getting the wallpaper taken down first. Because I, I think,: null
+    Spots in it.: null
+    The blowers?: null
+    You don't have any carpet down in your house?: null
+    another bedroom.: null
+    it's not scratching your floor,: null
+    the color doesn't really matter for, because you have that light.: null
+    there was two of you all?: null
+    y'all, you haven't had any, any jobs painted in your house or recently .: null
+    you can't use oil on wood?: null
+    you're glad you're doing it,: null
+  Dispreferred answers: !!set
+    I have wallpaper in both of my bathrooms right now which is really pretty disgusting.: null
+    more or less.: null
+    not so much that.: null
+  Statement-non-opinion: !!set
+    A friend of mine that lives out in your neighborhood, he has done his house: null
+    Actually, I, I don't know whether it made,: null
+    Actually, the wall behind the paper was smooth: null
+    Anyway, it didn't,: null
+    As a matter of fact, what we've got ours painted now is kind of a light creamy color and a, a blue: null
+    At first I didn't realize,: null
+    Big long strips.: null
+    Every time the sun would come up in the morning I'd see another spot and have to drag out the paint can.: null
+    Everything else is white.: null
+    For some reason, they put a bathroom light switch in the hallway: null
+    He came and did it that way: null
+    He had to redo that too.: null
+    He really came over here to paint, I think, because he kept offering to paint the outside of my house ,: null
+    He said, I'll be done this afternoon,: null
+    I always pick up these little extra tasks as I'm doing this,: null
+    I always thought it would be,: null
+    I always used the nice wide masking tape,: null
+    I am really anxious to get a band saw and a router .: null
+    I am thinking I am going to change it to, something,: null
+    I asked Janice, or somebody recently how you do that: null
+    I brush it on,: null
+    I can't get up high: null
+    I can't think of anything else to say about painting.: null
+    I could get up on the roof and do that.: null
+    I decided I'm going to paint.: null
+    I decided it's too expensive to rewallpaper: null
+    I decided that was too much to tackle,: null
+    I decided to paint them,: null
+    I decided, okay, I'll just, have them paint this little room, a little ten by ten dining area.: null
+    I did finish it.: null
+    I didn't make that many mistakes,: null
+    I didn't realize: null
+    I didn't realize what, pain it is to clean the brushes and everything, if you don't have latex: null
+    I do a lot of woodworking: null
+    I don't even know if I, I would not even recommend this person again to anybody.: null
+    I don't have an actual instruction book: null
+    I don't know if I necessarily want to do furniture,: null
+    I don't recall my parents having that much trouble .: null
+    I don't, I didn't watch them,: null
+    I forgotten what it was you put down, and then you can just paint right over the dark.: null
+    I forgotten, *listen: null
+    I get a so, I get a sore neck from looking up all the time, things like that: null
+    I get it all in my hair, too.: null
+    I get so sick of making ,: null
+    I get, I have that problem with the the ceiling, the, the blown, blown, ceiling.: null
+    I go what makes you a professional?: null
+    I got to do all of the masking tape and then all of the little fine, trim work,: null
+    I guess I'll have to take that door down and really get it good.: null
+    I guess a friend of mine had a,: null
+    I guess it was about three hundred yards worth.: null
+    I guess it worked out.: null
+    I guess the, the big discussion, just kind of what you were mentioning, has been the color.: null
+    I had an addition put on: null
+    I had gone through a period of depression at one time and painted everything a dark,: null
+    I had it, had it all over my hands.: null
+    I had never painted anything,: null
+    I had this big five gallon jug,: null
+    I had to completely strip the wallpaper off and then spackle holes and then paint that: null
+    I had to drive to the store: null
+    I had to drive to the store with paper towels all over my hands to go buy: null
+    I had to get,: null
+    I had wallpaper up,: null
+    I hadn't tried.: null
+    I have a problem.: null
+    I have an Inca.: null
+    I have been coloring my hair,: null
+    I have five children of my own,: null
+    I have had, I've, have never experienced that type of a problem: null
+    I have heard that they've got these steamers you can rent now, which make it much easier to get wallpaper off.: null
+    I have my own saws: null
+    I haven't done any of the oil or watercolor.: null
+    I haven't done any painting since I was a child: null
+    I haven't even decided as far as, what kind of paint to buy.: null
+    I haven't ever done fancy painting: null
+    I haven't figured out how to get that off.: null
+    I haven't figured out how you're supposed to paint it, on down, so that you won't see where you stopped off: null
+    I haven't tried a, a spray varnish.: null
+    I haven't used it yet.: null
+    I heard about that.: null
+    I helped someone repaint an apartment,: null
+    I hired this man to come in and do it. A young kid.: null
+    I hope your project turns out great: null
+    I just bought a spray gun, one of those airless, not airless, high volume, low pressure spray guns.: null
+    ? I just called him because I got a little ad out of the, the or whatever in the
+      mail, and, just got this painter person over here.
+    : null
+    I just don't think, that there was that big problem .: null
+    I just feel like we're, every, every gallon of paint adds a tremendous amount of value to the house.: null
+    I just got married about six months ago,: null
+    I just had it all over my hands,: null
+    I just kept on through high school and then got my own equipment, kept up with that.: null
+    I just used a, a semigloss.: null
+    I just work at Stop and Shop out there in, in Ogden: null
+    I just, what,: null
+    I kind of knew, in the back of my mind,: null
+    I know I can do it.: null
+    I know it's not lead based any more, paints,: null
+    I know the house, was built around the mid fifties.: null
+    I know what you are talking about.: null
+    I like to use this, this Sears, the ten year guarantee or the fifteen year guarantee.: null
+    I need to, either paper back over it or do something .: null
+    I painted the outside of my house: null
+    ? I read an article recently that, you have to be very careful on the kind of
+      paint you put on the ceiling in your bathroom because it does tend to, to peel
+      or come off because of the moisture, high moisture content in your bath, bathroom.
+    : null
+    I really enjoy doing that.: null
+    I really love the tole painting.: null
+    I repainted the whole thing.: null
+    I said, Okay, it's your place,: null
+    I saw one that was kind on an ecru undercoat: null
+    I still feel good, the minute I put that paint on, even if it does got a dent in it: null
+    I sure did my share of just regular painting.: null
+    I think I am going to do it this spring actually.: null
+    I think I could probably do it: null
+    I think I will probably just do it, in a roller.: null
+    I think he charged me a hundred dollars to finish up.: null
+    I think it's because they, they were accustomed to working in that environment, in those particular condominiums,: null
+    I think my husband's really glad about that .: null
+    I think that is what we might have to do with this chimney,: null
+    I think though, we're lucky that we didn't have to do any detail work, because I don't know if I could,: null
+    I think we are going to do, another bathroom,: null
+    I think, I think we left most of it because it gets to be,: null
+    I tried to cover it with white,: null
+    I tried to get wallpaper off once twenty years ago, with a just a scraper and wet sponge: null
+    I use just a wood sealer.: null
+    I want something that's going to tie that together: null
+    I want to do it about the same color. And just be a little,: null
+    I was do, just doing just the trim outs that, around the doors and windows: null
+    I was just looking around my house and thinking about the painting that I've done.: null
+    I was out there last week: null
+    I was pretty tied up,: null
+    I was talking to somebody else who, who had a lot of wood panelling: null
+    I went around the trim,: null
+    I went in to a hardware store to get paint for those toys,: null
+    I went to wash the brushes out, and, wash my hands,: null
+    I will tell you that I have retired from the painting business.: null
+    I would like to learn that someday,: null
+    I would, I really would love to go take a class in woodworking and learn how to.: null
+    I'd have probably rolled it on.: null
+    I'd hire a professional.: null
+    I'd, it would have taken me forever.: null
+    I'll find, I'll find something as I'm going along, something not related,: null
+    I'll just do a little bit here and .: null
+    I'm a selfproclaimed, proclaimed perfectionist,: null
+    I'm always doing all this other stuff,: null
+    I'm changing the, the towel racks and stuff, the, the fixtures out to make them wood,: null
+    I'm glad it's done, because it's brighter.: null
+    I'm going to put wood in there.: null
+    I'm hoping that, it won't be too much of a, a problem.: null
+    I'm in Garland.: null
+    I'm in the middle of, going out for bids to have my house painted.: null
+    I'm looking for the easy way out.: null
+    I'm not overly proud of it,: null
+    I'm not really quite sure,: null
+    I'm real haphazard when I do it.: null
+    I'm really in kind of the beginning stages right now.: null
+    I'm sitting here in my forty year old house,: null
+    I'm so much worried about that as what,: null
+    I'm thinking about maybe sponge painting them.: null
+    ? I'm wondering if I shouldn't buy about twenty gallons at one time and keep it
+      all in a, in a washtub or something somewhere because I'm alwa, I'm always afraid
+      that the next coat is not going to match.
+    : null
+    I'm, I'm kind of learning at this, new at this,: null
+    I'm, I'm planning on taking it off.: null
+    I'm, I'm real nervous every time I, I open a new can.: null
+    I'm, I'm starting to learn that there's always something else.: null
+    I've been buying some magazines and stuff and looking at different ways to paint.: null
+    I've done a little,: null
+    I've done, perpetual calendars and cookie jar lids and, on and on, just things like that,: null
+    I've got dye on my bathroom door.: null
+    I've got to go to a meeting.: null
+    I've had thirteen hundred dollar bid and I, as low as five hundred and forty dollars: null
+    I've heard from people who tried to get by and skimp on narrow masking tape that it was more trouble than it was worth.: null
+    I've never done any of those fancy kinds of paint treatments,: null
+    I've never painted anyth,: null
+    I've never tried any other kinds of painting besides on a surface like the house: null
+    I've painted several houses, inside.: null
+    I've seen that done, where there's: null
+    I've used, many a gallon of them, myself.: null
+    I've wanted to do that, but just haven't, just haven't mass produced enough to do that.: null
+    I've, I, I grew up on a farm,: null
+    I, I couldn't stand the back side going up that high on the ladder.: null
+    I, I didn't like that very well,: null
+    I, I don't think I could stay sane,: null
+    I, I just have a scroll saw and a jig saw: null
+    I, I just painted.: null
+    I, I moved that,: null
+    I, I took one class about, I guess three or four years ago: null
+    ? I, I've also been thinking about, after looking at all these magazines, these
+      design magazines and stuff, I'm thinking about maybe painting the bedroom walls
+      too, in a color that will kind of, tie in our, our, our, comforter,
+    : null
+    I, I've, I've messed with outdoor painting a little bit,: null
+    I, I, I don't want to put a price on it,: null
+    I, I, I fi, find myself going to work knowing that, that there's a job about half done at home,: null
+    I, it looked just like, it was the viscosity of paint thinner: null
+    In a new house everything is white.: null
+    In fact, I was just reading an article,: null
+    In fact, we were, we were planting flowers this weekend .: null
+    It covered the spots pretty good: null
+    It is really scary,: null
+    It seems like you could see it through about three layers of paint.: null
+    It seems to hold up a little bit better towards the nicks and dings: null
+    It took four days.: null
+    It was latex paint,: null
+    It was not real pretty.: null
+    It was pretty easy, actually.: null
+    It was something like that, although, we sort of, when we got through I wished we hadn't done it: null
+    It wasn't a big deal for them.: null
+    It would be just plain paint.: null
+    It wouldn't be any kind of special, special effects type thing.: null
+    It's gone pretty well.: null
+    It's like, they're dark.: null
+    It, it looks so easy just slapping paint on.: null
+    It, it sometimes works: null
+    It, it was actually,: null
+    It, it's hard to tell,: null
+    It, it, it, comes off with a mild abrasive pad, like a scotchbrite pad or something like that and wa, and soap and water.: null
+    Mike, I guess we'll be talking about painting recently.: null
+    My husband would paint the walls and ceilings with the rollers: null
+    My problem is, while I,: null
+    Nei, neither have I .: null
+    Seems like, I've, we've done some remodeling of some, rental houses that we have: null
+    Shoot, maybe a hundred and fifty.: null
+    Since, it is a one story,: null
+    That room I showed you.: null
+    That was horrendous.: null
+    That was one of the requirements from, F H A: null
+    That's it .: null
+    That's my worst, worst part of my woodworking.: null
+    That's one of the problems though when you start painting to try to get the,: null
+    That's what we're trying to get ours to look like.: null
+    That's why I brought, bought the sprayer: null
+    The brown one.: null
+    The first one,: null
+    The last time I had something done was my kitchen cabinets: null
+    ? The only painting job that was really painless for us was in this condominium
+      that the, association that manages it, they have to take care of like the structural
+      damage.
+    : null
+    ? The only problem was when we started having the movers move the furniture in
+      we identified various rooms by pieces of masking tape on the wood, the door
+      frames,
+    : null
+    The other, the other thing that makes it, a little more difficult, we've got all hardwood floors,: null
+    There are some columns that could be painted a different color too.: null
+    There are three houses on this street the same color of yellow out of six houses.: null
+    They did that, maybe improvements, so they could sell it and things,: null
+    They're unfinished wooden book ends and stuff for a little girl for Christmas,: null
+    Was not, not a big deal: null
+    We are just not willing to get up that high.: null
+    We did it in the fall: null
+    We did the outside of it one summer.: null
+    We ended up with our, our living and dining room are now, kind of a, a light peach color with,: null
+    We had an occasion, where we had to do some sealing: null
+    We have a brick house: null
+    We have a lot of light,: null
+    We have one of those ladders.: null
+    We have two children.: null
+    We just recently, had our boys' room,: null
+    We never any more.: null
+    We painted every room in this house, some of them two, three times.: null
+    We thought,: null
+    We use, a two inch brush with, on a slant: null
+    We used a flat, latex paint: null
+    We were quite pleased with the result.: null
+    We wound up selling the house.: null
+    We're dreading it.: null
+    We're, we're pretty comfortable with that.: null
+    We've been trying,: null
+    We, we had the same type of situation.: null
+    We, we, we worked, we've worked our way back into the hallway,: null
+    You can't hold it there until it's dried.: null
+    You have to get the, a solution: null
+    You just have to be real careful.: null
+    You just, you just get in there and do it yourself.: null
+    a couple of week ends: null
+    a few of them were broken and things like that.: null
+    a, a guest went in there: null
+    actually it had been, it would have been, it had been a repaint job.: null
+    actually, it took,: null
+    all the trim: null
+    and then above that we left it white: null
+    anyway, he, when he checked out: null
+    anyway. It's, it's remarkable.: null
+    around the windows, if you got it on the glass, we let it dry and scraped it after that: null
+    as a matter of fact this past weekend, since we had a long weekend, I, took on a painting project in my bathroom: null
+    because of the b, dark behind it, it was really hard to cover: null
+    by the time it's on, I, I: null
+    did it myself.: null
+    downstairs in the apartment, I just us, we just used a latex base,: null
+    each little,: null
+    either that or it had not been prepared underneath: null
+    either they had painted with the wrong kind of paint over top: null
+    else it will flake.: null
+    ? ev, every time I do something, aside from that it just makes me feel a whole
+      lot better to come home, an o, the walls are clean,
+    : null
+    even the painter couldn't give me a good estimate.: null
+    every time you move that edger then it gets the carpet into it.: null
+    everywhere you'd miss there'd be this little bright spot you could see .: null
+    fine furniture.: null
+    he came with, with his own raf,: null
+    he cleaned up my mess.: null
+    he did part of the, in the, at night because we were trying to hurry up and get it ready so we could move in,: null
+    ? he didn't notice until the next morning that the shades of paint between the
+      two paint cans, he had finished one can off and started another one.
+    : null
+    he had to paint the outside all the time.: null
+    ? he had to redo them like three times before I was happy with them, before he
+      was happy, that they even looked halfway decent,
+    : null
+    he had, he had, the, he had already carried a ladder outside: null
+    he has finished everything except the chimney.: null
+    he just kept painting on those French doors,: null
+    he knew that .: null
+    he really saved in that way.: null
+    ? he said it's a good thing I went to the bathroom before dinner because if I
+      had had something to drink and went in there I would think I was having hallucinations
+      .
+    : null
+    he said, Yeah, I can finish it in a day.: null
+    he said, all I got done was the taping around .: null
+    he said, it's going to be just about four hours.: null
+    he was gone the whole day,: null
+    hire a professional,: null
+    i, this was in a bathroom too.: null
+    if I remember right, it was like five hundred dollars.: null
+    if I would, if I'd just stay home and finish it, I'd feel a lot better,: null
+    if he fell, he was dead: null
+    if it was my own I would have,: null
+    if you dripped it on something, as long as you wiped it up, it was real easy to clean.: null
+    if you just,: null
+    if you saw that the wood was getting wet, that was, that was all you needed.: null
+    if you've ever painted French doors, which my husband just finally said he wasn't going to do ,: null
+    in between there was a sort of a rust, put on very sparingly.: null
+    in fact she put some right ba,: null
+    in one bathroom it's, it's probably paper,: null
+    in our down stairs in our dining room it has molding, like picture frames, I don't know what you call that: null
+    in the bedroom, as I understand, that's, one of the better type of paints to have: null
+    interesting.: null
+    ? it appears as though that, in the fifties or sixties when some of these houses
+      were built, they used a lot of, semigloss type enamel for ceiling paints
+    : null
+    it came right off: null
+    it comes off in strips, not even little bit.: null
+    it didn't, it didn't, it just didn't look as smooth as I wanted it to.: null
+    it does it, electronically some, something,: null
+    it gave the impression of very old weathered stucco.: null
+    it had all this dark trim.: null
+    it had not,: null
+    ? it had vivid, almost neon colors of hot pink and turquoise, and lime green and
+      silver, and, a little bit of yellow that looked like coral sands and sea horses
+      and things like that .
+    : null
+    it had, a little bit darker sort of peachy color,: null
+    it just took him so much longer,: null
+    it just, it, it gives you a, a variance even though it's the same color.: null
+    it kind of bled under the masking tape which, I guess, is probably the topic we're: null
+    it looked as if it had been painted,: null
+    it looked pretty good, the, the interior walls all basically white,: null
+    it looks at it in, and, and determines the,: null
+    it makes such a difference.: null
+    it makes the room look remarkably smaller.: null
+    it makes the room look smaller which is,: null
+    it may be the original wallpaper .: null
+    it says Safe for Children, and all that.: null
+    it seemed like there was, it was a good sized den with a lot panelling: null
+    it sometimes doesn't.: null
+    it supposedly textured it or did something to it: null
+    it takes a long time,: null
+    it took a lot of the hassle out.: null
+    it took forever.: null
+    it took me all weekend: null
+    it used all of it.: null
+    it was a major project getting the money together to do it too, by the end,: null
+    it was absolutely hideous: null
+    it was awful,: null
+    it was called a sassafras,: null
+    it was fairly reasonable.: null
+    it was greasy or something,: null
+    it was j, it was really easy,: null
+    it was just the preparation time was so long.: null
+    it was kind of an orangish brown.: null
+    it was like paint thinner.: null
+    it was like you said, it was blue: null
+    it was over two hundred dollars worth of free stuff.: null
+    it was part,: null
+    it was quite a, a feat getting that dark a color covered, and then just the hassles getting around the cabinets,: null
+    it was rented out for a couple of years and things like that.: null
+    it was smooth: null
+    it was very easy.: null
+    it was woodwork: null
+    it was, just a real dark, wood grain type paneling: null
+    it's a lot like, wall paper.: null
+    it's a project, that I did,: null
+    it's a rent house: null
+    it's been lived in briefly by her before she bought her town house.: null
+    it's electronic.: null
+    it's going to be a big experiment.: null
+    it's got all the old, original hardwood trim and stuff,: null
+    it's just a hassle to go through it: null
+    it's just awful.: null
+    it's just remarkable how close it will match the paint,: null
+    it's just terrible what they do.: null
+    it's like, if you just go slow, you don't get, at least I didn't get that many mistakes: null
+    it's more trim because it has some of the old asbestos shingles,: null
+    it's not too bad to get it off once it's dried even.: null
+    it's real cheap.: null
+    it's really not to bad to get off, *typo to too: null
+    it's silver, silver and yellow,: null
+    it's starting to bleed through and burn through because the paint's real cheap: null
+    it's that, it's the textured wall.: null
+    it's the very same type of paint and everything,: null
+    it's worked out pretty well for us.: null
+    it's worth the shine,: null
+    it's, it's a wooden shed,: null
+    it's, it's been quite an adventure.: null
+    it's, it's been, it's been something else, to say the least.: null
+    it's, it's not too bad.: null
+    it's, it, that's half the problem right there is that it wasn't, it was a oil base,: null
+    it, it looks so,: null
+    it, it really was,: null
+    it, it takes me a long time to do trim and things like that.: null
+    it, it's just too high.: null
+    it, it's really remarkable.: null
+    it, it, it gets you to look at everything real hard when yo, you start putting a coat of paint on everything,: null
+    it, it, it, it's just, I think it's just the, the, the dark blue to about three feet: null
+    it, it, takes, it takes some time.: null
+    it, turned out real, real well.: null
+    know if I look underneath my cabinets, I'm not satisfied with the jobs I, I did on it because there're splotches.: null
+    like I say, th, the overall appearance of this house is what really devalued it so much.: null
+    like, like, I've gone about changing out all the outlets and switches because, they, they really didn't match.: null
+    literally I wouldn't have done it with the scaffolds because: null
+    live in Dallas.: null
+    looks quite good.: null
+    maybe there are some professionals out there .: null
+    me, I would have had to have taped the whole thing, and then brushed around the edges,: null
+    most of it, most of it's in pretty good shape.: null
+    most of that, it was done with a sprayer and, up in the bucket of a loader tractor, or something like that,: null
+    mostly I do like you do, give it away as gifts.: null
+    mostly, just: null
+    my father would be painting and I'd ask him if I could, take a turn or something,: null
+    my friend said, just go ahead, you just go ahead,: null
+    my house had this dark wood paneling at the end of the den: null
+    my job was mostly the woodwork.: null
+    my wife painted those, the insides of those dark blue.: null
+    my wife went to the, Home Depot, I think it was, and, and took a, a copy, took a piece of brick: null
+    ? my wife's hollering at me and wondering what else I've come home with from work
+      this time to, to put in, a ceiling fan or something strange like that.
+    : null
+    now I feel like if I ever buy a house, I can probably paint, if nothing else.: null
+    occasionally you can watch for it and get it on sale,: null
+    of course, at night: null
+    on the ceiling.: null
+    one had more blue to it.: null
+    one of the books that I bought, where it's d, describing the sponge painting, said you can layer different colors: null
+    other than doing our own work I prefer it to a professional.: null
+    other than that, it was pretty easy doing it ourself and caulking it and everything ourself.: null
+    our house in New Mexico, it was stucco,: null
+    our house is not: null
+    our two oldest boys share a room,: null
+    outside you have high peeks,: null
+    painted a couple of houses.: null
+    painting is not hard to do,: null
+    ? part of the excitement was, was getting a good deal on an older house that just,
+      it really hadn't been taken care of very well.
+    : null
+    preparing is a real problem,: null
+    pretty soon, before you know it, he's run into so many problems,: null
+    primarily because it, it seems to be a little more, let's say: null
+    recently this summer we painted a, out building, which is a shed that we have on the,: null
+    right now my passion is tole painting .: null
+    right now our house doesn't have to have the same kind of exterior painting there,: null
+    selected a, what I thought was white,: null
+    she did that all the way around the room which makes it look very attractive,: null
+    she had that done.: null
+    she had to start all over again: null
+    she told us that the house had been, professionally painted recently.: null
+    she took it: null
+    she wanted to paint the shed: null
+    she was selling it: null
+    she wrung all that stuff up and made a mistake on the price of the paint: null
+    she, she just started up a day care center,: null
+    since then we have painted the bedroom.: null
+    some of still has to be redone.: null
+    some of the home builders are,: null
+    spraying does put on a nicer finish.: null
+    t's about it.: null
+    table saw, scroll saw, band saw, lathe, routers,: null
+    that friend of mine that painted his house out there in your neighborhood: null
+    that had to dry.: null
+    that mostly does it even though you still make mistakes.: null
+    that pretty much covers my experiences.: null
+    that was a little difficult to cover with today's paints,: null
+    that was not something that we had to pay for.: null
+    that was the next problem.: null
+    that wasn't as easy as painting the apartment .: null
+    that wasn't too bad.: null
+    that's an exaggeration,: null
+    that's one of the reasons why we painted,: null
+    that's, what we put back on there, was a latex paint.: null
+    the blue, even so many years, two years later or so it doesn't match,: null
+    ? the boy, one of the younger boys, when he was younger, about three years old,
+      got a, got a nice marker and got up on the ceiling and decided to draw pictures
+      .
+    : null
+    the brick is multi color.: null
+    the color difference wasn't so bad,: null
+    the condominium we moved in before, my husband went over and painted,: null
+    the daughter was a real estate agent: null
+    the experience that I've had is that, whatever time he gave, said, it would take me about, just about four hours,: null
+    the first time it'd probably would have taken me forever,: null
+    the floors are finished with a polyurethane,: null
+    the fumes are amazing,: null
+    the guy called me,: null
+    the guy said, get this, it's a nice shiny gloss, which was true,: null
+    the house has so many windows: null
+    the job was considerably tougher than we thought.: null
+    the kitchen was one of the rooms that got hit with that color.: null
+    the last time that, we tackled it, I did the kitchen.: null
+    the lights shine right at our house.: null
+    the most major things have been, I guess I, I moved a couple of outlets, and, switches I should say.: null
+    the one that looks like a fudgesicle.: null
+    the other project we've done around here is, we've remodeled all our, all our closets: null
+    the painting actually takes probably, a fourth of the time,: null
+    the painting took another day.: null
+    the particular bathroom that we did is a half bath,: null
+    the patterns look like they're nineteen sixties style.: null
+    the people quoted thirty thousand dollars to paint it or something.: null
+    the people that own the house they, pay for anything like that, that we do.: null
+    the problem is that it hits, the sun hits it.: null
+    the problem they had: null
+    the reason being is once I painted, I don't want to have to go and do it another five or seven years later: null
+    the same with the toys,: null
+    the second one was I bought some toys at a, at a craft fair.: null
+    the spackling had to dry a day: null
+    the wallpaper that I was trying to remove was black,: null
+    the wallpaper, getting it off, I had to wet the walls down: null
+    the walls were,: null
+    the whole project basically took a week .: null
+    the woodworking.: null
+    ? the, one of the real strict, restrictions, was the fact that she had to have
+      a special kind of paint that was fire proof and lead free and all that other
+      good stuff
+    : null
+    the, the interesting thing is that paint we wound up having to go back and scrape some of that away: null
+    the, the problem that we've, we've owned this house almost five years now,: null
+    the, the tiles were sort of a mottled grey and had a little trim strip of maroon and white: null
+    the, the wallpaper in that bathroom had a black background: null
+    the, the, the living room has four, good size windows: null
+    then I was afraid to do the eaves way up high and stuff.: null
+    then that way: null
+    there are just so many tints upon tints upon tints,: null
+    there are six houses.: null
+    there isn't as much wood that has to be painted.: null
+    there just isn't enough time,: null
+    there one guy brags about his piece of equipment he's using and the drop cloths and all that kind crap: null
+    there was a roof leak,: null
+    there was no major mistakes,: null
+    there was semigloss underneath: null
+    there was wall paper: null
+    there was wall paper,: null
+    there was, I was just painting because I don't know how to do anything else .: null
+    there was, they were doing all sorts of repairs,: null
+    there's a whole bunch of people.: null
+    there's no carpet in the house right now.: null
+    there's nothing there to be a problem I thought,: null
+    there, there were crayon marks on there: null
+    they bring the, little samples: null
+    they came in, and, they came in and did it and left in just no time at all,: null
+    they didn't, didn't occur to them that, that they could have taken a sample: null
+    they don't do that in the newer houses now: null
+    they don't put brick on the side of your house just to save money: null
+    they had bunk beds,: null
+    they had gotten somebody to come in with an estimate: null
+    they had not,: null
+    they hadn't really roughed it up or whatever they,: null
+    they have to live with that every day: null
+    they just said, you can get by,: null
+    they match, and all those kinds of things.: null
+    they mixed, a gallon of it: null
+    they obviously had been done without to much, wear afterward.: null
+    they painted it kind of like a: null
+    they painted our rooms all the time,: null
+    they put up, a quarter inch Masonite, basically,: null
+    they ruin, ,: null
+    they sent their painters in to, to repaint a corner of the ceiling and then, repaint the whole ceiling,: null
+    they wanted some gray to do the, to do the trim.: null
+    they were white,: null
+    they weren't,: null
+    they're, the paint has, kind of faded and deteriorated,: null
+    they're, they make some plastic edging stuff that comes in three foot lengths.: null
+    ? they're, they're in pretty good condition, as far as, major repairs. lo, a lot
+      of little filling holes and nicks and things like that,
+    : null
+    they've got this machine that matches the color of paint.: null
+    this is Sherwin Williams Paint or something: null
+    this is a great topic for me,: null
+    this is not on the topic: null
+    this is really the first, interior painting project that I've attacked.: null
+    those where you built a rafter thing.: null
+    tole painting is just a, something I do in my spare time: null
+    two little deals,: null
+    two, actually: null
+    we 've have, done a little painting ourselves,: null
+    we bought a house at the same time.: null
+    we can't paint the chimney .: null
+    we decided to paint their room and put up wallpaper and border and so forth,: null
+    we did basically seventyfive percent of the house: null
+    we did it ourselves,: null
+    we did the one wall but the other trim,: null
+    we did too.: null
+    we did, two heavy coats over it.: null
+    we didn't have a problem with that.: null
+    we didn't have to do any painting.: null
+    we didn't have to mess with that this time.: null
+    we didn't know that when we bought the house: null
+    we didn't tape anything,: null
+    we do, do that.: null
+    we got pretty lucky on that.: null
+    we got to do that this summer.: null
+    we had a couple of different size brushes: null
+    we had a dinner party before we started renovating it: null
+    we had a, a wooden,: null
+    we had all this trim to paint, and lots of it.: null
+    we have a two story.: null
+    we have, we have a soccer field: null
+    we have, we have some more that need to be done,: null
+    we haven't gotten to the point where we're hiring professionals to do too much of our needs.: null
+    we just had brick on as accent: null
+    we know what a job it's going to be: null
+    we moved, last August: null
+    we only have on, only one of our bathroom has a window in it: null
+    we painted the bedroom, well within the last t, couple of months,: null
+    we painted the house to,: null
+    we painted, we painted the whole inside: null
+    we put a flat over the top,: null
+    we still have some of that trim work to do because we put it off all this time,: null
+    we used a latex, wall paint and then a semigloss enamel for the woodwork: null
+    we we ended up getting a fairly good deal on it.: null
+    we went in there, one was, bu,: null
+    we went to, , one of the paint stores: null
+    we were painting it and trying to do, make it,: null
+    we were, we were trying to make the house look nice to sell it: null
+    we weren't that careful,: null
+    we worked something out, because he was kind of apologetic that it took so long.: null
+    we would go down: null
+    we would, we put this stuff on: null
+    we're about halfway through the painting process .: null
+    we're energized.: null
+    we're freshly graduated from school and things,: null
+    we're getting a house,: null
+    we're going, we're so glad we have a brick home, all we have is like trim around the windows or something,: null
+    we're in the middle of the bathroom now.: null
+    we're just using latex,: null
+    ? we're not, you're not nearly as concerned with a barn or a grainery, or something
+      like that as you would be with your own house.
+    : null
+    we're quite satisfied with that: null
+    we're, they'll be there for a while.: null
+    we've definitely got all the formulas on file,: null
+    we've done that the whole time we were in school. Like,: null
+    we've got carpet,: null
+    we've got the trim in kind of, kind of an offwhite.: null
+    we've learned.: null
+    we, I decided,: null
+    we, our house was painted as part of the purchase contract,: null
+    we, remodeled a bathroom.: null
+    we, we bought this house with the idea that we were going to spend, spend a lot of time working on it,: null
+    we, we built a shed over the ,: null
+    we, we got this painter,: null
+    we, we stocked up the first time around.: null
+    ? we, we've learned to be a little more careful about covering up the floors since
+      the, since the first time we spent a lot of time on the floor with a tooth,
+      toothbrush and what not cleaning up.
+    : null
+    what I had to do is just coat this bare wood with a sealer,: null
+    what I, what I'm trying to do is I've got yellow tile in both the bathrooms: null
+    what had happened is that professional painters had not prepared the surface properly.: null
+    when I painted them, I didn't realize that we didn't have any turpentine or paint thinner or anything in the house.: null
+    ? when I start doing trim, I, I've gotten to where I, I tend to freehand it because
+      ther, there's so many layers of paint on this house after forty years that,
+      it, it's so hard to tell where an edge is anymore,
+    : null
+    when he got outside, he noticed his receipt was thirteen ninetynine or something.: null
+    when she called me, the computer called me, I thought that they were reading my mind.: null
+    when we bought it the, it had been vacant for a while because the family will retired,: null
+    when we bought our home it was recently updated.: null
+    when we bought the house that we live in right now we had a company that came out and painted it.: null
+    when we took the masking tape off half the painted came with it.: null
+    when we've painted,: null
+    yet he bought seventeen gallons.: null
+    you almost have to strip the whole thing,: null
+    you can drip it on,: null
+    you can use it on wood,: null
+    you can't it all off.: null
+    you can't wash it off with water.: null
+    you can, you can tape them together: null
+    you end up tediously scraping these tiny little shreds of masking tape .: null
+    ? you have to be, you have to be aware of what, how messy they can get and are
+      they going to put on a good, a good two coats, and are they,
+    : null
+    you have to do that very, very carefully.: null
+    you just took a roller and put it on there,: null
+    you mentioned painting your bathroom.: null
+    you put your sample under this thing: null
+    you scrub and you scrub,: null
+    you start to notice where all the dents and scratches and things are everywhere.: null
+    you want that to look like that: null
+    you want this, you want this to look like this: null
+    you'd have to hire someone if you needed to paint inside your house or something: null
+    you've got like maybe, five hundred,: null
+    you've got to prepare it well: null
+  Statement-opinion: !!set
+    A lot of work,: null
+    After about, half dozen coats it looks reasonable: null
+    Because you might find that it's beyond, what you're willing to put into it.: null
+    I couldn't imagine that they came in and painted it, the whole ceiling, just within a couple of hours.: null
+    I don't think he did the interiors very well .: null
+    I imagine it did.: null
+    I may just be flat painting over it.: null
+    I tell you what, the fumes that the, the paint gives off makes you wonder what these people do any,: null
+    I think that could give it a really a,: null
+    I think you are, just made my project a lot easier .: null
+    I wish you very good luck with it: null
+    I wouldn't think so .: null
+    ? I, I don't know if you get into the mind set where you just say, I'll accept
+      something, or you just really have to get on their back,
+    : null
+    I, really think that it's exciting that you're going to try the sponge painting.: null
+    I, think so .: null
+    If it's paper it will probably shred.: null
+    If it's really old, you don't know what it's put on with.: null
+    If you don't like it all you do is put on another coat.: null
+    If you take it up the next day it should be fine.: null
+    It hurts your back,: null
+    It makes you wonder .: null
+    It wasn't too bad.: null
+    It will come up a lot easier if you don't wait too long.: null
+    It's kind of frustrating.: null
+    It's like, it's,: null
+    It, it peels the paint off when you take it off,: null
+    Just, just the opposite of what everybody's, working towards now.: null
+    Once you get done, you can always start over: null
+    Rollers are so messy.: null
+    Sears is one of the better ones.: null
+    That keeps you busy.: null
+    They're, they're pretty well refined today: null
+    You can do a little faster painting and much easier clean up if you use the masking tape.: null
+    You can work yourself to death.: null
+    You could go back and, and paint,: null
+    a lot of work.: null
+    actually it does,: null
+    boys will be boys,: null
+    i, if you leave it on for weeks, it will do that.: null
+    if it's vinyl it should be easier to strip too.: null
+    ? if that, if you discover the little tricks and tips about, how you get through
+      corners and how you do trim and, how long to leave the masking tape down, because
+      if you leave it too long and it dries it can flake when it, when you pull it
+      up.
+    : null
+    interior's not so bad because it's more fun,: null
+    it can be a real issue.: null
+    it can be done a whole lot faster.: null
+    it explains why they, why they have everything white: null
+    it hurts your arm.: null
+    it looked awful on .: null
+    it sure makes a difference.: null
+    it takes a lot of time .: null
+    it's interesting that the white, makes the rooms look bigger.: null
+    it's just important to look for one that doesn't have lead in it,: null
+    it's nice to have the right equipment.: null
+    it's not hard to do if you get everything prepared ahead of time.: null
+    it's, it's not that easy.: null
+    it, it seems like everybody has a, to go in and do,: null
+    like you said, always takes way longer than anyone, is able to guess, because I know my husband he, he painted, when he,: null
+    must be difficult,: null
+    of course that's the other advantage of paint.: null
+    that can make a difference,: null
+    that doesn't guarantee anything .: null
+    that was worth it getting a professional: null
+    that would be really time, a time saver.: null
+    that's easy enough.: null
+    that's something that, that's worthwhile checking into then. 'Cause I,: null
+    that's, that's quite a chore.: null
+    that's, this is an interesting topic that they would bring up painting: null
+    the band saw is really nice.: null
+    the bedroom would probably be the easier of the two because it would be just plain painting.: null
+    the whole point of using it is to save yourself work.: null
+    they dry fast: null
+    they look very interesting: null
+    we'll see how it goes,: null
+    when you start getting into colors,: null
+    which might be a bigger problem than it would be,: null
+    you can wash up easily because they're water soluble.: null
+    you don't know what you to want to,: null
+    you get some beautiful effects with them.: null
+    you make up all kinds of excuses.: null
+    you really don't have to be disrupted for more than about a weekend. If you have some help.: null
+    you shouldn't have a, you shouldn't have a problem with it.: null
+  Wh-Question: !!set
+    Did you go, what kind of paint did you use on the ceiling?: null
+    How much did it cost you for the paint for the outside?: null
+    Wh, why do you use that?: null
+    What color did you paint your house?: null
+    What kind of: null
+    What kind of painting are you planning to do?: null
+    What, what brought about the fading of the paint?: null
+    What, what kind of, what kind of paint do you normally use?: null
+    Where do you work at?: null
+    how do you get the edge though?: null
+    how long did it take you all?: null
+    what about the lighting?: null
+    what are you going to get it off with if you get it on and it's dried?: null
+    what do you call those things?: null
+    what kind of paint did you use for the, bookends?: null
+    what's the solution then?: null
+    what's your,: null
+    where do you live?: null
+  Yes-No-Question: !!set
+    Any kind of recent painting you've done, yourself?: null
+    Are you having to repair the walls at all?: null
+    D, do you sell your projects?: null
+    Did it make a big difference?: null
+    Did you enjoy that?: null
+    Did you have that done professionally: null
+    Did you have to do that?: null
+    Did you have, one coat or two?: null
+    Did you try to call this weekend?: null
+    Did you use a textured paint: null
+    Do you do a lot of it?: null
+    Do you do that?: null
+    Do you have one of those straightedge things to put underneath when you're doing the baseboards?: null
+    Do you, did you take classes to learn how to do that?: null
+    Do you, ever spray your projects with the, a base coat first: null
+    Do you, have you ever used an oil base paint?: null
+    For woodworking?: null
+    Have you done any recently?: null
+    Have you guys tackled your ceilings yet?: null
+    Have you painted anything recently.: null
+    Have you tried any of the,: null
+    Have you, have you tried getting outside estimates to see what it costs to have something painted?: null
+    I showed you that one too didn't I?: null
+    I was going to ask if you planned to paint over it or try to strip it.: null
+    Is this a project you did yourself?: null
+    Just sun exposure?: null
+    Latex paint?: null
+    ? Now have you thought about this? That wherever you buy your paint, you need
+      to make sure that that store's not likely to go out of business.
+    : null
+    On the ceiling?: null
+    On your baseboards?: null
+    To that switchboard,: null
+    Was it like a primer?: null
+    Weather beater type stuff?: null
+    Wow, was it huge?: null
+    You didn't try re, rewallpapering?: null
+    You had pretty good luck with one coat type paint?: null
+    You use a particular brand or anything?: null
+    are you going to paint the outside of your house too?: null
+    are you talking,: null
+    at least you'll get very good at it, right?: null
+    did you get good results?: null
+    did you have any problems with that: null
+    did you keep getting that it was down?: null
+    do you cut out your own projects?: null
+    do you ever send any of your stuff to the boutique?: null
+    have you done any painting projects lately?: null
+    have you ever done any painting outside?: null
+    have you had problems getting colors to match?: null
+    have you painted something lately?: null
+    have you sold any of your furniture: null
+    have you, have you tried matching paint lately?: null
+    is easy to find pa, painters to do this for you?: null
+    is, is that what you usually use in the house, is latex?: null
+    it just didn't, it didn't, it didn't cover it?: null
+    it's hard to finish it,: null
+    that is, that makes it easier, doesn't it?: null
+    that's that 'ud probably give you a smoother finish, wouldn't it?: null
+    what, do you do artistic painting?: null

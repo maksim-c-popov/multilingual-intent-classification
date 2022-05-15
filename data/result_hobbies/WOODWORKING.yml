@@ -1,0 +1,296 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.set ''
+dictitems:
+  Declarative Yes-No-Question: !!set
+    A band saw?: null
+    I don't know if you've heard of it.: null
+    I guess he's young.: null
+    sounds like you got some real nice tools, too.: null
+    you just, they buy them from you,: null
+  Dispreferred answers: !!set
+    I'm not the one that cuts them out.: null
+    My husband cuts them out: null
+    that was, with a, with a circular saw.: null
+  Statement-non-opinion: !!set
+    Boy was that fun.: null
+    Especially, I did some cabinets in, ash and oak: null
+    He's about five and a half years old.: null
+    I bought myself a, template for making mortices and doors: null
+    I can't say I use them very often .: null
+    I cut it out in the shape of a crayon box: null
+    I did it through Adult Ed again.: null
+    I did, jigsaw, and the, regular straight saw for some of it.: null
+    I do have a band saw and a router and, things like that out in the garage.: null
+    I do it for a hobby: null
+    I do it out of hobby more than, something I have to do.: null
+    I do, some, woodworking myself .: null
+    I don't go in all that often: null
+    I don't have lots of tools.: null
+    I don't have room for this.: null
+    I don't know how long that's going to last .: null
+    I get good enough to sell it or have people say wow,: null
+    I got myself a router: null
+    I got one for Christmas a few years ago and used it quite a bit for the first eight months I had it: null
+    I got, it got delayed for a little bit and, because of work: null
+    I guess that: null
+    I guess tonight's subject is, woodworking.: null
+    I had to cut into slabs and build up this big square and turn it on the lath: null
+    I have a Master's degree: null
+    I have a jig saw and a scroll saw and, in the process of getting a router: null
+    I have a, I'd guess you'd call a medium quality Craftsman router: null
+    I have a, a, really nice desk. A nicer desk than I could afford. Which I got because my sister who worked in a hospital,: null
+    I have my own equipment,: null
+    I have never even s, I have never even looked at one closely.: null
+    I have, in school I have: null
+    I just got back from that today,: null
+    I kind of drew up some simple plans to make some book shelves: null
+    I know a lot of people that have gotten them,: null
+    I like to cut out my wood, and then tole paint on the items that I cut out.: null
+    I like to get out and, and, to work with my hands: null
+    I like to think of it as a hobby, but I, I guess also, partly out of necessity. Just repairing things around the house.: null
+    I live out in the valley: null
+    I made a necklace that I saw in a gallery for three hundred twenty dollars .: null
+    I make stain glass.: null
+    I painted, about eight different, colors,: null
+    I really like it so far.: null
+    I really love it.: null
+    I said I'm not that steady,: null
+    I saved them and built an oven cabinet out of one and another cabinet out of another by using the faces and so forth .: null
+    ? I saw a silver necklace that had these little teeny weeny silver spatulas and,
+      and, and knife and, and a fork and all kinds of stuff
+    : null
+    I see stuff in craft galleries for five hundred dollars: null
+    I signed up for class because then again, you get, get someone to guide you: null
+    I took a pattern off of that,: null
+    I use their tools m, a, an, and, some of their guidance.: null
+    I went there,: null
+    I went through some of the books down here at the craft shop,: null
+    ? I'd, I'd kind of like to, to look at equipment like a lathe or like you say,
+      a table saw and some of those things that would make, some pretty nice, pieces
+      of, wood, for, for different things for tables, for, for, chairs, for, decks
+      and so forth
+    : null
+    I'm a licensed teacher: null
+    I'm an artist.: null
+    I'm drawing my pension from them,: null
+    I'm from up north also: null
+    I'm going how about this way?: null
+    I'm jealous.: null
+    I'm just hoping that, that we can get some cut out and painted, before summer starts: null
+    I'm kind of semi retired.: null
+    I'm looking at trying to get a router right now.: null
+    I'm really interested in the crafts.: null
+    I'm still looking for a part time: null
+    I'm very handy: null
+    I'm, I am interested in woodworking.: null
+    I'm, I'm very good at making book shelves.: null
+    I've built my own deck and,: null
+    I've cut some one by eight oak before .: null
+    I've done both .: null
+    I've done most of the coloring: null
+    I've done some other things too.: null
+    I've done some silver jewelry making: null
+    I've got a couple of those started.: null
+    I've got it all cut out,: null
+    I've got to go a second layer with the yellow.: null
+    I've made, bowls,: null
+    I've made, different things, la, tables for chairs: null
+    I've never had the bits sharpened .: null
+    I've seen them: null
+    I've used mine on treated wood: null
+    ? I've, also, I've also used them for building drawers where you, for rabbeting
+      and, because, rabbeting on my table, on my, radial arm saw is a little bit uncertain
+      .
+    : null
+    I, I actually have a Masters of art: null
+    I, I debate whether it's better to get a, just a straight table saw or to get one of these, rotary arm saws.: null
+    I, I do do things, that might be too crude to be called woodworking.: null
+    I, I enjoy doing a little bit of woodworking: null
+    I, I guess I am .: null
+    I, I have seen those.: null
+    I, I just enjoy woodworking: null
+    I, I love to cook.: null
+    I, I refinished a couple of old, dressers that were gi, handed down.: null
+    I, I took a tole: null
+    I, I'm envisioning, a water, a watermelon like a log: null
+    I, I'm signed up for a class in pottery making because I've never tried that yet: null
+    I, I've done the same. like the trim around the house: null
+    I, I, put together a, a, up rolltop desk from scratch.: null
+    In fact, I just sent to Shop Smith: null
+    It looked really cute,: null
+    It seems, it seems like they go real good,: null
+    It took me a lot of time: null
+    It was a solid watermelon with a wedge cut out of it.: null
+    It's got a, it's going to have little wooden hearts holding it, in its hands: null
+    It's strong enough for any job where you don't try to take more than say threeeighths of an inch at a time.: null
+    My br, my brother's used it a lot for making drawers.: null
+    My company went bankruptcy,: null
+    My next door neighbor, every time she sees something, she thinks it's so cute she wants to buy it, .: null
+    My wife kind of laughs,: null
+    Now I just have to finish it though.: null
+    Our local schools have adult education in the evening: null
+    Putting doors in is the time when I'm,: null
+    Still had to cut it and everything,: null
+    That you dial in on the side.: null
+    That's how I started jewelry making.: null
+    ? The latest project that I've been working on this has been kind of sitting here
+      for a few months } is a, a cabinet to, to put a T V in.
+    : null
+    Then I saw a, one of these country looking wood watermelons.: null
+    They've plastic parts and stuff.: null
+    We did it on a, I had a, I did it: null
+    We have one.: null
+    We remodeled and saved a bunch of really nice ash cabinets,: null
+    You would put your sell price: null
+    a few years ago, we needed, they needed some book shelves: null
+    also I, I sometimes think that, I enjoy doing that: null
+    also with a router, you can, make ornamental facings, too better than a just straight wood edge.: null
+    anything that looks like it might be country is what they want,: null
+    as far as wood work, that's all we've been doing right now.: null
+    country seems to be the in thing out here: null
+    everybody wants little country pieces.: null
+    getting the other one out without the slice now flying in your face was something you had to think about .: null
+    gotten a, a good belt sander: null
+    he cuts them out,: null
+    he has all day long that: null
+    he likes using the little band saws and jig saws: null
+    he wanted me to do it by hand with a regular saw.: null
+    he was tell me like the ones that you dial in aren't all that great.: null
+    he's got a lot, a lot of tools,: null
+    he's got a router,: null
+    he's retired now: null
+    if I touch it, it turns into something us,: null
+    if it cost me twenty dollars,: null
+    if the customers are willing to pay it, then you get a profit.: null
+    if you're looking at adding on you have,: null
+    in fact, I'm in the middle of a project right now making a bed for my son.: null
+    it turned out to be really nice, a nice desk.: null
+    it's in art education.: null
+    it's just a wooden doll with a painted face: null
+    it, the instructions in the book I had said use a coping saw: null
+    jobs being what they are, I substitute teach: null
+    k, kind of, mainly the woodworking I've done lately is, made for example a little nativity scene.: null
+    let's do something else.: null
+    little by little, I, I started out with just basic hand tools and kind of added on to things.: null
+    lot of the equipment, too, that I've, I've used in the past, I w, I've used in school: null
+    lot of the things that, we can't be able to afford,: null
+    my neighbor had a little doll made out of wood: null
+    my projects had to do with acrylic painting,: null
+    my wife has picked up a couple of things saying, if we could refinish that, that would be a beautiful piece of furniture: null
+    nice it's nice tongue and groove, construction.: null
+    now I use it twice a year maybe .: null
+    now all my blades need sharpening.: null
+    now he wants a plunge router.: null
+    now, I've got to jump back in and finish the,: null
+    once I get so, really pretty good at something, I want to try something else .: null
+    over the years I've, I've refined those plans.: null
+    that boutique, they take, what was it, } twenty percent of the sell price.: null
+    that way I have time for my kids too.: null
+    that's a whole lot easier than doing it with a chisel .: null
+    that's been, I've been pretty successful with that.: null
+    that's my ultimate dream .: null
+    that's what I want, is a Shop Smith .: null
+    that's worked pretty well.: null
+    that, that's partly my problem now.: null
+    the crayons that are sticking up, it will be the headboard: null
+    the router, helps a lot because you can make better joints with a router.: null
+    the teacher was one of these negative people,: null
+    the watermelon, the red with the, with the seeds painted in: null
+    then at the end of the boutique, which usually runs for a week, then they give you what you earned .: null
+    there's a lots of little things you can get to cut out.: null
+    there's no coping saw big enough to, for a fourteen inch wide watermelon that: null
+    there's no t, basements down here: null
+    these little wooden things, they seem to sell really good.: null
+    they don't have basements.: null
+    they have a really fancy boutique out here in Ogden, Utah: null
+    they would take twenty percent off of that: null
+    they're cutting back,: null
+    they, they dull after awhile.: null
+    this little rabbit that I made in, tole painting class, is a welcome.: null
+    to do the, th, the turn cut.: null
+    we built a cradle for it: null
+    we did get the wedge cut out by building some kind of: null
+    we got th, we got one s, one cut out on the table saw, on the radial saw,: null
+    we have Home Depot out here.: null
+    we stripped it all the way down and refinished it: null
+    we've done it a couple of times.: null
+    what I need next is a good table saw.: null
+    what we want to do is, make them, and then maybe take them to these craft shows or: null
+    where, where we lived before up north,: null
+    with, with the router you can make nice,: null
+    you didn't buy it,: null
+    you drill holes around the top of the head: null
+    you get the tools you don't: null
+    you have to decide what your price is going to be: null
+    you made it.: null
+    you move the saw.: null
+    you, you make the dress for it,: null
+    you, you set the wood down: null
+    you, you stick in: null
+  Statement-opinion: !!set
+    Big solid pieces of oak are just: null
+    I guess dado joints is what it's called.: null
+    I imagine if I go and sharpen them myself, they won't last .: null
+    I think the, the main thing is, like you say, it's a, it's a good out.: null
+    I've been fortunate that I can afford to work parttime.: null
+    It's an opportunity to get out and relieve some of the pressure that you feel day to day: null
+    It's, it's also a way of relieving stress.: null
+    Radial arm saw is, I guess, what they're called.: null
+    That sounds like a good idea.: null
+    That's a good way to get started.: null
+    That's good.: null
+    That's neat.: null
+    That's, that's a kind of low risk sort of project, isn't it I guess.: null
+    They are really cute.: null
+    They're handy, they: null
+    Those are darling.: null
+    Treated wood can really make you sick too.: null
+    Whereas if you're ripping wood, you're probably better off with a, a table saw.: null
+    You could make a lot of money from those.: null
+    a table saw does take a lot of time, a lot of space and is a pretty big investment.: null
+    any, any time you buy a, a: null
+    he'll be delighted.: null
+    if you could get your projects into boutiques, they are wonderful.: null
+    if you're going to use for a lifetime I suppose it's worth it.: null
+    it actually worked pretty well: null
+    it is out of necessity: null
+    it just seems kind of funny that this is a topic of discussion.: null
+    it t, seems to me the radial arm saw is, is better,: null
+    it's a great stress, stress reliever.: null
+    it's kind of, hard to get, shop space unless you have a dedicated shop or a dedicated room: null
+    it, it takes up less room.: null
+    it, that's works well because you can design it to, to suit whatever equipment you have: null
+    that's, that is right,: null
+    that's, that's good.: null
+    that, that wears a bit down.: null
+    ? the price of a good set of, carbide steel, bits is probably, a, a good set of
+      bits is probably going to run you a hundred dollars
+    : null
+    then you're that much farther ahead .: null
+    these little things are so cute, though,: null
+    those are so cute.: null
+    ? with a radial arm saw, if you do have a, a big piece of wood that you need to
+      rip, like you say, or cut, you wouldn't be able to do that.
+    : null
+  Wh-Question: !!set
+    How strong is it?: null
+    What kind of: null
+    What, what type of art do you focus on?: null
+    how is the market for things like that in California?: null
+    what, what's your opinion of wha, what a good router is like?: null
+  Yes-No-Question: !!set
+    Are they things you already owned or you pick them up just to do that refinishing?: null
+    Did you do it with a jigsaw: null
+    Do you think you would be able to do some more if you had more tools and different tools?: null
+    Do you, do any woodworking?: null
+    Have you ever used a lathe?: null
+    They just snap it right up,: null
+    They, they really get hot don't they?: null
+    Things you already owned or things that you've picked up just to do that?: null
+    You interested in woodworking?: null
+    did you cut a quarter wedge in this?: null
+    do you have powered, a,: null
+    for a hobby or for,: null
+    you take the blade to the: null
+    you used a handsaw or a backsaw?: null
